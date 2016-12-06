@@ -1,0 +1,35 @@
+.o-list {
+  list-style-type: circle;
+  @include to-rem(margin-left, $base-spacing);
+  &__item {
+    @include to-rem(margin-bottom, $base-spacing-third);
+  }
+}
+
+.o-list--ordered {
+  margin: 0;
+  counter-reset: ol;
+  list-style-type: none;
+
+  .o-list__item {
+    position: relative;
+    @include to-rem(margin-left, $base-spacing + $base-spacing-quarter + $base-spacing-eight);
+    &:before {
+      position: absolute;
+      top: 1px;
+      right: 100%;
+      text-align: center;
+      counter-increment: ol;
+      content: counter(ol);
+      display: inline-block;
+      min-width: to-rem($base-spacing);
+      @include font-size(11,2);
+      @include to-rem(padding, 0 $base-spacing-quarter);
+      @include to-rem(margin-right, $base-spacing-third);
+      background: #222;
+      color: #fff;
+      border-radius: 2px;
+      font-family: forza;
+    }
+  }
+}

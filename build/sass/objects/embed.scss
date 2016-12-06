@@ -1,0 +1,12 @@
+.o-embed {
+  padding-top: 56.25%;
+}
+
+.o-embed-caption {
+  position: relative;
+  z-index: 2;
+  background: #fff;
+  @include to-rem(margin, $base-spacing-half 0 $base-spacing 0);
+  @include font-size(14);
+  color: #aaa;
+}

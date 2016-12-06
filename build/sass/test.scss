@@ -1,0 +1,173 @@
+@charset "UTF-8";
+@import "imports.scss";
+
+.u-background {
+  &--yellow {
+    background-color: yellow;
+  }
+  &--blue {
+    background-color: blue;
+  }
+  &--red {
+    background-color: red;
+  }
+  &--orange {
+    background-color: orange;
+  }
+  &--green {
+    background-color: green;
+  }
+}
+
+.functions {
+  &--px-to-em {
+    margin-left: to-em(8, 20);
+  }
+  &--px-to-rem {
+    padding: to-rem(8) 0;
+  }
+  &--strip-unit {
+    line-height: strip-unit(2px);
+  }
+  &--str-replace {
+    &:after {
+      content: str-replace("MIXIN: string replace", "MIXIN", "FUNCTION");
+    }
+  }
+  &--strip-char {
+    // in this case it strips all hyphens from the string (inspect the html element)
+    &:after {
+      content: strip-char("--FU---N--C-TI-ON: -s--tr---i-----p- ch---a---r---", "-");
+    }
+  }
+  &--math-helpers {
+    &__base-spacing {
+      &:after {
+        content: ' ' + $base-spacing;
+      }
+    }
+    &__halve {
+      &:after {
+        content: ' ' + halve($base-spacing);
+      }
+    }
+    &__third {
+      &:after {
+        content: ' ' + third($base-spacing);
+      }
+    }
+    &__thirds{
+      &:after {
+        content: ' ' + thirds($base-spacing);
+      }
+    }
+    &__quarter {
+      &:after {
+        content: ' ' + quarter($base-spacing);
+      }
+    }
+    &__quarters {
+      &:after {
+        content: ' ' + quarters($base-spacing);
+      }
+    }
+    &__double {
+      &:after {
+        content: ' ' + double($base-spacing);
+      }
+    }
+    &__triple {
+      &:after {
+        content: ' ' + triple($base-spacing);
+      }
+    }
+    &__quadruple {
+      &:after {
+        content: ' ' + quadruple($base-spacing);
+      }
+    }
+  }
+}
+
+.mixins {
+  &--px-to-rem {
+    @include to-rem(box-shadow, (inset 0 0 0 1 #2a9022) (inset 0 0 3 #459966));
+    @include to-rem(padding margin, $base-spacing, true);
+    @include to-rem(padding, 0 25);
+  }
+  &--px-to-em {
+    @include to-em(width height, 125);
+    @include to-em(text-shadow, (#0d6e28 1 1) (#777 0 0 2), 16);
+    @include to-em(padding margin, $base-spacing, false, true);
+  }
+  &--font-size {
+    // This will generate a `rem`-based font-size, as well as a unitless
+    // line-height which will place the element on your baseline, e.g.
+    @include font-size(12);
+    // If you do not want Intender to generate a line-height for you then simply pass
+    // in your own as a second parameter e.g.
+    @include font-size(12, 1.5);
+    // This parameter can be any integer including an integer with `px` appended,
+    // `inherit`, or `normal` e.g.
+    @include font-size(12, 18px);
+    @include font-size(12, inherit);
+    @include font-size(12, normal);
+    // Any line-heights with `px` appended will still output as a unitless
+    // line-height e.g.
+    @include font-size(12, 18px);
+    // If you don't want a line-height at all, pass in a second parameter of
+    // `none` or `false`:
+    @include font-size(12, none);
+  }
+  &--gradients {
+    @include linear-gradient(blue, red, bottom right);
+    @include linear-gradient(blue, red, top, true);
+    @include radial-gradient(blue, red);
+  }
+  &--media-queries {
+    @include breakpoint(400) {
+      background: red;
+    }
+    @include breakpoint(500, 780) {
+      @include to-rem(box-shadow, (inset 0 0 0 1 #2a9022) (inset 0 0 3 #459966));
+    }
+    @include breakpoint(desktop, max) {
+      background: blue;
+    }
+    @include breakpoint(500, 700, max) {
+      background: yellow;
+    }
+    @include breakpoint(780, $axis: height) {
+      background: purple;
+    }
+    @include breakpoint(500, 700, $axis: height) {
+      border: 2px solid cyan;
+    }
+    @include breakpoint(mobile, max, $axis: height) {
+      color: brown;
+    }
+    // For a range it doesn't make sense to pass in the "max" flag as ranges will
+    // always use a maximum width or height for the second parameter as ranges
+    // always need to be minimum-maximum however if the second parameter is
+    // omitted and the first parameter is a Scally breakpoint then the second
+    // parameter will use the next breakpoint in the sequence. So if you pass in
+    // the "lap" breakpoint for the first parameter and nothing else for the
+    // second parameter it will be "laptop" as "desktop" comes after "laptop".
+    @include breakpoint(laptop, $axis: height) {
+      color: green;
+    }
+    // The resolution mixin is for applying styles to hi-dpi (retina) devices. It
+    // uses a default resolution defined here: Core -> Settings -> Retina
+    // Resolution or it will accept either a unitless device pixel ratio (dpr) e.g.
+    @include resolution(2) {
+      background: orange;
+    }
+    // Pass two seperated ranges
+    @include breakpoint((tablet-fluid, desktop)) {
+      background: #000;
+    }
+    @include breakpoint((tablet-fluid, laptop)) {
+      background: red;
+    }
+  }
+}
