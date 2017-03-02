@@ -7,7 +7,7 @@
   <div class="o-grid">
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
       <div class="c-cover">
-        <div class="c-cover__background" style="background-image:url('./img/6.png');"></div>
+        <div class="c-cover__background" style="background-image:url('./assets/img/6.png');"></div>
         <h1 class="c-cover__headline"><?php echo $proposals[0][1]; ?></h1>
         <h2 class="c-cover__subline u-hide"><?php echo $proposals[0][2]; ?></h2>
       </div>
@@ -241,7 +241,7 @@ weiterer diverser Entwickler/Forscher eine nicht minder wertvolle Rolle.</p>
 
       <div class="c-person">
         <div class="c-person__object">
-          <img class="c-person__image" src="img/91.jpg" alt="Ivan Sutherland"/>
+          <img class="c-person__image" src="./assets/img/91.jpg" alt="Ivan Sutherland"/>
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name">Ivan Sutherland</h4>

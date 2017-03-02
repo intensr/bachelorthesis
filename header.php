@@ -11,9 +11,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link href="https://fonts.googleapis.com/css?family=Yeseva+One" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
-  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="assets/css/app.css">
   <!--[if lt IE 9]>
     <script src="js/vendor/html5-3.6-respond-1.4.2.min.js"></script>
   <![endif]-->

@@ -5,7 +5,7 @@
 # simply run `sh watch.sh`.
 
 
-sass --watch sass/app.scss:../css/app.css --style compressed
+sass --watch sass/app.scss:app.css --style compressed
 
 #sass --watch your-project.scss:your-project.min.css --style expanded
 

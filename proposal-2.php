@@ -7,7 +7,7 @@
   <div class="o-grid">
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
       <div class="c-cover">
-        <div class="c-cover__background" style="background-image:url('./img/12.jpg');"></div>
+        <div class="c-cover__background" style="background-image:url('./assets/img/12.jpg');"></div>
         <h1 class="c-cover__headline"><?php echo $proposals[1][1]; ?></h1>
         <h2 class="c-cover__subline u-hide"><?php echo $proposals[1][2]; ?></h2>
       </div>
@@ -265,7 +265,7 @@ praktische Auseinandersetzung mit Themen wie Immersion, Embodiment, Interaktion 
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
 
       <div class="c-section-stage">
-        <img class="c-section-stage__background  c-section-stage__background--image" src="./img/16.jpg" alt="2"></iframe>
+        <img class="c-section-stage__background  c-section-stage__background--image" src="./assets/img/16.jpg" alt="2"></iframe>
         <div class="c-section-stage__content">
           <span class="c-section-stage__id">01</span>
           <h1 class="c-section-stage__headline">Aesthetics</h1>
@@ -306,7 +306,7 @@ praktische Auseinandersetzung mit Themen wie Immersion, Embodiment, Interaktion 
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
 
       <div class="c-section-stage">
-        <img class="c-section-stage__background  c-section-stage__background--image" src="./img/14.jpg" alt="2"></iframe>
+        <img class="c-section-stage__background  c-section-stage__background--image" src="./assets/img/14.jpg" alt="2"></iframe>
         <div class="c-section-stage__content">
           <span class="c-section-stage__id">02</span>
           <h1 class="c-section-stage__headline">Visual Void</h1>
@@ -383,7 +383,7 @@ an bestimmten Orten bereitzustellen womit der Nutzer dann nach Login kommunizier
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
 
       <div class="c-section-stage">
-        <img class="c-section-stage__background  c-section-stage__background--image" src="./img/18.jpg" alt="2"></iframe>
+        <img class="c-section-stage__background  c-section-stage__background--image" src="./assets/img/18.jpg" alt="2"></iframe>
         <div class="c-section-stage__content">
           <span class="c-section-stage__id">04</span>
           <h1 class="c-section-stage__headline">Master &amp; Servant</h1>
