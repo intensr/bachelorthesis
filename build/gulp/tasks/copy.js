@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
-   config = require('../config.js'),
-  newer = require('gulp-newer');
+    config = require('../config.js'),
+    newer = require('gulp-newer');
 
 gulp.task('copy', function(cb) {
 

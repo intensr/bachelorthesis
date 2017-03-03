@@ -62,7 +62,7 @@
 
 
 body {
-  counter-reset: ref;
+  // counter-reset: ref;
   // @media print {
   //   font-size: 12px;
   // }
@@ -70,7 +70,11 @@ body {
 
 .o-p--tie {
   @include to-rem(margin-top, -$base-spacing);
-  @include to-rem(text-indent, $base-spacing * 1.5);
+  &:before {
+    content: '';
+    display: inline-block;
+    @include to-rem(width, $base-spacing * 1.5);
+  }
 }
 
 .c-icon-long-arrow-up {
@@ -99,11 +103,11 @@ body {
 }
 
 
-.c-ref-desc,
-.c-ref {
+.c-ref__desc,
+.c-ref__href {
   position: relative;
   display: inline-block;
-  font-family: "Graphik",sans-serif;
+  font-family: "Graphik", sans-serif;
   @include font-size(16);
 
   @media print {
@@ -129,7 +133,20 @@ body {
   }
 }
 
+.c-kneenote,
 .c-ref {
+  display: inline-block;
+  &__href {}
+
+  &__short {
+    color: $base-color-dark;
+    @include font-size(12, 1);
+    font-weight: 400;
+    &-link {
+      @include to-rem(margin-left, $base-spacing-eight);
+    }
+  }
+
   &__type {
     color: lighten($base-color-dark, 40%);
     @include to-rem(padding-top, $base-spacing-quarter + 1);
@@ -147,10 +164,10 @@ body {
     @include font-size(10, 1);
     font-weight: 400;
     //  @include to-rem(margin-right, $base-spacing-quarter);
-    &:before {
-      counter-increment: ref;
-      content: counter(ref, decimal-leading-zero);
-    }
+    // &:before {
+    //   counter-increment: ref;
+    //   content: counter(ref, decimal-leading-zero);
+    // }
   }
   &__desc,
   &-desc {
@@ -170,9 +187,8 @@ body {
 .c-person {
   position: relative;
   @include to-rem(margin, $base-spacing-double 0 $base-spacing 0);
-  &__object {
-
-  }
+  page-break-inside: avoid;
+  &__object {}
   &__image {
     position: absolute;
     top: 0;
@@ -292,15 +308,12 @@ body {
   }
 
   blockquote {
+    @include to-rem(margin, 0 $base-spacing $base-spacing $base-spacing);
     p {
+      @include to-rem(margin, $base-spacing 0 $base-spacing-half 0);
       font-style: italic;
       font-weight: 300;
     }
-  }
-
-  ul {
-    @include to-rem(margin-left, $base-spacing);
-    list-style: circle;
   }
 
   .c-sources {
@@ -323,6 +336,21 @@ body {
 
     a {
       color: $base-color-one;
+    }
+  }
+
+  ul {
+    @include to-rem(margin-left, $base-spacing);
+    @include to-rem(margin-bottom, $base-spacing-double);
+    list-style: circle;
+    ul {
+      margin-bottom: 0;
+    }
+    li {
+      @include to-rem(padding-bottom, $base-spacing-eight);
+      &:empty {
+        display: none;
+      }
     }
   }
 
@@ -433,6 +461,9 @@ body {
   position: relative;
   padding-top: 56.25%;
   width: 100%;
+  overflow: hidden;
+  page-break-inside: avoid;
+
   &__item {
     position: absolute;
     top: 0;
@@ -440,6 +471,18 @@ body {
     width: 100%;
     height: 100%;
     border: 0;
+  }
+  &__overlay {
+    display: none;
+    @media print {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
   }
 }
 
