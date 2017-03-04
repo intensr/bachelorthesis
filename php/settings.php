@@ -6,7 +6,7 @@ $slug = trim(basename($url, '.php'));
 $proposals = [
   [
     1,
-    'Virtual Reality im Cyberspace',
+    'Der Aufstieg des Cyberspaces',
     'Beeinflussen Technologien wie Virtual Reality unsere Gesellschaft nachhaltig?'
   ],
   [
