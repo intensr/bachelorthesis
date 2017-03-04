@@ -147,6 +147,10 @@ body {
     }
   }
 
+  &__excerpt {
+    display: none;
+  }
+
   &__type {
     color: lighten($base-color-dark, 40%);
     @include to-rem(padding-top, $base-spacing-quarter + 1);
@@ -181,6 +185,13 @@ body {
     font-weight: 700;
     text-transform: uppercase;
     @include font-size(14);
+  }
+  &--expand {
+    .c-ref {
+      &__excerpt {
+        display: inline-block;
+      }
+    }
   }
 }
 
@@ -302,6 +313,8 @@ body {
     letter-spacing: -.003em;
     position: relative;
     display: block;
+    // text-align: justify;
+    // text-align-last: left;
     @media print {
       font-size: 13px;
     }

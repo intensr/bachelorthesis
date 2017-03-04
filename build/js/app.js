@@ -19,7 +19,7 @@ function leadingZeroes(i) {
 }
 
 // Create ´kneenotes´
-$('.c-ref:not(.c-ref--video)').each(function(i) {
+$('.c-ref').each(function(i) {
   var $this = $(this);
 
   // Count references
@@ -33,7 +33,6 @@ $('.c-ref:not(.c-ref--video)').each(function(i) {
 
   // Transfer note to the end of respective paragraph
   var $extract = $this.find('.c-ref__extract');
-  console.log($extract);
   var extract = $this.find('.c-ref__extract').clone().wrap('<div>').parent().html();
   var $thisParagraph = $this.closest('p');
   $extract.remove();

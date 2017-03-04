@@ -820,6 +820,8 @@ summary::-webkit-details-marker { display: none; }
 
 .c-kneenote__short-link, .c-ref__short-link { margin-left: 0.1875rem; }
 
+.c-kneenote__excerpt, .c-ref__excerpt { display: none; }
+
 .c-kneenote__type, .c-ref__type { color: #888888; padding-top: 0.4375rem; text-transform: uppercase; font-family: "Ocra", monospace; font-size: 12px; line-height: 1; font-size: 0.75rem; line-height: 1; text-align: left; display: inline-block; }
 
 .c-kneenote__id, .c-ref__id { color: #222; font-size: 0.625rem; line-height: 1; font-weight: 400; }
@@ -829,6 +831,8 @@ summary::-webkit-details-marker { display: none; }
 @media print { .c-kneenote__desc, .c-kneenote-desc, .c-ref__desc, .c-ref-desc { display: inline-block !important; visibility: visible !important; } }
 
 .c-kneenote__strong, .c-ref__strong { font-weight: 700; text-transform: uppercase; font-size: 0.875rem; line-height: 1.71429 ; }
+
+.c-kneenote--expand .c-ref__excerpt, .c-ref--expand .c-ref__excerpt { display: inline-block; }
 
 .c-person { position: relative; margin: 3rem 0 1.5rem 0; page-break-inside: avoid; }
 
