@@ -806,15 +806,17 @@ summary::-webkit-details-marker { display: none; }
 
 .u-red { color: red; }
 
-.c-ref__desc, .c-ref__href { position: relative; display: inline-block; font-family: "Graphik", sans-serif; font-size: 1rem; line-height: 1.5 ; }
+.c-notes-marginal .c-ref__href { position: absolute; left: 0; top: 0; }
+
+.c-notes-marginal .c-ref__desc-container { margin-left: 3.75rem; display: inline-block; }
+
+.c-ref__desc, .c-ref__href { position: relative; display: inline-block; font-family: "Graphik", sans-serif; font-size: 1rem; line-height: 1.5 ; display: inline; background-repeat: no-repeat; background-position: left bottom 0px; background-size: 0% 1px; background-image: linear-gradient(to right, #bbbbbb, #bbbbbb); box-decoration-break: clone; -webkit-box-decoration-break: clone; -moz-background-inline-policy: each-box; transition: 0.4s all ease-in-out; }
 
 @media print { .c-ref__desc, .c-ref__href { font-size: 0.6875rem; line-height: 1; } }
 
-.c-ref__desc:hover:after, .c-ref__href:hover:after { visibility: visible; width: 100%; }
+.c-ref__desc:hover, .c-ref__href:hover { background-size: 100% 1px; }
 
-.c-ref__desc:after, .c-ref__href:after { content: ""; position: absolute; width: 0; height: 1px; bottom: 0; left: 0; background: #bbbbbb; visibility: hidden; transition: all 0.3s ease-in-out 0s; }
-
-.c-kneenote, .c-ref { display: inline-block; }
+.c-kneenote, .c-ref { position: relative; display: inline-block; }
 
 .c-kneenote__short, .c-ref__short { color: #222; font-size: 0.75rem; line-height: 1; font-weight: 400; }
 

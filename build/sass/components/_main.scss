@@ -103,6 +103,20 @@ body {
 }
 
 
+.c-notes-marginal {
+  .c-ref__href {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .c-ref__desc {
+    &-container {
+      @include to-rem(margin-left, $base-spacing * 2.5);
+      display: inline-block;
+    }
+  }
+}
+
 .c-ref__desc,
 .c-ref__href {
   position: relative;
@@ -113,28 +127,45 @@ body {
   @media print {
     @include font-size(11,1);
   }
-
+display: inline;
+  background-repeat: no-repeat;
+  background-position: left bottom 0px;
+  background-size: 0% 1px;
+  background-image: linear-gradient(
+    to right,
+    lighten($base-color-dark, 60%),
+    lighten($base-color-dark, 60%)
+  );
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  -moz-background-inline-policy: each-box;
+  transition: 0.4s all ease-in-out;
   &:hover {
-    &:after {
-      visibility: visible;
-      width: 100%;
-    }
+    background-size: 100% 1px;
   }
-  &:after {
-    content: "";
-    position: absolute;
-    width: 0;
-    height: 1px;
-    bottom: 0;
-    left: 0;
-    background: lighten($base-color-dark, 60%);
-    visibility: hidden;
-    transition: all 0.3s ease-in-out 0s;
-  }
+
+  // &:hover {
+  //   &:after {
+  //     visibility: visible;
+  //     width: 100%;
+  //   }
+  // }
+  // &:after {
+  //   content: "";
+  //   position: absolute;
+  //   width: 0;
+  //   height: 1px;
+  //   bottom: 0;
+  //   left: 0;
+  //   background: lighten($base-color-dark, 60%);
+  //   visibility: hidden;
+  //   transition: all 0.3s ease-in-out 0s;
+  // }
 }
 
 .c-kneenote,
 .c-ref {
+  position: relative;
   display: inline-block;
   &__href {}
 

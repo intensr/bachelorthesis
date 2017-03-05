@@ -107,7 +107,10 @@ sein Werkzeug in den Himmel.</p>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <?php echo ref('','https://vimeo.com/4176485','ref','video','2001 - A Space Odyssey: The Dawn of Man','Werbespot','1968','Apple','Kubrick','Stanley',false,false); ?>
+          <span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-desc="abcd" data-ref-hide>1235</span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-hide>34314321</span>
         </div>
       </div>
 
@@ -115,16 +118,16 @@ sein Werkzeug in den Himmel.</p>
 Entwicklungszyklus der Menschheitsgeschichte mit Hilfe von metaphorisch konnotierten Bewegtbild-Szenen. Sie stehen als Sinnbild für die kulturelle und
 gesellschaftliche Entwicklung des Menschen durch die kontinuierliche Fluktuation und Wechselwirkung technologischer Errungenschaften.</p>
 
-      <p>Die Technologie als solche, welche in Kubricks filmischen Epos durch den Knochen verkörpert wird, hat sich in den letzten Jahrhunderten und speziell
+      <p class="o-p--tie">Die Technologie als solche, welche in Kubricks filmischen Epos durch den Knochen verkörpert wird, hat sich in den letzten Jahrhunderten und speziell
 den letzten Dekaden zu dem manifestierenden Leitfaden der Gesellschaft entwickelt. Wird die Zeitleiste der menschlichen Geschichte inspiziert, so erhält der
-Betrachter eine hohe Anzahl an Beispielen für diese Entwicklung. Bleibt jener im Kontext von buchstäblich <?php echo ref('','https://vimeo.com/6733914','ref','video','Apple Werbung','Werbespot','1984','Apple','Ridley','Scott',false,true); ?>, so führt kein Weg an Steve Jobs’
+Betrachter eine hohe Anzahl an Beispielen für diese Entwicklung. Bleibt jener im Kontext von buchstäblich, so führt kein Weg an Steve Jobs’
 Unternehmung Apple vorbei.</p>
       <p class="o-p--tie">Intelligente Produkte wie tragbare Recheneinheiten, Musikplayer und Smartphones revolutionieren seit ihrer Vorstellung den Kurs der
-Gesellschaft. Vergleichbar mit Apples iPhone existieren in der Geschichte weitere, hervorragende Entwicklungen. Als maßgeblich gelten jedoch jene, durch dessen
+Gesellschaft. Vergleichbar mit Apples<span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-desc="abcd" data-ref-hide-kneenote>1235</span> iPhone existieren in der Geschichte weitere, hervorragende Entwicklungen. Als maßgeblich gelten jedoch jene, durch dessen
 Erfindung weitere Technologien und Entwicklungen erst ermöglicht werden. Beispielsweise eröffnet das iPhone ein völlig neues Marktsegment der sogenannten
 Smartphones, welches in dieser Weise vorher nicht vorhanden war.</p>
 
-      <p>Eine entscheidende Komponente für erfolgreiche Produkte, basiert auf der Nutzung von Software, nicht nur als Bestandteil des finalen Produkts sondern
+      <p class="o-p--tie">Eine entscheidende Komponente für erfolgreiche Produkte, basiert auf der Nutzung von Software, nicht nur als Bestandteil des finalen Produkts sondern
 ebenfalls als Grundlage des Konzeptions- und Produktionsprozesses. Trotz ihres enormen, allgegenwärtigen Einflusses und Verankerung im Alltag erscheint
 Software
 dennoch oft unscheinbar bzw. unsichtbar.</p>
@@ -568,7 +571,7 @@ allowfullscreen></iframe>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <?php echo ref('Ref', '#', 'https://vimeo.com/4176485', 'Stanley Kubrick, 2001 - A Space Odyssey: The Dawn of Man, 1968', true); ?>
+
         </div>
       </div>
 
@@ -879,7 +882,7 @@ for many new media combinations.</p>
 
 
 
-
+<!--
       <br/>
       <br/>
       <hr/>
@@ -901,7 +904,7 @@ future, I
               <cite><a href="https://www.eff.org/cyberspace-independence">John Perry Barlow: A Declaration of the Independence of Cyberspace, Davos 1996. Also:
       Electronic Frontier Foundation, 8. Februar 1996, abgerufen am 12. Februar 2016 (HTML, englisch).</a>
               </cite>
-            </blockquote>
+            </blockquote> -->
       <br/><br/>
     </div>
   </div>

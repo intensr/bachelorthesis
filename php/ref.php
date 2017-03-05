@@ -1,4 +1,9 @@
 <?php
+
+// $json = file_get_contents('sources.json');
+// $json_array = json_decode($json, true);
+// echo '<pre>'.print_r($json_array, true).'</pre>';
+
 function ref(
   $name = false,
   $href = false,
@@ -16,7 +21,7 @@ function ref(
 )
 {
 
-  if($medium === 'video' || $medium === 'bild' || $medium === 'video') {
+  if($medium === 'video' || $medium === 'bild') {
     $hideShortLink = '';
   } else {
     $hideShortLink = '  u-hide';
