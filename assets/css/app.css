@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
 
 body { margin: 0; }
@@ -810,11 +811,11 @@ summary::-webkit-details-marker { display: none; }
 
 .c-notes-marginal .c-ref__desc-container { margin-left: 3.75rem; display: inline-block; }
 
+.c-ref__href:hover, a.c-ref__desc:hover { background-size: 100% 1px; }
+
 .c-ref__desc, .c-ref__href { position: relative; display: inline-block; font-family: "Graphik", sans-serif; font-size: 1rem; line-height: 1.5 ; display: inline; background-repeat: no-repeat; background-position: left bottom 0px; background-size: 0% 1px; background-image: linear-gradient(to right, #bbbbbb, #bbbbbb); box-decoration-break: clone; -webkit-box-decoration-break: clone; -moz-background-inline-policy: each-box; transition: 0.4s all ease-in-out; }
 
 @media print { .c-ref__desc, .c-ref__href { font-size: 0.6875rem; line-height: 1; } }
-
-.c-ref__desc:hover, .c-ref__href:hover { background-size: 100% 1px; }
 
 .c-kneenote, .c-ref { position: relative; display: inline-block; }
 
@@ -844,11 +845,13 @@ summary::-webkit-details-marker { display: none; }
 
 @media print { .c-proposal ul, .c-proposal ol, .c-proposal dl { font-size: 0.75rem; line-height: 2 ; } }
 
+.c-proposal h2 { page-break-before: always; }
+
 .c-proposal h3 { line-height: 1.4; }
 
-.c-proposal h2 + p, .c-proposal h4 + p { margin-top: -0.75rem; }
+.c-proposal cite:before { content: ' — '; }
 
-.c-proposal img { margin-bottom: 1.5rem; }
+.c-proposal h2 + p, .c-proposal h4 + p { margin-top: -0.75rem; }
 
 .c-proposal .c-notes-marginal { margin: 1.5rem 0; }
 
@@ -881,6 +884,10 @@ summary::-webkit-details-marker { display: none; }
 .c-proposal blockquote { margin: 0 1.5rem 1.5rem 1.5rem; }
 
 .c-proposal blockquote p { margin: 1.5rem 0 0.75rem 0; font-style: italic; font-weight: 300; }
+
+.c-proposal blockquote p:before { content: '» '; }
+
+.c-proposal blockquote p:after { content: ' «'; }
 
 .c-proposal .c-sources { border-top: 1px solid #c8c8c8; margin-top: 9rem; padding-top: 4.5rem; }
 

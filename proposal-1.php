@@ -107,30 +107,29 @@ sein Werkzeug in den Himmel.</p>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-desc="abcd" data-ref-hide>1235</span>
+          <span class="c-ref" data-ref-id="183" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
         </div>
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-hide>34314321</span>
+          <span class="c-ref" data-ref-id="1" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
         </div>
       </div>
 
-      <p>Die symbolisch aufgeladene Einleitung von Stanley Kubricks 2001 - A Space Odyssey: The Dawn of Man, reflektiert auf simple Weise den repetitiven
+      <p>Die symbolisch aufgeladene <span class="c-ref" data-ref-id="1" data-ref-type="ref" data-ref-hide-kneenote>Einleitung</span> von Stanley Kubricks <span class="c-ref" data-ref-id="183" data-ref-type="ref" data-ref-hide-kneenote>2001 - A Space Odyssey</span>, reflektiert auf simple Weise den repetitiven
 Entwicklungszyklus der Menschheitsgeschichte mit Hilfe von metaphorisch konnotierten Bewegtbild-Szenen. Sie stehen als Sinnbild für die kulturelle und
 gesellschaftliche Entwicklung des Menschen durch die kontinuierliche Fluktuation und Wechselwirkung technologischer Errungenschaften.</p>
 
       <p class="o-p--tie">Die Technologie als solche, welche in Kubricks filmischen Epos durch den Knochen verkörpert wird, hat sich in den letzten Jahrhunderten und speziell
 den letzten Dekaden zu dem manifestierenden Leitfaden der Gesellschaft entwickelt. Wird die Zeitleiste der menschlichen Geschichte inspiziert, so erhält der
-Betrachter eine hohe Anzahl an Beispielen für diese Entwicklung. Bleibt jener im Kontext von buchstäblich, so führt kein Weg an Steve Jobs’
+Betrachter eine hohe Anzahl an Beispielen für diese Entwicklung. Bleibt jener im Kontext von buchstäblich <span class="c-ref" data-ref-id="2" data-ref-type="ref" data-ref-desc=""><i>geworfenen Objekten</i></span>, so führt kein Weg an Steve Jobs’
 Unternehmung Apple vorbei.</p>
-      <p class="o-p--tie">Intelligente Produkte wie tragbare Recheneinheiten, Musikplayer und Smartphones revolutionieren seit ihrer Vorstellung den Kurs der
-Gesellschaft. Vergleichbar mit Apples<span class="c-ref" data-ref-id="4" data-ref-type="ref" data-ref-desc="abcd" data-ref-hide-kneenote>1235</span> iPhone existieren in der Geschichte weitere, hervorragende Entwicklungen. Als maßgeblich gelten jedoch jene, durch dessen
+      <p class="o-p--tie">Intelligente Produkte wie tragbare Recheneinheiten, Musikplayer und Smartphones revolutionieren seit ihrer <span class="c-ref" data-ref-id="3" data-ref-type="bsp" data-ref-desc="" data-ref-parameter="?t=1m24s">Vorstellung</span> den Kurs der
+Gesellschaft. Vergleichbar mit Apples iPhone existieren in der Geschichte weitere, hervorragende Entwicklungen. Als maßgeblich gelten jedoch jene, durch dessen
 Erfindung weitere Technologien und Entwicklungen erst ermöglicht werden. Beispielsweise eröffnet das iPhone ein völlig neues Marktsegment der sogenannten
 Smartphones, welches in dieser Weise vorher nicht vorhanden war.</p>
 
       <p class="o-p--tie">Eine entscheidende Komponente für erfolgreiche Produkte, basiert auf der Nutzung von Software, nicht nur als Bestandteil des finalen Produkts sondern
 ebenfalls als Grundlage des Konzeptions- und Produktionsprozesses. Trotz ihres enormen, allgegenwärtigen Einflusses und Verankerung im Alltag erscheint
-Software
-dennoch oft unscheinbar bzw. unsichtbar.</p>
+Software dennoch oft unscheinbar bzw. <span class="c-ref" data-ref-id="4" data-ref-type="vgl" data-ref-desc="S.21">unsichtbar.</span></p>
       <p class="o-p--tie">Sie ermöglicht die Berechnung von mathematischen Formeln zur Flugbahn Koordination von Satelliten in Echtzeit, steuert die
 Lichtsignalanlagen des Automobil Verkehrs weitgehend autonom und expandiert dabei kontinuierlich. So wird sie in absehbarer Zeit die Kontrolle von Fahrzeugen
 weiter optimieren bzw. in Zukunft gegebenenfalls sogar vollständig übernehmen.</p>
@@ -144,74 +143,86 @@ jeglicher, primärer Medien in einer Vielzahl an Anwendungsbereichen und gesells
 der Technologischen Singularität (TS). Dort werden erste Bezüge zu den wichtigen Persönlichkeiten und deren Standpunkte im kulturellen und technologischen
 Entwicklungsprozess dargestellt.</p>
       <p class="o-p--tie">Darauf folgt die Erläuterung des Aufstiegs von leistungsstarker Software und die retrospektive Untersuchung nachhaltig maßgeblicher,
-gesellschaftlich wirksamer Technologien. Ein besonderer Fokus liegt auf den Autoren und Protagonisten (Alan Kay, Ivan Sutherland, Alan Turing, usw.) “The New
-Media Reader” sowie weiteren wichtigen Schlüsselfiguren der im Werk definierten Epoche des Sammelwerkes und den darauf aufbauenden Beobachtungen von Lev
+gesellschaftlich wirksamer Technologien. Ein besonderer Fokus liegt auf den Autoren und Protagonisten (Alan Kay, Ivan Sutherland, Alan Turing, usw.) <span class="c-ref" data-ref-id="5" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>“The New Media Reader”</span>
+sowie weiteren wichtigen Schlüsselfiguren der im Werk definierten Epoche des Sammelwerkes und den darauf aufbauenden Beobachtungen von Lev
 Manovich. Durch die Betrachtung der kulturellen Entwicklungen und Ereignisse werden dessen Besonderheiten und Auffälligkeiten extrahiert, sowohl im
 großflächigen Bezug auf die allgemeine Gesellschaft und ebenfalls jene der sogenannten “Hacker- bzw. Designszene”.</p>
       <p class="o-p--tie">Anschließend wird überprüft, ob sich diese auf den Themenbereich der Web Virtual Reality (WebVR) übertragen lassen, bzw. Parallelen
-zu
-den erfolgreichen Software Konzepten existieren. Damit soll ggf. verifiziert werden, ob vergleichbare Paradigmenwechsel durch WebVR möglich sind.
+zu den erfolgreichen Software Konzepten existieren. Damit soll ggf. verifiziert werden, ob vergleichbare Paradigmenwechsel durch WebVR möglich sind.
 Zugrundeliegende und an WebVR angrenzende Themenbereiche, wie beispielsweise Artifizielle Realitäten (Virtual- Augmented- sowie Mixed Reality), Internet,
 Cyberspace, etc., sind dabei von besonderem Interesse.</p>
       <p class="o-p--tie">Im abschließenden Resumé werden die Erkenntnisse der gesamten Arbeit zusammengeführt und die Antwort auf die zugrundeliegende
 Fragestellung eruiert. Etwaig ethische Konsequenzen und mögliche Auswirkungen der gesellschaftlichen Paradigmenwechsel werden primär untersucht.</p>
 
       <h2>Beschleunigung durch/der Software</h2>
+
       <p>Die Ursprünge der Software beginnen vor jener eigentlichen Entwicklung, bereits in der zweiten Hälfte des 18ten Jahrhunderts, während den Anfängen der
-industriellen Revolution. Diese gilt rückblickend als vergleichend einschneidend, wie die Entwicklung des menschlichen Nomadenlebens zur Sesshaftigkeit. Die
-relevanten Eigenschaften der industriellen Revolution für die Entwicklung von Software manifestieren sich durch die Beschleunigung von Technik, Produktivität
-und Wissenschaft.</p>
+industriellen Revolution. Diese gilt rückblickend als <span class="c-ref" data-ref-id="6" data-ref-type="vgl" data-ref-desc="S.99">vergleichend einschneidend</span>, wie die Entwicklung des menschlichen Nomadenlebens zur Sesshaftigkeit. Die
+relevanten Eigenschaften der industriellen Revolution für die Entwicklung von Software manifestieren sich durch die <span class="c-ref" data-ref-id="185" data-ref-type="vgl" data-ref-desc="S.502–503">Beschleunigung von Technik, Produktivität
+und Wissenschaft.</span></p>
       <p class="o-p--tie">Noch deutlicher zeichnen sich diese Entwicklungen mit der steigenden Potenz der Rechenleistung in Computersystemen ab, worauf der
-Intel-Mitbegründer Gordon E. Moore erstmals 1965 hinweist. Im sog. Mooreschen Gesetz (Moore's Law) verweist er darauf, dass sich die Rechenleistung, welche für
-1.000 US-Dollar erhältlich ist, sich in immer kürzer werdenden Zeitintervallen, seit ca. 1940, verdoppelt. Dies zuletzt alle 18-22 Monate (je nach Quelle) und
+Intel-Mitbegründer Gordon E. Moore erstmals 1964 hinweist. Im sog. Mooreschen Gesetz (Moore's Law) verweist er darauf, dass sich die Rechenleistung, welche für
+1.000 US-Dollar erhältlich ist, sich in immer kürzer werdenden Zeitintervallen, seit ca. 1940, <span class="c-ref" data-ref-id="184" data-ref-type="ref">verdoppelt</span>. Dies zuletzt alle 18-22 Monate und
 bisher um zwölf dezimale Größenordnungen, basierend auf empirischen Beobachtungen.</p>
 
-      <img
+      <img src="./assets/img/mooreslaw.png" alt="Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth."/>
 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Transistor_Count_and_Moore%27s_Law_-_2011.svg/800px-Transistor_Count_and_Moore%27s_Law_-_2011.svg.png"
-alt=""/>
-      <p>Grafik zur Belegung des mooreschen Gesetzes, die Anzahl der Transistoren verdoppelt sich alle zwei Jahre</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/PPTMooresLawai.jpg" alt=""/>
-      <p>Grafik zur Belegung des mooreschen Gesetzes über den Verlauf der Computergeschichte</p>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="10" data-ref-type="vgl" data-ref-desc="Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth." data-ref-hide></span>
+        </div>
+      </div>
 
-      <p>Auch wenn das Paradigma, die Anzahl der Transistoren auf einem Computerchip, dieses Gesetzes in seinem Ursprungsprinzip mit der Roadmap von Intel und
+      <p></p><!--hotfix p for kneeknote establishing-->
+
+      <img src="./assets/img/mooreslaw2.jpg" alt="Moore's Law, The Fifth Paradigm."/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="11" data-ref-type="vgl" data-ref-desc="Moore's Law, The Fifth Paradigm." data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!--hotfix p for kneeknote establishing-->
+
+      <p>Auch wenn das Paradigma, die Anzahl der Transistoren auf einem Computerchip, dieses Gesetzes in seinem Ursprungsprinzip mit der <span class="c-ref" data-ref-id="186" data-ref-type="ref">Roadmap</span> von Intel und
 Konsorten 2016 endgültig an seine Grenzen stößt und unterschiedlich kursierende Versionen die Objektivität der Theorie schwächen, so zeigt sie dennoch die
 exponentielle Entwicklungsbeschleunigung auf.</p>
       <p class="o-p--tie">Ray Kurzweil, Vertreter der Technologischen Singularität (TS) Theorie und Leiter der technischen Entwicklung bei Google, nutzt dies
-in
-seinen literarischen Werken (z.B. “The Singularity is Near” ) und seinem TED Talk von 2005 als Grundlage seiner Argumentation. Er prognostiziert, dass selbst
+in seinen <span class="c-ref" data-ref-id="13" data-ref-type="bsp">literarischen Werken</span> und seinem <span class="c-ref" data-ref-id="12" data-ref-type="ref">TED Talk</span> als Grundlage seiner Argumentation. Er prognostiziert, dass selbst
 wenn das Mooresche Gesetz ersetzt wird, oder sich die Paradigmen den gesetzlichen Gegebenheiten der Zeit anpassen müssen, die Quintessenz dieser Entwicklungen
 und Beobachtungen erhalten bleibt. Martin Strobel, Business Development Manager bei Intel, stützt diese These 2009 indirekt, im Bezug auf den Fortbestand der
-essentiellen Gültigkeit des Mooreschen Gesetzes, in absehbarer Zukunft. Alternativen zu den Transistoren könnten in Zukunft dreidimensionale integrierte
+essentiellen Gültigkeit des Mooreschen Gesetzes, in <span class="c-ref" data-ref-id="14" data-ref-type="ref" data-ref-desc="Martin Strobel im ">absehbarer Zukunft.</span> Alternativen zu den Transistoren könnten in Zukunft dreidimensionale integrierte
 Schaltkreise, Spintronik, Supraleiter oder Quantencomputer darstellen.</p>
       <p class="o-p--tie">Die exponentielle technische Beschleunigung mit Hilfe von Technologie bzw. Computersystemen, angedeutet im Mooreschen Gesetz und den
-Beobachtungen der Industriellen Revolution, dienen als weitere Grundlagen für die Theorie der Technologischen Singularität. Der Begriff wurde erstmals
-namentlich geprägt durch Vernor Vinge im Jahr 1993. Dabei geht die erste bekannte Erwähnung der Theorie auf eine 1958 stattfindende Unterhaltung zwischen
-Stanislaw Ulam und John von Neumann zurück. Die technologische Singularität beschreibt den Zeitpunkt, ab dem Maschinen mittels künstlicher Intelligenz (AI/KI)
+Beobachtungen der Industriellen Revolution, dienen als weitere Grundlagen für die Theorie der <span class="c-ref" data-ref-id="15" data-ref-type="ref" data-ref-desc="Wiki: ">Technologischen Singularität.</span> Der Begriff wurde erstmals
+namentlich geprägt durch <span class="c-ref" data-ref-id="16" data-ref-type="ref" data-ref-desc="">Vernor Vinge.</span> Dabei geht die erste bekannte Erwähnung der Theorie auf eine 1958 stattfindende Unterhaltung zwischen
+Stanislaw Ulam und John von Neumann <span class="c-ref" data-ref-id="187" data-ref-type="ref" data-ref-desc="S.5 ">zurück.</span> Die technologische Singularität beschreibt den Zeitpunkt, ab dem Maschinen mittels künstlicher Intelligenz (AI/KI)
 den menschlichen Horizont überschreiten und sich dazu befähigen, sich selbst zu verbessern. Dadurch soll der technologische Fortschritt derart beschleunigt
 werden, dass der Mensch als solches nicht mehr in der Lage sein wird, diese Entwicklungsprozesse nachzuvollziehen. Auffallend bei der Analyse der Theorie ist,
 dass ein Großteil ihrer Befürworter fundamentale sowie gleichermaßen herausragende Beiträge zu den Feldern der Logik, Mathematik, Informatik, Quantenmechanik
 und weiteren technologie- affinen Feldern leisten bzw. leisteten. Irving John Good, ebenfalls renommierter Mathematiker und Kollege von Alan Turing, beschreibt
-sie 1965 wie folgt:</p>
+sie wie folgt:</p>
 
       <blockquote>
         <p>Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultra-intelligent machine could design even better machines; there would then unquestionably be an “intelligence explosion,” and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.</p>
-        <cite><a href="#">— Irving John Good</a></cite>
+        <cite><span class="c-ref" data-ref-id="18" data-ref-type="zitat" data-ref-desc="">Irving John Good</span></cite>
       </blockquote>
 
-      <p>Auch in popkultureller Hinsicht erfreut sich dieses Konzept besonderer Beliebtheit. Speziell in Filmen, Serien oder Videospielen wie Transcendence,
-Her, Matrix, Terminator, Westworld, Ex Machina, DeusEx, Portal usw. wird diese Thematik auf verschiedene Weisen behandelt, oft mit dystopischen Tendenzen. Die
+      <p>Auch in popkultureller Hinsicht erfreut sich dieses Konzept besonderer Beliebtheit. Speziell in Filmen, Serien oder Videospielen wie <span class="c-ref" data-ref-id="20" data-ref-type="ref" data-ref-desc="">Transcendence</span>,
+<span class="c-ref" data-ref-id="21" data-ref-type="ref" data-ref-desc="">Her</span>, <span class="c-ref" data-ref-id="22" data-ref-type="ref" data-ref-desc="">Matrix</span>, <span class="c-ref" data-ref-id="23" data-ref-type="ref" data-ref-desc="">Terminator</span>,
+ <span class="c-ref" data-ref-id="24" data-ref-type="ref" data-ref-desc="">Westworld</span>, <span class="c-ref" data-ref-id="25" data-ref-type="ref" data-ref-desc="">Ex Machina</span>, <span class="c-ref" data-ref-id="26" data-ref-type="ref" data-ref-desc="">DeusEx</span>,
+  <span class="c-ref" data-ref-id="27" data-ref-type="ref" data-ref-desc="">Portal</span> usw. wird diese Thematik auf verschiedene Weisen behandelt, oft mit dystopischen Tendenzen. Die
 möglichen Konsequenzen solcher Auswirkungen und zukünftiger Entwicklungen sind die Grundlage fundamentaler Diskussionen.</p>
 
       <p>Wie alle unbewiesenen Theorien muss sich auch die Technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
 Mooreschen Gesetzes und dessen selbstbestimmtes Ende, entfernen sich dessen ehemals akkuraten Leistungswerte denen der heutigen Realität. Dies führt von
-messbaren Ergebnissen zu einer generellen Tendenz und schwächt somit den wissenschaftlichen Charakter der TS-Theorie. Auch ökonomische und entwicklungsbedingte
-Gegebenheiten sprechen teilweise gegen die TS aus, in beispielsweise sog. Diminishing Returns nach Paul Allan, oder sog. Feedback Loops nach Andrey Korotayev.
+messbaren Ergebnissen zu einer <span class="c-ref" data-ref-id="28" data-ref-type="ref" data-ref-desc="">generellen Tendenz</span> und schwächt somit den wissenschaftlichen Charakter der <abbr title="Technologische Singularität">TS</abbr>-Theorie. Auch ökonomische und entwicklungsbedingte
+Gegebenheiten sprechen teilweise gegen die <abbr title="Technologische Singularität">TS</abbr> aus, in beispielsweise sog. <span class="c-ref" data-ref-id="29" data-ref-type="ref" data-ref-desc="">Diminishing Returns</span> nach Paul Allan, oder sog. <span class="c-ref" data-ref-id="188" data-ref-type="vgl" data-ref-desc="Feedback Loops, S.24">Feedback Loops</span> nach Andrey Korotayev.
 Allgemein wird häufig die Unwissenschaftlichkeit der Theorie angeprangert, wobei angenommen werden kann, dass dies auf Ray Kurzweils Veröffentlichungen und
 Auftreten zurückzuführen ist. Dieser trifft vermehrt absolute Aussagen, wie beispielsweise zeitliche Prognosen über das Eintreten der Singularität und dessen
-Unweigerlichkeit, oder die Verbindung von übermenschlichen Fähigkeiten mittels TS Technologien, teilweise ohne wissenschaftlich verifizierte Referenz. Durch
-das
-Verknüpfen von Fakten und wissenschaftlicher Fiktion seiner Job Position und das eigene Engagement (Co-Founder der Singularity University) wirkt er jedoch
+Unweigerlichkeit, oder die Verbindung von übermenschlichen Fähigkeiten mittels <abbr title="Technologische Singularität">TS</abbr> Technologien, teilweise ohne wissenschaftlich verifizierte Referenz. Durch
+das Verknüpfen von Fakten und wissenschaftlicher Fiktion seiner Job Position und das eigene Engagement (Co-Founder der Singularity University) wirkt er jedoch
 authentisch und überzeugend.</p>
       <p class="o-p--tie">Steven Pinker kanadischer Kognitionswissenschaftler und Professor für Psychologie an der Harvard University beschreibt die Situation
 wie folgt:</p>
@@ -220,16 +231,14 @@ wie folgt:</p>
         <p>(...) There is not the slightest reason to believe in a coming singularity. The fact that you can visualize a future in your imagination is not
 evidence that it is likely or even possible. Look at domed cities, jet-pack commuting, underwater cities, mile-high buildings, and nuclear-powered
 automobiles—all staples of futuristic fantasies when I was a child that have never arrived. Sheer processing power is not a pixie dust that magically solves
-all
-your problems. (...)</p>
-        <cite><a href="#">— Steven Pinker</a></cite>
+all your problems. (...)</p>
+        <cite><span class="c-ref" data-ref-id="189" data-ref-type="zitat" data-ref-desc="">Steven Pinker</span></cite>
       </blockquote>
 
       <p>Neben den inhaltlichen und formalen Faktoren sind die absoluten Ansichten, sowohl der Befürworter und der Kritiker, Hauptbestandteil der Diskussion.
 Während beispielsweise Kurzweil verstärkt optimistische und absolutistisch anmutende Aussagen trifft, z.B. das definitive Eintreten der Singularität spätestens
 2045*, Unsterblichkeit bzw. Übermenschlichkeit sowie das Auftreten eines wahrlich singulären Zeitpunkts prognostiziert, trifft die Theorie bei einigen
-Kritikern
-wie Pinker auf absolute Ablehnung.
+Kritikern wie Pinker auf absolute Ablehnung.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -240,7 +249,7 @@ wie Pinker auf absolute Ablehnung.
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">2045</strong>
                 <span class="c-note-side__text">Durch dieses Datum zeichnet sich die totalen Aussagen Kurzweils mit am stärksten ab, denn vor einigen Jahren
-hieß es noch 2025. Unweiglich lassen sich Bezüge zu vergleichbaren allgemeinen Aussagen der Vergangenheit herstellen z.B. die Prophezeiung des Ende der Welts
+hieß es noch <span class="c-ref" data-ref-id="12" data-ref-type="ref" data-ref-hide-kneenote>2025</span>. Unweiglich lassen sich Bezüge zu vergleichbaren pseudo Prognosen der Vergangenheit herstellen z.B. die Prophezeiung des Ende der Welts
 durch den Mayakalender, oder ähnliche Vorkommnisse.</span>
               </span>
             </span>
@@ -258,8 +267,13 @@ Leistung des Rasierers beitrage, ebenso steigende Rechenleistung nicht zwangswei
 Diskussionsteilnehmern um hochdekorierte Wissenschaftler und Experten, der letzten Dekaden. Das Niveau der Diskussion ist dementsprechend trotz solcher Trivia
 vergleichsweise hoch.</p>
 
-      <img src="http://media.economist.com/sites/default/files/cf_images/20060318/CST393.gif" alt=""/>
-      <p>Satirische Grafik Rasierklingen</p>
+      <img src="./assets/img/rasierklingen.gif" alt=""/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="190" data-ref-type="ref" data-ref-desc="Satirische Grafik Rasierklingen " data-ref-hide></span>
+        </div>
+      </div>
 
       <p>Aus wissenschaftlicher Perspektive müssen den Kritikern überwiegend Zugeständnisse eingeräumt werden. Die Behauptungen speziell von Kurzweil verhalten
 sich vage, tendenziell und endgültig. Exzessiven Kritikern kann höchstenfalls mangelhaftes Vorstellungsvermögen unterstellt werden, da Kurzweils experimentelle
@@ -300,9 +314,8 @@ of theoretical computer power has been a humiliating and unending sequence of di
 
       <p>Im Gegensatz zu Lanier, welcher sich klar gegen die Technologische Singularität positioniert, wird das Zitat von Bostrom aus dem Kontext seiner Arbeit
 entfernt. Im Gegenstand seiner Arbeit positioniert sich Bostrom zwar kritisch gegenüber der TS, aber merkt jedoch dabei an, dass es ebenso falsch wäre die
-Möglichkeit einer TS komplett auszuschließen. Weitere Quellen, wie beispielsweise James P. Hogan, sind teilweise ebenfalls fraglich (in diesem Fall im Bezug
-auf
-seine Person).</p>
+Möglichkeit einer <abbr title="Technologische Singularität">TS</abbr> komplett auszuschließen. Weitere Quellen, wie beispielsweise James P. Hogan, sind teilweise ebenfalls fraglich (in diesem Fall im Bezug
+auf seine Person).</p>
       <p class="o-p--tie">Die Kritik an den AI Entwicklungen relativiert sich durch die Erfolge der letzten Jahre. Mit großen Fortschritten in den Gebieten der
 Spracherkennung (Apple Siri, Google Now, Adobe #VoCo) und des maschinellen Lernens, speziell durch die Leistungen der Google DeepMind Unternehmung. Der Sieg
 ihres gleichnamigen Algorithmus  AlphaGo im traditionell chinesischen Strategiespiels Go, gegen den erfahrenen Spieler Lee Sedol im März 2016, markiert einen
@@ -317,11 +330,11 @@ data-source="https://publishingperspectives.com/wp-content/uploads/2010/11/JARON
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name">Jaron Lanier</h4>
-          <p class="c-person__bio">Der amerikanische Informatiker und Künstler Jaron Lanier ist neben seiner Funktion als humanistischer TS Kritiker im Kontext
+          <p class="c-person__bio">Der amerikanische Informatiker und Künstler Jaron Lanier ist neben seiner Funktion als humanistischer <abbr title="Technologische Singularität">TS</abbr> Kritiker im Kontext
 dieser Arbeit im späteren Verlauf ebenfalls für den Themenbereich der Virtual Reality Entwicklungen relevant. Er ist einer der ersten Pioniere von
 praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen, erfahrbaren “Cyberspaces”. In zeitgeistigen Geschehen gilt
 Lanier als eine wichtige Stimme, besonders für die Aspekte der digitalen Ethik im Zeitalter der verstärkten Mensch-Maschinen Interaktion. Er beschreibt seine
-Ansichten zur TS in Form eines Manifestos zur Jahrtausendwende folgendermaßen:
+Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestos zur Jahrtausendwende folgendermaßen:
 
             <blockquote>
               <p>There is a real chance that evolutionary psychology, artificial intelligence, Moore's Law fetishizing, and the rest of the package, will catch

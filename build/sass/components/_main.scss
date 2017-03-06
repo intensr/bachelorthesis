@@ -117,6 +117,13 @@ body {
   }
 }
 
+.c-ref__href,
+a.c-ref__desc {
+  &:hover {
+    background-size: 100% 1px;
+  }
+}
+
 .c-ref__desc,
 .c-ref__href {
   position: relative;
@@ -127,7 +134,7 @@ body {
   @media print {
     @include font-size(11,1);
   }
-display: inline;
+  display: inline;
   background-repeat: no-repeat;
   background-position: left bottom 0px;
   background-size: 0% 1px;
@@ -140,9 +147,6 @@ display: inline;
   -webkit-box-decoration-break: clone;
   -moz-background-inline-policy: each-box;
   transition: 0.4s all ease-in-out;
-  &:hover {
-    background-size: 100% 1px;
-  }
 
   // &:hover {
   //   &:after {
@@ -258,8 +262,18 @@ display: inline;
     }
   }
 
+  h2 {
+    page-break-before:always;
+  }
+
   h3 {
     line-height: 1.4;
+  }
+
+  cite {
+    &:before {
+      content: ' — ';
+    }
   }
 
 
@@ -274,7 +288,7 @@ display: inline;
   }
 
   img {
-    @include to-rem(margin-bottom, $base-spacing);
+    //@include to-rem(margin-bottom, $base-spacing);
   }
 
   .c-notes-marginal {
@@ -357,6 +371,12 @@ display: inline;
       @include to-rem(margin, $base-spacing 0 $base-spacing-half 0);
       font-style: italic;
       font-weight: 300;
+      &:before {
+        content: '» ';
+      }
+      &:after {
+        content: ' «';
+      }
     }
   }
 

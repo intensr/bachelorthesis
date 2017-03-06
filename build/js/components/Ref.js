@@ -2,9 +2,9 @@ import $ from 'jquery';
 
 // functions
 function leadingZeroes(i) {
-  if (i < 9) {
+  if (i < 10) {
     i='00'+i;
-  } else if (i < 99) {
+  } else if (i < 100) {
     i='0'+i;
   }
   return i;
@@ -45,7 +45,14 @@ $.getJSON('sources.json', function(data) {
         refType = $this.attr('data-ref-type'),
         refDesc = $this.attr('data-ref-desc'),
         refHide = $this.attr('data-ref-hide'),
-        refHideKneenote = $this.attr('data-ref-hide-kneenote');
+        refHideSources = $this.attr('data-ref-hide-sources'),
+        refHideKneenote = $this.attr('data-ref-hide-kneenote'),
+        refParameter = $this.attr('data-ref-parameter');
+
+    // remove link parameters if empty
+    if(refParameter === undefined) {
+      refParameter = '';
+    }
 
     // Generate ref id with leading zeroes
     i++;
@@ -61,7 +68,7 @@ $.getJSON('sources.json', function(data) {
 
       // Add ref name as link or regular text depending on existing href
       if(sources[refId].href) {
-        $this.append('<a class="c-ref__name" href="'+sources[refId].href+'" target="tab"></a>');
+        $this.append('<a class="c-ref__name" href="'+sources[refId].href+refParameter+'" target="tab"></a>');
       } else {
         $this.append('<span class="c-ref__name"></span>');
       }
@@ -104,7 +111,7 @@ $.getJSON('sources.json', function(data) {
       }
 
       // Insert Container between if there is no one
-      if ($betweenPosition || refHide === undefined) {
+      if (!$betweenPosition || refHide === undefined) {
         $($betweenPosition).insertAfter($currentPosition);
         // console.log('kneenote container inserted!');
       }
@@ -118,8 +125,18 @@ $.getJSON('sources.json', function(data) {
         //    <sup class="c-ref__id">001</sup>
         //  </a>
 
+        // Create ref title text
+        var refTypeName = '';
+        if(refType === 'bsp') {
+          refTypeName = 'Beispiel';
+        } else if (refType === 'vgl') {
+          refTypeName = 'Vergleich';
+        } else if (refType === 'ref') {
+          refTypeName = 'Referenz';
+        }
+
         // Add xref
-        $kneenote.append('<a class="c-ref__href" href="#source-'+sources[refId].id+'"></a>');
+        $kneenote.append('<a class="c-ref__href" href="#source-'+sources[refId].id+'" title="'+refTypeName+'"></a>');
         $('.c-ref__href',$kneenote).append('<span class="c-ref__type">'+refType+'</span> ');
         $('.c-ref__href',$kneenote).append('<sup class="c-ref__id">'+i+'</sup> ');
 
@@ -131,10 +148,50 @@ $.getJSON('sources.json', function(data) {
         //    <span>1968<span>a</span></span>
         //  </a>
 
-        $kneenote.append('<span class="c-ref__desc-container"><a class="c-ref__desc" href="#source-'+sources[refId].id+'"></a></span>');
-        if(refDesc) {
-          $('.c-ref__desc',$kneenote).append('<span> '+refDesc+'</span>');
+        // Insert description with or without link
+        if(sources[refId].href) {
+          $kneenote.append('<span class="c-ref__desc-container"><a class="c-ref__desc" href="'+sources[refId].href+refParameter+'" target="tab"></a></span>');
         } else {
+          $kneenote.append('<span class="c-ref__desc-container"><span class="c-ref__desc"></span></span>');
+        }
+
+        // Insert description from data if exists
+        if(refDesc) {
+          $('.c-ref__desc',$kneenote).append('<span>'+refDesc+'</span>');
+        }
+
+        // Vgl auto kneenote sources
+        if(!refHideSources && refType === 'zitat') {
+          if(sources[refId].year) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].year+'</span>');
+          }
+          if(sources[refId].yearId) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].yearId+'</span>');
+          }
+          if(sources[refId].authorSurname) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].authorSurname+'</span>');
+          } else if (sources[refId].author) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].author+'</span>');
+          }
+        }
+
+        // Vgl auto kneenote sources
+        if(!refHideSources && refType === 'vgl') {
+          if(sources[refId].year) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].year+'</span>');
+          }
+          if(sources[refId].yearId) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].yearId+'</span>');
+          }
+          if(sources[refId].authorSurname) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].authorSurname+'</span>');
+          } else if (sources[refId].author) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].author+'</span>');
+          }
+        }
+
+        // Default auto kneenote sources
+        if(!refHideSources && refType !== 'vgl' && refType !== 'zitat') {
           if(sources[refId].entity) {
             $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].entity+'</span> ');
           }
@@ -158,8 +215,8 @@ $.getJSON('sources.json', function(data) {
             }
           }
         }
-      }
 
+      }
     }
 
     if(!(refHide === undefined)) {
