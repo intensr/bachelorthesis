@@ -853,6 +853,8 @@ summary::-webkit-details-marker { display: none; }
 
 .o-background--warning { background-color: #f0ad4e; }
 
+.c-proposal { padding-bottom: 4.5rem; }
+
 @media print { .c-proposal ul, .c-proposal ol, .c-proposal dl { font-size: 0.75rem; line-height: 2 ; } }
 
 .c-proposal h2 { page-break-before: always; }

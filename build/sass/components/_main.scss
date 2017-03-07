@@ -278,6 +278,9 @@ a.c-ref__desc {
 }
 
 .c-proposal {
+
+  @include to-rem(padding-bottom, $base-spacing * 3);
+
   @media print {
     ul,
     ol,

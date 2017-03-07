@@ -524,6 +524,32 @@ Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Kle
 
       <br/><br/>
 
+
+
+      <!--
+            <br/>
+            <br/>
+            <hr/>
+            <br/>
+            <br/>
+
+
+            <p data-height="502" data-theme-id="light" data-slug-hash="QGxpaB" data-default-tab="result" data-user="intenser" data-embed-version="2"
+      data-pen-title="Hello World — A-Frame" class="codepen">See the Pen <a href="http://codepen.io/intenser/pen/QGxpaB/">Hello World — A-Frame</a> by David Hoffmann
+      (<a href="http://codepen.io/intenser">@intenser</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+            <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+                  <blockquote class="u-hide">
+                    <p>“Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the
+      future, I
+            ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.”</p> —
+                    <cite><a href="https://www.eff.org/cyberspace-independence">John Perry Barlow: A Declaration of the Independence of Cyberspace, Davos 1996. Also:
+            Electronic Frontier Foundation, 8. Februar 1996, abgerufen am 12. Februar 2016 (HTML, englisch).</a>
+                    </cite>
+                  </blockquote> -->
+
     </div>
   </div>
 </div>
