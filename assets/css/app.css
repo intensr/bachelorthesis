@@ -843,15 +843,25 @@ summary::-webkit-details-marker { display: none; }
 
 .c-person__content { margin-left: 9rem; }
 
+.o-background--success { background-color: #90ff90; }
+
+.o-background--error { background-color: #f1484d; }
+
+.o-background--warning { background-color: #f0ad4e; }
+
 @media print { .c-proposal ul, .c-proposal ol, .c-proposal dl { font-size: 0.75rem; line-height: 2 ; } }
 
 .c-proposal h2 { page-break-before: always; }
 
 .c-proposal h3 { line-height: 1.4; }
 
-.c-proposal cite:before { content: ' — '; }
-
 .c-proposal h2 + p, .c-proposal h4 + p { margin-top: -0.75rem; }
+
+.c-proposal table { margin-bottom: 1.5rem; border-collapse: collapse; }
+
+.c-proposal table th { font-size: 0.75rem; line-height: 1.5; }
+
+.c-proposal table td { text-align: center; font-size: 0.6875rem; line-height: 1.5; padding: 0.375rem; border: 1px solid #fff; }
 
 .c-proposal .c-notes-marginal { margin: 1.5rem 0; }
 
@@ -881,6 +891,8 @@ summary::-webkit-details-marker { display: none; }
 
 @media print { .c-proposal p { font-size: 13px; } }
 
+.c-proposal abbr { text-decoration: none; border-bottom: 1px dotted #888888; }
+
 .c-proposal blockquote { margin: 0 1.5rem 1.5rem 1.5rem; }
 
 .c-proposal blockquote p { margin: 1.5rem 0 0.75rem 0; font-style: italic; font-weight: 300; }
@@ -888,6 +900,10 @@ summary::-webkit-details-marker { display: none; }
 .c-proposal blockquote p:before { content: '» '; }
 
 .c-proposal blockquote p:after { content: ' «'; }
+
+.c-proposal blockquote cite:before { content: ' — '; }
+
+.c-proposal blockquote ol, .c-proposal blockquote ul { margin-bottom: 0.75rem; }
 
 .c-proposal .c-sources { border-top: 1px solid #c8c8c8; margin-top: 9rem; padding-top: 4.5rem; }
 
@@ -903,29 +919,39 @@ summary::-webkit-details-marker { display: none; }
 
 .c-proposal ul ul { margin-bottom: 0; }
 
-.c-proposal ul li { padding-bottom: 0.1875rem; }
+.c-proposal ul li { padding-bottom: 0.75rem; }
 
 .c-proposal ul li:empty { display: none; }
 
-.c-proposal ol { counter-reset: section; list-style-type: none; margin-bottom: 3rem; }
+.c-proposal ol { counter-reset: ol; list-style-type: none; }
 
-.c-proposal ol li { padding-left: 1.125rem; padding-bottom: 0.1875rem; position: relative; }
+.c-proposal ol li { position: relative; padding-left: 1.125rem; padding-bottom: 0.75rem; }
 
 .c-proposal ol li:empty { display: none; }
 
-.c-proposal ol li li { margin-left: 0.75rem; padding-left: 2.25rem; }
+.c-proposal ol li:before { width: 1.5rem; text-align: left; position: absolute; top: 0; left: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 1.5; counter-increment: ol; content: counters(ol, "."); }
 
-.c-proposal ol li li:before { width: 1.5rem; text-align: right; position: absolute; left: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 2 ; counter-increment: section; content: counters(section, "."); }
+.c-proposal .c-table-of-contents { counter-reset: section; list-style-type: none; margin-bottom: 3rem; }
 
-.c-proposal ol li li li { padding-left: 3.1875rem; }
+.c-proposal .c-table-of-contents > li:before { display: none; }
 
-.c-proposal ol li li li li { padding-left: 4.125rem; }
+.c-proposal .c-table-of-contents li { padding-left: 1.125rem; padding-bottom: 0.75rem; position: relative; }
 
-.c-proposal ol ol { margin-bottom: 0; }
+.c-proposal .c-table-of-contents li:empty { display: none; }
 
-.c-proposal .c-li-lead:before { width: 0.5rem; text-align: right; position: absolute; left: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 2 ; counter-increment: section; content: counters(section, "."); }
+.c-proposal .c-table-of-contents li li { margin-left: 0.75rem; padding-left: 2.25rem; }
 
-.c-proposal .c-li-lead__content { padding-bottom: 0.1875rem; }
+.c-proposal .c-table-of-contents li li:before { width: 1.5rem; text-align: right; position: absolute; left: 0; top: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 1.5; counter-increment: section; content: counters(section, "."); }
+
+.c-proposal .c-table-of-contents li li li { padding-left: 3.1875rem; }
+
+.c-proposal .c-table-of-contents li li li li { padding-left: 4.125rem; }
+
+.c-proposal .c-table-of-contents ol { counter-reset: section; list-style-type: none; margin-bottom: 0; }
+
+.c-proposal .c-li-lead:before { display: block !important; width: 0.5rem; text-align: right; position: absolute; left: 0; top: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 1.5; counter-increment: section; content: counters(section, "."); }
+
+.c-proposal .c-li-lead__content { padding-bottom: 0.75rem; }
 
 .c-section-stage { position: relative; width: 100%; height: 31.5rem; margin: 4.5rem 0 3rem 0; }
 

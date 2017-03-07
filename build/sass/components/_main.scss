@@ -253,6 +253,18 @@ a.c-ref__desc {
 }
 
 
+.o-background--success {
+  background-color: $base-color-state-success;
+}
+
+.o-background--error {
+  background-color: $base-color-state-error;
+}
+
+.o-background--warning {
+  background-color: $base-color-state-warning;
+}
+
 .c-proposal {
   @media print {
     ul,
@@ -270,13 +282,6 @@ a.c-ref__desc {
     line-height: 1.4;
   }
 
-  cite {
-    &:before {
-      content: ' — ';
-    }
-  }
-
-
   h2 + p,
   //h2 + ul,
   //h2 + ol,
@@ -289,6 +294,21 @@ a.c-ref__desc {
 
   img {
     //@include to-rem(margin-bottom, $base-spacing);
+  }
+
+  table {
+    @include to-rem(margin-bottom, $base-spacing);
+    border-collapse: collapse;
+    tr {}
+    th {
+      @include font-size(12, 1.5);
+    }
+    td {
+      text-align: center;
+      @include font-size(11, 1.5);
+      @include to-rem(padding, $base-spacing-quarter);
+      border: 1px solid #fff;
+    }
   }
 
   .c-notes-marginal {
@@ -365,6 +385,11 @@ a.c-ref__desc {
     }
   }
 
+  abbr {
+    text-decoration: none;
+    border-bottom: 1px dotted lighten($base-color-dark, 40%);
+  }
+
   blockquote {
     @include to-rem(margin, 0 $base-spacing $base-spacing $base-spacing);
     p {
@@ -377,6 +402,15 @@ a.c-ref__desc {
       &:after {
         content: ' «';
       }
+    }
+    cite {
+      &:before {
+        content: ' — ';
+      }
+    }
+    ol,
+    ul {
+      @include to-rem(margin-bottom, $base-spacing-half);
     }
   }
 
@@ -411,7 +445,7 @@ a.c-ref__desc {
       margin-bottom: 0;
     }
     li {
-      @include to-rem(padding-bottom, $base-spacing-eight);
+      @include to-rem(padding-bottom, $base-spacing-half);
       &:empty {
         display: none;
       }
@@ -419,12 +453,42 @@ a.c-ref__desc {
   }
 
   ol {
+    counter-reset: ol;
+    list-style-type: none;
+    li {
+      position: relative;
+      @include to-rem(padding-left, $base-spacing-quarter * 3);
+      @include to-rem(padding-bottom, $base-spacing-half);
+      &:empty {
+        display: none;
+      }
+      &:before {
+        @include to-rem(width, $base-spacing);
+        text-align: left;
+        position: absolute;
+        top: 0;
+        left: 0;
+        @include to-rem(top, $base-spacing-eight);
+        font-family: "Ocra", monospace;
+        @include font-size(12, 1.5);
+        counter-increment: ol;
+        content: counters(ol,".");
+      }
+    }
+  }
+
+  .c-table-of-contents {
     counter-reset: section;
     list-style-type: none;
+    > li {
+      &:before {
+        display: none;
+      }
+    }
     @include to-rem(margin-bottom, $base-spacing-double);
     li {
       @include to-rem(padding-left, $base-spacing-quarter * 3);
-      @include to-rem(padding-bottom, $base-spacing-eight);
+      @include to-rem(padding-bottom, $base-spacing-half);
       position: relative;
       &:empty {
         display: none;
@@ -435,9 +499,10 @@ a.c-ref__desc {
           text-align: right;
           position: absolute;
           left: 0;
+          top: 0;
           @include to-rem(top, $base-spacing-eight);
           font-family: "Ocra", monospace;
-          @include font-size(12);
+          @include font-size(12, 1.5);
           counter-increment: section;
           content: counters(section,".");
         }
@@ -452,24 +517,28 @@ a.c-ref__desc {
       }
     }
     ol {
+      counter-reset: section;
+      list-style-type: none;
       @include to-rem(margin-bottom, 0);
     }
   }
 
   .c-li-lead {
     &:before {
+      display: block!important;
       @include to-rem(width, $base-spacing-half - 4);
       text-align: right;
       position: absolute;
       left: 0;
+      top: 0;
       @include to-rem(top, $base-spacing-eight);
       font-family: "Ocra", monospace;
-      @include font-size(12);
+      @include font-size(12, 1.5);
       counter-increment: section;
       content: counters(section,".");
     }
     &__content {
-      @include to-rem(padding-bottom, $base-spacing-eight);
+      @include to-rem(padding-bottom, $base-spacing-half);
     }
   }
 }

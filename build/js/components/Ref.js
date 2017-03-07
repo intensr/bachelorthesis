@@ -49,6 +49,13 @@ $.getJSON('sources.json', function(data) {
         refHideKneenote = $this.attr('data-ref-hide-kneenote'),
         refParameter = $this.attr('data-ref-parameter');
 
+    // falsify ref hide sources
+    if(refHideSources === undefined) {
+      refHideSources = false;
+    } else {
+      refHideSources = true;
+    }
+
     // remove link parameters if empty
     if(refParameter === undefined) {
       refParameter = '';

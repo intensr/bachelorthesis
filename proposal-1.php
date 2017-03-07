@@ -51,11 +51,11 @@ mitzugestalten?</strong></div>
       </ul>
 
       <h2>Inhalt</h2>
-      <ol>
+      <ol class="c-table-of-contents">
         <li>Abstract</li>
         <li>Motivation &amp; Leitfragen</li>
         <li>Aufbau &amp; Struktur</li>
-        <li class="c-li-lead">Kapitel <strong>Beschleunigung durch/der Software</strong></li>
+        <li class="c-li-lead">Kapitel <strong>Beschleunigung von und mit Software</strong></li>
         <li class="c-li-lead">
           <div class="c-li-lead__content">Kapitel <strong>Der Aufstieg von Software und seine Pioniere</strong></div>
           <ol>
@@ -154,7 +154,7 @@ Cyberspace, etc., sind dabei von besonderem Interesse.</p>
       <p class="o-p--tie">Im abschließenden Resumé werden die Erkenntnisse der gesamten Arbeit zusammengeführt und die Antwort auf die zugrundeliegende
 Fragestellung eruiert. Etwaig ethische Konsequenzen und mögliche Auswirkungen der gesellschaftlichen Paradigmenwechsel werden primär untersucht.</p>
 
-      <h2>Beschleunigung durch/der Software</h2>
+      <h2>Beschleunigung von und mit Software</h2>
 
       <p>Die Ursprünge der Software beginnen vor jener eigentlichen Entwicklung, bereits in der zweiten Hälfte des 18ten Jahrhunderts, während den Anfängen der
 industriellen Revolution. Diese gilt rückblickend als <span class="c-ref" data-ref-id="6" data-ref-type="vgl" data-ref-desc="S.99">vergleichend einschneidend</span>, wie die Entwicklung des menschlichen Nomadenlebens zur Sesshaftigkeit. Die
@@ -280,7 +280,7 @@ sich vage, tendenziell und endgültig. Exzessiven Kritikern kann höchstenfalls 
 Ansichten eine bestimmte Affinität und Imagination implizieren.</p>
       <p class="o-p--tie">Erfindungen aus Steven Pinkers Antithese, wie beispielsweise das Reisen mit Hilfe von Jetpacks, Unterwasserstädte oder atomgetriebene
 Fahrzeuge, haben sich offensichtlich nicht breitflächig durchgesetzt. Dennoch entwickeln sich Technologien, welche in Pinkers Kindheit lediglich der Science
-Fiction oder dem Militär vorbehalten sind, zum Teil zu realen Produkten oder Inspirationsquellen für diverse Technologien. Schlussfolgernd behält Pinker im
+Fiction oder dem Militär vorbehalten sind, zum Teil zu realen Produkten oder Inspirationsquellen für diverse <span class="c-ref" data-ref-id="31" data-ref-type="bsp" data-ref-desc="Exemplarische Beispiele von Elon Musks diversen Unternehmungen" data-ref-hide-sources>Technologien.</span> Schlussfolgernd behält Pinker im
 Bezug auf den gesellschaftlichen Einfluss insofern Recht, als dass sich keine dieser Technologien zum kulturellen Leitsymbol entwickelt. Allerdings wählt er
 bewusst erfolglose Technologien ohne tieferen, gesellschaftlichen Mehrwert. Erfolgreiche Entwicklungen wie beispielsweise das Internet, mobile Computer (in
 jeglicher Form), oder elektrische, autonome Mobilität bleiben somit außen vor. Die Einführungen dieser Technologien erfolgen zum Teil rapid, im Vorraus
@@ -291,35 +291,44 @@ Urform vor seinem Ende steht ist allgemein bekannt, doch dies bedeutet nicht zwa
 beispielsweise die Nutzung von Quantencomputern haben nicht nur das Potential die Leistungssteigerung des Mooreschen Gesetzes beizubehalten, sondern sie etwaig
 zu beschleunigen.</p>
 
-      <p>Die zeitweilig stagnierende Entwicklung im Forschungsgebiet der künstlichen Intelligenz kann ebenfalls als Kritik der Theorie angesehen werden. In
-dessen Schlussfolgerung des Artikels “The Futile Quest for Artificial Intelligence !ERSCHEINUNGSJAHR!” vergleicht Peter Kassan die Entwicklung von AI und
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/JhHMJCUmq28?autoplay=0&showinfo=0&controls=1&vq=hd720" frameborder="0"
+      allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/JhHMJCUmq28/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="32" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p>Die zeitweilig <span class="c-ref" data-ref-id="33" data-ref-type="ref" data-ref-desc="">stagnierende Entwicklung</span> im Forschungsgebiet der künstlichen Intelligenz kann ebenfalls als Kritik der Theorie angesehen werden. In
+dessen Schlussfolgerung des Artikels “The Futile Quest for Artificial Intelligence” vergleicht Peter Kassan die Entwicklung von AI und
 Luftfahrt in einer Zeit von jeweils 50 Jahren. Kassan folgert, dass die Erfolge der AI im Direktvergleich weit hinter denen der Luftfahrt liegen. Seine
-Argumentation stützt er durch Zitate relevanter, themenbezogener Literatur. Darunter Texte des schwedischen Philosophen Nick Bostrom (When Machines Outsmart
-Humans, 2000) oder Jaron Lanier (The Complexity Ceiling, 2002).</p>
+Argumentation stützt er durch Zitate relevanter, themenbezogener Literatur. Darunter Texte des schwedischen Philosophen Nick Bostrom oder Jaron Lanier.</p>
 
       <blockquote>
         <p>The annals of artificial intelligence are littered with broken promises. Half a century after the first electric computer, we still have nothing
-that
-even resembles an intelligent machine, if by ‘intelligent’ we mean possessing the kind of general-purpose smartness that we humans pride ourselves on.</p>
-        <cite><a href="#">— Nick Bostrom</a></cite>
+that even resembles an intelligent machine, if by ‘intelligent’ we mean possessing the kind of general-purpose smartness that we humans pride ourselves on.</p>
+        <cite><span class="c-ref" data-ref-id="34" data-ref-type="zitat" data-ref-desc="">Nick Bostrom</span></cite>
       </blockquote>
 
       <blockquote>
         <p>The first fifty years of general computation, which roughly spanned the second half of the twentieth century, were characterized by extravagant
 swings between giddy overstatement and embarrassing near-paralysis. The practice of overstatement continues … Accompanying the parade of quixotic
-overstatements
-of theoretical computer power has been a humiliating and unending sequence of disappointments in the performance of real information systems.</p>
-        <cite><a href="#">— Jaron Lanier</a></cite>
+overstatements of theoretical computer power has been a humiliating and unending sequence of disappointments in the performance of real information systems.</p>
+        <cite><span class="c-ref" data-ref-id="35" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
       </blockquote>
 
       <p>Im Gegensatz zu Lanier, welcher sich klar gegen die Technologische Singularität positioniert, wird das Zitat von Bostrom aus dem Kontext seiner Arbeit
-entfernt. Im Gegenstand seiner Arbeit positioniert sich Bostrom zwar kritisch gegenüber der TS, aber merkt jedoch dabei an, dass es ebenso falsch wäre die
-Möglichkeit einer <abbr title="Technologische Singularität">TS</abbr> komplett auszuschließen. Weitere Quellen, wie beispielsweise James P. Hogan, sind teilweise ebenfalls fraglich (in diesem Fall im Bezug
-auf seine Person).</p>
+entfernt. Im Gegenstand seiner Arbeit positioniert sich Bostrom zwar kritisch gegenüber der <abbr title="Technologische Singularität">TS</abbr>, aber merkt jedoch dabei an, dass es ebenso falsch wäre die
+Möglichkeit einer <abbr title="Technologische Singularität">TS</abbr> komplett auszuschließen. Weitere Quellen, wie beispielsweise James P. Hogan, sind
+teilweise ebenfalls fraglich (in diesem Fall im Bezug auf seine <span class="c-ref" data-ref-id="36" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Person</span>).</p>
       <p class="o-p--tie">Die Kritik an den AI Entwicklungen relativiert sich durch die Erfolge der letzten Jahre. Mit großen Fortschritten in den Gebieten der
-Spracherkennung (Apple Siri, Google Now, Adobe #VoCo) und des maschinellen Lernens, speziell durch die Leistungen der Google DeepMind Unternehmung. Der Sieg
-ihres gleichnamigen Algorithmus  AlphaGo im traditionell chinesischen Strategiespiels Go, gegen den erfahrenen Spieler Lee Sedol im März 2016, markiert einen
-Meilenstein in der Entwicklung der AI. Das Besondere an diesem Sieg ist, dass dieser nur durch maschinelles Lernen ermöglicht wurde. Anders als beispielsweise
+Spracherkennung (Apple Siri, Google Now, <span class="c-ref" data-ref-id="37" data-ref-type="bsp" data-ref-desc="">Adobe #VoCo</span>) und des maschinellen Lernens, speziell durch die Leistungen der <span class="c-ref" data-ref-id="38" data-ref-type="ref" data-ref-desc="">Google DeepMind</span> Unternehmung. Der Sieg
+ihres gleichnamigen Algorithmus <span class="c-ref" data-ref-id="39" data-ref-type="ref" data-ref-desc="">AlphaGo</span> im traditionell chinesischen Strategiespiels Go, gegen den erfahrenen Spieler Lee Sedol, markiert einen
+<span class="c-ref" data-ref-id="40" data-ref-type="ref" data-ref-desc="">Meilenstein</span> in der Entwicklung der AI. Das Besondere an diesem Sieg ist, dass dieser nur durch maschinelles Lernen ermöglicht wurde. Anders als beispielsweise
 beim Schach, lassen sich die Schritte und Chancen nicht mathematisch berechnen beziehungsweise vorhersagen (Bruteforcing), sondern müssen dem menschenähnlichen
 Denken nachempfunden werden (Nutzung neuronaler Netzwerke).</p>
 
@@ -332,17 +341,16 @@ data-source="https://publishingperspectives.com/wp-content/uploads/2010/11/JARON
           <h4 class="c-person__name">Jaron Lanier</h4>
           <p class="c-person__bio">Der amerikanische Informatiker und Künstler Jaron Lanier ist neben seiner Funktion als humanistischer <abbr title="Technologische Singularität">TS</abbr> Kritiker im Kontext
 dieser Arbeit im späteren Verlauf ebenfalls für den Themenbereich der Virtual Reality Entwicklungen relevant. Er ist einer der ersten Pioniere von
-praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen, erfahrbaren “Cyberspaces”. In zeitgeistigen Geschehen gilt
-Lanier als eine wichtige Stimme, besonders für die Aspekte der digitalen Ethik im Zeitalter der verstärkten Mensch-Maschinen Interaktion. Er beschreibt seine
+praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen, erfahrbaren “<abbr title="xyz">Cyberspaces</abbr>”. In zeitgeistigen Geschehen gilt
+Lanier als eine <span class="c-ref" data-ref-id="41" data-ref-type="ref" data-ref-desc="">wichtige Stimme</span>, besonders für die Aspekte der digitalen Ethik im Zeitalter der verstärkten Mensch-Maschinen Interaktion. Er beschreibt seine
 Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestos zur Jahrtausendwende folgendermaßen:
 
             <blockquote>
               <p>There is a real chance that evolutionary psychology, artificial intelligence, Moore's Law fetishizing, and the rest of the package, will catch
 on in a big way, as big as Freud or Marx did in their times. Or bigger, since these ideas might end up essentially built into the software that runs our
-society
-and our lives. If that happens, the ideology of cybernetic totalist intellectuals will be amplified from novelty into a force that could cause suffering for
+society and our lives. If that happens, the ideology of cybernetic totalist intellectuals will be amplified from novelty into a force that could cause suffering for
 millions of people.</p>
-              <cite><a href="#">— Jaron Lanier</a></cite>
+              <cite><span class="c-ref" data-ref-id="41" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
             </blockquote>
 
           </p>
@@ -356,27 +364,23 @@ Identifikation von Cybernetics gliedert Lanier die Beobachtungen derer Ansichten
 Selbstidentifikation genutzt werden können:</p>
 
       <blockquote>
-        <p>
-          <ol>
-            <li>That cybernetic patterns of information provide the ultimate and best way to understand reality.</li>
-            <li>That people are no more than cybernetic patterns.</li>
-            <li>That subjective experience either doesn't exist, or is unimportant because it is some sort of ambient or peripheral effect. </li>
-            <li>That what Darwin described in biology, or something like it, is in fact also the singular, superior description of all creativity and culture.
-</li>
-            <li>That qualitative as well as quantitative aspects of information systems will be accelerated by Moore's Law.</li>
-            <li>That biology and physics will merge with computer science (becoming biotechnology and nanotechnology), resulting in life and the physical
+        <ol>
+          <li>That cybernetic patterns of information provide the ultimate and best way to understand reality.</li>
+          <li>That people are no more than cybernetic patterns.</li>
+          <li>That subjective experience either doesn't exist, or is unimportant because it is some sort of ambient or peripheral effect. </li>
+          <li>That what Darwin described in biology, or something like it, is in fact also the singular, superior description of all creativity and culture.</li>
+          <li>That qualitative as well as quantitative aspects of information systems will be accelerated by Moore's Law.</li>
+          <li>That biology and physics will merge with computer science (becoming biotechnology and nanotechnology), resulting in life and the physical
 universe becoming mercurial; achieving the supposed nature of computer software. Furthermore, all of this will happen very soon! Since computers are improving
 so quickly, they will overwhelm all the other cybernetic processes, like people, and will fundamentally change the nature of what's going on in the familiar
 neighborhood of Earth at some moment when a new "criticality" is achieved- maybe in about the year 2020. To be a human after that moment will be either
 impossible or something very different than we now can know.</li>
-          </ol>
-        </p>
-        <cite><a href="#">— Jaron Lanier</a></cite>
+        </ol>
+        <cite><span class="c-ref" data-ref-id="41" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
       </blockquote>
 
       <p>Lanier geht anschließend auf jeden dieser Punkte im Detail ein. Zwar verallgemeinert bzw. vereinheitlicht er damit die Befürworter der Theorie, aber
-es
-verdeutlicht die teilweise radikalen Ansichten von Personen wie Kurzweil. Neben Kurzweil sind Personen wie Lanier, vor allem für den gesellschaftlichen Diskurs
+es verdeutlicht die teilweise radikalen Ansichten von Personen wie Kurzweil. Neben Kurzweil sind Personen wie Lanier, vor allem für den gesellschaftlichen Diskurs
 wichtig, weil sie die absoluten Aussagen relativieren und damit speziell die Fragen nach Ethik mit in die Diskussion einbinden.</p>
 
       <p>Zusammengefasst ist das Engagement beider Parteien rund um die Theorie der Technologischen Singularität als positiv zu bewerten. Sie regt dazu an die
@@ -384,10 +388,16 @@ Thematik genauer zu untersuchen, welches sich in Zukunft, beispielsweise neben d
 Weise der Auslegung und Behandlung der Theorie gestaltet sich schwierig. Durch den großen Anteil auf persönlich basierender Annahmen und weniger
 wissenschaftlich betrachteten Aspekten der Argumentation beider Parteien, zeichnen sich vermehrt Eigenschaften von Philosophie und Glauben, anstelle von
 wissenschaftlichen Grundlagen in der Diskussion, ab.</p>
-      <p class="o-p--tie">Faktisch kann keine absolute Aussage über das Eintreffen der Technischen Singularität getroffen werden, bis diese etwaig eintrifft.
+
+      <blockquote>
+        <p>My general observation is that it has been seeping into our lives in all sorts of ways, and we just don’t notice; and part of the reason is because the way we think about AI is colored by popular culture. There’s a distinction, which is probably familiar to a lot of your readers, between generalized AI and specialized AI. In science fiction, what you hear about is generalized AI, right? Computers start getting smarter than we are and eventually conclude that we’re not all that useful, and then either they’re drugging us to keep us fat and happy or we’re in the Matrix. My impression, based on talking to my top science advisers, is that we’re still a reasonably long way away from that. It’s worth thinking about because it stretches our imaginations and gets us thinking about the issues of choice and free will that actually do have some significant applications for specialized AI, which is about using algorithms and computers to figure out increasingly complex tasks. We’ve been seeing specialized AI in every aspect of our lives, from medicine and transportation to how electricity is distributed, and it promises to create a vastly more productive and efficient economy. If properly harnessed, it can generate enormous prosperity and opportunity. But it also has some downsides that we’re gonna have to figure out in terms of not eliminating jobs. It could increase inequality. It could suppress wages.</p>
+        <cite><span class="c-ref" data-ref-id="43" data-ref-type="zitat" data-ref-desc="">Barack Hussein Obama II</span></cite>
+      </blockquote>
+
+      <p>Faktisch kann keine absolute Aussage über das Eintreffen der Technischen Singularität getroffen werden, bis diese etwaig eintrifft.
 Aus diesem Grund ist eine wachsame und agnostische Ansichtsweise ratsam, speziell ein ethisch verantwortlicher Umgang und die allgemeine Sicherstellung dieser
-im Bezug auf technologische Errungenschaften. Ausgangspunkte sind beispielsweise die zusammenfassenden Ansichten von Nick Bostrom in seinem Artikel “When
-Machines Outsmart Humans ERSCHEINUNGSJAHR”, oder Stiftungen wie “Future of Life” und dessen offener Brief, mit prominenten Befürwortern wie unter anderem
+im Bezug auf technologische Errungenschaften. Ausgangspunkte sind beispielsweise die zusammenfassenden Ansichten von Nick Bostrom in seinem Artikel <span class="c-ref" data-ref-id="34" data-ref-type="ref" data-ref-desc="">“When
+Machines Outsmart Humans”</span>, oder Stiftungen wie <span class="c-ref" data-ref-id="44" data-ref-type="ref" data-ref-hide-kneenote>“Future of Life”</span> und dessen <span class="c-ref" data-ref-id="44" data-ref-type="bsp" data-ref-desc="">offener Brief</span>, mit prominenten Befürwortern wie unter anderem
 Stephen Hawking, Elon Musk, und Steve Wozniak.</p>
 
       <blockquote>
@@ -395,7 +405,7 @@ Stephen Hawking, Elon Musk, und Steve Wozniak.</p>
 greater-than-human intelligence will be built within fifty years. On the contrary, we should recognise this as a possibility that merits serious attention. The
 second conclusion is that the creation of such artificial intellects will have wide-ranging consequences for almost all the social, political, economic,
 commercial, technological, scientific and environmental issues that humanity will confront in this century.</p>
-        <cite><a href="#">— Nick Bostrom, When Computers Outsmart Humans, 2000</a></cite>
+        <cite><span class="c-ref" data-ref-id="34" data-ref-type="zitat" data-ref-desc="">Nick Bostrom</span></cite>
       </blockquote>
 
       <h2>Der Aufstieg von Software und seine Pioniere</h2>
@@ -411,9 +421,17 @@ nutzbar zu machen. Ein besonderer Fokus liegt dabei auf essentielle Entwicklunge
 unzählige, wichtige Fortschritte zu verzeichnen hat.</p>
 
       <img src="./assets/img/comic-intro.png" alt=""/>
-      <p>New Media Reader - Time Frames S.712</p>
-      <p>Der New Media Reader, 2003 zusammengetragen von Noah Wardrip-Fruin und Nick Montfort, gilt als eine der ersten, erfolgreichen Bemühungen die
-historischen Ereignisse von Computer- und Software Technologien zusammenzufassen. In den folgenden Passagen wird daraus eine überwiegende Auswahl an Werken
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="191" data-ref-type="ref" data-ref-desc="S.94-117 " data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="Time Frames - Scott McCloud, 1993 - S.712 " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p><span class="c-ref" data-ref-id="5" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>The New Media Reader</span> zusammengetragen von Noah Wardrip-Fruin und Nick Montfort, gilt als eine der ersten, erfolgreichen Bemühungen die
+historischen Ereignisse von Computer- und Software Technologien <span class="c-ref" data-ref-id="5" data-ref-desc="Inventing the medium - Janet H. Murray, S.3 " data-ref-type="ref">zusammenzufassen</span>. In den folgenden Passagen wird daraus eine überwiegende Auswahl an Werken
 rezitiert, welche speziell für die Entwicklung und die Digitalisierung durch Software entscheidende Meilensteine markieren.</p>
 
       <h3>Digitale Rechenmaschinen</h3>
@@ -421,29 +439,26 @@ rezitiert, welche speziell für die Entwicklung und die Digitalisierung durch So
       <blockquote>
         <p>...Turing and I discussed the possibility of machine intelligence and automatic chess. Other people were involved in drama and tennis and,
 presumably, sex. There were many young ladies around, but I was too shy and too busy...</p>
-        <cite><a href="#">— I. J. Good, 1996</a></cite>
+        <cite><span class="c-ref" data-ref-id="47" data-ref-type="zitat" data-ref-desc="Banks: What was the intellectual and social life like at Bletchley Park? - S.10 ">Irving John Good</span></cite>
       </blockquote>
 
       <div class="c-person">
         <div class="c-person__object">
-          <img class="c-person__image" src="./assets/img/turing.jpg" alt="Alan Turing"
-data-source="https://www.welt.de/img/kultur/literarischewelt/mobile133890343/0182502307-ci102l-w1024/A-handout-photo-shows-Alan-Turing-1912.jpg"/>
+          <img class="c-person__image" src="./assets/img/turing.jpg" alt="Alan Turing" data-source="https://www.welt.de/img/kultur/literarischewelt/mobile133890343/0182502307-ci102l-w1024/A-handout-photo-shows-Alan-Turing-1912.jpg"/>
         </div>
         <div class="c-person__content">
-          <h4 class="c-person__name">Alan Turing</h4>
+          <h4 class="c-person__name"><span class="c-ref" data-ref-id="192" data-ref-desc="" data-ref-type="ref">Alan Mathison Turing</span></h4>
           <p class="c-person__bio">Der englische Wissenschaftler Alan Turing ist neben seinen Leistungen als Logiker, Kryptoanalytiker und theoretischer
-Biologe
-hauptsächlich bekannt für die Erfindung der gleichnamigen “Turing Maschine” und im popkulturellen Kontext für seinen Beitrag beim Entschlüsseln der deutschen
+Biologe hauptsächlich bekannt für die Erfindung der gleichnamigen “Turing Maschine” und im <span class="c-ref" data-ref-id="193" data-ref-desc="" data-ref-type="ref">popkulturellen Kontext</span> für seinen Beitrag beim Entschlüsseln der deutschen
 Enigma Codierungsmaschine.</p>
         </div>
       </div>
 
       <p>Zu Turings Lebzeiten gab es bereits wegweisende Entwicklungen von Charles Babbage aus dem 19ten Jahrhundert (1822-1837), wie beispielsweise die
-Difference- bzw. Analyticalengine. Das Revolutionäre an dem Konzept der Turingmaschine ist allerdings, neben ihrer eigentlichen Funktionsweise, die
-Verkörperung
-des theoretischen Ansatzes die Realität durch die Kombination zwei simpler Zeichen (0 und 1) auszudrücken - retrospektiv die Geburtsstunde von Digitalisierung,
-Software und Cyberspace. Das 1936 erfundene Modell der Turingmaschine besteht in ihrer ursprünglichen Basisausführung weitgehend aus drei bzw. vier physischen
-Komponenten:</p>
+Difference- bzw. <span class="c-ref" data-ref-id="50" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Analyticalengine.</span> Das Revolutionäre an dem Konzept der Turingmaschine ist allerdings, neben ihrer eigentlichen Funktionsweise, die
+Verkörperung des theoretischen Ansatzes die Realität durch die Kombination zwei simpler Zeichen (0 und 1) auszudrücken - retrospektiv die Geburtsstunde von Digitalisierung,
+Software und dem Cyberspace. Das 1936 erfundene Modell der Turingmaschine besteht in ihrer ursprünglichen Basisausführung weitgehend aus drei bzw. vier physischen
+<span class="c-ref" data-ref-id="51" data-ref-desc="" data-ref-type="ref">Komponenten</span>:</p>
 
       <ol>
         <li>Ein Schaltwerk, das eine endliche Zahl von Zuständen einnehmen kann, ein Speicherband, das unendlich lang ist und aus nebeneinander angeordneten
@@ -456,12 +471,11 @@ Speicherzellen besteht, die entweder leer sind oder einen Buchstaben aus einem A
 
       <p>Jede konfigurierte Turingmaschine beschreibt genau einen spezifischen Algorithmus (eine Aufgabe). Weitere Abwandlung wie z.B. die Universelle
 Turingmaschine, welche je nach Einstellung beliebige Aufgaben bewältigen kann, nähern sich dem Grundprinzip heutiger Computersysteme noch deutlicher an.
-Turings
-Arbeit zeigt zu diesem Zeitpunkt das Potential der Digitalisierung auf. Er inspiriert letztendlich viele seiner Kollegen und leitet damit das Zeitalter der
+Turings Arbeit zeigt zu diesem Zeitpunkt das Potential der Digitalisierung auf. Er inspiriert letztendlich viele seiner Kollegen und leitet damit das Zeitalter der
 Software ein.</p>
 
-      <p>Nach der Konzeption der Turingmaschine veröffentlicht er bereits 1950 den Essay “Computing Machinery and Intelligence” welcher sich mit der Frage
-beschäftigt ob Maschinen in der Lage sind zu denken (“Can machines think?”) . Neben der wissenschaftlichen Relevanz darauf basierender Konzepte und Forschung
+      <p>Nach der Konzeption der Turingmaschine veröffentlicht er bereits 1950 den Essay <span class="c-ref" data-ref-id="195" data-ref-desc="" data-ref-type="ref">“Computing Machinery and Intelligence”</span> welcher sich mit der Frage
+beschäftigt ob Maschinen in der Lage sind zu denken (“Can machines think?”). Neben der wissenschaftlichen Relevanz darauf basierender Konzepte und Forschung
 (z.B. Turing Test, ELIZA), werden die vorausschauende Weltsicht Turings - stellvertretend für viele weitere Protagonisten der Softwareentwicklung wie Norman,
 Neumann, Kay, usw. - erkennbar. Dies spiegelt sich ebenfalls durch das Eingangszitat von I. J. Good wider. Dazu zählt beispielsweise die Digitalisierung,
 maschinelles Lernen und letztendlich die Art und Weise, inwiefern sich Erfindungen, wie der Computer in den Alltag, integrieren.</p>
@@ -471,29 +485,111 @@ maschinelles Lernen und letztendlich die Art und Weise, inwiefern sich Erfindung
           <img class="c-person__image" src="./assets/img/neumann.png" alt="John von Neumann" data-source="https://de.wikipedia.org/wiki/John_von_Neumann"/>
         </div>
         <div class="c-person__content">
-          <h4 class="c-person__name">John von Neumann</h4>
+          <h4 class="c-person__name"><span class="c-ref" data-ref-id="194" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>John von Neumann</span></h4>
           <p class="c-person__bio">Der aus Ungarn stammende amerikanische Mathematiker John von Neumann, mit bedeutenden Werken in mathematischer Logik,
 Funktionalanalysis, Quantenmechanik. Er ist zudem bekannt für die Spieltheorie und gilt als einer der Väter der Informatik.</p>
         </div>
       </div>
 
-      <p>Neumann publiziert 1945 die erste grobe Zusammenfassung des EDVAC (Electronic Discrete Variable Automatic Computer) Reports, welche die grundlegende
+      <p>Neumann publiziert 1945 die erste grobe Zusammenfassung des EDVAC (Electronic Discrete Variable Automatic Computer) <span class="c-ref" data-ref-id="52" data-ref-desc="" data-ref-type="ref">Reports</span>, welche die grundlegende
 Basis der bis heute gültigen Computerarchitektur beschreibt. Er setzt sich seinerzeit vehement für die weitere Entwicklung der Rechenmaschinen ein, um diese
-möglichst schnell für weitere Forschungen (z.B. dem Bau der Nagasaki Atombombe) nutzbar zu machen. Bei der Entwicklung und Forschung an Rechenmaschinen beruhen
+möglichst schnell für weitere Forschungen (z.B. dem Bau der Nagasaki Atombombe) <span class="c-ref" data-ref-id="53" data-ref-desc="S.176 " data-ref-type="ref">nutzbar zu machen</span>. Bei der Entwicklung und Forschung an Rechenmaschinen beruhen
 Neumanns Verdienste besonders auf der Mathematisierung und Verwissenschaftlichung jener. Initial sollten die Ergebnisse in der ENIAC Arbeitsgruppe intern
 behandelt werden, doch Neumann entscheidet sich dazu sie zu publizieren.</p>
 
-      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger Kontroversen ist, so hat er sich als Namensgeber, für die nach ihm benannte
-“Von-Neumann-Architektur” (alternativ: „speicherprogrammierbare Rechner“ bzw. stored program computer) , größtenteils durchgesetzt. Sie enthält Komponenten,
-welche sich in ihrer Funktionsweise und ihrem Zusammenspiel, in zeitgeistlichen Computersystemen weitgehend behaupten.</p>
+      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger <span class="c-ref" data-ref-id="54" data-ref-desc="S.139 " data-ref-type="ref">Kontroversen</span> ist, so hat er sich als Namensgeber, für die nach ihm benannte
+“Von-Neumann-Architektur” (alternativ: „speicherprogrammierbare Rechner“ bzw. stored program computer), größtenteils durchgesetzt. Sie enthält Komponenten,
+welche sich in ihrer Funktionsweise und ihrem Zusammenspiel, in zeitgeistlichen Computersystemen weitgehend <span class="c-ref" data-ref-id="194" data-ref-desc="" data-ref-parameter="&t=39m15s" data-ref-type="ref">behaupten.</span></p>
       <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen wie beispielsweise “Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
-Z4,
-ENIAC” eingeführt. Jede dieser Maschinen erfüllen verschiedene Kombinationen an Kriterien für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
-Grund
-kann die Frage nach dem ersten wirklichen Computer nur nach jeweiligen Präferenzen beantwortet werden. Der “ENIAC” ist der fünfte Digitalrechner der Geschichte
+Z4, ENIAC” eingeführt. Jede dieser Maschinen erfüllen verschiedene Kombinationen an Kriterien für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
+Grund kann die Frage nach dem ersten wirklichen Computer nur nach jeweiligen Präferenzen beantwortet werden. Der “ENIAC” ist der fünfte Digitalrechner der Geschichte
 und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmächtig, gleichzeitig erfüllt. Programmänderungen sind bis dato nur durch
 Veränderungen der Hardware herbeizuführen. Eine vergleichbare Verbesserung wie jene der Turingmaschine zur Universellen Turingmaschine. Die evolutionäre
-Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato unverändert fort (siehe Mooresches Gesetz).</p>
+Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato unverändert fort.</p>
+
+<h5><span class="c-ref" data-ref-id="196" data-ref-desc="Eigenschaften der ersten Computer" data-ref-type="ref">Eigenschaften der ersten Computer</span></h5>
+<table>
+  <tbody>
+    <tr>
+      <th>Computer</th>
+      <th>Land</th>
+      <th>Jahr</th>
+      <th>Gleitkomma-<br>arithmetik</th>
+      <th>Binär</th>
+      <th>Elektronisch</th>
+      <th>Programmierbar</th>
+      <th>Turingmächtig</th>
+    </tr>
+    <tr>
+      <td>Zuse Z3</td>
+      <td>Deutschland</td>
+      <td>1941</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja, durch Lochstreifen</td>
+      <td class="o-background--success">Ja, ohne Praxisnutzen</td>
+    </tr>
+    <tr>
+      <td>Atanasoff-Berry-Computer</td>
+      <td>USA</td>
+      <td>1941</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--error">Nein</td>
+    </tr>
+    <tr>
+      <td>Colossus</td>
+      <td>UK</td>
+      <td>1943</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--warning">Teilweise, durch Neuverkabelung</td>
+      <td class="o-background--error">Nein</td>
+    </tr>
+    <tr>
+      <td><a href="/wiki/Mark_I_(Computer)" title="Mark I (Computer)">Mark I</a></td>
+      <td>USA</td>
+      <td>1944</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja, durch Lochstreifen</td>
+      <td class="o-background--success">Ja</td>
+    </tr>
+    <tr>
+      <td>Zuse Z4</td>
+      <td>Deutschland</td>
+      <td>1945</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja, durch Lochstreifen</td>
+      <td class="o-background--success">Ja</td>
+    </tr>
+    <tr>
+      <td rowspan="2">ENIAC</td>
+      <td rowspan="2">USA</td>
+      <td>1946</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--warning">Teilweise, durch Neuverkabelung</td>
+      <td class="o-background--success">Ja</td>
+      </tr>
+    <tr>
+    <td>1948</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--error">Nein</td>
+      <td class="o-background--success">Ja</td>
+      <td class="o-background--success">Ja, durch eine Matrix aus Widerständen</td>
+      <td class="o-background--success">Ja</td>
+    </tr>
+  </tbody>
+</table>
 
       <p>Sowohl Turing als auch Neumann sind mit der Verwirklichung ihrer Ideen zukunftsweisend. Nicht nur in ihren Ideen sondern auch in ihrem Handeln
 manifestieren sich Bruchstücke zeitgeistiger, gesellschaftlicher Konventionen. Beispielsweise das unkonventionelle Veröffentlichen eines unfertigen Essays von
@@ -503,7 +599,7 @@ Globalisierung und den Vernetzungsmöglichkeiten des Internets eine auffallende 
       <p class="o-p--tie">Ein weiterer, wichtiger Aspekt bei der Betrachtung dieser Entwicklungen sind zudem die Motivationen unter denen diese geschaffen
 wurden. Neben dem wissenschaftlichen Ehrgeiz können in beiden Fällen Bezüge zum Militär und herrschenden Kriegssituationen hergestellt werden. Turing stellt
 sein Wissen für Spionage-Zwecke zur Verfügung und speziell Neumann nutzt die fortschrittlichen Maschinen zur automatisierten Berechnung von Ballistik-Tabellen
-und letztendlich für die Entwicklung und den Einsatz der Atombombe.
+und letztendlich für die Entwicklung und den Einsatz der Atombombe*.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -513,8 +609,8 @@ und letztendlich für die Entwicklung und den Einsatz der Atombombe.
             <span class="c-note-side">
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">Why not bomb them today?</strong>
-                <span class="c-note-side__text">Die Studienarbeit von Marcus Richter und Constanze Kurz, 2004 ist für den tieferen Einblick in die mögliche
-Motivation Neumanns empfehlenswert. Ebenfalls die Aussagen von Neumanns Tochter in der Arte Dokumentation über sein Lebenswerk.</span>
+                <span class="c-note-side__text">Die <span class="c-ref" data-ref-id="55" data-ref-desc="" data-ref-type="ref">Studienarbeit</span> von Marcus Richter und Constanze Kurz ist für den tieferen Einblick in die mögliche
+Motivation Neumanns empfehlenswert. Ebenfalls die Aussagen von Neumanns Tochter in der Arte Dokumentation über sein <span class="c-ref" data-ref-id="194" data-ref-desc="" data-ref-parameter="&t=22m53s" data-ref-type="ref">Lebenswerk.</span></span>
               </span>
             </span>
           </span>
@@ -524,23 +620,23 @@ Motivation Neumanns empfehlenswert. Ebenfalls die Aussagen von Neumanns Tochter 
 
       <blockquote>
         <p>Mr. President, I have blood on my hands.</p>
-        <cite><a href="#">— Oppenheimer zu Präsident Truman</a></cite>
+        <cite><span class="c-ref" data-ref-id="198" data-ref-type="zitat" data-ref-desc="">Oppenheimer zu Präsident Truman</span></cite>
       </blockquote>
 
       <blockquote>
         <p>Nun bin ich der Tod geworden, der Zerstörer der Welt.</p>
-        <cite><a href="#">— Oppenheimer zitiert bedauernd das hinduistische Werk Bhagawadgita</a></cite>
+        <cite><span class="c-ref" data-ref-id="199" data-ref-type="zitat" data-ref-desc="S.682 ">Oppenheimer zitiert bedauernd das hinduistische Werk Bhagawadgita</span></cite>
       </blockquote>
 
       <blockquote>
         <p>Johnny used to say, ‘Some people profess guilt to claim credit for the sin’.</p>
-        <cite><a href="#">— Ulam über Neumann</a></cite>
+        <cite><span class="c-ref" data-ref-id="200" data-ref-type="zitat" data-ref-desc="S.224 ">Ulam über Neumann</span></cite>
       </blockquote>
 
       <p>Schlussendlich markieren die Studien von Turing, Neumann und Co. Meilensteine in der Entwicklung. Sie zeigen jedoch auch auf, dass eine reflektierte
 Motivation für den Kreationsprozess immer als ein fundamentaler Bestandteil angesehen werden sollte.</p>
 
-      <h3>Turnhallen Computer</h3>
+      <h3><abbr title="Selbstkreierter Sammelbegriff für Supercomputer, Großrechner, Ultracomputer und generell alle exorbitanten Computersysteme">Turnhallen Computer</abbr></h3>
 
       <p>Parallel zum Aufstieg der Serientauglichkeit von Computern existieren bereits eindrucksvolle Applikationen, welche jedoch nur mithilfe von großen,
 digitalen Rechenmaschinen betrieben werden können.</p>
@@ -554,18 +650,17 @@ data-source="http://www.roadtovr.com/fred-brooks-ivan-sutherlands-1965-ultimate-
           <h4 class="c-person__name">Ivan Sutherland</h4>
           <p class="c-person__bio">Einer ihrer Entwickler ist der amerikanische MIT Doktorand Ivan Sutherland, welcher bis heute als Spezialist und Pionier im
 Bereich Computergrafik gilt. Dieser entwickelt im Rahmen seiner Doktorarbeit, auf einem leistungsstärkeren TX-2 Computer, 1962 eine der ersten interaktiven
-Grafikanwendungen für die militärische Radarentwicklung. Sutherland ist ebenfalls der Entwickler des ersten computergestützten Virtual Reality Geräts und
+Grafikanwendungen für die <span class="c-ref" data-ref-id="6" data-ref-desc="S.109" data-ref-type="vgl">militärische Radarentwicklung.</span> Sutherland ist ebenfalls der Entwickler des ersten computergestützten Virtual Reality Geräts und
 weiterer Grafik bezogener Algorithmen.</p>
         </div>
       </div>
 
-      <p>Die unter dem Namen “Sketchpad” berühmt gewordene Anwendung gilt als einer der Ursprünge für die heutige Mensch-Computer-Interaktion. Sie symbolisiert
+      <p>Die unter dem Namen <span class="c-ref" data-ref-id="6" data-ref-desc="Sketchpad: A Man-Machine Graphical Communication System - Ivan Sutherland, 1963 " data-ref-type="ref">“Sketchpad”</span> berühmt gewordene Anwendung gilt als einer der Ursprünge für die heutige Mensch-Computer-Interaktion. Sie symbolisiert
 nicht nur eine Alternative zur traditionellen Darstellung auf physischen Medien (z.B. Papier), sondern eröffnet eine völlig neue, erweiterte Art der
-unmittelbaren Manipulation von Objekten, basierend auf Vektoren (Punkte, Linien, Formen). Es ist somit das erste sog. conversational interface, welches einen
+unmittelbaren Manipulation von Objekten, basierend auf Vektoren (Punkte, Linien, Formen). Es ist somit das erste sog. <span class="c-ref" data-ref-id="6" data-ref-desc="" data-ref-type="ref"><i>conversational interface</i></span>, welches einen
 raschen Austausch von Informationen in derselben Geschwindigkeit ermöglicht, vergleichbar der Konversation zweier Personen.</p>
       <p class="o-p--tie">Mit Sketchpad wird es möglich bereits erstellte Objekte zu editieren, auszurichten, zu positionieren, zu skalieren, zu löschen oder
-in
-Relation zueinander zu setzen. Das rekursive Reproduzieren dieser Prozesse ist ebenfalls möglich. Zudem zeigt es bereits in ersten Ansätzen den ikonischen
+in Relation zueinander zu setzen. Das rekursive Reproduzieren dieser Prozesse ist ebenfalls möglich. Zudem zeigt es bereits in ersten Ansätzen den ikonischen
 Charakter der auf dem Monitor befindlichen Objekte auf. Durch das Arbeiten in einem neuartigen, digital mathematischen Rahmen beschreibt Sutherland den
 Verbindungsprozess von Kalkulation und Design, zu denen speziell heutige Designer und gleichermaßen Developer in Schnittstellen-Positionen - welche
 Technologien/Tools (Werkzeuge) wie z.B. generatives Design, oder SASS nutzen - einen besonderen Bezug herstellen können.</p>
@@ -608,7 +703,35 @@ möglichst hohen Gewinn zu erzielen. Für dieses Vorhaben nutzt Fink Hallacs Dat
         </div>
       </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <p style="color: red;">bis hierhin geprüft</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       <p>Das aus Algorithmen bestehende System Aladdin (Asset, Liability, and Debt and Derivative Investment Network) bildet das Fundament seines, im selben
 Jahr gegründeten, multinational, agierenden Investment Unternehmens BlackRock. Dieses gilt seit seiner Gründung als eines der erfolgreichsten und gleichzeitig
@@ -747,19 +870,17 @@ Gesellschaft, speziell beim schaffenden Prozess im Umgang mit sog. Neuen Medien 
 J. M. Balkin ordnet er verschiedene Arten von Software ihren jeweiligen, kulturellen Umständen zu und bezeichnet diese fortan als Cultural Software. Seine von
 ihm kategorisierten Beispiele umfassen:</p>
 
-      <p class="o-p--tie">
-        <ol>
-          <li>Die Kreation kultureller Artefakte und interaktiver Dienste, welche Darstellungen, Ideen, Überzeugungen und ästhetische Werte enthalten,
+      <ol>
+        <li>Die Kreation kultureller Artefakte und interaktiver Dienste, welche Darstellungen, Ideen, Überzeugungen und ästhetische Werte enthalten,
 beispielsweise das Editieren eines Musikvideos, oder der Designprozess einer Website bzw. App.</li>
-          <li>Den Zugriff, das Teilen und Mischen solcher Medien z.B. das Lesen und Kommentieren von Online-Inhalten. </li>
-          <li>Das Kreieren und Teilen von Wissen auf Plattformen wie beispielsweise Wikipedia, oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
-          <li>Die Kommunikation mit anderen Menschen über Services wie E-Mail, Instant Messenger, Sprach- oder Video-Chat, Social Media, etc.</li>
-          <li>Die Interaktion in kulturellen Erfahrungen wie Online-Gaming.</li>
-          <li>Die Partizipation in Online Informationen durch das Hinzufügen von Metadaten, über beispielsweise das Betätigen der “Gefällt mir”-Funktion von
+        <li>Den Zugriff, das Teilen und Mischen solcher Medien z.B. das Lesen und Kommentieren von Online-Inhalten. </li>
+        <li>Das Kreieren und Teilen von Wissen auf Plattformen wie beispielsweise Wikipedia, oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
+        <li>Die Kommunikation mit anderen Menschen über Services wie E-Mail, Instant Messenger, Sprach- oder Video-Chat, Social Media, etc.</li>
+        <li>Die Interaktion in kulturellen Erfahrungen wie Online-Gaming.</li>
+        <li>Die Partizipation in Online Informationen durch das Hinzufügen von Metadaten, über beispielsweise das Betätigen der “Gefällt mir”-Funktion von
 Facebook.</li>
-          <li>Die Entwicklung von Tools und Services für die Unterstützung aller genannten Beispiele.</li>
-        </ol>
-      </p>
+        <li>Die Entwicklung von Tools und Services für die Unterstützung aller genannten Beispiele.</li>
+      </ol>
 
       <p>Manovich behandelt jeden dieser Punkte ausführlich in seinem Werk “Software takes Control”, in dem auch das Internet eine essentielle Rolle einnimmt.
 Um ein Verständnis für die komplexen Abläufe, Fortschritte, Korrelationen und Gründe der Veränderungen jener Zeit zu entwickeln, empfiehlt sich eine
