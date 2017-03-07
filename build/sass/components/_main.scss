@@ -1,3 +1,12 @@
+// add to framework
+
+.#{$base-prefix}u-hide\@print {
+  @media print {
+    display: none!important;
+    visibility: hidden!important;
+  }
+}
+
 // document sizing
 
 @page {
@@ -252,6 +261,9 @@ a.c-ref__desc {
   &__content {}
 }
 
+.u-wrap {
+  white-space: nowrap!important;
+}
 
 .o-background--success {
   background-color: $base-color-state-success;
@@ -297,6 +309,12 @@ a.c-ref__desc {
   }
 
   table {
+    page-break-inside: avoid;
+    caption {
+      font-weight: bold;
+      text-align: left;
+      @include to-rem(margin-bottom, $base-spacing-half);
+    }
     @include to-rem(margin-bottom, $base-spacing);
     border-collapse: collapse;
     tr {}
@@ -403,14 +421,14 @@ a.c-ref__desc {
         content: ' «';
       }
     }
-    cite {
-      &:before {
-        content: ' — ';
-      }
-    }
     ol,
     ul {
       @include to-rem(margin-bottom, $base-spacing-half);
+    }
+  }
+  cite {
+    &:before {
+      content: ' — ';
     }
   }
 
@@ -541,6 +559,22 @@ a.c-ref__desc {
       @include to-rem(padding-bottom, $base-spacing-half);
     }
   }
+
+  .c-chat-log {
+    &__code {
+      font-family: "OCRA", monospace;
+      font-size: 13px;
+      @include to-rem(padding, $base-spacing-half $base-spacing);
+      background: #000;
+      color:#00ff00;
+      @media print {
+        -webkit-print-color-adjust: exact;
+        color: #fff;
+      }
+    }
+  }
+
+  // end c-proposal
 }
 
 .c-section-stage {

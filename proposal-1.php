@@ -209,10 +209,10 @@ sie wie folgt:</p>
         <cite><span class="c-ref" data-ref-id="18" data-ref-type="zitat" data-ref-desc="">Irving John Good</span></cite>
       </blockquote>
 
-      <p>Auch in popkultureller Hinsicht erfreut sich dieses Konzept besonderer Beliebtheit. Speziell in Filmen, Serien oder Videospielen wie <span class="c-ref" data-ref-id="20" data-ref-type="ref" data-ref-desc="">Transcendence</span>,
-<span class="c-ref" data-ref-id="21" data-ref-type="ref" data-ref-desc="">Her</span>, <span class="c-ref" data-ref-id="22" data-ref-type="ref" data-ref-desc="">Matrix</span>, <span class="c-ref" data-ref-id="23" data-ref-type="ref" data-ref-desc="">Terminator</span>,
- <span class="c-ref" data-ref-id="24" data-ref-type="ref" data-ref-desc="">Westworld</span>, <span class="c-ref" data-ref-id="25" data-ref-type="ref" data-ref-desc="">Ex Machina</span>, <span class="c-ref" data-ref-id="26" data-ref-type="ref" data-ref-desc="">DeusEx</span>,
-  <span class="c-ref" data-ref-id="27" data-ref-type="ref" data-ref-desc="">Portal</span> usw. wird diese Thematik auf verschiedene Weisen behandelt, oft mit dystopischen Tendenzen. Die
+      <p>Auch in popkultureller Hinsicht erfreut sich dieses Konzept besonderer Beliebtheit. Speziell in Filmen, Serien oder Videospielen wie <span class="c-ref" data-ref-id="20" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Transcendence</span>,
+<span class="c-ref" data-ref-id="21" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Her</span>, <span class="c-ref" data-ref-id="22" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Matrix</span>, <span class="c-ref" data-ref-id="23" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Terminator</span>,
+ <span class="c-ref" data-ref-id="24" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Westworld</span>, <span class="c-ref" data-ref-id="25" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Ex Machina</span>, <span class="c-ref" data-ref-id="26" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>DeusEx</span>,
+  <span class="c-ref" data-ref-id="27" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Portal</span> usw. wird diese Thematik auf verschiedene Weisen behandelt, oft mit dystopischen Tendenzen. Die
 möglichen Konsequenzen solcher Auswirkungen und zukünftiger Entwicklungen sind die Grundlage fundamentaler Diskussionen.</p>
 
       <p>Wie alle unbewiesenen Theorien muss sich auch die Technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
@@ -497,7 +497,7 @@ möglichst schnell für weitere Forschungen (z.B. dem Bau der Nagasaki Atombombe
 Neumanns Verdienste besonders auf der Mathematisierung und Verwissenschaftlichung jener. Initial sollten die Ergebnisse in der ENIAC Arbeitsgruppe intern
 behandelt werden, doch Neumann entscheidet sich dazu sie zu publizieren.</p>
 
-      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger <span class="c-ref" data-ref-id="54" data-ref-desc="S.139 " data-ref-type="ref">Kontroversen</span> ist, so hat er sich als Namensgeber, für die nach ihm benannte
+      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger <span class="c-ref" data-ref-id="54" data-ref-desc="S.139 " data-ref-type="vgl">Kontroversen</span> ist, so hat er sich als Namensgeber, für die nach ihm benannte
 “Von-Neumann-Architektur” (alternativ: „speicherprogrammierbare Rechner“ bzw. stored program computer), größtenteils durchgesetzt. Sie enthält Komponenten,
 welche sich in ihrer Funktionsweise und ihrem Zusammenspiel, in zeitgeistlichen Computersystemen weitgehend <span class="c-ref" data-ref-id="194" data-ref-desc="" data-ref-parameter="&t=39m15s" data-ref-type="ref">behaupten.</span></p>
       <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen wie beispielsweise “Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
@@ -507,8 +507,9 @@ und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmäc
 Veränderungen der Hardware herbeizuführen. Eine vergleichbare Verbesserung wie jene der Turingmaschine zur Universellen Turingmaschine. Die evolutionäre
 Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato unverändert fort.</p>
 
-<h5><span class="c-ref" data-ref-id="196" data-ref-desc="Eigenschaften der ersten Computer" data-ref-type="ref">Eigenschaften der ersten Computer</span></h5>
+
 <table>
+  <caption class="o-h5"><span class="c-ref" data-ref-id="196" data-ref-desc="Eigenschaften der ersten Computer" data-ref-type="ref">Eigenschaften der ersten Computer</span></caption>
   <tbody>
     <tr>
       <th>Computer</th>
@@ -662,40 +663,39 @@ raschen Austausch von Informationen in derselben Geschwindigkeit ermöglicht, ve
       <p class="o-p--tie">Mit Sketchpad wird es möglich bereits erstellte Objekte zu editieren, auszurichten, zu positionieren, zu skalieren, zu löschen oder
 in Relation zueinander zu setzen. Das rekursive Reproduzieren dieser Prozesse ist ebenfalls möglich. Zudem zeigt es bereits in ersten Ansätzen den ikonischen
 Charakter der auf dem Monitor befindlichen Objekte auf. Durch das Arbeiten in einem neuartigen, digital mathematischen Rahmen beschreibt Sutherland den
-Verbindungsprozess von Kalkulation und Design, zu denen speziell heutige Designer und gleichermaßen Developer in Schnittstellen-Positionen - welche
-Technologien/Tools (Werkzeuge) wie z.B. generatives Design, oder SASS nutzen - einen besonderen Bezug herstellen können.</p>
+Verbindungsprozess von <span class="c-ref" data-ref-id="6" data-ref-desc="S.111" data-ref-type="vgl">Kalkulation und Design</span>, zu denen speziell heutige Designer und gleichermaßen Developer in Schnittstellen-Positionen - welche
+Technologien/Tools (Werkzeuge) wie z.B. generatives Design, oder SASS nutzen - einen besonderen <span class="c-ref" data-ref-id="59" data-ref-desc="" data-ref-type="ref">Bezug herstellen können.</span></p>
       <p class="o-p--tie">Sketchpad zeigt nach Turing ebenfalls auf, dass die Realität auf einer rudimentären, visuellen und mathematisch fundierten Ebene
 kodifiziert werden kann. Als Peripheriegerät fungiert primär ein sog. Lichtgriffel mit dem der Nutzer die Objekte direkt auf dem Monitor arbeiten kann.</p>
       <p class="o-p--tie">Obwohl sich für serielle Input Schnittstellen Tastatur und Maus primär etablieren, zeigt Sutherland mit dem Lichtgriffel bereits eine
-intuitive Manipulation von Software Grafiken auf. Eine Inspiration für spätere, ähnliche Peripheriegeräte (z.B. Vacom Pad) für primär, kreative Anwendungen.
+intuitive Manipulation von Software Grafiken auf. Eine Inspiration für spätere, ähnliche Peripheriegeräte (z.B. Grafiktablet) für primär, kreative Anwendungen.
 Sutherlands Arbeit an Sketchpad beeinflusst in folgenden Jahren weitere Pioniere wie Alan Kay beim Etablieren der objektorientierten Programmierung oder der
-Einführung von grafischen Benutzeroberflächen zur Bedienung und Verwaltung von sog. Mikrocomputern.</p>
+Einführung von grafischen Benutzeroberflächen zur Bedienung und Verwaltung von sog. <abbr title="Ein Mikrocomputer ist ein kompletter Computer in kleinerem Maßstab und ist in der Regel ein Synonym für den allgemeineren Begriff, Personal Computer oder PC, ein Computer für eine Person entworfen. Ein Mikrocomputer enthält einen Mikroprozessor (eine zentrale Verarbeitungseinheit auf einem Mikrochip), Speicher in Form von Nur-Lese-Speicher und Speicher mit wahlfreiem Zugriff, I / O-Ports und einem Bus oder System von miteinander verbundenen Drähten, die in einer Einheit untergebracht sind, die üblicherweise aufgerufen wird Ein Motherboard.">Mikrocomputern.</abbr></p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/USyoT_Ha_bA?start=212&autoplay=0&showinfo=0&controls=0&vq=hd720" frameborder="0"
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/USyoT_Ha_bA?start=212&autoplay=0&showinfo=0&vq=hd720" frameborder="0"
 allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/USyoT_Ha_bA/hqdefault.jpg" alt=""/>
       </div>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-
+          <span class="c-ref" data-ref-id="201" data-ref-type="ref" data-ref-desc="" data-ref-parameter="?t=3m30s" data-ref-hide></span><!-- old time ?start=212 -->
         </div>
       </div>
 
       <p>Einen völlig anderen Anwendungszweck verfolgt das 1988 von Charles Hallac initiierte Rechensystem Aladdin. Anders als Sketchpad, betrieben auf einem
-TX-2 Supercomputer, läuft die Aladdin Applikation auf sog. Mainframes (Großrechner). Supercomputer sind darauf ausgelegt möglichst einzelne, komplexe
-Berechnungen zu bewältigen. Großrechner dagegen sind für das stabile, gleichzeitige, kontinuierliche Bewältigen von großen Datenmengen zuständig.  Unabhängig
-zu
-welchem Anwendungszweck Supercomputer oder Mainframes genutzt werden, beide Systeme benötigen Ressourcen welche nur von großen Unternehmen finanziert werden
-können. Ihre Unterschiede verdeutlichen sich neben den technischen Komponenten in der Art ihrer Nutzung.</p>
+<span class="u-wrap">TX-2</span> Supercomputer, läuft die Aladdin Applikation auf sog. Mainframes (Großrechnern). Supercomputer wie der TX-2 sind darauf ausgelegt möglichst komplexe
+Berechnungen zu bewältigen. Großrechner dagegen sind für das stabile, gleichzeitige, kontinuierliche Bewältigen von großen Datenmengen zuständig. Unabhängig
+zu welchem Anwendungszweck Supercomputer oder Mainframes genutzt werden, beide Systeme benötigen Ressourcen welche nur von großen Unternehmen finanziert werden
+können. Ihre Unterschiede verdeutlichen sich neben den technischen Komponenten in der Art ihrer <span class="c-ref" data-ref-id="60" data-ref-desc="" data-ref-type="ref">Nutzung.</span></p>
 
       <div class="c-person">
         <div class="c-person__object">
           <img class="c-person__image" src="./assets/img/fink.png" alt="Laurence Fink" data-source="http://www.vanityfair.com/news/2010/04/fink-201004"/>
         </div>
         <div class="c-person__content">
-          <h4 class="c-person__name">Laurence Fink</h4>
+          <h4 class="c-person__name"><span class="c-ref" data-ref-id="62" data-ref-desc="" data-ref-type="ref">Laurence Fink</span></h4>
           <p class="c-person__bio">Laurence Douglas "Larry" Fink bis dato erfolgreicher Investmentbanker trifft 1986 eine folgenschwere Prognose bezüglich
 gehandelter Risikoanlagen, woraus für seine Abteilung ein Verlust von 100 millionen US Dollar resultiert. Diese Schlüsselerfahrung beeinflusst seine
 Entscheidung ein Unternehmen zu gründen, welches das Geld ihrer Kunden investiert und gleichzeitig ein umfassendes Risikomanagement beinhaltet, um einen
@@ -706,40 +706,12 @@ möglichst hohen Gewinn zu erzielen. Für dieses Vorhaben nutzt Fink Hallacs Dat
 
 
 
+      <p style="color: red;">bis hierhin fussnoten eingefügt</p>
 
 
 
 
-
-
-
-
-
-
-
-      <p style="color: red;">bis hierhin geprüft</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      <p>Das aus Algorithmen bestehende System Aladdin (Asset, Liability, and Debt and Derivative Investment Network) bildet das Fundament seines, im selben
-Jahr gegründeten, multinational, agierenden Investment Unternehmens BlackRock. Dieses gilt seit seiner Gründung als eines der erfolgreichsten und gleichzeitig
-umstrittensten Unternehmen. BlackRock agiert und generiert ungeahnt sozialer, ökonomischer, oder politischer Umstände Profite, häufig und speziell durch die
-Ausnutzung dieser Parameter. Gleichzeitig ist es Shareholder in einer Unsumme einflussreicher Aktienunternehmen weltweit. Neben dem datierten Eigenwert des
-Unternehmens, handelt es mit Liquiditäten zwischen 4-5 billionen USD. Im Vergleich liegt das weltweite Bruttosozialprodukt zwischen 50-60 billionen USD.
-Zusammengefasst handelt es sich bei BlackRock und Konsorten, um einen mächtigen und global agierenden Apparat, welcher ebenfalls in popkulturellen Werken wie
-beispielsweise dem Film Fight Club, oder der TV Sendung Mr. Robot thematisiert wird.
+      <p>Das aus Algorithmen bestehende System Aladdin (Asset, Liability, and Debt and Derivative Investment Network) bildet das Fundament seines, im selben Jahr gegründeten, multinational, agierenden Investment Unternehmens BlackRock. Dieses gilt seit seiner Gründung als eines der erfolgreichsten und gleichzeitig umstrittensten Unternehmen. BlackRock agiert und generiert ungeahnt sozialer, ökonomischer, oder politischer Umstände Profite, häufig und speziell durch die Ausnutzung dieser Parameter. Gleichzeitig ist es Shareholder in einer Unsumme einflussreicher Aktienunternehmen weltweit. Neben dem datierten Eigenwert des Unternehmens, handelt es mit Liquiditäten zwischen 4-5 Billionen USD. Im Vergleich liegt das weltweite Bruttosozialprodukt zwischen 50-60 Billionen USD. Zusammengefasst handelt es sich bei BlackRock und Konsorten, um einen mächtigen und global agierenden Apparat, welcher ebenfalls in popkulturellen Werken wie beispielsweise dem Film Fight Club, oder der TV Sendung Mr. Robot thematisiert wird.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -749,72 +721,47 @@ beispielsweise dem Film Fight Club, oder der TV Sendung Mr. Robot thematisiert w
             <span class="c-note-side">
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">HyperNormalisation</strong>
-                <span class="c-note-side__text">Eine besondere Art der Verknüpfung aus Technologie, kulturellen Phänomenen, Politik und Macht wird in dem
-Dokumentationsfilm HyperNormalisation von Adam Curtis behandelt, welcher ebenfalls als große Inspiration für diese Arbeit fungiert.</span>
+                <span class="c-note-side__text">Eine besondere Art der Verknüpfung aus Technologie, kulturellen Phänomenen, Politik und Macht wird in dem Dokumentationsfilm HyperNormalisation von Adam Curtis behandelt, welcher ebenfalls als große Inspiration für diese Arbeit fungiert.</span>
               </span>
             </span>
           </span>
         </span>
 
       </p>
-      <p class="o-p--tie">Zu Beginn (1988) besteht Aladdin lediglich aus einer einzelnen Workstation. Diese befindet sich unscheinbar untergebracht in einem
-Büro des Unternehmens, zwischen einem Kühlschrank und einer Kaffeemaschine. Heute verteilt es sich auf vier leistungsstarke, autarke Rechenzentren. Die
-komplexen Algorithmen bedienen sich einer umfassenden Datenbank aus gesammelten Ereignissen der letzten Dekaden. Diese Daten sind das Extrakt jahrelanger
-Risiko
-Investments BlackRocks sowie vernetzter Partnerunternehmen und Kunden. Zu Blackrocks Kunden und anteiligen Firmen zählen nicht nur der Großzahl der
-einflussreichsten, globalen Unternehmen, sondern beispielsweise ebenfalls die US Regierung. Zusätzlich werden nicht nur Informationen aus dem Finanzsektor
-verarbeitet, sondern jegliche verwertbare Datensätze von Interesse und Relevanz bezüglich der Risikoanalyse. Durch die weitgehend freie Verfügbarkeit von
-Datensätzen im Zeitalter des Internets, verdeutlicht sich das Ausmaß dieser Reichweite. Die Korrelationen der Daten wertet Aladdin aus, um Risiko Prognosen und
-Empfehlungen zu erstellen, welche BlackRock wiederum nutzt und anschließend neue Werte zurück speist. Solche enormen Rechenoperationen können nur mithilfe
-eines
-ebenbürtigen Rechensystems wie Aladdin bewältigt werden. </p>
+      <p class="o-p--tie">Zu Beginn (1988) besteht Aladdin lediglich aus einer einzelnen Workstation. Diese befindet sich unscheinbar untergebracht in einem Büro des Unternehmens, zwischen einem Kühlschrank und einer Kaffeemaschine. Heute verteilt es sich auf vier leistungsstarke, autarke Rechenzentren. Die komplexen Algorithmen bedienen sich einer umfassenden Datenbank aus gesammelten Ereignissen der letzten Dekaden. Diese Daten sind das Extrakt jahrelanger Risiko Investments BlackRocks sowie vernetzter Partnerunternehmen und Kunden. Zu BlackRocks Kunden und anteiligen Firmen zählen nicht nur der Großzahl der einflussreichsten, globalen Unternehmen, sondern beispielsweise ebenfalls die US Regierung. Zusätzlich werden nicht nur Informationen aus dem Finanzsektor verarbeitet, sondern jegliche verwertbare Datensätze von Interesse und Relevanz bezüglich der Risikoanalyse. Durch die weitgehend freie Verfügbarkeit von Datensätzen im Zeitalter des Internets, verdeutlicht sich das Ausmaß dieser Reichweite. Die Korrelationen der Daten wertet Aladdin aus, um Risiko Prognosen und Empfehlungen zu erstellen, welche BlackRock wiederum nutzt und anschließend neue Werte zurück speist. Solche enormen Rechenoperationen können nur mithilfe eines ebenbürtigen Rechensystems wie Aladdin bewältigt werden. </p>
 
       <blockquote>
-        <p>Why did the ideal of free information sharing fail? Because it ignored the nature of computation. If a bunch of pre-computational people are sharing
-openly, there might be problems - as the history of socialistic experiments has taught us. But on the other hand, at least in special circumstances, there's no
-guarantee they will fail. If those same people have a computer network, however, then there IS a guarantee that whoever among them has the most effective
-computer will gain information superiority. People are created equal, but computers are not.</p>
-        <cite><a href="#">— Jaron Lanier</a></cite>
+        <p>Why did the ideal of free information sharing fail? Because it ignored the nature of computation. If a bunch of pre-computational people are sharing openly, there might be problems - as the history of socialistic experiments has taught us. But on the other hand, at least in special circumstances, there's no guarantee they will fail. If those same people have a computer network, however, then there IS a guarantee that whoever among them has the most effective computer will gain information superiority. People are created equal, but computers are not.</p>
+        <cite>Jaron Lanier</cite>
       </blockquote>
 
-      <p>Überträgt man das Vorgehen von BlackRock und Aladdin auf den Internet Sektor, so lauten dort entsprechend vergleichbare Unternehmen Google Adwords
-oder
-Facebook Business, mit vergleichbaren Strategien jedoch anderen Datensätzen.</p>
-      <p class="o-p--tie">Im Jahr 2015 stirbt der Informatiker und BlackRock Co-Präsident Hallac an den Folgen seiner Krebserkrankung. Sein Vermächtnis
-Aladdin,
-welches BlackRock dazu befähigt seinen Wert auf inzwischen auf weit über 200 milliarden USD zu steigern, kalkuliert währenddessen kontinuierlich weiter.</p>
+      <p>Überträgt man das Vorgehen von BlackRock und Aladdin auf den Internet Sektor, so lauten dort entsprechend vergleichbare Unternehmen Google Adwords oder Facebook Business, mit vergleichbaren Strategien, jedoch anderen Datensätzen.</p>
+      <p class="o-p--tie">Im Jahr 2015 stirbt der Informatiker und BlackRock Co-Präsident Hallac an den Folgen seiner Krebserkrankung. Sein Vermächtnis Aladdin, welches BlackRock dazu befähigt seinen Wert auf inzwischen auf weit über 200 Milliarden USD zu steigern, kalkuliert währenddessen kontinuierlich weiter.</p>
 
-      <p>Monopol genutzte, digitale Hilfsmittel wie unter anderem Aladdin, befähigen Unternehmen dazu Machtpositionen einzunehmen und diese über Dekaden zu
-halten. Speziell flexible Systeme wie Aladdin, welche sich in stetiger Fluktuation befinden und nicht an traditionelle Gesetze der physischen Welt gebunden
-sind. Der einzige Bezug zur physischen Welt besteht in der genutzten Hardware, welche On-Demand, On-The-Fly, in beliebiger Größe und unter dem Einsatz
-entsprechender Ressourcen, konfiguriert werden kann.</p>
-      <p class="o-p--tie">Die unterschiedlichen Entwicklung von Sketchpad und Aladdin zeigen zwei ähnliche Systeme völlig verschiedener Anwendungsgebiete auf.
-Sketchpad erweist sich retrospektiv als  gesellschaftliche Bereicherung und Inspirationsquelle, dessen Entwicklung die Werkzeuge für diverse kreative Prozesse
-wie beispielsweise Design, Kunst und Ingenieurskunst nachhaltig prägt. Software in der Wirkungsweise von Aladdin begünstigt, primär die Optimierung einzelner
-Entitäten - in diesem Kontext BlackRock und deren Teilhaber.</p>
-      <p class="o-p--tie">Für zukünftige, maßgebliche Entwicklungen gilt es als essentiell von Beginn an eine Kräfteverteilung und Transparenz zu schaffen und
-dabei das stetige Gleichgewicht zu wahren. Maßgebliche Entwicklungen und Forschungen jeder Art, basieren seit der Verfügbarkeit von Computern neben den
-traditionellen Machtstrukturen nun ebenfalls auf außerordentliche Mengen von Daten und Rechenleistung. In einer technologisch beschleunigten Gesellschaft ist
-es
-dementsprechend wichtig sich mit den möglichen Auswirkungen dieser Veränderung auseinanderzusetzen, welche sich immer prominenter etablieren und abzeichnen.
-Die
-Schwierigkeiten bestehen primär in der Identifikation, dem Verständnis und den undurchsichtigen Auswirkungen dieser komplexen Strukturen. Ironischerweise
-spiegeln sich visualisierte Beispiele in zeitgeistlichen Computerspielen wider, in denen neue Schnittstellen und neue Möglichkeiten wie Virtual Reality in
-Zukunft denkbar positive Ansätze zur Transparenz solcher Datenströme darstellen können.</p>
+      <p>Monopol genutzte, digitale Hilfsmittel wie unter anderem Aladdin, befähigen Unternehmen dazu Machtpositionen einzunehmen und diese über Dekaden zu halten. Speziell flexible Systeme wie Aladdin, welche sich in stetiger Fluktuation befinden und nicht an traditionelle Gesetze der physischen Welt gebunden sind. Der einzige Bezug zur physischen Welt besteht in der genutzten Hardware, welche On-Demand, On-The-Fly, in beliebiger Größe und unter dem Einsatz entsprechender Ressourcen, konfiguriert werden kann.</p>
+      <p class="o-p--tie">Die unterschiedlichen Entwicklung von Sketchpad und Aladdin zeigen zwei ähnliche Systeme völlig verschiedener Anwendungsgebiete auf. Sketchpad erweist sich retrospektiv als  gesellschaftliche Bereicherung und Inspirationsquelle, dessen Entwicklung die Werkzeuge für diverse kreative Prozesse ,wie beispielsweise Design, Kunst und Ingenieurskunst, nachhaltig prägt. Software in der Wirkungsweise von Aladdin begünstigt, primär die Optimierung einzelner Entitäten - in diesem Kontext BlackRock und deren Teilhaber.</p>
+      <p class="o-p--tie">Für zukünftige, maßgebliche Entwicklungen gilt es als essentiell von Beginn an eine Kräfteverteilung und Transparenz zu schaffen und dabei das stetige Gleichgewicht zu wahren. Maßgebliche Entwicklungen und Forschungen jeder Art, basieren seit der Verfügbarkeit von Computern neben den traditionellen Machtstrukturen nun ebenfalls auf außerordentliche Mengen von Daten und Rechenleistung. In einer technologisch beschleunigten Gesellschaft ist es dementsprechend wichtig, sich mit den möglichen Auswirkungen dieser Veränderung auseinanderzusetzen, welche sich immer prominenter etablieren und abzeichnen. Die Schwierigkeiten bestehen primär in der Identifikation, dem Verständnis und den undurchsichtigen Auswirkungen dieser komplexen Strukturen. Ironischerweise spiegeln sich visualisierte Beispiele in zeitgeistlichen Computerspielen wider, in denen neue Schnittstellen und neue Möglichkeiten, wie Virtual Reality, in Zukunft denkbar positive Ansätze zur Transparenz solcher Datenströme darstellen können.</p>
 
-      <div>beispiele: https://predictiveworld.watchdogs.com/en/hello/, http://www.wired.co.uk/article/watch-dogs-wearedata, http://wearedata.watchdogs.com/,
-vllt bild oder sowas</div>
+      <a href="https://predictiveworld.watchdogs.com/en/hello/" target="tab"><img src="./assets/img/watchdogs.jpg" alt=""/></a>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="202" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="76" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!--hotfix p-->
 
       <h3>Medien für die Massen</h3>
 
       <blockquote>
         <p>There is no reason for any individual to have a computer in his home.</p>
-        <cite><a href="#">— Ken Olson, 1977</a></cite>
+        <cite>Ken Olson, 1977</cite>
       </blockquote>
 
-      <p>Mit seiner populären Aussage in den 70er Jahren wird Ken Olson oft als das Paradebeispiel einer Fehlprognose rezitiert. Dabei wird seine Aussage
-meistens aus dem Kontext entfernt. Olsen meint damit nicht den Personal Computer, welcher sich in den 80er Jahren immer deutlicher als das Medium des modernen
-Haushalts etabliert sondern, dass Computer alle Aspekte des Lebens regulieren würden wie in mancher Science Fiction Vision.</p>
+      <p>Mit seiner populären Aussage in den 70er Jahren wird Ken Olson oft als das Paradebeispiel einer Fehlprognose rezitiert. Dabei wird seine Aussage meistens aus dem Kontext entfernt. Olsen meint damit nicht den Personal Computer, welcher sich in den 80er Jahren immer deutlicher als das Medium des modernen Haushalts etabliert sondern, dass Computer alle Aspekte des Lebens regulieren würden wie in mancher Science Fiction Vision.</p>
 
       <div class="c-person">
         <div class="c-person__object">
@@ -823,10 +770,7 @@ data-source="http://www.metrowestdailynews.com/article/20110208/NEWS/302089151"/
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name">Ken Olsen</h4>
-          <p class="c-person__bio">Kenneth Harry „Ken“ Olsen ist ein US-amerikanischer Ingenieur, der im Jahr 1957 die Computerfirma Digital Equipment
-Corporation (DEC) gründet. Bis 1992 ist er Präsident des Unternehmens. Olsen ist ebenfalls einer der MIT Ingenieure der TX Computer Serie, welche
-beispielsweise
-als Hardware Grundlage für Sketchpad fungiert (TX-2).</p>
+          <p class="c-person__bio">Kenneth Harry „Ken“ Olsen ist ein US-amerikanischer Ingenieur, der im Jahr 1957 die Computerfirma Digital Equipment Corporation (DEC) gründet. Bis 1992 ist er Präsident des Unternehmens. Olsen ist ebenfalls einer der MIT Ingenieure der TX Computer Serie, welche beispielsweise als Hardware Grundlage für Sketchpad fungiert (TX-2).</p>
         </div>
       </div>
 
@@ -838,18 +782,11 @@ aspects of our lives. Images of the fully computerized home that automatically t
 popular. And the fear that computers might, as in the movie 2001: A Space Odyssey, even try to take charge altogether was widely experienced…</p>
         <p>As Olsen explained to me at length and attempted to make clear, he thought it would be unacceptable to have the computer in the home controlling
 everything. Why would anyone want that?</p>
-        <cite><a href="#">— Edgar H. Schein in Konversation mit Olsen, 2000</a></cite>
+        <cite>Edgar H. Schein in Konversation mit Olsen</cite>
       </blockquote>
 
-      <p>Werden diese historischen Betrachtungsweisen auf zeitgeistliche Entwicklungen von Cloud Computing, Smart Homes, AI und den anhaltenden Diskurs über
-Technologien übertragen, verdeutlichen sich mehrere Erkenntnisse: Zum einen die wiederholte Problematik absoluter Aussagen im Zusammenhang von konkreten,
-zukünftigen Entwicklungen von Technologien. Zum anderen die kontinuierlich stärker eingreifende Verankerung von Technologie in den Alltag und der unveränderte
-Gegenstand des Diskurses in der Akzeptanz technologischer Entwicklungen. In Anbetracht von aktueller Entwicklungen erweist sich Olsens Prognose, selbst nach
-seiner Korrektur als falsch. Sie regt jedoch dazu an über eine derart fortschreitende, technologische Vernetzung von Mensch und Maschine zu reflektieren.</p>
-      <p class="o-p--tie">Ungeahnt der Diskurse schreitet die Entwicklung unweigerlich voran und bestehende Paradigmen befinden sich in kontinuierlicher
-Veränderung. Der erste große, für die Gesellschaft deutlich verfolgbare Paradigmenwechsel nach der Erfindung der digitalen Rechenmaschinen, beginnt durch das
-Etablieren des Personal-/Mikro- bzw. Home Computers. Zwischen den 70er und 80er Jahren beginnt deren sich rapide ausweitende und umgreifende Serienproduktion,
-welche die Veränderungen des Alltags für die nächsten Dekaden einleiten.</p>
+      <p>Werden diese historischen Betrachtungsweisen auf zeitgeistliche Entwicklungen von Cloud Computing, Smart Homes, AI und den anhaltenden Diskurs über Technologien übertragen, verdeutlichen sich mehrere Erkenntnisse: Zum einen die wiederholte Problematik absoluter Aussagen im Zusammenhang von konkreten, zukünftigen Entwicklungen von Technologien. Zum anderen die kontinuierlich stärker eingreifende Verankerung von Technologie in den Alltag und der unveränderte Gegenstand des Diskurses in der Akzeptanz technologischer Entwicklungen. In Anbetracht von aktueller Entwicklungen erweist sich Olsens Prognose, selbst nach seiner Korrektur als falsch. Sie regt jedoch dazu an über eine derart fortschreitende, technologische Vernetzung von Mensch und Maschine zu reflektieren.</p>
+      <p class="o-p--tie">Ungeahnt der Diskurse schreitet die Entwicklung unweigerlich voran und bestehende Paradigmen befinden sich in kontinuierlicher Veränderung. Der erste große, für die Gesellschaft deutlich verfolgbare Paradigmenwechsel nach der Erfindung der digitalen Rechenmaschinen, beginnt durch das Etablieren des Personal-/Mikro- bzw. Home Computers. Zwischen den 70er und 80er Jahren beginnt deren sich rapide ausweitende und umgreifende Serienproduktion, welche die Veränderungen des Alltags für die nächsten Dekaden einleiten.</p>
 
       <div class="c-person">
         <div class="c-person__object">
@@ -857,124 +794,225 @@ welche die Veränderungen des Alltags für die nächsten Dekaden einleiten.</p>
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name">Lev Manovich</h4>
-          <p class="c-person__bio">Als einer der wenigen und zugleich wichtigsten Beobachter speziell Software induzierter, gesellschaftlicher Veränderungen
-gilt Lev Manovich. Mit seinem Hintergrund als angewandter Computerwissenschaftler, Künstler, lehrender Professor und seiner persönlichen Herkunft aus
-russisch-amerikanischer Verhältnissen, gilt Manovich unter anderem als Experte im Bereich umfassender Medientheorie/-historie. In seiner Funktion als
-Medienkritiker, -künstler, -theoretiker rezitiert er in seinen Werken nicht nur die Mediengeschichte, sondern setzt sich konkret mit der Wechselwirkung dieser
-und der in direktem Kontext einhergehenden, gesellschaftlichen Entwicklung auseinander. Dabei beschreibt er bedeutende Paradigmenwechsel und zeigt wie sich die
-Gesellschaft, speziell beim schaffenden Prozess im Umgang mit sog. Neuen Medien (New Media), im stetigen Wandel befindet. </p>
+          <p class="c-person__bio">Als einer der wenigen und zugleich wichtigsten Beobachter speziell Software induzierter, gesellschaftlicher Veränderungen gilt Lev Manovich. Mit seinem Hintergrund als angewandter Computerwissenschaftler, Künstler, lehrender Professor und seiner persönlichen Herkunft aus russisch-amerikanischer Verhältnissen, gilt Manovich unter anderem als Experte im Bereich umfassender Medientheorie/-historie. In seiner Funktion als Medienkritiker, -künstler, -theoretiker rezitiert er in seinen Werken nicht nur die Mediengeschichte, sondern setzt sich konkret mit der Wechselwirkung dieser und der in direktem Kontext einhergehenden, gesellschaftlichen Entwicklung auseinander. Dabei beschreibt er bedeutende Paradigmenwechsel und zeigt, wie sich die Gesellschaft, speziell beim schaffenden Prozess im Umgang mit sog. “Neuen Medien” (New Media), im stetigen Wandel befindet.</p>
         </div>
       </div>
 
-      <p>Für Manovich ist insbesondere die Software ab den 90er Jahren von Interesse mit welcher er persönliche Erfahrungen gesammelt hat. Nach dem Vorbild von
-J. M. Balkin ordnet er verschiedene Arten von Software ihren jeweiligen, kulturellen Umständen zu und bezeichnet diese fortan als Cultural Software. Seine von
-ihm kategorisierten Beispiele umfassen:</p>
+      <p>Für Manovich ist insbesondere die Software ab den 90er Jahren von Interesse mit welcher er persönliche Erfahrungen gesammelt hat. Nach dem Vorbild von J. M. Balkin ordnet er verschiedene Arten von Software ihren jeweiligen, kulturellen Umständen zu und bezeichnet diese fortan als “Cultural Software”. Seine von ihm kategorisierten Beispiele umfassen:</p>
 
       <ol>
-        <li>Die Kreation kultureller Artefakte und interaktiver Dienste, welche Darstellungen, Ideen, Überzeugungen und ästhetische Werte enthalten,
-beispielsweise das Editieren eines Musikvideos, oder der Designprozess einer Website bzw. App.</li>
-        <li>Den Zugriff, das Teilen und Mischen solcher Medien z.B. das Lesen und Kommentieren von Online-Inhalten. </li>
-        <li>Das Kreieren und Teilen von Wissen auf Plattformen wie beispielsweise Wikipedia, oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
+        <li>Die Kreation kultureller Artefakte und interaktiver Dienste, welche Darstellungen, Ideen, Überzeugungen und ästhetische Werte enthalten, beispielsweise das Editieren eines Musikvideos, oder der Designprozess einer Website bzw. App.</li>
+        <li>Den Zugriff, das Teilen und Mischen solcher Medien, z.B. das Lesen und Kommentieren von Online-Inhalten. </li>
+        <li>Das Kreieren und Teilen von Wissen auf Plattformen, wie beispielsweise Wikipedia, oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
         <li>Die Kommunikation mit anderen Menschen über Services wie E-Mail, Instant Messenger, Sprach- oder Video-Chat, Social Media, etc.</li>
         <li>Die Interaktion in kulturellen Erfahrungen wie Online-Gaming.</li>
-        <li>Die Partizipation in Online Informationen durch das Hinzufügen von Metadaten, über beispielsweise das Betätigen der “Gefällt mir”-Funktion von
-Facebook.</li>
+        <li>Die Partizipation in Online Informationen durch das Hinzufügen von Metadaten, über beispielsweise das Betätigen der “Gefällt mir”-Funktion von Facebook.</li>
         <li>Die Entwicklung von Tools und Services für die Unterstützung aller genannten Beispiele.</li>
       </ol>
 
-      <p>Manovich behandelt jeden dieser Punkte ausführlich in seinem Werk “Software takes Control”, in dem auch das Internet eine essentielle Rolle einnimmt.
-Um ein Verständnis für die komplexen Abläufe, Fortschritte, Korrelationen und Gründe der Veränderungen jener Zeit zu entwickeln, empfiehlt sich eine
-Dekonstruktion der einzelnen Komponenten anhand der Beispiele Manovichs. Zur Verdeutlichung der Entwicklung eignen sich Grafikanwendungen wie beispielsweise
-Adobe Illustrator. Diese tauchen vergleichsweise früh in der Computer Historie auf, bieten einen angemessenen Komplexitätsgrad, sind während der gesamten
-Medienentwicklung omnipräsent, haben sich kontinuierlich weiterentwickelt, und werden letztendlich von Lev Manovich in seinem Werk - zum Abgleich -
-behandelt.</p>
+      <p>Manovich behandelt jeden dieser Punkte ausführlich in seinem Werk “Software takes Control”, in dem auch das Internet eine essentielle Rolle einnimmt. Um ein Verständnis für die komplexen Abläufe, Fortschritte, Korrelationen und Gründe der Veränderungen jener Zeit zu entwickeln, empfiehlt sich eine Dekonstruktion der einzelnen Komponenten anhand der Beispiele Manovichs. Zur Verdeutlichung der Entwicklung eignen sich Grafikanwendungen wie beispielsweise Adobe Illustrator. Diese tauchen vergleichsweise früh in der Computer Historie auf, bieten einen angemessenen Komplexitätsgrad, sind während der gesamten Medienentwicklung omnipräsent, haben sich kontinuierlich weiterentwickelt, und werden letztendlich von Lev Manovich in seinem Werk – zum Abgleich – behandelt.</p>
 
-      <p>Ivan Sutherlands Sketchpad ist der Ausgangspunkt für die zukünftigen Entwicklungen der Grafikanwendungen. Nach der Einführung des Apple Macintosh -
-dem
-ersten in größerer Serie gefertigten Mikrocomputer mit grafischer Benutzeroberfläche - erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems
-eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend anhält.</p>
-      <p class="o-p--tie">Ebenfalls wird weitere Software auf immer kleineren Geräten möglich und die Kosten sowie die Dauer von umfangreichen Berechnungen
-sinken. Besonders an der Ära der Workstations zur Berechnung komplexerer Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle SGI oder
-Inferno Systeme sind zum damaligen Zeitpunkt, preislich mit 450-750k USD datiert. Aktuelle Workstations hingegen unterscheiden sich nur marginal von regulären
-Endnutzer-Enthusiasten-Geräten.</p>
-      <p class="o-p--tie">Über die Jahre wird Adobe Illustrator durch die hauseigene Entwicklung und den Aufkauf von Konkurrenzprodukten (z.B. Macromedia, im
-Dezember 2005), stetig mit neuen Funktionen erweitert, sowohl in den Aspekten der Bedienbarkeit sowie Performance. Durch die Entwicklung diverser Grafik
-Software, der engen Zusammenarbeit mit weiteren erfolgreichen Unternehmen wie z.B. Apple und der Verknüpfung interner, inzwischen Markt etablierter,
-fortschrittlicher Formate, profitieren alle Adobe Produkte in ihrer Entwicklung voneinander.</p>
-      <p class="o-p--tie">Die großen Updates der Software wurden bis Juni 2013 in jeder Iteration erneut an den Konsumenten vertrieben. Ab diesem Zeitpunkt
-entschließt sich Adobe seine Dienste als Cloud Software anzubieten und den Verkauf und Support von Standalone Versionen nach und nach einzustellen. Inzwischen
-verfügen Adobe Produkte, darunter Illustrator, über die Funktionalität Assets (z.B. Schriften) aus der zentralisierten Cloud, on-demand, abzurufen, ohne die
-Ressourcen extern hinzuzufügen.</p>
-      <p class="o-p--tie">Das im Dezember 2016, als Betaversion erschienene Adobe Experience Design, ermöglicht es Designern Mock-Up Layouts für digitale
-Interaction Produkte zu entwickeln, ohne weitreichende Programmierkenntnisse zu besitzen. Die Entwicklung solcher Software zeigt sowohl die Vernetzung
-erarbeiteter Funktionalitäten diverser Programme auf, als auch die Nachfrage für simplifizierte Kollaborationsmöglichkeiten verschiedener Anwender-Zielgruppen
-untereinander (z.B. Designer und Programmierer).</p>
-      <p class="o-p--tie">Die Entwicklung von Grafikanwendungen am konkreten Beispiel von Adobes Produkten zeigt selbstverständlich nur eine von vielen
-Entwicklungen der Softwarebranche auf. Sie repräsentiert allerdings einige der wichtigsten Erfolgsfaktoren von Software im Allgemeinen und gilt damit als einer
-der exemplarischen Stellvertreter für die Auswirkungen auf gesellschaftliche Paradigmen, speziell zu Zeiten der ersten Mikrocomputer.</p>
-      <p class="o-p--tie">Einer dieser Erfolgsfaktoren besteht in der, an die Semiotik angelehnte, Nutzung von grafischen Benutzeroberflächen (GUI - graphical
-user interfaces) als Repräsentation (Signifikant) der kodifizierten, digitalen Welt (Signifikat). Sie öffnen das digitale Medium einem breiteren Publikum und
-ermöglichen die simplifizierte Interaktion, sowohl zwischen dem Medium und kreativer Individuen, als auch untereinander - z.B. Software Developer und Designer
-(Anwender zu Anwender), oder das Posten eines YouTube Videos auf Facebook (Medium zu Medium). GUIs ermöglichen den Zugriff auf meist intuitive, an die
-physische
-Welt angelehnte Weise durch die Vereinfachung komplexerer Maschinenbefehle und erweisen sich somit als erfolgreiche Schnittstelle zwischen Mensch und Maschine.
-Sie sind einer der Hauptgründe dafür, dass viele Aspekte und Abläufe von Software sich zunehmend im menschlichen Alltag verankern, sodass sie als
-selbstverständlich wahrgenommen werden.</p>
-      <p class="o-p--tie">Weiterführend sind die Eigenschaften des Mooreschen Gesetzes maßgeblich für die Implementierung in den gesellschaftlichen Alltag. Bei
-zunehmender Rechenleistung sinkt der Preis für Hard- und Software generell, speziell in den letzten Dekaden. Dadurch werden Computer für diverse
-Gesellschaftsschichten zugänglich, vor allem für die Anwendung im Privatbereich.</p>
-      <p class="o-p--tie">Im Detail können weitere Komponenten und Phänomene für den Durchbruch in der gesellschaftlichen Nutzung aufgeführt werden, z.B. die
-erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw., oder der generelle Hype um neue kulturelle Errungenschaften. Software
-umgibt
-den Menschen welche sich innerhalb kürzester Zeit von der kulturell unscheinbaren Technologie zu dem Getriebe des 21ten Jahrhunderts entwickelt.  Der
-Durchbruch
-von Software basiert dabei primär auf der Erweiterung/Augmentation und Partizipation der unterschiedlichen Teilnehmer der Gesellschaft und der Verankerung in
-deren privaten sowie beruflichen Alltagssituationen. Trotz seines wachsenden Einflusses bleibt Software durch seine Charaktereigenschaften weiterhin, häufig
-ein
-unsichtbares Medium.</p>
+      <p>Ivan Sutherlands Sketchpad ist der Ausgangspunkt für die zukünftigen Entwicklungen der Grafikanwendungen. Nach der Einführung des Apple Macintosh - dem ersten in größerer Serie gefertigten Mikrocomputer mit grafischer Benutzeroberfläche - erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend anhält.</p>
+      <p class="o-p--tie">Ebenfalls wird weitere Software auf immer kleineren Geräten möglich und die Kosten sowie die Dauer von umfangreichen Berechnungen sinken. Besonders an der Ära der Workstations zur Berechnung “komplexerer” Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle SGI oder Inferno Systeme sind zum dama ligen Zeitpunkt, preislich mit 450-750k USD datiert. Aktuelle Workstations hingegen unterscheiden sich nur marginal von regulären Endnutzer-Enthusiasten-Geräten.</p>
+      <p class="o-p--tie">Über die Jahre wird Adobe Illustrator durch die hauseigene Entwicklung und den Aufkauf von Konkurrenzprodukten (z.B. Macromedia, im Dezember 2005), stetig mit neuen Funktionen erweitert, sowohl in den Aspekten der Bedienbarkeit als auch in der Performance. Durch die Entwicklung diverser Grafik Software, der engen Zusammenarbeit mit weiteren erfolgreichen Unternehmen wie z.B. Apple und der Verknüpfung interner, inzwischen Markt etablierter, fortschrittlicher Formate, profitieren alle Adobe Produkte in ihrer Entwicklung voneinander. </p>
+      <p class="o-p--tie">Die großen Updates der Software wurden bis Juni 2013 in jeder Iteration erneut an den Konsumenten vertrieben. Ab diesem Zeitpunkt entschließt sich Adobe seine Dienste als Cloud Software anzubieten und den Verkauf und Support von “Standalone” Versionen nach und nach einzustellen. Inzwischen verfügen Adobe Produkte, darunter Illustrator, über die Funktionalität Assets (z.B. Schriften) aus der zentralisierten Cloud, on-demand, abzurufen, ohne die Ressourcen extern hinzuzufügen.</p>
+      <p class="o-p--tie">Das im Dezember 2016, als Betaversion erschienene Adobe Experience Design, ermöglicht es Designern “Mock-Up Layouts” für digitale Interaktion Produkte zu entwickeln, ohne weitreichende Programmierkenntnisse zu besitzen. Die Entwicklung solcher Software zeigt sowohl die Vernetzung erarbeiteter Funktionalitäten diverser Programme auf, als auch die Nachfrage für simplifizierte Kollaborationsmöglichkeiten verschiedener Anwender-Zielgruppen untereinander (z.B. Designer und Programmierer).</p>
 
-      <p>Manovich setzt sich unter anderem mit den o.g. Erfolgsfaktoren auseinander, welche sich in der Kombination der drei Konzepte von media hybridization,
-evolution und deep remix, widerspiegeln. Sie beziehen sich besonders auf die zweite Hälfte der 90iger Jahre, in denen die Entwicklung von Hard- und Software
-eine ausreichende Geschwindigkeit aufnehmen. Die Konzepte beziehen sich auf die aufeinandertreffenden Medien in der Softwareumgebung, welche sich in dem
-Beispiel der Adobe Programmen deutlich abzeichnen. Sie beschreiben wie sich deren fundamentalen Eigenschaften, besonders in kreativen und professionellen
-Anwendungsgebieten auf das Konzept von Medien auswirken. </p>
+      <p>Die Entwicklung von Grafikanwendungen am konkreten Beispiel von Adobes Produkten zeigt selbstverständlich nur eine von vielen Entwicklungen der Softwarebranche auf. Sie repräsentiert allerdings einige der wichtigsten Erfolgsfaktoren von Software im Allgemeinen und gilt damit als einer der exemplarischen Stellvertreter für die Auswirkungen auf gesellschaftliche Paradigmen, speziell zu Zeiten der ersten Mikrocomputer.</p>
+      <p class="o-p--tie">Einer dieser Erfolgsfaktoren besteht in der, an die Semiotik angelehnte, Nutzung von grafischen Benutzeroberflächen (GUI - graphical user interfaces) als Repräsentation (Signifikant) der kodifizierten, digitalen Welt (Signifikat). Sie öffnen das digitale Medium einem breiteren Publikum und ermöglichen die simplifizierte Interaktion, sowohl zwischen dem Medium und kreativer Individuen, als auch untereinander - z.B. Software Developer und Designer (Anwender zu Anwender), oder das Posten eines YouTube Videos auf Facebook (Medium zu Medium). GUIs ermöglichen den Zugriff auf meist intuitive, an die physische Welt angelehnte Weise durch die Vereinfachung komplexerer Maschinenbefehle und erweisen sich somit als erfolgreiche Schnittstelle zwischen Mensch und Maschine. Sie sind einer der Hauptgründe dafür, dass viele Aspekte und Abläufe von Software sich zunehmend im menschlichen Alltag verankern, sodass sie als selbstverständlich wahrgenommen werden.</p>
+      <p class="o-p--tie">Weiterführend sind die Eigenschaften des Mooreschen Gesetzes maßgeblich für die Implementierung in den gesellschaftlichen Alltag. Bei zunehmender Rechenleistung sinkt der Preis für Hard- und Software generell, speziell in den letzten Dekaden. Dadurch werden Computer für diverse Gesellschaftsschichten zugänglich, vor allem für die Anwendung im Privatbereich.</p>
+      <p class="o-p--tie">Im Detail können weitere Komponenten und Phänomene für den Durchbruch in der gesellschaftlichen Nutzung aufgeführt werden, z.B. die erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw., oder der generelle Hype um neue kulturelle Errungenschaften. Software umgibt den Menschen, welche sich innerhalb kürzester Zeit von der kulturell unscheinbaren Technologie zu dem Getriebe des 21ten Jahrhunderts entwickelte. Der Durchbruch von Software basiert dabei primär auf der Erweiterung beziehungsweise Augmentation und Partizipation der unterschiedlichen Teilnehmer der Gesellschaft und der Verankerung in deren privaten sowie beruflichen Alltagssituationen. Trotz seines wachsenden Einflusses bleibt Software durch seine Charaktereigenschaften weiterhin, häufig ein unsichtbares Medium.</p>
+
+      <p>Manovich setzt sich unter anderem mit den o.g. Erfolgsfaktoren auseinander, welche sich in der Kombination der drei Konzepte von media hybridization, evolution und deep remix, widerspiegeln. Sie beziehen sich besonders auf die zweite Hälfte der 90iger Jahre, in denen die Entwicklung von Hard- und Software eine ausreichende Geschwindigkeit aufnehmen. Die Konzepte beziehen sich auf die aufeinandertreffenden Medien in der Softwareumgebung, welche sich in dem Beispiel der Adobe Programmen deutlich abzeichnen. Sie beschreiben wie sich deren fundamentalen Eigenschaften, besonders in kreativen und professionellen Anwendungsgebieten auf das Konzept von Medien auswirken. </p>
 
       <blockquote>
-        <p>In my view, this ability to combine previously separate media techniques represents a fundamentally new stage in the history of human media, human
-semiosis and human communication, enabled by its “softwarization.”</p>
-        <cite><a href="#">— Lev Manovich, Software takes Control, S.46</a></cite>
+        <p>In my view, this ability to combine previously separate media techniques represents a fundamentally new stage in the history of human media, human semiosis and human communication, enabled by its “softwarization.”</p>
+        <cite>Lev Manovich, S.46</cite>
       </blockquote>
 
-      <p>Auf der ersten Ebene der sog. hybridity, werden existierende Medien im Computer simuliert. An dieser Stelle können auch aktuellere Beispiele wie
-YouTube oder Netflix angeführt werden, welche in diesem Fall den klassischen Fernseher in seiner Funktion imitieren. Die sog. evolution dieser Medienformate
-beschreibt die Erweiterung von Funktionalitäten welche im vorherigen Medium nicht mehr möglich wären. Beispielsweise stellen NetFlix und YouTube ihre Inhalte
-on
-demand (auf Nachfrage) an, welches in klassischen TV Formaten nicht möglich wäre - Inzwischen wurde diese Funktionalität wieder zurückgeführt, siehe z.B. Sky.
-Schließlich folgt die sog. deep remixability, welche sich hauptsächlich durch ihre Eigenschaft der Vernetzung auszeichnet. In einem regulären Remix, bekannt
-vor
-allem aus der Musikbranche, werden zwei Medien kombiniert, um ein neues Resultat zu kreieren. Beispielsweise die Kombination von zwei Songs, zwei Videos, Video
-und Song, oder zwei Adobe Illustrator Dateien. Beim Konzept des deep remix, welches auf Softwareebene agiert, können sich wie im Beispiel von Illustrator
-ebenfalls Programmeigenschaften, wie Interfaces, Filter, usw. untereinander vermischen. Auch die Kombination unterschiedlicher Medien ist möglich, um völlig
-neue Medien zu kreieren. Insbesondere diese Beobachtungen/Eigenschaften von Software begünstigen bzw. manifestieren sich in nachfolgenden Entwicklungen wie der
-Einführung des Smartphones oder in der Entstehung des Internets.</p>
+      <p>Auf der ersten Ebene der sog. hybridity, werden existierende Medien im Computer simuliert. An dieser Stelle können auch aktuellere Beispiele wie YouTube oder Netflix angeführt werden, welche in diesem Fall den klassischen Fernseher in seiner Funktion imitieren. Die sog. evolution dieser Medienformate beschreibt die Erweiterung von Funktionalitäten, welche im vorherigen Medium nicht mehr möglich wären. Beispielsweise stellen Netflix und YouTube ihre Inhalte on demand (auf Nachfrage) an, welches in klassischen TV Formaten nicht möglich wäre - Inzwischen wurde diese Funktionalität wieder zurückgeführt, siehe z.B. Sky. Schließlich folgt die sog. deep remixability, welche sich hauptsächlich durch ihre Eigenschaft der Vernetzung auszeichnet. In einem regulären Remix, bekannt vor allem aus der Musikbranche, werden zwei Medien kombiniert, um ein neues Resultat zu kreieren. Beispielsweise die Kombination von zwei Songs, zwei Videos, Video und Song oder zwei Adobe Illustrator Dateien. Beim Konzept des deep remix, welches auf Softwareebene agiert, können sich, wie im Beispiel von Illustrator, ebenfalls Programmeigenschaften, wie Interfaces, Filter, usw., untereinander vermischen. Auch die Kombination unterschiedlicher Medien ist möglich, um völlig neue Medien zu kreieren. Insbesondere diese Beobachtungen und Eigenschaften von Software begünstigen beziehungsweise manifestieren sich in nachfolgenden Entwicklungen, wie der Einführung des Smartphones oder in der Entstehung des Internets.</p>
 
-      <div>Evolution of the desk hier einfügen - Harvard Innovation Lab</div>
+      <a href="http://bestreviews.com/#reviews" target="tab"><img src="./assets/img/evolutionofdesk.jpg" alt=""/></a>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="204" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="88" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="203" data-ref-type="ref" data-ref-desc="Video: " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!-- hotfix -->
 
       <blockquote>
-        <p>I think that the scale, diversity and radicalism of these “additions” - those already invented and many more yet to be invented in the future - is
-of
-such magnitude that exploring what can be created with them will occupy us for a long time. And this is one of the reasons why the “digital revolution” is
-different from all previous techno-cultural revolutions. The ability to simulate not simply one or two, but most media in a computer - combined with computer
-abilities to control processes in real-time, calculate, transform inputs, test what/if scenarios, and send information over networks - opens a practically
-unbounded space of creative possibilities.</p>
-        <p>As we followed the evolution of the computer medium from the first stage of invention and experimentation (1960s-1970s) to the second stage of
-commercialization and wide adoption (1980s-1990s), we discovered the third direction of the computer metamedium evolution - hybridization. Translated into
-software, different types of media started acting like species within a common ecology - in this case, a shared software environment. Once they were “released”
-into this environment they begin interacting, mutating, and making hybrids. Both the simulated and new media types- text, hypertext, still photographs, vector
-graphics, digital video, 2D animation, 3D models and animation, navigable 3D spaces, maps, location information, messages and scripts- became building blocks
-for many new media combinations.</p>
-        <cite><a href="#">— Lev Manovich</a></cite>
+        <p>I think that the scale, diversity and radicalism of these “additions” - those already invented and many more yet to be invented in the future - is of such magnitude that exploring what can be created with them will occupy us for a long time. And this is one of the reasons why the “digital revolution” is different from all previous techno-cultural revolutions. The ability to simulate not simply one or two, but most media in a computer - combined with computer abilities to control processes in real-time, calculate, transform inputs, test what/if scenarios, and send information over networks - opens a practically unbounded space of creative possibilities.</p>
+        <p>As we followed the evolution of the computer medium from the first stage of invention and experimentation (1960s-1970s) to the second stage of commercialization and wide adoption (1980s-1990s), we discovered the third direction of the computer metamedium evolution - hybridization. Translated into software, different types of media started acting like species within a common ecology - in this case, a shared software environment. Once they were “released” into this environment they begin interacting, mutating, and making hybrids. Both the simulated and new media types- text, hypertext, still photographs, vector graphics, digital video, 2D animation, 3D models and animation, navigable 3D spaces, maps, location information, messages and scripts- became building blocks for many new media combinations.</p>
+        <cite>Lev Manovich</cite>
       </blockquote>
+
+      <p>Während der Software induzierten, digitalen Revolution, etablieren sich die sog. Meta Medien, dessen Konzept und Begrifflichkeit Manovich für seine Arbeit adaptiert. Sie entwickeln sich besonders seit der Einführung des Internets auf progressive Weise, indem sie neue Funktionalitäten während ihrer Nutzung hinzufügen. Ein aktuelleres Beispiel dafür ist die Erweiterung des “Gefällt mir” Buttons von Facebook. </p>
+      <p class="o-p--tie">Die wichtigsten Merkmale des meta-medialen Zeitalters offenbaren sich durch die starke Vernetzung diverser Medien der o.g. progressiven Weiterentwicklung durch übergreifende sowie gegenseitige Inspiration (Imitation und Kollaboration) oder der Überholung von klassischen Medien. Nachhaltig ermöglicht, beschleunigt und erhöht sich dadurch die Erfindung und Kreuzung neuer Technologien/Medien, besonders weil ein Großteil dieser auf Software basiert. Auffallend ist die Kleinteiligkeit in der die verschiedenen Bereiche Erfolge erzielen. Diese wiederum treiben den Vormarsch der digitalen Revolution in seiner Gesamtheit an.</p>
+      <p class="o-p--tie">Das gesamte Konstrukt von Software, Meta Medien und Vernetzung im 21sten Jahrhundert ist damit geprägt von natürlichen, organischen Prozessen, obwohl dieser weitgehend artifiziell initiiert ist.</p>
+
+      <h3>Digitale Mobilität</h3>
+
+      <p>Viele gedankliche Impulse, welche sich Jahre später als die Bausteine von entscheidenden Durchbrüchen in der Software Historie herausstellen, wie beispielsweise das Konzept des Meta Mediums, stammen ursprünglich von Alan Kay.</p>
+
+      <div class="c-person">
+        <div class="c-person__object">
+          <img class="c-person__image" src="./assets/img/kay.png" alt="Alan Kay" data-source="http://afflictor.com/wp-content/uploads/2011/02/Alan_Kay_and_the_prototype_of_Dynabook_pt._5_3010032738.jpg.jpeg" data-article="http://afflictor.com/2011/02/24/alan-kay-designed-the-computer-tablet-in-1968/"/>
+        </div>
+        <div class="c-person__content">
+          <h4 class="c-person__name">Alan Kay</h4>
+          <p class="c-person__bio">Als <i>die</i> universelle Schlüsselfigur der Softwareentwicklung im Kontext dieser Arbeit kann zweifelsohne der amerikanische Informatiker Alan Kay genannt werden. Er verbindet und verkörpert wie keine andere Person die Entwicklungsschritte von Software, indem er sowohl technisch als auch gestalterisch, pragmatisch, nachhaltig sowie interdisziplinär Einfluss ausübt. Kay arbeitet zusammen mit Sutherland an Projekten wie Sketchpad, ist ebenfalls an der Weiterentwicklung grafischer Benutzeroberflächen beteiligt und leistet Beiträge zur objektorientierten Programmierung. Mit Werken wie “Personal Dynamic Media” legt er den Grundstein für den Vormarsch mobiler, personalisierter Rechner und inspiriert Unternehmen, Designer und Autoren wie z.B. Manovich zur Auseinandersetzung mit Software, Medien sowie deren Entwicklung und Potential erfüllten Einfluss.</p>
+        </div>
+      </div>
+
+      <p>Während die Computerszene Mitte der 70er Jahre ihren Aufschwung erlebt, veröffentlichen Alan Kay und Adele Goldberg ihre Vision des sog. “Dynabooks” - das detailierte Konzept eines mobilen, handlichen, personalisierten Computers, für jede Art von Endbenutzer. Bis zu diesem Zeitpunkt erscheinen ähnlich revolutionäre Konzepte nur in Veröffentlichungen der Science Fiction. Neben dem technisch versierten Teil des Konzepts gilt insbesondere die angedachte Nutzung für kreative Prozesse als außergewöhnlich. Kay und Goldbergs Anliegen, die Benutzeroberfläche als Hilfsmittel für jegliche Art von Person, sogar Kindern, zugänglich zu machen, revolutioniert den Umgang und die Sicht mit und auf Software nachhaltig. Durch ihre vorausschauende Sichtweise initiieren sie die Grundlagen für personalisierte, softwaregesteuerte Devices.</p>
+
+      <a href="#yxz-------------------" target="tab"><img src="./assets/img/xyz.jpg" alt="dynabook aus dem mediareader"/></a>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="205" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <blockquote>
+        <p>The arcane aura that surrounds personal computers is not just a "user interface" problem. My colleagues and I at PARC think that the idea of a "personal" computer itself is misplaced, and that the vision of laptop machines, dynabooks and "knowledge navigators" is only a transitional step toward achieving the real potential of information technology. Such machines cannot truly make computing an integral, invisible part of the way people live their lives. Therefore we are trying to conceive a new way of thinking about computers in the world, one that takes into account the natural human environment and allows the computers themselves to vanish into the background.</p>
+        <cite>Mark Weiser</cite>
+      </blockquote>
+
+      <p>Der Wissenschaftler Mark Weiser, ebenfalls bei Xerox PARC in leitender Position beschäftigt, veröffentlicht 1991 ein noch präziseres Dokument mit den Vorstellungen des PARC Teams. In der Abhandlung wird das sog. Ubiquitous Computing beschrieben, welches Ansätze wie das “Dynabook” nur als eine Transition innerhalb der Medien begreift. In Zukunft soll der klassische Rechner eine Omnipräsenz im Alltag erreichen, indem er sich dezentralisiert in Alltagsgegenständen manifestiert. 1999 knüpft Kevin Ashton, mit seiner Veröffentlichung, “Internet of Things” an dieses Konzept an. Der Grundgedanke bezieht sich dabei auf die Entlastung des Menschen, damit sich dieser auf essentielle Abläufe fokussieren kann. Erfindungen wie beispielsweise Smartwatches oder die Paketverfolgung im Postversand verdeutlichen die Präsenz dieser Ansätze im gegenwärtigen Geschehen.</p>
+      <p class="o-p--tie">Weitere, der Xerox PARC (Palo Alto Research Center) Projekte leisten Pionierarbeit für zukünftige Entwicklungen und den daraus resultierenden Produkten. Eines dieser Xerox Projekte ist beispielsweise der Xerox Alto, welcher als erster in Serie gefertigte Computer eine grafische Benutzeroberfläche besitzt. Xerox profitiert, mit Ausnahme des Laserdruckverfahrens, kommerziell, von kaum einer dieser Entwicklungen. Als einer der möglichen Gründe kann angeführt werden, dass viele Konzepte nicht rechtzeitig über den Prototypenstatus hinaus entwickelt wurden (siehe Dynabook, oder NoteTaker). Unternehmen wie Apple und Microsoft bedienen sich folgend und erfolgreich des GUI Erfolgskonzepts, durch die von Xerox selbstgewährte, direkte Einsicht in deren Entwicklungsprozesse. Neben diesen Beobachtungen zeigen ebenfalls ehemalige Mitarbeiter, wie beispielsweise John Warnock, welcher nach seinem Ausstieg Adobe gründet oder Robert Metcalfe, welcher das Ethernet entwickelt und in seiner eigenen Firma 3Com kommerziell nutzt, das Potential in den Entwicklungen von Xerox auf.</p>
+
+      <p>Nach der Einführung von mobilen Notebooks entwickeln sich diese zögerlich, jedoch stetig, durch kleinere Innovationen diverser Unternehmen, weiter. Erst 2007 mit der Keynote von Apple, gelingt dem mobilen Sektor der Computerbranche der revolutionäre Durchbruch mit der Präsentation des iPhones - dem ersten, erfolgreichen Smartphone. Nur drei Jahre später schafft es Apple, durch die Einführung des ersten populären Tablet Computers (iPad), erneut einen neuen Markt zu eröffnen. Apples Produkte und die Weiterentwicklung des Internets (Web 2.0) initiieren erneut den bisweil letzten, anhaltenden, gesellschaftlichen Paradigmenwechsel auf Basis digitaler Medien. In diesem manifestiert sich ein Großteil jahrzehntelanger Korrelation diverser Forschungsgebiete und deren zugehöriger Wissenschaftler. Diese Veränderungen verdeutlichen zuletzt erneut und unmissverständlich die Vernetzung zwischen Mensch und Maschine sowie das anhaltende Interesse an stetig verfügbaren, technischen Hilfsmitteln.</p>
+
+      <a href="https://www.instagram.com/p/W2BuMLQLRB/" target="tab"><img src="./assets/img/xyz.jpg" alt="before and after smartphones"/></a>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="204" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p>Die detaillierte Untersuchung dieses Paradigmenwechsels und dessen soziokulturelle Phänomene hat den ausreichenden Umfang für eine eigenständige Auseinandersetzung und würden die Rahmenbedingungen dieser Arbeit überschreiten. Die jedoch wichtigsten Erkenntnisse spiegeln sich in den Erfolgsfaktoren und Entwicklungshistorie der Smartphone und Tablet Industrie wider. Während für die Evolution des Computers (~1970-1990) die Diversität an innovativen Konzepten eine primäre Position einnehmen, so stellen die hybridization und der deep remix nach Manovich, für die letzten einschlägigen und vor allem digitalen Produkte der Computerindustrie, priorisierte Entitäten dar. Das Zusammenführen von Experten diverser Branchen, die schnelle Adaption von (Software-)Funktionalitäten erfolgreicher Konkurrenzprodukte und die Nutzung sowie Vernetzung verschiedener Medien, zeichnet die Entwicklung der digitalen Produkte des 21sten Jahrhunderts aus. Eine verstärkte Nutzung von Gestaltungsgrundlagen sowie die Lehren und Erfahrungen aus der Mensch-Computer Interaktion (z.B. nach Donald Norman) führen zu einer Vielzahl erfolgreicher Produkte.</p>
+
+      <div class="c-person">
+        <div class="c-person__object">
+          <img class="c-person__image" src="./assets/img/jobs.png" alt="Steve Jobs" data-source="https://www.technobezz.com/files/uploads/2015/10/stevejobs1.jpg" data-article="https://www.technobezz.com/watch-the-animated-biography-of-steve-jobs/"/>
+        </div>
+        <div class="c-person__content">
+          <h4 class="c-person__name">Steve Jobs</h4>
+          <p class="c-person__bio">Steve Jobs gilt als das Paradebeispiel für die Initiierung dieser technologisch geprägten, popkulturellen Epoche. Als Gründer von Apple, agiert er als einer der ersten Prototypen im Stil von neuzeitlichen Entrepreneuren, indem er risikobereit und experimentell ein breites Spektrum an Ressourcen nutzt, um seine Visionen zu realisieren. Durch Apples erfolgreiche Produkt Historie und Marketingstrategie etabliert es sich als zeitgeistiger Symbolträger für Innovation. Entwürfe wie der iPod, das iPhone und iPad spiegeln die praktische Umsetzung von Konzepten wie “Internet of Things”, oder “Personal Dynamic Media”, wider. Trotz des anhaltenden, kommerziellen Erfolgs unterstellen einige Experten wie Hartmut Esslinger, Apple habe nach dem Tod von Steve Jobs ihr Gespür für die Gestaltung in aktuelleren Produkten verloren.</p>
+        </div>
+      </div>
+
+      <p>Mit der Analyse von mobilen Computersystemen und deren kulturellen Auswirkungen offenbart sich die Synergie aus kleineren Komponenten, Entwicklungen und Evolutionen, für den durchbrechenden Gesamterfolg von revolutionären Produkten - oder wie Jobs berühmt auf den Apples Keynotes formulierte: “The Next Big Thing”. Für die Kreation von Produkten wie dem iPhone kombinierte er das Expertenwissen seines Teams für jeweilige Teilgebiete (z.B. Steve Wozniak oder Jonathan Ive), o.g. fundamentale, innovative Konzepte (z.B. von Xerox PARC) sowie experimentelle (z.B. Multi-Touch-Screen) Technologien und Medien (Internet).</p>
+      <p class="o-p--tie">Ein entscheidender Faktor für den Erfolg dieser Produkte besteht in deren Software, indem diese möglichst optimiert auf den Nutzer und die jeweilige Anwendung angepasst wird und eine adäquate Interaktion mit der zugehörigen Hardware ermöglicht. So fungieren Desktop Rechner und Laptops als der universelle Editor für digitale Inhalte, das Smartphone primär als mobiles Konsum Medium und Smart Devices als Hilfsmittel für die spezifische Augmentation der jeweiligen Tätigkeit (z.B. Jawbone als Jogging Trainer).</p>
+      <p class="o-p--tie">Seit der Einführung des Smartphones besteht ein steigendes Interesse an jenen und vergleichbaren Devices, wie beispielsweise Smartwatches. Durch das Angebot und den Absatz dieser Geräte zeichnet sich eine Nachfrage nach intelligenten und kulturellen Alltagsgeräten ab. Die Koexistenz dieser verschiedenen “Smart Devices” begründet sich durch ihre unterschiedlichen Anwendungszwecke und Usability Eigenschaften. Das Smartphone fungiert, aufgrund seiner universellen Funktionsweise, aktuell als prominentester, zentraler, gesellschaftlicher Minimalkonsens für die mobile Augmentation des alltäglichen Geschehens.</p>
+      <p class="o-p--tie">Ob durch die sog. “Wearables” in Zukunft ein ähnlicher Paradigmenwechsel eingeleitet wird, wie durch die Einführung von Desktop-Computern oder sich bestimmte Theorien, wie beispielsweise Internet der Dinge, vollständig bewahrheiten, bleibt zunächst spekulativ. In einer möglichen Post Smartphone Ära müsste das jeweilige Gerät die Eigenschaften des Smartphones zunächst erfüllen bzw. übertreffen und sich kulturell etablieren - zudem nutzen aktuell noch viele, mobile Smart Devices das Smartphone als Basisstation. Das Smartphone, mobile- sowie Desktop Rechner bleiben tendenziell auch in näherer Zukunft, aufgrund ihrer einzigartigen Eigenschaften, die Schnittstellen des digitalen Zeitalters und ggf. darüber hinaus präsent. Dies zeigt sich beispielsweise in Produkten wie Spectacles von Snap Inc.</p>
+
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/XqkOFLBSJR8?autoplay=0?showinfo=0?controls=1?vq=hd1080" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/XqkOFLBSJR8/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="97" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p>Die Kritik von Hartmut Esslinger an Apple gilt als berechtigt, insofern Apple nach dem Tablet bzw. der Smartwatch keine vergleichsweise, bahnbrechende Technologie mehr eingeführt und andere Unternehmen an diesen Innovationen orientieren. Allerdings ermöglichen sowie vereinfachen Unternehmen wie Apple und Konsorten, mit der Implementierung neuer Medien Plattformen (Smartphones, Tablets, etc.), die Möglichkeit für Developer und Designer sich aktiv an aktuellen Trendentwicklung zu beteiligen und diese mitzugestalten.</p>
+      <p class="o-p--tie">Generelle Entwicklungen wie das Internet und der damit einhergehende globale Austausch, die Open Source Bewegung auf Plattformen wie z.B. GitHub zeigen neben der transparenten, rapiden vor allem die dezentralisierte Weiterentwicklung der Meta Medien auf. Durch die Zugänglichkeit unterschiedlichster Medieninhalte, erfolgen Weiterentwicklungen inzwischen nicht mehr ausschließlich durch größere, einzelne Unternehmen, sondern ebenfalls durch die kleinteilige, kollaborative Wechselwirkung diverser Experten mit unterschiedlichen Interessensgebieten.</p>
+      <p class="o-p--tie">Größere Paradigmenwechsel werden sich dementsprechend weiterhin abzeichnen, allerdings sind diese im Direktvergleich zu den Anfängen der techno-kulturellen Veränderungen berechenbarer geworden und basieren nun verstärkt auf bereits geleistete Gedankengängen, oder bestehenden Konzepte, indem diese optimiert werden sowie der kollaborativen Gesamtleistung unterschiedlicher Unternehmen und Individuen in größerer Gesamtzahl – von der <strike>evolution</strike> zur hybridization. Somit ist Esslingers Kritik, abgesehen von der direkten Kritik an Apple Produkten, evtl. eine zeitgeistliche Beobachtung, welche weitreichender bzw. umfassender zu verstehen ist.</p>
+
+      <h3>Internet</h3>
+
+      <p>Die globale Vernetzung durch die Technologien des Internets stellt sowohl die erste, auf reiner Softwareebene agierende Revolution sowie die bis dato massivste Veränderung gesellschaftlicher Normen dar. Sie betrifft nahezu jeglichen Themenbereich der  menschlichen Kultur, während sie jene Bereiche ebenfalls als angereicherte Information, in digitaler Form, enthält. Von den ersten rudimentären Anfängen in sog. bulletin board systems (BBS) und dem simplen Austausch über E-Mails bis zu intelligenten Social Media Netzwerken wie Facebook und der explosionsartigen Entstehung des heutigen App-Marktes, entwickelt sich das Internet und seine angrenzenden Themenfelder, im Direktvergleich zu allen vorherigen Schöpfungen der Computer Evolution so exponentiell beschleunigt, dass ein umfassendes Verständnis der Korrelationen für gesellschaftliche Zusammenhänge sehr undurchsichtig erscheint. Um dennoch einen themenbezogenen Einblick der gesellschaftlichen Veränderung zu gewähren und valide Aussagen eruieren zu können, empfiehlt sich die Eingrenzung auf selektive Kommunikationskanäle des Mediums, dessen Nutzer sowie des unmittelbaren Kontextes.</p>
+
+      <p>Als eine der ersten populären, virtuellen, Online-Kommunen gilt The WELL (Whole Earth 'Lectronic Link). Das seit 1985 bestehende, auf BBS Basis gegründete Netzwerk etabliert sich als beliebte Kommunikations- und Austauschplattform für universelle  Konversationen mit ernsten sowie trivialen Themen. Es ist retrospektiv betrachtet einer der Geburtsorte des, für heutige Verhältnisse primitiven, <abbr title="“Cyberspace” (englisch cyber als Kurzform für „Kybernetik“, space „Raum, Weltall“: kybernetischer Raum, Kyberraum) bezeichnet im engeren Sinne eine konkrete virtuelle Welt oder Realität („Scheinwelt“), im erweiterten Sinne die Gesamtheit mittels Computern erzeugter räumlich anmutender oder ausgestalteter Bedienungs-, Arbeits-, Kommunikations- und Erlebnis Umgebungen. In der verallgemeinernden Bedeutung als Datenraum umfasst der “Cyberspace” das ganze Internet. Die Sozialwissenschaften verstehen den “Cyberspace” weitergehend als „computermedial erzeugten Sinnhorizont“ und als Teil der Cybergesellschaft.">“Cyberspaces”</abbr>. BBS sind im Gegenteil zu den Standards des World Wide Webs autonome, meist private Mailboxen bzw. elektronische schwarze Bretter in ihrer Visualisierung, ähnlich dem TV Teletext. Sie fungieren als die puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen wie beispielsweise IRC, Reddit, oder Facebook.</p>
+
+      <div class="c-person">
+        <div class="c-person__object">
+          <img class="c-person__image" src="./assets/img/abene.jpg" alt="Mark Abene" data-source="https://www.technobezz.com/files/uploads/2015/10/stevejobs1.jpg" data-article="https://www.technobezz.com/watch-the-animated-biography-of-steve-jobs/"/>
+        </div>
+        <div class="c-person__content">
+          <h4 class="c-person__name">Mark Abene</h4>
+          <p class="c-person__bio">Auf dem Hack in the Box Event von 2007, beschreibt Mark Abene alias Phiber Optik ausführlich seinen Werdegang als aufstrebender “Hacker”. Abene gehört der jüngeren Generation - in seinem Fall beschäftigt er bereits mit 9 Jahren mit der Thematik - der Hacker Bewegung, welche unmittelbar mit den digitalen Medien zusammen aufwächst. Als eine seiner frühen Inspirationsquellen für seine Aktivitäten nennt Abene den Film WarGames von 1983, in dem sich ein jugendlicher Hacker Zugriff auf das computergesteuerte Atomprogramm des US Militärs beschafft. Abene war Mitglied der sog. Masters of Deception (MoD), einer in New York ansässigen und prestigeträchtigsten Hacker Gruppierungen ihrer Zeit. Im sog. medienwirksamen Great Hacker War konkurriert MoD mit rivalisierenden Legion of Doom (LoD) Mitgliedern, welcher Elias Ladopoulos alias Acid Phreak angehört. Letztendlich wird diese Auseinandersetzung durch die Öffentlichkeitsarbeit des Staates und einzelner Journalisten dramatisiert und hat laut Abene in dieser Form nicht stattgefunden, jedoch zeigt dieses Event zumindestens den Kontakt zwischen den verschiedenen Hackern auf. Abene beschreibt die Ambitionen der damaligen Hacker Community als eine Zusammenkunft explorativer, Technik-Enthusiasten ohne böswillige Absichten, welche lediglich getrieben durch den Wissensdurst die infiltrierten Systeme zu verstehen und ihr Wissen darüber mit vertrauenswürdigen Quellen zu teilen, agierten. Viele dieser Hacker lernen sich durch die BBS überregional kennen und tauschen sich aus, wie Abene, Ladopoulos und weitere berühmte Kultfiguren jener Zeit. Die Art des Umgangs bildet einen Kodex auf dessen Grundlagen später sog. white hat-Hacker-Aktivitäten resultieren. Diese basieren auf einem ethisches Verständnis ihrer Subkultur und kooperieren später häufig mit Unternehmen in sog. penetration tests, um die Sicherheit von Computersystemen zu optimieren. Die Kontroverse, um den Great Hacker War fundiert primär auf dem Eingreifen von staatlichen Institutionen und konkreter werdenden Gesetzesentwürfen bezüglich Cyberkriminalität. Die Institutionen bewegen in diversen Fällen, einzelne Hacker dazu gegen ihre Kollegen auszusagen, um der Strafverfolgung zu entgehen. Im späteren Verlauf resultieren daraus für viele Hacker, darunter Abene, Gefängnisstrafen und leiten gemeinsam mit dem steigenden Alter und Interessenverlust der Protagonisten das Ende dieser Ära ein.</p>
+        </div>
+      </div>
+
+      <p>In dem BBS “The WELL” trifft die Generation von jugendlichen Hackern auf den Anhänger einer älteren Generation der Hippiebewegung, John Perry Barlow. Ironischerweise geraten die beiden Parteien, welche in ihrem Wesen eigentlich dieselben Grundprinzipien des wachsenden Internets vertreten, zu diesem Zeitpunkt aneinander. Der liberal geprägte Barlow beschreibt 1990 dieses Aufeinandertreffen in seinem Artikel Crime and Puzzlement <span class="c-ref" data-ref-id="104" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>folgendermaßen</span>:</p>
+
+      <div class="c-chat-log" style="padding: 0 24px;">
+        <p><i>And I remembered Kevin Mitnik. Mitnik, now 25, recently served federal time for a variety of computer and telephone related crimes. Prior to incarceration, Mitnik was, by all accounts, a dangerous guy with a computer. He disrupted phone company operations and arbitrarily disconnected the phones of celebrities. Like the kid in Wargames, he broke into the North American Defense Command computer in Colorado Springs.</i></p>
+        <p><i>Unlike the kid in Wargames, he is reputed to have made a practice of destroying and altering data. There is even the (perhaps apocryphal) story that he altered the credit information of his probation officer and other enemies. Digital Equipment claimed that his depredations cost them more than $4 million in computer downtime and file rebuilding. Eventually, he was turned in by a friend who, after careful observation, had decided he was "a menace to society."</i></p>
+        <p><i>His spectre began to hang over the conference. After several days of strained diplomacy, the discussion settled into a moral debate on the ethics of security and went critical.</i></p>
+        <p><i>The techno-hippies were of the unanimous opinion that, in Dylan's words, one "must be honest to live outside the law." But these young strangers apparently lived by no code save those with which they unlocked forbidden regions of the Net.</i></p>
+        <p><i>They appeared to think that improperly secured systems deserved to be violated and, by extension, that unlocked houses ought to be robbed. This latter built particular heat in me since I refuse, on philosophical grounds, to lock my house.</i></p>
+        <p><i>Civility broke down. We began to see exchanges like:</i></p>
+        <p class="c-chat-log__code">Dave Hughes: Clifford Stoll said a wise thing that no one has commented on. That networks are built on trust. If they aren't, they should be.</p>
+        <p class="c-chat-log__code">Acid Phreak: Yeah. Sure. And we should use the 'honor system' as a first line of security against hack attempts.</p>
+        <p class="c-chat-log__code">Jef Poskanzer: This guy down the street from me sometimes leaves his back door unlocked. I told him about it once, but he still does it. If I had the chance to do it over, I would go in the back door, shoot him, and take all his money and consumer electronics. It's the only way to get through to him.</p>
+        <p class="c-chat-log__code">Acid Phreak: Jef Poskanker (Puss? Canker? yechh) Anyway, now when did you first start having these delusions where computer hacking was even *remotely* similar to murder?</p>
+        <p><i>Presented with such a terrifying amalgam of raw youth and apparent power, we fluttered like a flock of indignant Babbitts around the Status Quo, defending it heartily. One former hacker howled to the Harper's editor in charge of the forum, "Do you or do you not have names and addresses for these criminals?" Though they had committed no obvious crimes, he was ready to call the police.</i></p>
+        <p><i>They finally got to me with:</i></p>
+        <p class="c-chat-log__code">Acid: Whoever said they'd leave the door open to their house... where do you live? (the address) Leave it to me in mail if you like.</p>
+        <p><i>I had never encountered anyone so apparently unworthy of my trust as these little nihilists. They had me questioning a basic tenet, namely that the greatest security lies in vulnerability. I decided it was time to put that principal to the test...</i></p>
+        <p class="c-chat-log__code">Barlow: Acid. My house is at 372 North Franklin Street in Pinedale, Wyoming. If you're heading north on Franklin, you go about two blocks off the main drag before you run into hay meadow on the left. I've got the last house before the field. The computer is always on… <br/>Barlow: And is that really what you mean? Are you merely just the kind of little sneak that goes around looking for easy places to violate? You disappoint me, pal. For all your James Dean-On-Silicon rhetoric, you're not a cyberpunk. You're just a punk.</p>
+        <p class="c-chat-log__code">Acid Phreak: Mr. Barlow: Thank you for posting all I need to get your credit information and a whole lot more! Now, who is to blame? ME for getting it or YOU for being such an idiot?! I think this should just about sum things up.</p>
+        <p class="c-chat-log__code">Barlow: Acid, if you've got a lesson to teach me, I hope it's not that it's idiotic to trust one's fellow man. Life on those terms would be endless and brutal. I'd try to tell you something about conscience, but I'd sound like Father O'Flannigan trying to reform the punk that's about to gutshoot him. For no more reason that to watch him die. But actually, if you take it upon yourself to destroy my credit, you might do me a favor. I've been looking for something to put the brakes on my burgeoning materialism.</p>
+        <p><i>I spent a day wondering whether I was dealing with another Kevin Mitnik before the other shoe dropped:</i></p>
+        <p class="c-chat-log__code">Barlow: ... With crackers like acid and optik, the issue is less intelligence than alienation. Trade their modems for skateboards and only a slight conceptual shift would occur.</p>
+        <p class="c-chat-log__code">Optik: You have some pair of balls comparing my talent with that of a skateboarder. Hmmm... </p>
+        <p><i>This was indeed boring, but nonetheless:</i></p>
+        <p><i><strong>At which point he downloaded my credit history!</strong></i></p>
+        <cite><span class="c-ref" data-ref-id="104" data-ref-type="zitat" data-ref-desc="">John Perry Barlow</span></cite>
+      </div>
+
+      <p>In dieser kurzen Konversation offenbaren sich eine Vielzahl von Erkenntnissen über menschliche Facetten und deren Wechselwirkungen im Kontext des virtuellen Cyberspaces. Barlow bekommt dessen verschobenen Gesetzlichkeiten das erste Mal persönlich zu spüren. Er behandelt die Hacker wie jugendliche Skater, welche er in der physischen Welt, unter Umständen durch sein Alter, seine ausstrahlende Autorität oder seine überlegene physische Konstitution, maßregeln könnte. Im Cyberspace sind diese Maxime jedoch ungültig. Zusätzlich gibt Barlow seine Anonymität auf und verliert damit seinen einzigen Schutz im virtuellen Raum, welches die Hacker kurze Zeit darauf bestrafen.</p>
+      <p class="o-p--tie">Diese beispielhafte Situation zeigt das unterschiedliche Verständnis des Mediums von verschiedenen Arten von Nutzergruppen auf. Die jüngeren Hacker symbolisieren die Prototypen einer zukünftigen Generation, welche die Gesetze des digitalen Cyberspaces als ebenso gültig erachtet, wie die Gesetze der physischen Welt. Dies bedeutet nicht, dass jeder Mensch welcher im digitalen Zeitalter aufwächst automatisch über solche Fähigkeiten verfügt, aber es zeigt einen Trend, auf welcher sich beispielsweise im Online Gaming - eine weitere wichtige Komponente für den Erfolg des Internets - durch z.B. das Selbstverständnis der Anonymität, widerspiegelt. Ebenso repräsentiert Barlow eine ältere Generation, welche dem Potential der neuen Medien in erster Instanz skeptisch und mit den Normen der physischen Welt begegnet.</p>
+      <p class="o-p--tie">Nachdem Barlow zunächst eingeschüchtert ist, entschließt er sich mit den Mitgliedern von <abbr title="Legion Of Doom">LoD</abbr> telefonischen Kontakt aufzunehmen. Er wählt dem seinem Naturell entsprechenden, kommunikativen Weg und erkennt Parallelen zu seinen persönlichen Ansichten. Er lernt die Hacker mit der Zeit besser kennen und begreift, dass sich hinter den Aliases keine böswilligen Absichten verbergen. Barlow versteht sich ab diesem Zeitpunkt als der, nach eigenen Aussagen, Scoutmaster (z.d. Pfadfinderführer) der jüngeren Hacker und bleibt mit der Gruppe in freundschaftlichem Kontakt.</p>
+
+      <blockquote>
+        <p>Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.</p>
+        <cite><span class="c-ref" data-ref-id="105" data-ref-type="zitat" data-ref-desc="Einleitung: ">John Perry Barlow</span></cite>
+      </blockquote>
+
+      <div class="c-person">
+        <div class="c-person__object">
+          <img class="c-person__image" src="./assets/img/barlow.png" alt="John Perry Barlow" data-source="http://farm2.staticflickr.com/1321/835393447_aaee27aa87_o.jpg" data-article="https://alchetron.com/John-Perry-Barlow-158286-W"/>
+        </div>
+        <div class="c-person__content">
+          <h4 class="c-person__name">John Perry Barlow</h4>
+          <p class="c-person__bio">Durch seine persönlichen Erfahrungen mit den Hackern und Einsichten in deren Szene, die “WELL Community” sowie seine Beobachtungen der Internetentwicklung, mit vermehrt auftretenden, häufig unverhältnismäßigen Konflikten der Hackerszene in Verbindung mit staatlichen Institutionen, konkretisiert sich Barlows Engagement für die Erhaltung der Netzneutralität und der generellen Freiheit des Internets. Bereits 1990 gründet Barlow mit weiteren Aktivisten die Electronic Frontier Foundation (EFF), eine non-profit Organisation welche sich für vor allem vor Gerichten und durch ihre Öffentlichkeitsarbeit, für den Erhalt der Grundrechte des Einzelnen im Informationszeitalter einsetzt. In ihrem Programm verschreiben sie sich ebenfalls dem Schutz vor digitaler Überwachungen, welche immer mehr zunehmen. Die EFF unterstützt erfolgreich Hacker, Organisationen und Unternehmungen wie bereits Mark Abene, Bruce Sterling, Steve Jackson Games , Tor Browser, oder WikiLeaks.</p>
+        </div>
+      </div>
+
+      <p>Im Jahr 1996 publiziert Barlow sein berühmtes Manifest: A Declaration of the Independence of Cyberspace. Trotz der möglichen Gefahren der Hackerszene, mit denen er selbst persönliche Erfahrungen macht, erkennt Barlow die Wichtigkeit der Freiheit des Internets und dessen fundamentales Potential Menschen auf der Welt - ungeahnt ihrer Herkunft, Ethik, oder persönlicher Ansichten - zu verbinden, ohne konventionelle Regeln oder Normen, sondern lediglich auf der Basis von gegenseitigem Respekt. Das romantisierende Manifesto of Cyberspace ist neben seiner Aufforderung zum Erhalt der Unabhängigkeit des Internets, ebenfalls ein direktes Fenster zu den damaligen Ansichten Barlows und seiner Weggefährten, welche sie in ihrer puristischen Form bis dato vertreten. In Anbetracht der Entwicklung des Internets gesteht selbst Barlow inzwischen ein, dass sein Manifesto optimistischer ausgelegt ist, als es der Realität gerecht werden könnte. Dennoch repräsentiert und verdeutlicht es bis heute - mehr denn je und unmissverständlich - die Wichtigkeit der Partizipation zum Schutz der fundamentalen Rechte und Eigenschaften des Cyberspaces.</p>
+
+      <p>Die Protagonisten und Pioniere jener Zeit sind neben den technischen Auswirkungen einer der primären, kulturellen Faktoren für die heutige, freie Form des Internets. Der Mythos des in der Dunkelheit, vor dem flackernden Bildschirm sitzenden Hackers löst sich spätestens mit dem “White-Hat Aktivismus” auf. Viele Hacker, darunter Abene, arbeiten inzwischen im InfoSec Sektor, um u.a. das Internet sicherer zu machen. Von dem einst “wilden Westen”, bestehend aus rudimentären BBS “Mikrokosmen”, bewohnt von einer anonymen Community aus Hackern und Technik Enthusiasten, entwickelt sich das Internet spätestens mit der Implementierung von Web 2.0 Features zu einer umfassend vernetzten, digitalen Parallelwelt der Gesellschaft.</p>
+
+      <p>Im Jahr 1970 stellt Tim Berners-Lee alle bis heute gültigen Basis Komponenten für das World Wide Web (WWW) bereit (Webserver, -pages, -browser), welche sich ab diesem Zeitpunkt parallel und in Wechselwirkung zu den bereits genannten Technologien entwickeln. Vergleichbar mit der Einführung des Xerox Alto und dessen Betriebssystem, erlangt das Modell des Internets, welches zuvor vorrangig von Enthusiasten genutzt wurde, ab 1993 größere Popularität mit dem ersten GUI basierenden “Webbrowser Mosaic”. </p>
+      <p class="o-p--tie">Rapide zunehmend, verdichtet sich das Software basierende Meta Medium mit der Verknüpfung und Erweiterung immer neuer Teilgebiete und dem Aufstieg von Soft- und  Hardware Unternehmen. Aus der anfangs, großen Anzahl an Unternehmen in verschiedenen Zweigen der Internetentwicklung, kristallisieren sich erfolgreiche Marktführer der einzelnen Sparten heraus. So dominiert z.B. Google den Suchmaschinenmarkt und setzt sich deutlich gegen seine Konkurrenz wie Yahoo oder Bing durch. Anfängliche, populäre Social Media Netzwerke wie beispielsweise MySpace und StudiVZ werden durch Facebook weitgehend verdrängt. Die Tech Unternehmen verdrängen nicht nur ihre unmittelbare Konkurrenz sondern überholen sogar traditionell erfolgreiche Unternehmen aus der physischen Güterindustrie, obwohl sie keinen materiellen Wert generieren. Inzwischen haben sich Konzerne wie Facebook und speziell Google in weiteren Märkten etabliert bzw. eingekauft, z.B. Occulus, Instagram, Boston Dynamics, usw.</p>
+
+
+      <div style="color:red;">bild facebook + google struktur<br/><br/></div>
+
+      <p>Der Erfolg dieser Unternehmen ist hauptsächlich auf die Entwicklungen des sog. Web 2.0 zurückzuführen, in der die Partizipation und Kollaboration des Endverbrauchers wichtige Aspekte darstellen. Der Begriff Web 2.0, welcher die gesamte veränderte Nutzung des Webs beschreibt, fokussiert sich primär auf den Themenbereich der Social Media Netzwerke, in der sich diese Veränderung am deutlichsten abzeichnet. Digitale Netzwerke wie Facebook, Tools wie die Google Suchfunktion und weitere sog. Apps (Instagram, Snapchat, PokemonGo, usw.) implementieren sich ähnlich wie Smartphones in die alltäglichen Abläufe der Gesellschaft.</p>
+      <p class="o-p--tie">Popkulturelle Phänomene des digitalen Cyberspaces wie sog. “Selfies”, oder die forcierte Selbstdarstellung von trivialen Erlebnissen, wie beispielsweise das Fotografieren von Nahrungsmitteln vor dem Verzehr, Blogging und Vlogging, bahnen sich einzig durch die Nutzung und der Verbreitung innerhalb der neuen Meta Medien ihren Weg in die physische Welt.</p>
+      <p class="o-p--tie">Die verstärkte Nutzung der digitalen Meta Medien sind eingehend mit positiven sowie negativen Ansätzen. Die verstärkte Partizipation und höhere Informationsdichte ermöglicht einen vereinfachten Zugang zu diversen Themenbereichen, ohne bestimmte, unverhältnismäßige, technische Kenntnisse zu besitzen oder Anforderungen zu erfüllen. So sind beispielsweise Designer dazu in der Lage, ohne außergewöhnliche Programmierkenntnisse, interaktive Entwürfe zu kreieren. Programmierer können mit Hilfe sog. “APIs” auf vorgefertigte Assets von Großunternehmen wie Google zugreifen und sie für ihre Zwecke nutzen. Des Weiteren sind digitale Güter “on demand” abrufbar und die einfache globale Kollaboration, ohne physische Anwesenheit, wird ermöglicht. Viele weitere positive Eigenschaften manifestieren sich in dieser Entwicklung.</p>
+      <p class="o-p--tie">Allerdings birgt diese Informationsdichte und Verfügbarkeit ebenfalls eine Großzahl an teilweise wissenschaftlich unverifizierten, negativen Aspekten. Durch die flüchtigen, digitalen Eigenschaften der Meta Medien können beispielsweise Social Media Netzwerke eine verzerrte Darstellung der physischen Realität widerspiegeln, indem durch die Freiheit des Internets, jeder Mensch ungefiltert die Möglichkeit besitzt Informationen zu publizieren.</p>
+      <p class="o-p--tie">Dadurch erscheint es häufig unklar, welche Quellen als positiv, negativ, wahr oder gar falsch zu bewerten sind. Soziale Netzwerke fungieren dabei als Katalysator jeglicher menschlicher Eigenschaft in der Funktionalitäten wie Likes und Follows keine fundierten Anhaltspunkte für die Qualität der jeweiligen Information darstellen, es dem Nutzer jedoch suggerieren. </p>
+      <p class="o-p--tie">An dieser Stelle können weitere Nachforschungen betrieben werden welche von sog. Filterblasen, über den möglichen Datenhandel von Nutzern, bis zu möglichen, digitalen Wahlmanipulationen, führen können. Ohne solche Ansätze und deren Wahrheitsgehalt im Detail zu untersuchen, sind die zugrunde liegenden Tools dieser Theorien zur digitalen Verhaltensanalyse bereits in diversen Medien implementiert und entwickeln sich stetig weiter. Neben komplexeren Algorithmen für die Nutzeranalyse wie Google Analytics können die folgenden zwei, empirischen Selbstversuche direkt unmittelbar eingesehen und reproduziert werden:</p>
+
+
+
+
+
 
       <p class="o-p--tie"></p>
       <p class="o-p--tie"></p>
