@@ -1240,9 +1240,9 @@ mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
 
-      <p>Die Kritik von Hartmut Esslinger an Apple gilt als berechtigt, insofern Apple nach dem Tablet bzw. der Smartwatch keine vergleichsweise, bahnbrechende
-Technologie mehr eingeführt und andere Unternehmen an diesen Innovationen orientieren. Allerdings ermöglichen sowie vereinfachen Unternehmen wie Apple und
-Konsorten, mit der Implementierung neuer Medien Plattformen (Smartphones, Tablets, etc.), die Möglichkeit für Developer und Designer sich aktiv an aktuellen
+      <p>Die Kritik von Hartmut Esslinger an Apple gilt als berechtigt, insofern Apple nachdem Tablet keine vergleichsweise bahnbrechende
+Technologien präsentieren und sich Konkurenzunternehmen inzwischen auf einem ähnlichen Niveau befinden. Allerdings ermöglichen sowie vereinfachen Apple und
+vergleichbare Unternehmen, mit der Implementierung neuer Medien Plattformen (Smartphones, Tablets, etc.), den Zugang für Developer und Designer sich aktiv an aktuellen
 Trendentwicklung zu beteiligen und diese <span class="c-ref" data-ref-id="98" data-ref-desc="" data-ref-type="ref">mitzugestalten.</span><span class="c-ref" data-ref-id="99" data-ref-desc="" data-ref-type="ref"></span></p>
       <p class="o-p--tie">Generelle Entwicklungen wie das Internet und der damit einhergehende globale Austausch, die Open Source Bewegung auf Plattformen wie
 z.B. GitHub zeigen neben der transparenten, rapiden vor allem die dezentralisierte Weiterentwicklung der Meta Medien auf. Durch die Zugänglichkeit
@@ -1455,7 +1455,7 @@ Implementierung von Web 2.0 Features zu einer umfassend vernetzten, digitalen Pa
 
       </p>
 
-      <p>Im Jahr 1970 stellt Tim Berners-Lee alle bis heute gültigen Basis Komponenten für das World Wide Web (<abbr title="World Wide Web">WWW</abbr>) bereit (Webserver, -pages, -browser), welche
+      <p><span class="c-ref" data-ref-id="4" data-ref-type="vgl" data-ref-desc="S.21">Im Jahr 1970</span> stellt Tim Berners-Lee alle bis heute gültigen Basis Komponenten für das World Wide Web (<abbr title="World Wide Web">WWW</abbr>) bereit (Webserver, -pages, -browser), welche
 sich ab diesem Zeitpunkt parallel und in Wechselwirkung zu den bereits genannten Technologien entwickeln. Vergleichbar mit der Einführung des Xerox Alto und
 dessen Betriebssystem, erlangt das Modell des Internets, welches zuvor vorrangig von Enthusiasten genutzt wurde, ab 1993 größere Popularität mit dem ersten GUI
 basierenden Webbrowser “Mosaic”.</p>
@@ -1465,33 +1465,50 @@ kristallisieren sich erfolgreiche Marktführer der einzelnen Sparten heraus. So 
 Konkurrenz wie Yahoo oder Bing durch. Anfängliche, populäre Social Media Netzwerke wie beispielsweise MySpace und StudiVZ werden durch Facebook weitgehend
 verdrängt. Die Tech Unternehmen verdrängen nicht nur ihre unmittelbare Konkurrenz sondern überholen sogar traditionell erfolgreiche Unternehmen aus der
 physischen Güterindustrie, obwohl sie keinen materiellen Wert generieren. Inzwischen haben sich Konzerne wie Facebook und speziell Google in weiteren Märkten
-etabliert bzw. eingekauft, z.B. Occulus, Instagram, Boston Dynamics, usw.</p>
+etabliert bzw. eingekauft, z.B. <span class="c-ref" data-ref-id="113" data-ref-type="bsp" data-ref-desc="">Occulus,</span> <span class="c-ref" data-ref-id="114" data-ref-type="bsp" data-ref-desc="">Instagram,</span>
+<span class="c-ref" data-ref-id="115" data-ref-type="bsp" data-ref-desc="">Boston Dynamics,</span> usw.</p>
 
 
-      <div style="color:red;">bild facebook + google struktur<br/><br/></div>
+      <img src="./assets/img/facebook10year.jpg" alt="Facebook 10 Jahres Plan"/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="116" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!--hotfix -->
+
+      <img src="./assets/img/alphabet.png" alt="Google/Alphabet Unternehmensstruktur"/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="117" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
 
       <p>Der Erfolg dieser Unternehmen ist hauptsächlich auf die Entwicklungen des sog. Web 2.0 zurückzuführen, in der die Partizipation und Kollaboration des
 Endverbrauchers wichtige Aspekte darstellen. Der Begriff Web 2.0, welcher die gesamte veränderte Nutzung des Webs beschreibt, fokussiert sich primär auf den
 Themenbereich der Social Media Netzwerke, in der sich diese Veränderung am deutlichsten abzeichnet. Digitale Netzwerke wie Facebook, Tools wie die Google
 Suchfunktion und weitere sog. Apps (Instagram, Snapchat, PokemonGo, usw.) implementieren sich ähnlich wie Smartphones in die alltäglichen Abläufe der
 Gesellschaft.</p>
-      <p class="o-p--tie">Popkulturelle Phänomene des digitalen Cyberspaces wie sog. “Selfies”, oder die forcierte Selbstdarstellung von trivialen Erlebnissen,
+      <p class="o-p--tie">Popkulturelle Phänomene des digitalen Cyberspaces wie sog. “Selfies”, oder die <span class="c-ref" data-ref-id="118" data-ref-type="ref" data-ref-desc="">forcierte Selbstdarstellung</span> von trivialen Erlebnissen,
 wie beispielsweise das Fotografieren von Nahrungsmitteln vor dem Verzehr, Blogging und Vlogging, bahnen sich einzig durch die Nutzung und der Verbreitung
 innerhalb der neuen Meta Medien ihren Weg in die physische Welt.</p>
       <p class="o-p--tie">Die verstärkte Nutzung der digitalen Meta Medien sind eingehend mit positiven sowie negativen Ansätzen. Die verstärkte Partizipation
 und höhere Informationsdichte ermöglicht einen vereinfachten Zugang zu diversen Themenbereichen, ohne bestimmte, unverhältnismäßige, technische Kenntnisse zu
 besitzen oder Anforderungen zu erfüllen. So sind beispielsweise Designer dazu in der Lage, ohne außergewöhnliche Programmierkenntnisse, interaktive Entwürfe zu
-kreieren. Programmierer können mit Hilfe sog. “APIs” auf vorgefertigte Assets von Großunternehmen wie Google zugreifen und sie für ihre Zwecke nutzen. Des
+kreieren. Programmierer können mit Hilfe sog. “APIs” auf vorgefertigte Assets von Großunternehmen wie Google zugreifen und sie für ihre Zwecke <span class="c-ref" data-ref-id="4" data-ref-type="vgl" data-ref-desc="S.16">nutzen.</span> Des
 Weiteren sind digitale Güter “on demand” abrufbar und die einfache globale Kollaboration, ohne physische Anwesenheit, wird ermöglicht. Viele weitere positive
 Eigenschaften manifestieren sich in dieser Entwicklung.</p>
       <p class="o-p--tie">Allerdings birgt diese Informationsdichte und Verfügbarkeit ebenfalls eine Großzahl an teilweise wissenschaftlich unverifizierten,
 negativen Aspekten. Durch die flüchtigen, digitalen Eigenschaften der Meta Medien können beispielsweise Social Media Netzwerke eine verzerrte Darstellung der
 physischen Realität widerspiegeln, indem durch die Freiheit des Internets, jeder Mensch ungefiltert die Möglichkeit besitzt Informationen zu publizieren.</p>
       <p class="o-p--tie">Dadurch erscheint es häufig unklar, welche Quellen als positiv, negativ, wahr oder gar falsch zu bewerten sind. Soziale Netzwerke
-fungieren dabei als Katalysator jeglicher menschlicher Eigenschaft in der Funktionalitäten wie Likes und Follows keine fundierten Anhaltspunkte für die Qualität
-der jeweiligen Information darstellen, es dem Nutzer jedoch suggerieren. </p>
-      <p class="o-p--tie">An dieser Stelle können weitere Nachforschungen betrieben werden welche von sog. Filterblasen, über den möglichen Datenhandel von
-Nutzern, bis zu möglichen, digitalen Wahlmanipulationen, führen können. Ohne solche Ansätze und deren Wahrheitsgehalt im Detail zu untersuchen, sind die
+fungieren dabei als <span class="c-ref" data-ref-id="118" data-ref-type="ref" data-ref-desc="">Katalysator</span> jeglicher menschlicher Eigenschaft in der Funktionalitäten wie Likes und Follows keine fundierten Anhaltspunkte für die Qualität
+der jeweiligen Information darstellen, es dem Nutzer jedoch suggerieren.</p>
+      <p class="o-p--tie">An dieser Stelle können weitere Nachforschungen betrieben werden welche von sog. <span class="c-ref" data-ref-id="119" data-ref-type="ref" data-ref-desc="">Filterblasen,</span> über
+        den möglichen <span class="c-ref" data-ref-id="120" data-ref-type="ref" data-ref-desc="">Datenhandel von Nutzern</span>, bis zu möglichen, <span class="c-ref" data-ref-id="74" data-ref-type="ref" data-ref-desc="">digitalen Wahlmanipulationen,</span> führen können. Ohne solche Ansätze und deren Wahrheitsgehalt im Detail zu untersuchen, sind die
 zugrunde liegenden Tools dieser Theorien zur digitalen Verhaltensanalyse bereits in diversen Medien implementiert und entwickeln sich stetig weiter. Neben
 komplexeren Algorithmen für die Nutzeranalyse wie Google Analytics können die folgenden zwei, empirischen Selbstversuche direkt unmittelbar eingesehen und
 reproduziert werden:</p>
@@ -1531,7 +1548,7 @@ ersten Windows/Apple Betriebssysteme, oder dem sog. burgermenu im mobilen Webdes
       <p class="o-p--tie">Viele der ehemaligen Hacker und Aktivisten arbeiten inzwischen in verschiedenen Teilen der IT Branche in jener, neben den
 Protagonisten wie staatlichen Vertretern des Gesetzes, den technischen “Enthusiasten” (Hacker und Aktivisten), interagieren nun ebenfalls verstärkt
 einflussreiche Unternehmen und Organisationen (Google, Facebook, <abbr title="Electronic Frontier Foundation">EFF</abbr>, usw.) sowie reguläre Nutzer. Eine markante Eigenschaft der liberalen Aktivisten besteht
-darin, ungeachtet von persönlichen Eigenschaften und Beziehungen die Grundideale aller Nutzer zu wahren. So kritisiert beispielsweise der Whistleblower Julian
+darin, ungeachtet von persönlichen Eigenschaften und Beziehungen die Grundideale aller Nutzer zu wahren. So <span class="c-ref" data-ref-id="123" data-ref-type="ref" data-ref-desc="">kritisiert</span> beispielsweise der Whistleblower Julian
 Assange die <abbr title="Electronic Frontier Foundation">EFF</abbr> in ihrer Handlungsweise große Mengen an Geld von großen Unternehmen, wie Google, anzunehmen und damit die Netzneutralität in Gefahr zu bringen,
 obwohl Assange von der <abbr title="Electronic Frontier Foundation">EFF</abbr> maßgeblich unterstützt wurde. Dieser Austausch an Kritik ist, ungeahndet von Assanges persönlicher Motivation, eine wichtiger
 exemplarischer Beitrag zum Erhalt der Grundeigenschaften des Internets.</p>
@@ -1565,6 +1582,8 @@ selling of tens of millions that facilitated a spontaneous hacker community of t
           <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="Time Frames - Scott McCloud, 1993 - S.719 " data-ref-hide></span>
         </div>
       </div>
+
+      <p></p><!-- hotfix -->
 
       <h2>Artifizielle Realitäten</h2>
 
@@ -1600,8 +1619,8 @@ nach dem deep remix Prinzip von Manovich in verstärkter Wechselwirkung beeinflu
 der wortwörtlich greifbaren Virtual Reality ist dabei vergleichbar mit der Einführung des iPhones 2007, welches nach der ausführlichen Analyse weniger wie eine
 innovative Neuschöpfung wirkt, sondern vielmehr wie eine Beseitigung von Missständen bisheriger Produkte des (Smartphone/Mobilfunk) Segments.</p>
       <p class="o-p--tie">Im direkten Vergleich zu den Entwicklungen der 90er Jahre - visualisiert in dem o.g. Hackathon Video - ermöglichen zeitgeistliche
-Produkte, wie die Oculus Rift oder HTC Vive, ein immersives/intensiveres Nutzererlebnis (user experience / UX) als vorherige Unternehmungen, wie beispielsweise
-der Virtual Boy von Nintendo in den 90er Jahren. Die Grundeigenschaften der Produkte haben sich dagegen kaum verändert. </p>
+Produkte, wie die Oculus Rift oder HTC Vive, ein immersives/intensiveres Nutzererlebnis (User Experience / UX) als <span class="c-ref" data-ref-id="125" data-ref-type="ref" data-ref-desc="">vorherige Unternehmungen</span>, wie beispielsweise
+der <span class="c-ref" data-ref-id="126" data-ref-type="ref" data-ref-desc="">Virtual Boy</span> von Nintendo in den 90er Jahren. Die Grundeigenschaften der Produkte haben sich dagegen kaum verändert. </p>
       <p class="o-p--tie">Mithilfe der Computer Historie kann analysiert werden, ob neben der Verfügbarkeit der Produkte, dessen technischen Weiterentwicklungen
 und zusätzlich beeinflussenden Marktfaktoren, der Virtual Reality Markt ebenfalls einen maßgeblichen, gesellschaftlichen Paradigmenwechsel herbeiführen kann,
 oder ob dieser Zeitpunkt der VR Geschichte nur eine weitere, unzureichende Iteration darstellt. Ob der revitalisierte Virtual Reality Markt an vergleichbare und
@@ -1616,7 +1635,7 @@ sog. Head Mounted Displays (z.d. Datenhelme / HMD) in unterschiedlichen Ausführ
 eintauchen, bzw. wird die physische Welt durch das Einfügen von digitalen Objekten und Interaktionen erweitert. Diese “Datenhelme” sind mit hochauflösenden
 Bildschirmen und weiteren Sensoren bestückt, um dem Nutzer ein Gefühl von Präsenz in der jeweiligen Umgebung zu vermitteln. Speziell in der verzögerungsfreien
 Visualisierung, überzeugen die zeitgeistlichen Produkte durch die Nutzung ausreichend leistungsstarker Hard- und Software. Neben der primär visuellen Sensorik
-existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren. </p>
+existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren.</p>
 
       <div class="c-video">
         <iframe class="c-video__item" src="https://www.youtube.com/embed/jKj9uXKzofk" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -1631,8 +1650,8 @@ existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren. </p>
 
       <p>Virtual Reality (VR) beschreibt dabei den im Idealfall vollständigen Transfer des Geistes in eine artifiziell kreierte Realität in der alles was der
 Betrachter wahrnimmt, künstlich erzeugt wird. Bei der sog. Augmented Reality (AR) werden digitale Inhalte in das Sichtfeld des Betrachters in der physischen
-Welt, projiziert. Sobald diese digitalen Inhalte sich in die Gesetzlichkeiten der physischen Welt in einem glaubwürdigen Maße einfügen wird dieser Zustand als
-sog. Mixed Reality (MR) beschrieben und fungiert damit als die vollendete Version der AR.</p>
+Welt, projiziert. Sobald diese digitalen Inhalte sich in die Gesetzlichkeiten der physischen Welt in einem <i>glaubwürdigen</i> Maße einfügen wird dieser Zustand als
+sog. Mixed Reality (MR) beschrieben und fungiert damit als die vollendete Version der AR.<span class="c-ref" data-ref-id="126" data-ref-type="ref" data-ref-desc=""></span></p>
       <p class="o-p--tie">Für die klare Einordnung bestimmter Produkte in diese Kategorien sind deren Entwicklungsstand und Features (Auflösung,
 Interaktionsmöglichkeiten, usw.) entscheidend, in denen sich bisweilen verschiedene Hersteller unterschiedlich stark auf unterschiedliche Features fokussieren,
 vergleichbar mit den Entwicklungen der ersten Rechenmaschinen. Der Unterschied zur klassischen Betrachtung von digitalen 3D Objekten, z.B. auf Projektoren oder
@@ -1640,9 +1659,9 @@ Bildschirmen besteht dabei in der erfahrbaren, räumlichen Wahrnehmung, sichtbar
 Objekte, im unmittelbaren Blickfeld des jeweiligen Betrachters.</p>
       <p class="o-p--tie">Ziel jeder Entität dieser Kategorien ist es, die Grenzen zwischen der physischen Welt und dem Cyberspace verschwimmen zu lassen, indem
 sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz), oder umgekehrt. Neben der Übertragung von audiovisuellen Daten und der Interaktion mittels
-spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem HMDs kombinierbar. Ebenfalls stark
-korrelierende Themenbereiche finden sich in der Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die
-Nutzung in der physischen Welt, im Vordergrund stehen.
+spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem HMDs kombinierbar.
+Von kleineren Geräten wie Leap-Motion bis zu komplexen MoCap Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden sich in der
+Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt, im Vordergrund stehen.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -1653,8 +1672,8 @@ Nutzung in der physischen Welt, im Vordergrund stehen.
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">AR und MR</strong>
                 <span class="c-note-side__text">Unter den AR bzw. MR Bereich fallen ebenfalls Entwicklungen diverser Smartphone Apps, welche die integrierte
-Kamera als Werkzeug nutzen, um digitale Objekte auf dem Bildschirm unter realen Bedingungen einzufügen/anzuzeigen (z.B. IKEA App, PokemonGo App oder Google
-Tango) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers versetzt werden.</span>
+Kamera als Werkzeug nutzen, um digitale Objekte auf dem Bildschirm unter realen Bedingungen einzufügen/anzuzeigen (z.B. IKEA App, PokemonGo App oder <span class="c-ref" data-ref-id="129" data-ref-type="ref" data-ref-desc="">Google
+Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers versetzt werden.</span>
               </span>
             </span>
           </span>
@@ -1662,9 +1681,9 @@ Tango) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers versetz
 
       </p>
 
-      <div style="color:red">bis hier hin, vorher nicht ins bett du dicke sau</div>
+      <div style="color:red">gut morgen weiter</div>
 
-      <div>3 Beispiele (lol) VR, AR, MR</div>
+      <div style="color:red">3 Beispiele (lol) VR, AR, MR</div>
 
       <p>Das Potential dieser Technologien erscheint, zumindest theoretisch, nahezu unermesslich und gleichermaßen offensichtlich. Durch die präzise Simulation
 jeder erdenklichen Situation, können diese Technologien an nahezu jeden vorstellbaren Interessenbereich angeknüpft werden. Als universelles Werkzeug zum
