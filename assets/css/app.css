@@ -807,6 +807,10 @@ summary::-webkit-details-marker { display: none; }
 
 .o-p--tie:before { content: ''; display: inline-block; width: 2.25rem; }
 
+.o-h5--note { margin-bottom: 0.1875rem; }
+
+.o-p--note { font-family: "Graphik" !important; font-size: 14px !important; line-height: 2 !important; }
+
 .u-red { color: red; }
 
 .c-notes-marginal .c-ref__href { position: absolute; left: 0; top: 0; }
@@ -849,9 +853,15 @@ summary::-webkit-details-marker { display: none; }
 
 .o-background--success { background-color: #90ff90; }
 
+@media print { .o-background--success { background-color: #fff; } }
+
 .o-background--error { background-color: #f1484d; }
 
+@media print { .o-background--error { background-color: #fff; } }
+
 .o-background--warning { background-color: #f0ad4e; }
+
+@media print { .o-background--warning { background-color: #fff; } }
 
 .c-proposal { padding-bottom: 4.5rem; }
 
@@ -870,6 +880,13 @@ summary::-webkit-details-marker { display: none; }
 .c-proposal table th { font-size: 0.75rem; line-height: 1.5; }
 
 .c-proposal table td { text-align: center; font-size: 0.6875rem; line-height: 1.5; padding: 0.375rem; border: 1px solid #fff; }
+
+@media screen and (max-width: 600px) { .c-proposal table { width: 100%; }
+  .c-proposal table thead { display: none; }
+  .c-proposal table tbody td { display: block; text-align: center; }
+  .c-proposal table tbody td:before { content: attr(data-th); display: block; text-align: center; }
+  .c-proposal table tr:nth-of-type(2n) { background-color: inherit; }
+  .c-proposal table tr td:first-child { background: #f0f0f0 !important; font-weight: bold; font-size: 1.3em; } }
 
 .c-proposal .c-notes-marginal { margin: 1.5rem 0; }
 
@@ -960,6 +977,8 @@ summary::-webkit-details-marker { display: none; }
 .c-proposal .c-li-lead:before { display: block !important; width: 0.5rem; text-align: right; position: absolute; left: 0; top: 0; top: 0.1875rem; font-family: "Ocra", monospace; font-size: 0.75rem; line-height: 1.5; counter-increment: section; content: counters(section, "."); }
 
 .c-proposal .c-li-lead__content { padding-bottom: 0.75rem; }
+
+.c-proposal .c-chat-log { padding: 0 1.5rem 1.5rem 1.5rem; }
 
 .c-proposal .c-chat-log__code { font-family: "OCRA", monospace; font-size: 13px; padding: 0.75rem 1.5rem; background: #000; color: #00ff00; }
 

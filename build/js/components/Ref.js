@@ -1,4 +1,5 @@
 import $ from 'jquery';
+import json from '../data/sources.js';
 
 // functions
 function leadingZeroes(i) {
@@ -32,10 +33,10 @@ function leadingZeroes(i) {
 //  </a>
 //  </span>
 
-$.getJSON('sources.json', function(data) {
+//$.getJSON('sources.json', function(data) {
 
   // Get source data
-  var sources = data;
+  var sources = json;
 
   // Generate refs
   $('.c-ref').each(function(i) {
@@ -231,4 +232,4 @@ $.getJSON('sources.json', function(data) {
     }
 
   });
-});
+//});
