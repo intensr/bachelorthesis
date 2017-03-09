@@ -1660,7 +1660,7 @@ Objekte, im unmittelbaren Blickfeld des jeweiligen Betrachters.</p>
       <p class="o-p--tie">Ziel jeder Entität dieser Kategorien ist es, die Grenzen zwischen der physischen Welt und dem Cyberspace verschwimmen zu lassen, indem
 sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz), oder umgekehrt. Neben der Übertragung von audiovisuellen Daten und der Interaktion mittels
 spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s kombinierbar.
-Von kleineren Geräten wie Leap-Motion bis zu komplexen MoCap Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden sich in der
+Von kleineren Geräten wie Leap-Motion bis zu komplexen <abbr title="Motion Capture">MoCap</abbr> <span class="c-ref" data-ref-id="222" data-ref-type="ref" data-ref-desc="">(Motion Capture)</span> Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden sich in der
 Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt, im Vordergrund stehen.
 
         <span class="c-notes-side-hook">
@@ -1838,7 +1838,7 @@ Produkten wie dem iPhone welches den gesamten Smartphone Markt 2007 revolutionie
       <p class="o-p--tie">Mit dem Wunsch von alternativen Realitäten verbinden Anwender das Gefühl sich frei darin bewegen zu können (<span class="c-ref" data-ref-id="143" data-ref-type="ref" data-ref-desc="">Room Scale VR</span>), um
 immersive Erlebnisse hervorzurufen. Produkte wie die HTC Vive oder die Oculus Rift ermöglichen dies aktuell besser als jemals zuvor, aber dennoch unzureichend.
 Der Anwender kann sich zwar in einem bestimmten Bereich bewegen, ist jedoch stetig an den stationären Rechner und die gegebenen physischen Räumlichkeiten
-gebunden. Komplexere Systeme wie <abbr title="Motion Capture">MoCap</abbr> (<span class="c-ref" data-ref-id="222" data-ref-type="ref" data-ref-desc="">Motion Capture</span>), welche zum einen jede Bewegung des physischen Körpers in die digitale Umgebung übersetzen und zum
+gebunden. Komplexere Systeme wie <abbr title="Motion Capture">MoCap</abbr>, welche zum einen jede Bewegung des physischen Körpers in die digitale Umgebung übersetzen und zum
 anderen größere Tracking Bereiche als die Sensoren der aktuellen Geräte eröffnen, sind schon seit Filmen wie <span class="c-ref" data-ref-id="145" data-ref-type="ref" data-ref-desc="">Herr der Ringe</span> oder <span class="c-ref" data-ref-id="146" data-ref-type="ref" data-ref-desc="">Avatar</span> bekannt und
 einsatzfähig. Allerdings erfordern diese einen größeren, physischen Bewegungsraum und weitere Upgrades, wie beispielsweise die kabellose Verbindung des <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s
 oder die Hilfe weiterer Statisten, um die Immersion zu erhalten (z.B. für das Führen des Verbindungskabels). Es existieren ebenfalls <span class="c-ref" data-ref-id="147" data-ref-type="ref" data-ref-desc="">Vergnügungspark Konzepte</span>
@@ -1875,7 +1875,7 @@ primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen no
 
       <p>Womit sich der Preis als ein weiterer Kritikpunkt offenbart. Obwohl zeitgeistige Produkte, speziell technische Meilensteine der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>, Entwicklung auf
 Konsumenten Niveau darstellen, sind die leistungsstarken, stationären Geräte immer noch sehr kostenintensiv. Günstigere stationäre Geräte sind bereits in der
-Entwicklung jedoch noch nicht auf dem Markt. Unternehmungen, wie beispielsweise Google Cardboard und Samsung GearVR dagegen präsentieren ihre Produkte bereits
+<span class="c-ref" data-ref-id="150" data-ref-type="bsp" data-ref-desc="">Entwicklung</span> jedoch noch nicht auf dem Markt. Unternehmungen, wie beispielsweise <span class="c-ref" data-ref-id="153" data-ref-type="bsp" data-ref-desc="">Google Cardboard</span> und Samsung <span class="c-ref" data-ref-id="223" data-ref-type="bsp" data-ref-desc="">Gear VR</span> dagegen präsentieren ihre Produkte bereits
 kostengünstig, können aber noch nicht der Leistung und dem Gefühl der Immersion von stationären <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s gerecht werden.</p>
       <p class="o-p--tie">Nach der Analyse der verschiedenen <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien stellt sich unweigerlich die Frage, wie und ob die Missstände der aktuellen
 Technologien zeitnahe behoben werden können, um eine großflächige, gesellschaftliche Nutzung zu erreichen. Nach den anfänglichen Prognosen diverser Blogs,
@@ -1926,7 +1926,7 @@ Anwendungen, in den Entwicklungen von Mobile- bzw. WebVR Technologien. Natürlic
 jedoch das fundamentale Potential dieser Art von Technologie auf.</p>
 
       <h2>MobileVR</h2>
-      <p>Der mobile Zweig der VR Entwicklung (MobileVR) wird durch die Einführung von Googles Cardboard erstmalig popularisiert. Bei Cardboard handelt es sich,
+      <p>Der mobile Zweig der VR Entwicklung (MobileVR) wird durch die Einführung von <span class="c-ref" data-ref-id="153" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Googles Cardboard</span> erstmalig popularisiert. Bei Cardboard handelt es sich,
 um eine kostengünstige Konstruktion aus Karton und speziellen Linsen in jene ein Smartphone eingelegt wird und somit als <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> fungiert. Das Smartphone muss dabei
 bestimmte Sensoren enthalten (Gyroskop, Beschleunigungsmesser und Magnetometer), um die eigene Position im physischen Raum zu berechnen. Stellt das Smartphone
 dabei eine bestimmte Rechenleistung bereit, kann eine zugehörige App von Google dazu benutzt werden, diverse Erlebnisse wie beispielsweise die Ansicht von 360°
@@ -1934,14 +1934,35 @@ Videos oder dreidimensionale Spiele zu erleben. Es ist eine vergleichsweise gün
 ohne den Kauf von kostenintensiven Geräte wie beispielsweise der HTC Vive oder der Oculus Rift zu tätigen. Smartphones sind inzwischen weit verbreitet und
 begünstigen damit die Nutzung, auch wenn die Qualität vergleichsweise schlechter ist und Cardboard keine Controller bereitstellt.</p>
       <p class="o-p--tie">Nach der Einführung von Cardboard erhöht sich das Angebot und die Ausführungen von MobileVR Geräten. Bekannte Smartphone- bzw. Tech
-Unternehmen veröffentlichen Produkte wie Samsung GearVR, Xiaomi MI VR, usw. Neben den renommierten Herstellern positionieren sich ebenfalls kleinere Anbieter
+Unternehmen veröffentlichen Produkte wie Samsung <span class="c-ref" data-ref-id="223" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Gear VR</span>,
+Xiaomi <span class="c-ref" data-ref-id="224" data-ref-type="bsp" data-ref-desc="">MI VR,</span> usw. Neben den renommierten Herstellern positionieren sich ebenfalls kleinere Anbieter
 wie beispielsweise PinchVR mit erfolgreichen Ideen. Weitere Konzepte wie Google Daydream folgen, welches neben einer höheren Qualität der einzelnen Komponenten
 zusätzlich einen zugehörigen Controller enthält. Ähnlich wie bei PinchVR verkleinert sich durch die zusätzliche Interaktionsmöglichkeit der Unterschied zwischen
 stationären und mobilen Endgeräten, wenngleich die leistungsstärkeren Devices dennoch eine deutlich bessere Darstellung sowie Usability in Form von Immersion
-und Interaktion ermöglichen. </p>
+und Interaktion <span class="c-ref" data-ref-id="225" data-ref-type="ref" data-ref-desc="">ermöglichen.</span></p>
+      <p class="o-p--tie">Während der Ausarbeitung dieser Arbeit ergeben sich fast wöchentlich neue Entwicklungen innerhalb der VR Szene. So erteilt Google immer weitere <span class="c-ref" data-ref-id="226" data-ref-type="bsp" data-ref-desc="">Freigaben</span> für Daydream taugliche Smartphones und neben den
+Entwicklungen der Hardwareseite ergeben sich weitere Möglichkeiten im <span class="c-ref" data-ref-id="160" data-ref-type="bsp" data-ref-desc="">Softwarebereich.</span></p>
 
-      <div style="color:red">Grafische Unterschiede VR &amp; MobileVR Bild Vergleich,,, Alan Kay Croquet,,,Seit Februar 2017 sind die Funktionen von Daydream
-auch in WebVR verfügbar.</div>
+      <img src="./assets/img/croquet.png" alt=""/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="227" data-ref-type="ref" data-ref-desc="Collage mit Croquet Portals nach Alan Kay, " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!--hotfix-->
+
+      <img src="./assets/img/daydream.jpg" alt=""/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="229" data-ref-type="ref" data-ref-desc="Screenshot, " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p>Obwohl die Technologien im stetigen Wandel sind ist es abermals Alan Kay welcher wegweisende Grundsteine legt. Die Entwicklungen von <span class="c-ref" data-ref-id="158" data-ref-type="vgl" data-ref-desc="S.4">Croquet</span> erinnern stark an die gleichnamigen
+      Portals innerhalb von <span class="c-ref" data-ref-id="160" data-ref-type="ref" data-ref-desc="">Googles Daydream Home.</span></p>
 
       <p>Zusammengefasst sind die mobilen Geräte auf dem richtigen Weg, VR Erlebnisse dem breiteren Spektrum an Anwendern zur Verfügung zu stellen und
 ansatzweise, immersive Erlebnisse zu erzeugen. Die generellen o.g. Probleme der VR Branche bleiben trotzdem bestehen. Ein zusätzliches Problem entsteht dadurch,
@@ -1953,48 +1974,59 @@ Software hat die MobileVR Branche positive Chancen sich als weiteres Medium fest
 
       <p>Durch die Zusammenarbeit von Mozilla und Google Chrome Entwicklern und dem resultierenden Release der experimentellen WebVR Technologie 2016, wird es
 möglich VR Geräte direkt mit den Inhalten und Umgebungen von Webbrowsern zu verbinden. Unter dem Deckmantel von WebVR verbergen sich neben der Ansteuerung und
-Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellen Technologien wie WebGL & Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
+Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellen Technologien wie <abbr title="Web Graphics Library">WebGL</abbr> &amp; Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
 Anbindung von Controllern, oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen wie
-z.B. AJAX (Asynchronous JavaScript and XML) in Echtzeit angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn es
+z.B. <abbr title="Asynchronous JavaScript and XML">AJAX</abbr> (Asynchronous JavaScript and <abbr title="Extensible Markup Language">XML</abbr>) in Echtzeit angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn es
 verbindet neben den bestehenden Technologien ebenfalls bereits erfahrene Entwickler aus verschiedenen Gebieten und mit unterschiedlichen Fähigkeiten nahtlos mit
 dem neuen Medium. Diese Expertise kann nun weitgehend auf die VR Technologien übertragen werden, ohne einen extraordinären Mehraufwand zu betreiben, bzw. sich
 der Thematik von Grund auf neu anzunähern. </p>
-      <p class="o-p--tie">Es zeigt ebenfalls auf, dass selbst ein einzelner Entwickler, in diesem Fall Brandon Jones durch seine Arbeit an WebVR, die
-Möglichkeit hat das Web neu zu definieren. Dieser Umstand ist vergleichbar mit Ethan Marcottes Arbeit an der Responsive Webdesign Technologie, welche die Art
+      <p class="o-p--tie">Es zeigt ebenfalls auf, dass selbst ein einzelner Entwickler, in diesem Fall <span class="c-ref" data-ref-id="161" data-ref-type="ref" data-ref-desc="">Brandon Jones</span> durch seine Arbeit an WebVR, die
+Möglichkeit hat das Web neu zu definieren. Dieser Umstand ist vergleichbar mit Ethan Marcottes <span class="c-ref" data-ref-id="162" data-ref-type="ref" data-ref-desc="">Arbeit</span> an der Responsive Webdesign Technologie, welche die Art
 der Nutzung des Webs als neu etablierter Standard immer noch nachhaltig beeinflusst. Zusätzlich wird es möglich, die Technologie nach dem Vorbild des
-Progressive Enhancements anzubinden, sodass sich neue Features im optimalen Anwendungsfall, angepasst an die Fähigkeiten des jeweiligen Endgeräts eröffnen.</p>
-      <p class="o-p--tie">Die Anbindung an Web Technologien ist ein Trend welcher sich auch mit der Entwicklung von sog. Web Apps (Webanwendung) abzeichnet. Web
+<span class="c-ref" data-ref-id="230" data-ref-type="ref" data-ref-desc="">Progressive Enhancements</span> anzubinden, sodass sich neue Features im optimalen Anwendungsfall, angepasst an die Fähigkeiten des jeweiligen Endgeräts eröffnen.</p>
+      <p class="o-p--tie">Die Anbindung an Web Technologien ist ein Trend welcher sich auch mit der Entwicklung von sog. <span class="c-ref" data-ref-id="164" data-ref-type="ref" data-ref-desc="">Web Apps</span> (Webanwendung) abzeichnet. Web
 Apps werden generell, ausschließlich über den Browser betrieben anstatt über das Betriebssystem des jeweiligen Endgerätes. Der Vorteil liegt dabei in der
 Verfügbarkeit und der Unabhängigkeit von der speziellen Installation zusätzlicher Software zur Wahrnehmung des jeweiligen Contents - der Anwender öffnet seinen
 Browser und hat sofort Zugriff auf den entsprechenden Inhalt. Updates erfolgen dabei direkt nach der Erneuerung des abgerufenen Contents und müssen nicht mehr
 zusätzlich installiert werden.</p>
-      <p class="o-p--tie">Weiterführend erlangen Web Apps und -Technologien tendenziell immer mehr Zugriff auf die native Leistung der jeweiligen Geräte. WebGL
+      <p class="o-p--tie">Weiterführend erlangen Web Apps und -Technologien tendenziell immer mehr Zugriff auf die native Leistung der jeweiligen Geräte. <abbr title="Web Graphics Library">WebGL</abbr>
 hat beispielsweise bereits die Möglichkeit die volle Rechenleistung der Grafikeinheit der entsprechenden Recheneinheit zu nutzen. Web Apps wie die
 Kommunikationstools Slack, oder Discord können unmittelbar die Kamera oder das Mikrofon der jeweiligen Hardware ansteuern. Die Ansteuerung weiterer Sensoren der
-entsprechenden Endgeräte sind auf dem Vormarsch. </p>
+entsprechenden Endgeräte befindet sich auf dem <span class="c-ref" data-ref-id="165" data-ref-type="ref" data-ref-desc="">Vormarsch.</span></p>
 
-      <p>Ein Großteil der verschiedenen Technologien innerhalb von WebGL basiert auf dem Open Standard (Bekannt aus der OpenSource Bewegung), welche auf
+      <p>Ein Großteil der verschiedenen Technologien innerhalb von <abbr title="Web Graphics Library">WebGL</abbr> basiert auf dem <span class="c-ref" data-ref-id="166" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Open Standard</span> (bekannt aus der OpenSource Bewegung), welche auf
 Codesharing Plattformen wie GitHub an vielen Stellen einsichtig sind, für die entsprechenden Entwickler und Enthusiasten. Vergleichbar mit der Expansion in der
-direkten Ansteuerung weiterer Sensoren und Hardware durch den Browser, zeichnet sich WebGL ebenfalls durch die Erweiterung der zugrunde liegende Software aus.
+direkten Ansteuerung weiterer Sensoren und Hardware durch den Browser, zeichnet sich <abbr title="Web Graphics Library">WebGL</abbr> ebenfalls durch die Erweiterung der zugrunde liegende Software aus.
 </p>
-      <p class="o-p--tie">Ein exemplarisches Beispiel ist dabei eine der Weiterentwicklungen von OpenGL (Open Graphics Library) zu WebGL. Die
+      <p class="o-p--tie">Ein exemplarisches Beispiel ist dabei eine der Weiterentwicklungen von <abbr title="Open Graphics Library">OpenGL</abbr> (Open Graphics Library) zu <abbr title="Web Graphics Library">WebGL.</abbr> Die
 plattformübergreifende, Programmierschnittstelle OpenGL wird bereits 1992 eingeführt, zur Entwicklung und Darstellung von 2D und 3D Anwendungen. Es ist einer
-der bis heute gängigen Standards für die Gaming Industrie. Der Release der Grafikschnittstelle WebGL erfolgt 2011 und Bedarf im Gegensatz zu OpenGL keiner
+der bis heute gängigen Standards für die Gaming Industrie. Der Release der Grafikschnittstelle <abbr title="Web Graphics Library">WebGL</abbr> erfolgt 2011 und Bedarf im Gegensatz zu OpenGL keiner
 speziellen Anwendung, lediglich ein aktueller Browser und eine bestimmte Rechenleistung des Endgerätes sind für die Darstellung erforderlich. Dies befähigt
-WebGL potenziell dazu für eine breites Spektrum an Anwendern und Entwicklern zugänglich zu werden. WebGL ist eine der Grundlagen für die Vielzahl erfolgreicher
-Webprojekte und somit fest etabliert </p>
+<abbr title="Web Graphics Library">WebGL</abbr> potenziell dazu für eine breites Spektrum an Anwendern und Entwicklern zugänglich zu werden. <abbr title="Web Graphics Library">WebGL</abbr>
+ist eine der Grundlagen für die <span class="c-ref" data-ref-id="168" data-ref-type="bsp" data-ref-desc="WebGL Beispiele, ">Vielzahl</span>
+<span class="c-ref" data-ref-id="167" data-ref-type="bsp" data-ref-desc="CSS Design Awards: Best Agency Site, ">erfolgreicher</span> Webprojekte und somit fest etabliert </p>
       <p class="o-p--tie">Die Entwicklung mithilfe von Open Standards basierten Technologien erhöht ebenfalls die Transparenz jener durch die stetige Kontrolle
 im “Peer-Review” Verfahren, bekannt aus Portalen wie Wikipedia. Bei den meisten Open Source- und frei verfügbaren Projekten können verschiedene Entwickler durch
-sog. Forks, Vorschläge zur Optimierung einreichen. Speziell bei Libraries wie z.B. jQuery, Sass, Bootstrap usw. stellt dies ein gängiges, erfolgreiches
+sog. <span class="c-ref" data-ref-id="170" data-ref-type="ref" data-ref-desc="">Forks,</span> Vorschläge zur Optimierung einreichen. Speziell bei Libraries wie z.B. <span class="c-ref" data-ref-id="171" data-ref-type="ref" data-ref-desc="">jQuery,</span>
+<span class="c-ref" data-ref-id="172" data-ref-type="ref" data-ref-desc="">Sass,</span> <span class="c-ref" data-ref-id="173" data-ref-type="ref" data-ref-desc="">Bootstrap</span> usw. stellt dies ein gängiges, erfolgreiches
 Verfahren dar. Die Anwendungen profitieren damit nicht nur von der Transparenz der Projekte, sondern ebenfalls den gebündelten, einzelnen Leistungen,
 unabhängiger Spezialisten.</p>
-      <p class="o-p--tie">Für WebGL bzw. WebVR existieren bereits leistungsstarke Libraries wie Aframe, Three.js, oder PlayCanvas, welche die Erstellung von
+      <p class="o-p--tie">Für <abbr title="Web Graphics Library">WebGL</abbr> bzw. WebVR existieren bereits leistungsstarke Libraries wie <span class="c-ref" data-ref-id="174" data-ref-type="bsp" data-ref-desc="">Aframe,</span>
+        <span class="c-ref" data-ref-id="168" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Three.js,</span> oder <span class="c-ref" data-ref-id="175" data-ref-type="bsp" data-ref-desc="">PlayCanvas,</span> welche die Erstellung von
 Inhalten vereinfachen. Dies stellt ein weiteres, wichtiges Feature für Designer mit eingeschränkten Programmierkenntnissen dar. Entwicklung von Prototypen und
 kleineren Anwendungen können einfacher und schneller erstellt werden. Bereits existierende Hilfen in der Anwendungsentwicklung wie z.B. die Nutzung von
 Programmen und Tools wie Unity bleibt, durch die potentiell mögliche Exportfunktion zu WebVR, ebenfalls erhalten.</p>
 
-      <div style="color:red">Aframe Beispiel,,,, Exemplarische Aframe Anwendung - Mit bereits wenigen Zeilen an Code, kann eine simple Visualisierung und
-Interaktion realisiert werden.</div>
+      <div class="c-iframe">
+        <iframe class="c-iframe__item" src="https://shopifyvr.myshopify.com/pages/virtual-reality"></iframe>
+        <img class="c-iframe__overlay" src="./assets/img/shopifycityshoes.png" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="176" data-ref-type="bsp" data-ref-desc="Mit bereits wenigen Zeilen an Code, kann eine simple Visualisierung und Interaktion realisiert werden. " data-ref-hide></span>
+        </div>
+      </div>
 
       <p>Durch den Remix der VR und Web Medien entsteht ein weiterer experimenteller Hybrid mit vielen vererbten Potentialen verschiedener Entwicklungszweige.
 Durch den Status als experimentelle Technologie ist WebVR noch ganz am Anfang seiner Entwicklung. Speziell die Performance und das Gefühl der Immersion sind
@@ -2064,11 +2096,11 @@ Veränderungen bedeuten in erster Instanz eine Umverteilung des gesellschaftlich
 adaptive zukünftige Medien ersetzt werden. Es erscheint jedoch als unwahrscheinlich, dass diese Art der gesellschaftlichen Nutzung wieder vollkommen
 verschwindet. Damit begründet sich zusätzlich die Relevanz der Ethik Komponenten innerhalb der Arbeit, speziell weil diese bei den zeitnahen Entwicklungen von
 Smart Devices häufig übersehen wird.</p>
-      <p class="o-p--tie">VR, AR und MR sind in diesem Kontext lediglich als Werkzeuge zu verstehen, vergleichbar mit der Einführung von Mikrocomputern und
+      <p class="o-p--tie"><abbr title="Virtual Reality">VR,</abbr> <abbr title="Augmented Reality">AR</abbr> und <abbr title="Mixed Reality">MR</abbr> sind in diesem Kontext lediglich als Werkzeuge zu verstehen, vergleichbar mit der Einführung von Mikrocomputern und
 entsprechender GUIs, als Schnittstellen zwischen Mensch und Maschine. Neue Technologien helfen dabei den wachsenden, gegenwärtigen Anforderungen gerecht zu
 werden, wobei die neuen Medien dabei ebenfalls als Schnittstelle zu noch komplexeren Abläufen in Maschinen wie beispielsweise Quantencomputern fungieren
 könnten. Speziell die Entwicklung von AI ist dabei eine der prominentesten Anstrebungen. Der Anspruch den Mars zu besiedeln, das Weltall zu erkunden, unseren
-Planeten und seine Lebewesen besser zu verstehen, Krankheiten zu heilen und gesellschaftliche Konflikte beizulegen, sind nur einige der komplexen Aufgaben,
+Planeten und seine Lebewesen besser zu verstehen, Krankheiten zu heilen und gesellschaftliche Konflikte beizulegen, sind nur einige der <span class="c-ref" data-ref-id="177" data-ref-type="bsp" data-ref-parameter="&t=3m16s" data-ref-desc="">komplexen Aufgaben,</span>
 welche sich komplexe AI Algorithmen zukünftig annehmen können.</p>
       <p class="o-p--tie">Die Arbeit zeigt dementsprechend auf, dass “The Next Big Thing” nicht zwangsweise virtuelle Realitäten sind, sondern dass diese die
 benötigten Schnittstellen darstellen, komplexere Maschinen und den zugehörigen Cyberspace zu verstehen. Der Vorteil der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Anwendungen liegt dabei in der
@@ -2083,8 +2115,8 @@ Zeichen welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten k�
             <span class="c-note-side">
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">Realität</strong>
-                <span class="c-note-side__text">Einen interessanter Ansatz dieser Betrachtungsweise stammt von Donald Hoffman, welcher sich in einer Studie mit
-der Wahrnehmung der Realität beschäftigt. Hoffman stellt dabei die Theorie auf, dass der Mensch nicht versucht die Parameter der physischen Welt zu imitieren,
+                <span class="c-note-side__text">Einen <span class="c-ref" data-ref-id="178" data-ref-type="ref" data-ref-desc="">interessanter Ansatz</span> dieser Betrachtungsweise stammt von Donald Hoffman, welcher sich in einer Studie mit
+der Wahrnehmung der Realität beschäftigt. Hoffman stellt dabei <span class="c-ref" data-ref-id="179" data-ref-type="ref" data-ref-desc="">die Theorie</span> auf, dass der Mensch nicht versucht die Parameter der physischen Welt zu imitieren,
 sondern die Informationen unwillkürlich filtert bzw. interpretiert, um das eigene Überleben zu gewährleisten. Dies nimmt direkten Bezug zu der Wechselwirkung
 zwischen Mensch, Maschine und den jeweiligen Schnittstellen.</span>
               </span>

@@ -389,13 +389,22 @@ a.c-ref__desc {
   }
 
   .c-notes-side {
+    display: block;
+    @include to-rem(margin-top, $base-spacing);
+    @include to-rem(padding-bottom, $base-spacing);
     @include breakpoint(1265) {
+      margin-top: 0;
+      padding-bottom: 0;
+      display: inline;
       position: absolute;
       left: calc(100% + #{$base-spacing * 2 * 1px});
       width: 30%;
     }
     &__icon {
-      display: block;
+      display: inline-block;
+      @include breakpoint(1265) {
+        display: block;
+      }
     }
   }
 
@@ -677,6 +686,36 @@ a.c-ref__desc {
     left: 0;
     width: 100%;
     height: 100%;
+    border: 0;
+  }
+  &__overlay {
+    display: none;
+    @media print {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+.c-iframe {
+  position: relative;
+  padding-top: 56.25%;
+  width: 100%;
+  overflow: hidden;
+  page-break-inside: avoid;
+
+  &__item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
     border: 0;
   }
   &__overlay {
