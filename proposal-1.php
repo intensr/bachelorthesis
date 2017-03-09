@@ -1631,7 +1631,7 @@ Extraktion der positiven und negativen Aspekte der betreffenden Technologien auf
 
       <p>Mit der Veröffentlichung diverser Unterhaltungselektronik wie der Oculus Rift, Sonys Project Morpheus, Samsung Gear VR, oder Googles Daydream erlebt
 diese Sparte nach den kommerziellen Misserfolgen der 90iger Jahre (s.o.), einen erneuten Aufschwung. Jede dieser Technologien basieren auf der Hardwareebene auf
-sog. Head Mounted Displays (z.d. Datenhelme / HMD) in unterschiedlichen Ausführungen. Diese lassen den Benutzer in eine artifiziell erzeugte Realität
+sog. Head Mounted Displays (z.d. Datenhelme / <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s) in unterschiedlichen Ausführungen. Diese lassen den Benutzer in eine artifiziell erzeugte Realität
 eintauchen, bzw. wird die physische Welt durch das Einfügen von digitalen Objekten und Interaktionen erweitert. Diese “Datenhelme” sind mit hochauflösenden
 Bildschirmen und weiteren Sensoren bestückt, um dem Nutzer ein Gefühl von Präsenz in der jeweiligen Umgebung zu vermitteln. Speziell in der verzögerungsfreien
 Visualisierung, überzeugen die zeitgeistlichen Produkte durch die Nutzung ausreichend leistungsstarker Hard- und Software. Neben der primär visuellen Sensorik
@@ -1659,7 +1659,7 @@ Bildschirmen besteht dabei in der erfahrbaren, räumlichen Wahrnehmung, sichtbar
 Objekte, im unmittelbaren Blickfeld des jeweiligen Betrachters.</p>
       <p class="o-p--tie">Ziel jeder Entität dieser Kategorien ist es, die Grenzen zwischen der physischen Welt und dem Cyberspace verschwimmen zu lassen, indem
 sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz), oder umgekehrt. Neben der Übertragung von audiovisuellen Daten und der Interaktion mittels
-spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem HMDs kombinierbar.
+spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s kombinierbar.
 Von kleineren Geräten wie Leap-Motion bis zu komplexen MoCap Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden sich in der
 Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt, im Vordergrund stehen.
 
@@ -1681,13 +1681,48 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
 
       </p>
 
-      <div style="color:red">gut morgen weiter</div>
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/q4zr5Eq_F5g?start=212&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <img class="c-video__overlay" src="./assets/img/valveaperturescience.jpg" alt=""/>
+      </div>
 
-      <div style="color:red">3 Beispiele (lol) VR, AR, MR</div>
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="Virtual Reality Beispiel, " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!-- hotfix -->
+
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/Qryf2F_QfXg?start=50&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/Qryf2F_QfXg/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="216" data-ref-type="bsp" data-ref-parameter="?t=50s" data-ref-desc="Augmented Reality Beispiel, " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!-- hotfix -->
+
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/yvgPrZNp4So?start=930&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/yvgPrZNp4So/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="214" data-ref-type="bsp" data-ref-parameter="?t=15m30s" data-ref-desc="Mixed Reality Beispiel, " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!-- hotfix -->
 
       <p>Das Potential dieser Technologien erscheint, zumindest theoretisch, nahezu unermesslich und gleichermaßen offensichtlich. Durch die präzise Simulation
 jeder erdenklichen Situation, können diese Technologien an nahezu jeden vorstellbaren Interessenbereich angeknüpft werden. Als universelles Werkzeug zum
-besseren Verständnis bzw. Erlernen von Inhalten aus Themengebieten, wie z.B. Medizin, Physik, Technik, Sport, usw. Mit Hilfe realitätsnaher Darstellungen, der
+besseren Verständnis bzw. Erlernen von Inhalten aus Themengebieten, wie z.B. <span class="c-ref" data-ref-id="217" data-ref-type="bsp" data-ref-desc="">Medizin,</span> Physik, Technik, Sport, usw. Mit Hilfe realitätsnaher Darstellungen, der
 Möglichkeit beliebiger Wiederholungszyklen und der vergleichsweise einfachen Auswertung bei praktisch minimalem, physischen Ressourcenverbrauch, verdeutlichen
 sich die Vorteile der Technologien. Sie ist ebenfalls einsetzbar als Hilfsmittel in der Service- oder der Marketing Branche, oder in weiteren
 Anwendungsgebieten, wie beispielsweise dem Gaming-, oder Entertainment Sektor. Zusammenfassend sind die Möglichkeiten sehr umfassend und potentiell noch
@@ -1697,41 +1732,91 @@ digitalen Cyberspace - zwischen Mensch und Maschine.</p>
 
       <h3><i>The Next Big Thing</i> der Software Ära?</h3>
 
-      <p>Die aktuellen HMD Technologien offenbaren sich, ähnlich wie die digitale Revolution in der Historie der Computer und der zugehörigen Software
+      <p>Die aktuellen <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien offenbaren sich, ähnlich wie die digitale Revolution in der Historie der Computer und der zugehörigen Software
 Entwicklung, als weiteres, “neues” Medium innerhalb des Meta Mediums Computer, indem sich neue Interaktionsmöglichkeiten abzeichnen. Damit einhergehend eröffnen
 sich weitere angrenzende Themengebiete wie die Verkörperung (Embodiment), Immersion und Perzeption (Perception) innerhalb dieser Medien wozu, wiederum
-ausführliche Studien, Meinungen und Beiträge, bereits existieren. Für das Resumé dieser Arbeit befinden sich diese Bereiche im sekundären Fokus. Der primäre
+ausführliche Studien, Meinungen und Beiträge, <span class="c-ref" data-ref-id="131" data-ref-type="ref" data-ref-desc="">bereits</span> <span class="c-ref" data-ref-id="132" data-ref-type="ref" data-ref-desc="">existieren.</span> Für das Resumé dieser Arbeit befinden sich diese Bereiche im sekundären Fokus. Der primäre
 Ansatz bezieht sich umso mehr auf die Ermittlung des Potentials und Durchsetzungsvermögens dieser Medien.</p>
       <p class="o-p--tie">Durch die bisherigen Beobachtungen der Computer- und Software Entwicklungen stellt sich die Frage, ob sich das Medium der Head Mounted
 Displays/Devices als neues, universelles Interaktionsmedium behaupten kann. Mit der aktuell, hohen Präsenz in Nachrichten- und Informationsmedien sind die
 Erwartungen und der Hype um die Virtual Reality Komponenten und Co., welche sich bisher als die “natürlichste” Annäherung an den digitalen Cyberspace erweisen,
 dementsprechend hoch.</p>
-      <p class="o-p--tie">Diverse Investitionen in ambitionierte Projekte wie MagicLeap, Oculus, etc., wurden bereits initiiert. Prominente Plattformen wie
+      <p class="o-p--tie">Diverse Investitionen in ambitionierte Projekte wie <span class="c-ref" data-ref-id="218" data-ref-type="ref" data-ref-desc="">MagicLeap,</span> <span class="c-ref" data-ref-id="113" data-ref-type="ref" data-ref-desc="">Oculus,</span> etc., wurden bereits initiiert. Prominente Plattformen wie
 YouTube und SketchFab implementieren Funktionen, wie beispielsweise die 360° Ansicht von Videos, 3D Objekten und weiteren digitalen Inhalten. Mit dem Aufkauf
-von Oculus verknüpft Facebook die VR Technologie mit ihrem gleichnamigen Social Media Portal und gibt durch Social VR und Erfahrungen aus der App Rooms
+von Oculus verknüpft Facebook die VR Technologie mit ihrem gleichnamigen Social Media Portal und gibt durch <span class="c-ref" data-ref-id="134" data-ref-type="ref" data-ref-desc="">Social VR</span> und Erfahrungen aus der App <span class="c-ref" data-ref-id="135" data-ref-type="ref" data-ref-desc="">Rooms</span>
 Einblicke in die zukünftige, digitale Kommunikation und Interaktion in sozialen Netzwerken als auch darüber hinaus. Sonys Playstation VR führt das Medium in der
 Spielekonsolen Industrie ein, wobei im Gaming Sektor Unternehmen und Plattformen wie Steam mit der HTC Vive viele VR Anwendungen bereits anbieten. All diese
 Bemühungen der unterschiedlichen Unternehmen und ihrer jeweiligen Branchen zeigen das allgemeine Engagement auf, die neuen Medien gesellschaftlich zu
 etablieren.</p>
 
-      <img src="./assets/img/abz.png" alt="goldman sachs report zahlen"/></a>
-      <div class="c-notes-marginal">
-        <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="goldman sachs report zahlen" data-ref-hide></span>
+      <h4><span class="c-icon-asterisk"></span> <span class="c-ref" data-ref-id="219" data-ref-desc="" data-ref-type="ref">Did you know...?</span></h4>
+
+      <p></p><!-- hotfix -->
+
+      <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop">
+        <div class="o-grid__item">
+          <div class="o-h5">Financial backing</div>
+          <div class="o-h1">$3.5bn</div>
+          <p class="o-p--note">The value of the 225 VR/AR venture capital investments made in the last two years. Facebook also paid $2bn to acquire Oculus in May 2014.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Global interest</div>
+          <div class="o-h1">121</div>
+          <p class="o-p--note">The number of countries represented in the viewership data for the first US Democratic presidential debate, which CNN streamed in VR.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Shipping out</div>
+          <div class="o-h1">2mn</div>
+          <p class="o-p--note">The number of Google Cardboard head-mounted displays distributed since the product´s June 2014 launch.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Selling out</div>
+          <div class="o-h1">48h</div>
+          <p class="o-p--note">The amount of time it took for Samsung´s $99 Gear VR to sell out on Amazon.com and BestBuy.com - an indication of strong demand at lower price points.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Interest in the past</div>
+          <div class="o-h1">770k</div>
+          <p class="o-p--note">The number of Virtual Boy VR gaming consoles Nintendo sold after its 1995 release, despite the platform`s technological limitations.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Ready to build</div>
+          <div class="o-h1">200k</div>
+          <p class="o-p--note">The number of developers Oculus has registered to create games on the VR platform (as of September 2015).<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">A wave of content on the way</div>
+          <div class="o-h1">100</div>
+          <p class="o-p--note">The number of VR games Oculus says will be available in 2016, with 20 games developed by Oculus Story Studios.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Retail value</div>
+          <div class="o-h1">$599</div>
+          <p class="o-p--note">The price of the consumer version of Oculus (launched on January 7, 2016), with Oculus-ready PC bundles expected to sell for ~$1,500.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Home redesign, reimagined</div>
+          <div class="o-h1">6</div>
+          <p class="o-p--note">The number of Lowes home improvement stores featuring "Holorooms" to help customers visualize their remodeling projects.<p>
+        </div>
+        <div class="o-grid__item">
+          <div class="o-h5">Easier to image yourself at home</div>
+          <div class="o-h1">$52bn</div>
+          <p class="o-p--note">The size of the US real estate commissions market that VR stands to disrupt. Sotheby´s is beginning to show luxury homes in VR.<p>
         </div>
       </div>
 
       <p>Die größten Herausforderungen der Technologien bestehen neben der Erzeugung von ansprechenden artifiziellen Umgebungen (content) und dem adäquaten
-Transfer der Sinne, zusätzlich in der Zugänglichkeit/Tauglichkeit für den Massenmarkt sowie der Verfügbarkeit und der Integration in bzw. für alltägliche
+Transfer der Sinne, zusätzlich in der Zugänglichkeit und Tauglichkeit für den Massenmarkt sowie der Verfügbarkeit und der Integration in bzw. für alltägliche
 Prozesse.</p>
       <p class="o-p--tie">Eine der entscheidenden Erfolgskomponenten des VR Segments offenbart sich wie, bereits bei vorherigen, erfolgreichen Technologien, in
 der Nutzung von Software und ihrer flexiblen Eigenschaften. Es werden jedoch abhängig vom jeweiligen Endgerät verschiedene Inhalte bereitgestellt. Neben den
 Vorteilen ist damit unweigerlich eine generelle Problematik verbunden. Die Diversität der verschiedenen Hardwarekomponenten und die vielen verschiedenen
 Anwendungsmöglichkeiten verteilen das allgemeine Interesse an den VR Technologien auf ebenso viele, verschiedene Plattformen. Fast jedes Produkt nutzt trotz
-essentiell identischen, grundlegenden Strukturen und sog. Engines wie beispielsweise Unity, spezifische Anwendungssoftware. Sie profitieren dementsprechend
-nicht nur unzureichend von gegenseitigen Erfolgen, sondern schwächen das Gesamtpotential der bisweiligen Nischen-Branche. Dieser kann sich nur erfolgreich
+essentiell identischen, grundlegenden Strukturen und sog. Engines wie beispielsweise <span class="c-ref" data-ref-id="137" data-ref-type="ref" data-ref-desc="">Unity,</span> spezifische Anwendungssoftware. Sie profitieren dementsprechend
+nicht nur unzureichend von gegenseitigen Erfolgen, sondern schwächen das Gesamtpotential der bisweiligen <span class="c-ref" data-ref-id="220" data-ref-type="bsp" data-ref-desc="">Nischen-Branche.</span> Dieser kann sich nur erfolgreich
 etablieren, wenn alle beteiligten Entwickler noch intensiver zusammenarbeiten, um immersive Erlebnisse für die Endverbraucher zu kreieren. Dazu existieren
-bereits Ansätze in Form von Projekten wie OSVR oder OpenXR, welche die unterschiedlichen Soft- und Hardwarekomponenten versuchen zu generalisieren.</p>
+bereits Ansätze in Form von Projekten wie <span class="c-ref" data-ref-id="138" data-ref-type="ref" data-ref-desc="">OSVR</span> oder <span class="c-ref" data-ref-id="140" data-ref-type="ref" data-ref-desc="">OpenXR,</span> welche die unterschiedlichen Soft- und Hardwarekomponenten versuchen zu generalisieren.</p>
 
       <blockquote>
         <p>As you can judge by our OSVR leadership, we've long had the desire to "democratize VR", to allow companies small and large to integrate their
@@ -1744,20 +1829,20 @@ or after that average date.</p>
         <p>My personal experience within the OpenXR group has been excellent thus far, both in the weekly conference calls as well as in the F2F meeting. There
 are many good ideas in OSVR but there are also many good ideas coming from the other platforms. There is a desire to get to the best solution, a willingness to
 listen and to have an honest, respectful debate. So, we are optimistic.</p>
-        <cite>Yuval Boger</cite>
+        <cite><span class="c-ref" data-ref-id="221" data-ref-type="zitat" data-ref-desc="">Yuval Boger</span></cite>
       </blockquote>
 
-      <p>Die Frage nach dem ultimativen Medium ist dabei unerheblich und unabhängig davon, in welchem Teilgebiet (VR,AR,MR) ein Markt beeinflussender Durchbruch
-gelingt. Mit verheißungsvollen Projekten, wie beispielsweise MagicLeap, können diese Veröffentlichungen die anderen Bereiche ebenfalls fördern, vergleichbar mit
+      <p>Die Frage nach dem ultimativen Medium ist dabei unerheblich und unabhängig davon, in welchem Teilgebiet (<abbr title="Virtual Reality">VR</abbr>, <abbr title="Augmented Reality">AR</abbr>, <abbr title="Mixed Reality">MR</abbr>) ein Markt beeinflussender Durchbruch
+gelingt. Mit verheißungsvollen Projekten, wie beispielsweise <span class="c-ref" data-ref-id="218" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Magic Leap</span>, können diese Veröffentlichungen die anderen Bereiche ebenfalls fördern, vergleichbar mit
 Produkten wie dem iPhone welches den gesamten Smartphone Markt 2007 revolutioniert.</p>
-      <p class="o-p--tie">Mit dem Wunsch von alternativen Realitäten verbinden Anwender das Gefühl sich frei darin bewegen zu können (Room Scale VR), um
+      <p class="o-p--tie">Mit dem Wunsch von alternativen Realitäten verbinden Anwender das Gefühl sich frei darin bewegen zu können (<span class="c-ref" data-ref-id="143" data-ref-type="ref" data-ref-desc="">Room Scale VR</span>), um
 immersive Erlebnisse hervorzurufen. Produkte wie die HTC Vive oder die Oculus Rift ermöglichen dies aktuell besser als jemals zuvor, aber dennoch unzureichend.
 Der Anwender kann sich zwar in einem bestimmten Bereich bewegen, ist jedoch stetig an den stationären Rechner und die gegebenen physischen Räumlichkeiten
-gebunden. Komplexere Systeme wie MoCap (Motion Capture), welche zum einen jede Bewegung des physischen Körpers in die digitale Umgebung übersetzen und zum
-anderen größere Tracking Bereiche als die Sensoren der aktuellen Geräte eröffnen, sind schon seit Filmen wie Herr der Ringe oder Avatar bekannt und
-einsatzfähig. Allerdings erfordern diese einen größeren, physischen Bewegungsraum und weitere Upgrades, wie beispielsweise die kabellose Verbindung des HMDs
-oder die Hilfe weiterer Statisten, um die Immersion zu erhalten (z.B. für das Führen des Verbindungskabels). Es existieren ebenfalls Vergnügungspark Konzepte
-wie The VOID, in denen der Besucher in die jeweilige Realität eintauchen kann und äquivalentes, haptisches, physisches Feedback bekommt. Allerdings wird damit
+gebunden. Komplexere Systeme wie <abbr title="Motion Capture">MoCap</abbr> (<span class="c-ref" data-ref-id="222" data-ref-type="ref" data-ref-desc="">Motion Capture</span>), welche zum einen jede Bewegung des physischen Körpers in die digitale Umgebung übersetzen und zum
+anderen größere Tracking Bereiche als die Sensoren der aktuellen Geräte eröffnen, sind schon seit Filmen wie <span class="c-ref" data-ref-id="145" data-ref-type="ref" data-ref-desc="">Herr der Ringe</span> oder <span class="c-ref" data-ref-id="146" data-ref-type="ref" data-ref-desc="">Avatar</span> bekannt und
+einsatzfähig. Allerdings erfordern diese einen größeren, physischen Bewegungsraum und weitere Upgrades, wie beispielsweise die kabellose Verbindung des <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s
+oder die Hilfe weiterer Statisten, um die Immersion zu erhalten (z.B. für das Führen des Verbindungskabels). Es existieren ebenfalls <span class="c-ref" data-ref-id="147" data-ref-type="ref" data-ref-desc="">Vergnügungspark Konzepte</span>
+wie <span class="c-ref" data-ref-id="148" data-ref-type="ref" data-ref-desc="">The VOID,</span> in denen der Besucher in die jeweilige Realität eintauchen kann und äquivalentes, haptisches, physisches Feedback bekommt. Allerdings wird damit
 ebenfalls die Anwendung durch die Gegebenheiten der physischen Welt limitiert. Unabhängig davon, welche aktuellen Versuche unternommen werden eine vollständige
 Immersion zu erreichen, sie scheitern oftmals an ihrer Komplexität und den verbundenen Kosten zusätzlich zu den ohnehin vergleichsweise teuren Endgeräten.
 
@@ -1768,17 +1853,10 @@ Immersion zu erreichen, sie scheitern oftmals an ihrer Komplexität und den verb
             </span>
             <span class="c-note-side">
               <span class="c-note-side__content">
-                <strong class="c-note-side__headline">Lord Helmchen?</strong>
+                <strong class="c-note-side__headline"><span class="c-ref" data-ref-id="149" data-ref-type="ref" data-ref-desc="Lord Helmchen, "><abbr title="Lord Helmchen ist ein Charakter aus dem Kinofilm Spaceballs, welcher wie sein Name vermuten lässt, einen überdimensionierten Helm trägt.">Lord Helmchen?</abbr></span></strong>
                 <span class="c-note-side__text">AR/MR Geräte wie die Microsoft HoloLens sind davon nicht betroffen, denn sie bieten alle notwendigen,
 technischen Voraussetzungen in ihren Geräten an und nutzen die physische Umwelt als Interaktionsmedium. Die Kritik an diesen Geräten manifestiert sich aktuell
 primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen noch höheren Preis.
-
-                  <img src="./assets/img/abz.png" alt="lordhelmchen?"/></a>
-                  <div class="c-notes-marginal">
-                    <div class="c-notes-marginal__item">
-                      <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="lordhelmchen?" data-ref-hide></span>
-                    </div>
-                  </div>
 
                 </span>
               </span>
@@ -1788,18 +1866,18 @@ primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen no
 
       </p>
 
-      <img src="./assets/img/abz.png" alt="roomscale vr"/></a>
+      <img src="./assets/img/roomscalevr.jpg" alt="Room Scale VR"/></a>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="roomscale vr" data-ref-hide></span>
+          <span class="c-ref" data-ref-id="142" data-ref-type="ref" data-ref-desc="Room Scale VR und seine Grenzen, " data-ref-hide></span>
         </div>
       </div>
 
-      <p>Womit sich der Preis als ein weiterer Kritikpunkt offenbart. Obwohl zeitgeistige Produkte, speziell technische Meilensteine der HMD, Entwicklung auf
+      <p>Womit sich der Preis als ein weiterer Kritikpunkt offenbart. Obwohl zeitgeistige Produkte, speziell technische Meilensteine der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>, Entwicklung auf
 Konsumenten Niveau darstellen, sind die leistungsstarken, stationären Geräte immer noch sehr kostenintensiv. Günstigere stationäre Geräte sind bereits in der
-Entwicklung aber noch nicht auf dem Markt. Unternehmungen, wie beispielsweise Google Cardboard und Samsung GearVR dagegen präsentieren ihre Produkte bereits
-kostengünstig, können aber noch nicht der Leistung und dem Gefühl der Immersion von stationären HMDs gerecht werden.</p>
-      <p class="o-p--tie">Nach der Analyse der verschiedenen HMD Technologien stellt sich unweigerlich die Frage, wie und ob die Missstände der aktuellen
+Entwicklung jedoch noch nicht auf dem Markt. Unternehmungen, wie beispielsweise Google Cardboard und Samsung GearVR dagegen präsentieren ihre Produkte bereits
+kostengünstig, können aber noch nicht der Leistung und dem Gefühl der Immersion von stationären <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s gerecht werden.</p>
+      <p class="o-p--tie">Nach der Analyse der verschiedenen <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien stellt sich unweigerlich die Frage, wie und ob die Missstände der aktuellen
 Technologien zeitnahe behoben werden können, um eine großflächige, gesellschaftliche Nutzung zu erreichen. Nach den anfänglichen Prognosen diverser Blogs,
 Enthusiasten und dem Engagement zugehöriger Unternehmen häufen sich zuletzt die Anzahl der Kritiker. Selbst Persönlichkeiten und Verfechter der VR Technologien,
 wie Mark Zuckerberg (Facebooks CEO), mahnen zur Geduld im Bezug auf zukünftige VR Entwicklungen.</p>
@@ -1849,7 +1927,7 @@ jedoch das fundamentale Potential dieser Art von Technologie auf.</p>
 
       <h2>MobileVR</h2>
       <p>Der mobile Zweig der VR Entwicklung (MobileVR) wird durch die Einführung von Googles Cardboard erstmalig popularisiert. Bei Cardboard handelt es sich,
-um eine kostengünstige Konstruktion aus Karton und speziellen Linsen in jene ein Smartphone eingelegt wird und somit als HMD fungiert. Das Smartphone muss dabei
+um eine kostengünstige Konstruktion aus Karton und speziellen Linsen in jene ein Smartphone eingelegt wird und somit als <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> fungiert. Das Smartphone muss dabei
 bestimmte Sensoren enthalten (Gyroskop, Beschleunigungsmesser und Magnetometer), um die eigene Position im physischen Raum zu berechnen. Stellt das Smartphone
 dabei eine bestimmte Rechenleistung bereit, kann eine zugehörige App von Google dazu benutzt werden, diverse Erlebnisse wie beispielsweise die Ansicht von 360°
 Videos oder dreidimensionale Spiele zu erleben. Es ist eine vergleichsweise günstige Methode für Konsumenten, sich den Vorzügen von VR Anwendungen anzunähern,
@@ -1875,7 +1953,7 @@ Software hat die MobileVR Branche positive Chancen sich als weiteres Medium fest
 
       <p>Durch die Zusammenarbeit von Mozilla und Google Chrome Entwicklern und dem resultierenden Release der experimentellen WebVR Technologie 2016, wird es
 möglich VR Geräte direkt mit den Inhalten und Umgebungen von Webbrowsern zu verbinden. Unter dem Deckmantel von WebVR verbergen sich neben der Ansteuerung und
-Verarbeitung der HMDs ebenfalls weitere Schnittstellen Technologien wie WebGL & Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
+Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellen Technologien wie WebGL & Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
 Anbindung von Controllern, oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen wie
 z.B. AJAX (Asynchronous JavaScript and XML) in Echtzeit angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn es
 verbindet neben den bestehenden Technologien ebenfalls bereits erfahrene Entwickler aus verschiedenen Gebieten und mit unterschiedlichen Fähigkeiten nahtlos mit
@@ -1921,7 +1999,7 @@ Interaktion realisiert werden.</div>
       <p>Durch den Remix der VR und Web Medien entsteht ein weiterer experimenteller Hybrid mit vielen vererbten Potentialen verschiedener Entwicklungszweige.
 Durch den Status als experimentelle Technologie ist WebVR noch ganz am Anfang seiner Entwicklung. Speziell die Performance und das Gefühl der Immersion sind
 noch weitgehend unausgereift. Es reicht jedoch, um die Stärken ausreichend klar darzustellen, womit der Weg der Entwicklung ersichtlich wird. </p>
-      <p class="o-p--tie">Ob sich WebVR als weiterer Web Standard etablieren kann hängt nicht maßgeblich von dem Erfolg der zugrunde liegenden HMD Technologien
+      <p class="o-p--tie">Ob sich WebVR als weiterer Web Standard etablieren kann hängt nicht maßgeblich von dem Erfolg der zugrunde liegenden <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien
 ab. Setzen sich diese durch, hat auch WebVR positive Chancen auf Erfolg. Im Umkehrschluss bedeutet der mögliche Misserfolg von Oculus Rift und HTC Vive jedoch
 nicht zwangsweise das Ende der WebVR Technologie, denn die benötigte Hardware ist wesentlich kostengünstiger, sofern der Konsument Smartphone Besitzer ist.</p>
       <p class="o-p--tie">Zwei Faktoren spielen für den Erfolg eine entscheidende Rolle. Zum einen müssen Smartphones in Zukunft bessere Performance
@@ -1934,7 +2012,7 @@ beispielsweise das Einkaufserlebnis für Konsumgüter deutlich aufwerten. Spezie
 von digitalen Inhalten des Cyberspaces sind dabei interessante Faktoren. Dies bedeutet nicht, dass vergleichsweise jede Webseite die mobil ist und dort aufgrund
 dessen mit hoher Wahrscheinlichkeit ein “Burger Menu” erscheint, ebenfalls ein VR Erlebnis bereitgestellt wird. VR Modi sollten nur dort platziert werden wo ein
 Mehrwert für die Anwendung entstehen kann.</p>
-      <p class="o-p--tie">WebVR ist dabei der erste Versuch eine HMD Technologie direkt mit dem Web zu verbinden. Weitere direkte Verknüpfungen von z.B. MR und
+      <p class="o-p--tie">WebVR ist dabei der erste Versuch eine <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologie direkt mit dem Web zu verbinden. Weitere direkte Verknüpfungen von z.B. MR und
 Web sind vorstellbar und verändern die Darstellung des Internets und des Cyberspaces in Zukunft etwaig maßgeblich.</p>
 
       <h2>Resumé</h2>
@@ -1977,7 +2055,7 @@ Implementierung intelligenter Maschinen in den gesellschaftlichen Alltag auf.</p
 Streben nach Freiheit. Durch die Erfahrungen und Bemühungen von Barlow verdeutlicht sich abermals die Wichtigkeit diese Werte in der Zukunft zu wahren,
 gegenüber den natürlichen Bestrebungen von Unternehmensstrukturen und Reglementierungen durch staatliche Institutionen.</p>
 
-      <p>Damit zeichnen sich für zukünftige Technologien, unter anderem HMDs, AI und virtuelle Realitäten, übergreifende Erkenntnisse ab.</p>
+      <p>Damit zeichnen sich für zukünftige Technologien, unter anderem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s, AI und virtuelle Realitäten, übergreifende Erkenntnisse ab.</p>
       <p class="o-p--tie">Jede gesellschaftliche Weiterentwicklung und Einführung von neuen Medien/Technologien bedeutet zwar eine Veränderung von alltäglichen
 Gewohnheiten, jedoch nicht zwangsweise eine allumfassende Verbesserung des gesellschaftlichen Alltags. Beispielsweise Smartphones und das Internet verbinden den
 Mensch mit entfernten Freunden, Kollegen und digitalen Inhalten, sie reduzieren jedoch auch die Wahrnehmung auf das Unmittelbare. Gesellschaftliche
@@ -1993,7 +2071,7 @@ könnten. Speziell die Entwicklung von AI ist dabei eine der prominentesten Anst
 Planeten und seine Lebewesen besser zu verstehen, Krankheiten zu heilen und gesellschaftliche Konflikte beizulegen, sind nur einige der komplexen Aufgaben,
 welche sich komplexe AI Algorithmen zukünftig annehmen können.</p>
       <p class="o-p--tie">Die Arbeit zeigt dementsprechend auf, dass “The Next Big Thing” nicht zwangsweise virtuelle Realitäten sind, sondern dass diese die
-benötigten Schnittstellen darstellen, komplexere Maschinen und den zugehörigen Cyberspace zu verstehen. Der Vorteil der HMD Anwendungen liegt dabei in der
+benötigten Schnittstellen darstellen, komplexere Maschinen und den zugehörigen Cyberspace zu verstehen. Der Vorteil der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Anwendungen liegt dabei in der
 Reduktion von zugrunde liegenden Komplexitäten, indem der Nutzer die interne Struktur der Maschinen nicht zwangsweise versteht, jedoch durch die digitalen
 Zeichen welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten können.
 
@@ -2027,7 +2105,7 @@ von Mensch und Maschine kombiniert werden, erscheint als die logische Konsequenz
 zwangsweise augmentieren muss oder Maschinen menschliche Denkstrukturen auslesen sollten, sondern vielmehr, dass zukünftige, intelligente Maschinen die zugrunde
 liegenden, ethischen Werte der Menschheit vermittelt bekommen und für den Menschen Schnittstellen bereitgestellt werden, welche digitale Prozesse auf natürliche
 Weise verständnisvoll darstellen.</p>
-      <p class="o-p--tie">HMDs können diese Schnittstellen bereitstellen, indem sie zu den neuen Medien der Visualisierung und Interaktion von digitalen
+      <p class="o-p--tie"><abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s können diese Schnittstellen bereitstellen, indem sie zu den neuen Medien der Visualisierung und Interaktion von digitalen
 Inhalten werden könnten. Sie übertragen jedoch durch ihre stetige Optimierung ebenfalls immer mehr sensorische Informationen aus der physischen Welt in den
 digitalen Cyberspace. Damit steigt ebenfalls die Anzahl und Präzision von persönlichen Informationen, welche potentiell im Cyberspace verwerten werden können.
 Der Anwender wird dabei in virtuellen Realitäten ebenso körperlos wie artifizielle, intelligente Programme. Somit verbessert sich durch die Peripherie die
@@ -2035,7 +2113,7 @@ Interaktion und Usability, gleichzeitig eröffnet sich jedoch die potentielle Ge
 transparent gewordene Thematisierung und Wahrung dieser Eigenschaften, sollte bei der Entwicklung neuer Technologien stetig berücksichtigt werden.</p>
 
       <p>Die neuen Medien sind ein Erster von vielen folgenden Schritten, welche die Interaktion mit Maschinen und dem Cyberspace optimieren. Die
-Erwartungshaltung ist seit dem Release der HMD Endgeräte tendenziell ansteigend. Designer und Entwickler haben die einmalige Chance, den potentiellen Aufstieg
+Erwartungshaltung ist seit dem Release der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Endgeräte tendenziell ansteigend. Designer und Entwickler haben die einmalige Chance, den potentiellen Aufstieg
 dieser Medien mitzuerleben und zu -gestalten.</p>
 
     </div>
