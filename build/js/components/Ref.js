@@ -119,7 +119,7 @@ function leadingZeroes(i) {
       }
 
       // Insert Container between if there is no one
-      if (!$betweenPosition || refHide === undefined) {
+      if (!$betweenPosition) {
         $($betweenPosition).insertAfter($currentPosition);
         // console.log('kneenote container inserted!');
       }

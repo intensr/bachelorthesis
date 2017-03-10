@@ -11,8 +11,6 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <script src="https://use.typekit.net/uye0goe.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="assets/css/app.css">
   <!--[if lt IE 9]>
     <script src="js/vendor/html5-3.6-respond-1.4.2.min.js"></script>

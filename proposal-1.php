@@ -584,7 +584,7 @@ Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato
 
 <table>
   <caption class="o-h5">
-    <span class="c-ref" data-ref-id="196" data-ref-desc="Eigenschaften der ersten Computer" data-ref-type="ref">Eigenschaften der erstenComputer</span>
+    <span class="c-ref" data-ref-id="196" data-ref-desc="Eigenschaften der ersten Computer" data-ref-type="ref">Eigenschaften der ersten Computer</span>
   </caption>
   <thead>
     <tr>
@@ -830,39 +830,6 @@ Dokumentationsfilm <span class="c-ref" data-ref-id="70" data-ref-desc="" data-re
 
       </p>
 
-      <h5 class="o-h5--note"><span class="c-icon-asterisk"></span> Realität vs. Fiktion</h5>
-      <p class="o-p--note">In diesem Vergleich kann nachvollzogen werden wie präzise Sam Ismael und sein Team die Werbemittel von realen Unternehmen wie BlackRock – welche oftmals aus gekauftem Stock Material zusammgeschnitten werden – adaptieren, um die fiktionale Firma E Corp in Mr. Robot zu portraitieren.</p>
-
-      <div class="o-grid">
-        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop  o-1/2@print">
-
-          <div class="c-video">
-            <iframe class="c-video__item" src="https://www.youtube.com/embed/Oja0KbVw1QQ?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
-    allowfullscreen></iframe>
-            <img class="c-video__overlay" src="https://img.youtube.com/vi/Oja0KbVw1QQ/hqdefault.jpg" alt=""/>
-          </div>
-
-        </div>
-        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop  o-1/2@print">
-
-          <div class="c-video">
-            <iframe class="c-video__item" src="https://www.youtube.com/embed/FZuOFdHKtF8?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
-    allowfullscreen></iframe>
-            <img class="c-video__overlay" src="https://img.youtube.com/vi/FZuOFdHKtF8/hqdefault.jpg" alt=""/>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="c-notes-marginal">
-        <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="69" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
-        </div>
-        <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-id="68" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
-        </div>
-      </div>
-
       <p class="o-p--tie">Zu Beginn (1988) besteht Aladdin lediglich aus einer einzelnen Workstation. Diese befindet sich unscheinbar untergebracht in einem
 Büro des Unternehmens, zwischen einem Kühlschrank und einer <span class="c-ref" data-ref-id="61" data-ref-desc="" data-ref-type="ref">Kaffeemaschine</span>. Heute verteilt es sich auf vier leistungsstarke, autarke Rechenzentren. Die
 komplexen Algorithmen bedienen sich einer umfassenden Datenbank aus gesammelten Ereignissen der letzten Dekaden. Diese Daten sind das Extrakt jahrelanger Risiko
@@ -880,6 +847,41 @@ guarantee they will fail. If those same people have a computer network, however,
 computer will gain information superiority. People are created equal, but computers are not.</p>
         <cite><span class="c-ref" data-ref-id="72" data-ref-desc="Introduction: " data-ref-type="zitat" data-ref-hide-kneenote>Jaron Lanier</span></cite>
       </blockquote>
+
+      <h5 class="o-h5--note"><span class="c-icon-asterisk"></span> Realität vs. Fiktion</h5>
+      <p class="o-p--note">In diesem Vergleich kann nachvollzogen werden wie präzise Sam Ismael und sein Team die Werbemittel von realen Unternehmen wie BlackRock – welche oftmals aus gekauftem Stock Material zusammgeschnitten werden – adaptieren, um die fiktionale Firma E Corp in Mr. Robot zu portraitieren.</p>
+
+      <div class="c-columns">
+        <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
+          <div class="o-grid__item">
+
+            <div class="c-video">
+              <iframe class="c-video__item" src="https://www.youtube.com/embed/Oja0KbVw1QQ?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
+      allowfullscreen></iframe>
+              <img class="c-video__overlay" src="https://img.youtube.com/vi/Oja0KbVw1QQ/hqdefault.jpg" alt=""/>
+            </div>
+
+          </div>
+          <div class="o-grid__item">
+
+            <div class="c-video">
+              <iframe class="c-video__item" src="https://www.youtube.com/embed/FZuOFdHKtF8?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
+      allowfullscreen></iframe>
+              <img class="c-video__overlay" src="https://img.youtube.com/vi/FZuOFdHKtF8/hqdefault.jpg" alt=""/>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="69" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-id="68" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
 
       <p>Überträgt man das Vorgehen von BlackRock und Aladdin auf den Internet Sektor, so lauten dort entsprechend vergleichbare Unternehmen Google Adwords oder
 Facebook Business, mit vergleichbaren Strategien, jedoch anderen Datensätzen.</p>
@@ -1002,7 +1004,7 @@ behandelt.</p>
 
       <p>Ivan Sutherlands Sketchpad ist der Ausgangspunkt für die zukünftigen Entwicklungen der Grafikanwendungen. Nach der Einführung des Apple Macintosh - dem
 ersten in <span class="c-ref" data-ref-id="84" data-ref-desc="" data-ref-type="ref">größerer Serie</span> gefertigten Mikrocomputer mit grafischer Benutzeroberfläche - erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems
-eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend <span class="c-ref" data-ref-id="84" data-ref-desc="" data-ref-type="ref">anhält.</span></p>
+eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend anhält.</p>
       <p class="o-p--tie">Ebenfalls wird weitere Software auf immer kleineren Geräten möglich und die Kosten sowie die Dauer von umfangreichen Berechnungen
 sinken. Besonders an der Ära der Workstations zur Berechnung “komplexerer” Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle SGI oder
 Inferno Systeme sind zum dama ligen Zeitpunkt, preislich mit 450-750k USD <span class="c-ref" data-ref-id="4" data-ref-desc="S.49" data-ref-type="vgl">datiert.</span> <span class="c-ref" data-ref-id="85" data-ref-desc="" data-ref-type="ref">Aktuelle Workstations</span> hingegen unterscheiden sich nur marginal von regulären
@@ -1820,7 +1822,7 @@ bereits Ansätze in Form von Projekten wie <span class="c-ref" data-ref-id="138"
 
       <blockquote>
         <p>As you can judge by our OSVR leadership, we've long had the desire to "democratize VR", to allow companies small and large to integrate their
-innovations into a complete VR stack. This allows future-proofing VR investments, allows mix-and-match device selection for users and help small companies break
+innovations into a complete VR stack. It allows future-proofing VR investments, allows mix-and-match device selection for users and help small companies break
 into the market.</p>
         <p>OpenXR presented the opportunity to work with other industry leaders - Valve, Oculus, Samsung, Google and others - to formulate a standard that would
 have even wider acceptance. Creating a standard takes time, of course, and I think Khronos standards efforts average 18 months to the first release. OpenXR
@@ -2114,9 +2116,9 @@ Zeichen welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten k�
             </span>
             <span class="c-note-side">
               <span class="c-note-side__content">
-                <strong class="c-note-side__headline">Realität</strong>
+                <strong class="c-note-side__headline">Verzerrte Realität</strong>
                 <span class="c-note-side__text">Einen <span class="c-ref" data-ref-id="178" data-ref-type="ref" data-ref-desc="">interessanter Ansatz</span> dieser Betrachtungsweise stammt von Donald Hoffman, welcher sich in einer Studie mit
-der Wahrnehmung der Realität beschäftigt. Hoffman stellt dabei <span class="c-ref" data-ref-id="179" data-ref-type="ref" data-ref-desc="">die Theorie</span> auf, dass der Mensch nicht versucht die Parameter der physischen Welt zu imitieren,
+der Wahrnehmung der Realität beschäftigt. Hoffman stellt dabei <span class="c-ref" data-ref-id="179" data-ref-type="ref" data-ref-desc="">die Theorie</span> auf, dass der Mensch nicht nur versucht die Parameter der physischen Welt zu imitieren,
 sondern die Informationen unwillkürlich filtert bzw. interpretiert, um das eigene Überleben zu gewährleisten. Dies nimmt direkten Bezug zu der Wechselwirkung
 zwischen Mensch, Maschine und den jeweiligen Schnittstellen.</span>
               </span>
