@@ -435,7 +435,8 @@ a.c-ref__desc {
   }
 
   p {
-    font-family: "Medium", "Georgia", "Cambria", "Times New Roman", "Times", "serif";
+    font-family: "freight-text-pro";
+    //font-family: "Medium", "Georgia", "Cambria", "Times New Roman", "Times", "serif";
     letter-spacing: .01rem;
     font-weight: 400;
     font-style: normal;
@@ -887,5 +888,26 @@ a.c-ref__desc {
     font-size: 8vw;
     line-height: 1.1;
     letter-spacing: .02rem;
+  }
+}
+
+// hotfix for print cause no flex included
+@media print {
+  .o-grid--1\/2\@print {
+    .o-grid__item {
+      width: 50%!important;
+      float: left!important;
+    }
+  }
+  .o-grid {
+    display: block!important;
+    clear: both!important;
+    &__item {
+      float: left!important;
+    }
+    .o-1\/2\@print {
+      width: 50%!important;
+      float: left!important;
+    }
   }
 }

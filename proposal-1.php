@@ -17,7 +17,7 @@
 
 <div class="o-container-small">
   <div class="o-grid">
-    <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop">
+    <div class="o-grid__item"><?php  // o-1/1@mobile  o-1/1@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop ?>
       <h2>Abstract</h2>
       <p>Das Proposal beschäftigt sich mit einem etwaigen, gesellschaftlichen Paradigmenwechsel, induziert durch das revitalisierte Themenfeld Virtual Reality
 (VR) in Verbindung mit Webbrowser Technologien (WebVR). Als fundamentale Grundlage der Analyse dienen bedeutende Entwicklungen der Computer- und
@@ -102,7 +102,7 @@ sein Werkzeug in den Himmel.</p>
 
       <div class="c-video">
         <iframe class="c-video__item" src="https://player.vimeo.com/video/4176485" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        <img class="c-video__overlay" src="https://img.youtube.com/vi/USyoT_Ha_bA/hqdefault.jpg" alt=""/>
+        <img class="c-video__overlay" src="./assets/img/dawnofman.jpg" alt=""/>
       </div>
 
       <div class="c-notes-marginal">
@@ -834,7 +834,7 @@ Dokumentationsfilm <span class="c-ref" data-ref-id="70" data-ref-desc="" data-re
       <p class="o-p--note">In diesem Vergleich kann nachvollzogen werden wie präzise Sam Ismael und sein Team die Werbemittel von realen Unternehmen wie BlackRock – welche oftmals aus gekauftem Stock Material zusammgeschnitten werden – adaptieren, um die fiktionale Firma E Corp in Mr. Robot zu portraitieren.</p>
 
       <div class="o-grid">
-        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop">
+        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop  o-1/2@print">
 
           <div class="c-video">
             <iframe class="c-video__item" src="https://www.youtube.com/embed/Oja0KbVw1QQ?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
@@ -843,7 +843,7 @@ Dokumentationsfilm <span class="c-ref" data-ref-id="70" data-ref-desc="" data-re
           </div>
 
         </div>
-        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop">
+        <div class="o-grid__item  o-1/1@mobile  o-1/2@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop  o-1/2@print">
 
           <div class="c-video">
             <iframe class="c-video__item" src="https://www.youtube.com/embed/FZuOFdHKtF8?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
@@ -1753,7 +1753,7 @@ etablieren.</p>
 
       <p></p><!-- hotfix -->
 
-      <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop">
+      <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
         <div class="o-grid__item">
           <div class="o-h5">Financial backing</div>
           <div class="o-h1">$3.5bn</div>
@@ -2136,7 +2136,7 @@ und der Grad der Implementierung werden letztendlich über die Zukunft der gesel
 von Mensch und Maschine kombiniert werden, erscheint als die logische Konsequenz für eine erfolgreiche Zukunft. Dies bedeutet nicht, dass der Mensch sich
 zwangsweise augmentieren muss oder Maschinen menschliche Denkstrukturen auslesen sollten, sondern vielmehr, dass zukünftige, intelligente Maschinen die zugrunde
 liegenden, ethischen Werte der Menschheit vermittelt bekommen und für den Menschen Schnittstellen bereitgestellt werden, welche digitale Prozesse auf natürliche
-Weise verständnisvoll darstellen.</p>
+Weise <span class="c-ref" data-ref-id="231" data-ref-type="ref" data-ref-desc="@13:00, ">verständnisvoll</span> <span class="c-ref" data-ref-id="42" data-ref-type="ref" data-ref-desc="">darstellen.</span></p>
       <p class="o-p--tie"><abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s können diese Schnittstellen bereitstellen, indem sie zu den neuen Medien der Visualisierung und Interaktion von digitalen
 Inhalten werden könnten. Sie übertragen jedoch durch ihre stetige Optimierung ebenfalls immer mehr sensorische Informationen aus der physischen Welt in den
 digitalen Cyberspace. Damit steigt ebenfalls die Anzahl und Präzision von persönlichen Informationen, welche potentiell im Cyberspace verwerten werden können.
