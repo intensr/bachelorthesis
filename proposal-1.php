@@ -2147,138 +2147,114 @@ Erwartungshaltung ist seit dem Release der <abbr title="Head Mounted Display bzw
 dieser Medien mitzuerleben und zu -gestalten.</p>
 
     </div>
-    <div class="c-sources">
+    <div class="o-grid__item">
+      <div class="c-sources">
 
-      <h2>Quellen</h2>
-      <p>Alle Web Adressen wurden am 18. März 2017 final überprüft und abgerufen.</p>
+        <h2>Quellen</h2>
+        <p>Alle Web Adressen wurden am 18. März 2017 final überprüft und abgerufen.</p>
 
-      <h3>Web</h3>
-      <h4>Wissenschaftliche Abhandlungen, empirische Dokumente und Webartikel</h4>
-      <p>
-        Nachname, Vorname, Jahr, ID<br/>
-        Titel<br/>
-        Publisher<br/>
-        Link</br>
-        <span class="c-icon  c-icon-long-arrow-up"></span>
-        <sup><a href="#">002</a>,</sup>
-        <sup><a href="#">003</a>,</sup>
-        <sup><a href="#">004</a></sup>
-      </p>
+        <h3>Web</h3>
+        <h4>Wissenschaftliche Abhandlungen, empirische Dokumente und Webartikel</h4>
+        <p>
+          Nachname, Vorname, Jahr, ID<br/>
+          Titel<br/>
+          Publisher<br/>
+          Link</br>
+          <span class="c-icon  c-icon-long-arrow-up"></span>
+          <sup><a href="#">002</a>,</sup>
+          <sup><a href="#">003</a>,</sup>
+          <sup><a href="#">004</a></sup>
+        </p>
 
-      <h4>Artikel</h4>
-      <p>
-        Nachname, Vorname, Jahr, ID<br/>
-        Titel<br/>
-        Publisher<br/>
-        Link</br>
-      </p>
+        <h4>Artikel</h4>
+        <p>
+          Nachname, Vorname, Jahr, ID<br/>
+          Titel<br/>
+          Publisher<br/>
+          Link</br>
+        </p>
 
-      <h3>Literatur</h3>
-      <p>
-        Nachname, Vorname, Jahr, ID<br/>
-        Titel<br/>
-        Publisher<br/>
-        Link</br>
-      </p>
-
-
-      <h2>Video- und Filmografie</h2>
-      <p>Eine Übersicht aller im Text vorkommenden Videos und Film Bezüge</p>
-      <ul>
-        <li>2001: Sinnlos im Weltraum</li>
-        <li>Matrix</li>
-        <li>Dark City</li>
-      </ul>
-
-      <h2>Ressourcen</h2>
-      <h3>Bilder</h3>
-      <p>
-        Image ID, Beschreibung,<br/>
-        Ursprung (Url oder Literaturnachweis[Publisher])
-      </p>
-      <p>
-        <span>IMG</span> <sup>1</sup> Kapitel 2<br/>
-        Buchcover Jerry A. Fodor, 1983, Modularity Of Mind<br/>
-        Cambridge, MA: MIT Press
-      </p>
-      <p>
-        Kapitel 3: Oculus Rift<br/>
-        <a href="http://www.virtual-reality-systems.de/wp-content/uploads/Oculus-Rift-2.jpg"></a>
-      </p>
-
-      <h3>Programme &amp; Anwendungen</h3>
-      <p>
-        Name<br/>
-        Anbieter</br>
-        Beschreibung</br>
-        Webseite
-      </p>
-      <p>
-        Atom<br/>
-        GitHub</br>
-        In diesem Node.js basierenden Editor wurden sowohl Code als auch die textliche Leistung der Arbeiten verfasst.</br>
-        <a href="https://atom.io/">https://atom.io/</a>
-      </p>
-      <p>
-        Chrome Experimental Build<br/>
-        Google</br>
-        Dieser Build von Chrome ist nötig, um die teilweise experimentellen Drafts der Web VR Technologie darstellen zu können.</br>
-        <a href="https://www.google.de/chrome/browser/desktop/">https://www.google.de/chrome/browser/desktop/</a>
-      </p>
-
-      <h3>Schriften</h3>
-      <ul>
-        <li>Serif: Medium</li>
-        <li>SansSerif: Graphik</li>
-        <li>MonoSpace: Ocra</li>
-        <li>Icons: FontAwesome</li>
-      </ul>
-
-      <h3>Print</h3>
-      <p>Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
-Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Klebebindung erfolgen. Das optimale Endformat beträgt XY * YZ. Gedruckt und gebunden
-2017 bei Mediadruck Köln.</p>
-
-      <h2>Legende</h2>
-      <p>Diese Arbeit ist primär die den digitalen Gebrauch ausgelegt. In dieser Legende werden die Elemente der Arbeit erläutert.</p>
-
-      <h4>Verweise</h4>
-      <ul>
-        <li>Link: Hyperlinks sind in der Regel Verweise bzw. Informationen zu angrenzenden Themengebieten.</li>
-        <li>Vgl: Vergleiche sind die Quellenverweise zu den jeweiligen Textpassagen.</li>
-        <li>Bild: Stellt den Quellenverweis zu dem jeweiligen Bildmaterial dar.</li>
-        <li>Bsp: Beispiele erweitern das Verständnis zum jeweiligen Kontext.</li>
-      </ul>
-    </div>
-
-    <br/><br/>
+        <h3>Literatur</h3>
+        <p>
+          Nachname, Vorname, Jahr, ID<br/>
+          Titel<br/>
+          Publisher<br/>
+          Link</br>
+        </p>
 
 
+        <h2>Video- und Filmografie</h2>
+        <p>Eine Übersicht aller im Text vorkommenden Videos und Film Bezüge</p>
 
-    <!--
-          <br/>
-          <br/>
-          <hr/>
-          <br/>
-          <br/>
+        <div class="c-sources__video  c-columns  c-columns--video">
+          <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
+          </div>
+        </div>
 
+        <h2>Ressourcen</h2>
+        <h3>Bilder</h3>
+        <p>
+          Image ID, Beschreibung,<br/>
+          Ursprung (Url oder Literaturnachweis[Publisher])
+        </p>
+        <p>
+          <span>IMG</span> <sup>1</sup> Kapitel 2<br/>
+          Buchcover Jerry A. Fodor, 1983, Modularity Of Mind<br/>
+          Cambridge, MA: MIT Press
+        </p>
+        <p>
+          Kapitel 3: Oculus Rift<br/>
+          <a href="http://www.virtual-reality-systems.de/wp-content/uploads/Oculus-Rift-2.jpg"></a>
+        </p>
 
-          <p data-height="502" data-theme-id="light" data-slug-hash="QGxpaB" data-default-tab="result" data-user="intenser" data-embed-version="2"
-    data-pen-title="Hello World — A-Frame" class="codepen">See the Pen <a href="http://codepen.io/intenser/pen/QGxpaB/">Hello World — A-Frame</a> by David Hoffmann
-    (<a href="http://codepen.io/intenser">@intenser</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-          <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+        <h3>Programme &amp; Anwendungen</h3>
+        <p>
+          Name<br/>
+          Anbieter</br>
+          Beschreibung</br>
+          Webseite
+        </p>
+        <p>
+          Atom<br/>
+          GitHub</br>
+          In diesem Node.js basierenden Editor wurden sowohl Code als auch die textliche Leistung der Arbeiten verfasst.</br>
+          <a href="https://atom.io/">https://atom.io/</a>
+        </p>
+        <p>
+          Chrome Experimental Build<br/>
+          Google</br>
+          Dieser Build von Chrome ist nötig, um die teilweise experimentellen Drafts der Web VR Technologie darstellen zu können.</br>
+          <a href="https://www.google.de/chrome/browser/desktop/">https://www.google.de/chrome/browser/desktop/</a>
+        </p>
 
+        <h3>Schriften</h3>
+        <ul>
+          <li>Serif: Medium</li>
+          <li>SansSerif: Graphik</li>
+          <li>MonoSpace: Ocra</li>
+          <li>Icons: FontAwesome</li>
+        </ul>
 
+        <h3>Print</h3>
+        <p>Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
+  Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Klebebindung erfolgen. Das optimale Endformat beträgt XY * YZ. Gedruckt und gebunden
+  2017 bei Mediadruck Köln.</p>
 
-                <blockquote class="u-hide">
-                  <p>“Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the
-    future, I
-          ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.”</p> —
-                  <cite><a href="https://www.eff.org/cyberspace-independence">John Perry Barlow: A Declaration of the Independence of Cyberspace, Davos 1996. Also:
-          Electronic Frontier Foundation, 8. Februar 1996, abgerufen am 12. Februar 2016 (HTML, englisch).</a>
-                  </cite>
-                </blockquote> -->
+        <h2>Legende</h2>
+        <p>Diese Arbeit ist primär die den digitalen Gebrauch ausgelegt. In dieser Legende werden die Elemente der Arbeit erläutert.</p>
 
+        <h4>Verweise</h4>
+        <ul>
+          <li>Link: Hyperlinks sind in der Regel Verweise bzw. Informationen zu angrenzenden Themengebieten.</li>
+          <li>Vgl: Vergleiche sind die Quellenverweise zu den jeweiligen Textpassagen.</li>
+          <li>Bild: Stellt den Quellenverweis zu dem jeweiligen Bildmaterial dar.</li>
+          <li>Bsp: Beispiele erweitern das Verständnis zum jeweiligen Kontext.</li>
+        </ul>
+      </div>
+
+      <br/><br/>
+
+      </div>
     </div>
   </div>
 </div>

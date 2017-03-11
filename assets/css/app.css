@@ -869,6 +869,14 @@ summary::-webkit-details-marker { display: none; }
 
 .c-columns { margin: 1.5rem 0; }
 
+.c-columns--video .c-columns-item { page-break-inside: avoid; }
+
+.c-columns--video .c-columns-item__name { font-size: 0.6875rem; line-height: 1.5; font-weight: 700; display: block; }
+
+.c-columns--video .c-columns-item__href { display: block; word-break: break-all; font-size: 0.6875rem; line-height: 1.25; }
+
+.c-columns--video .c-columns-item__author { font-size: 0.6875rem; line-height: 1.5; }
+
 .c-person { position: relative; margin: 3rem 0 1.5rem 0; page-break-inside: avoid; }
 
 .c-person__image { position: absolute; top: 0; left: 0; width: 7.5rem; height: 7.5rem; border-radius: 50%; filter: grayscale(100%); object-fit: cover; }

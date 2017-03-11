@@ -226,6 +226,25 @@ a.c-ref__desc {
 
 .c-columns {
   @include to-rem(margin, $base-spacing 0);
+
+  &--video {
+    .c-columns-item {
+      page-break-inside: avoid;
+      &__name {
+        @include font-size(11, 1.5);
+        font-weight: 700;
+        display: block;
+      }
+      &__href {
+        display: block;
+        word-break: break-all;
+        @include font-size(11, 1.25);
+      }
+      &__author {
+        @include font-size(11, 1.5);
+      }
+    }
+  }
 }
 
 .c-person {
