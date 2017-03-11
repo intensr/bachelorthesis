@@ -2144,7 +2144,7 @@ const sources = [{
   "yearId" : false,
   "author" : false,
   "authorSurname" : "Hoffman",
-  "authorPrename" : "Donald"
+  "authorPrename" : "Donald D."
 },
 {
   "id": 179,
@@ -2784,15 +2784,15 @@ const sources = [{
 },
 {
   "id": 232,
-  "href"   : "",
-  "medium" : "",
-  "entity" : "",
-  "org"    : "",
-  "year"   : "",
+  "href"   : "http://www.helmut-kohl-kas.de/index.php?menu_sel=15&menu_sel2=213&menu_sel3=122",
+  "medium" : "artikel",
+  "entity" : "Zur Geschichte der Vertreibung",
+  "org"    : "Bundestagsrede",
+  "year"   : 1995,
   "yearId" : false,
   "author" : false,
-  "authorSurname" : false,
-  "authorPrename" : false
+  "authorSurname" : "Kohl",
+  "authorPrename" : "Helmut"
 }];
 
 export default sources;

@@ -101,7 +101,7 @@ Konfrontation erschlägt die Gruppe den feindlichen Anführer mit dem zur Waffe 
 sein Werkzeug in den Himmel.</p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://player.vimeo.com/video/4176485" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://player.vimeo.com/video/4176485" allowfullscreen></iframe>
         <img class="c-video__overlay" src="./assets/img/dawnofman.jpg" alt=""/>
       </div>
 
@@ -242,7 +242,7 @@ data-ref-hide-kneenote>DeusEx</span>,
 Weisen behandelt, oft mit dystopischen Tendenzen. Die
 möglichen Konsequenzen solcher Auswirkungen und zukünftiger Entwicklungen sind die Grundlage fundamentaler Diskussionen.</p>
 
-      <p>Wie alle unbewiesenen Theorien muss sich auch die Technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
+      <p class="o--p-tie werner">Wie alle unbewiesenen Theorien muss sich auch die Technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
 Mooreschen Gesetzes und dessen selbstbestimmtes Ende, entfernen sich dessen ehemals akkuraten Leistungswerte denen der heutigen Realität. Dies führt von
 messbaren Ergebnissen zu einer <span class="c-ref" data-ref-id="28" data-ref-type="ref" data-ref-desc="">generellen Tendenz</span> und schwächt somit den
 wissenschaftlichen Charakter der <abbr title="Technologische Singularität">TS</abbr>-Theorie. Auch ökonomische und entwicklungsbedingte
@@ -326,7 +326,7 @@ beispielsweise die Nutzung von Quantencomputern haben nicht nur das Potential di
 zu beschleunigen.</p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/JhHMJCUmq28?autoplay=0&showinfo=0&controls=1&vq=hd720" frameborder="0"
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/JhHMJCUmq28?autoplay=0&showinfo=0&controls=1&vq=hd720"
       allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/JhHMJCUmq28/hqdefault.jpg" alt=""/>
       </div>
@@ -388,18 +388,17 @@ praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des d
 zeitgeistigen Geschehen gilt
 Lanier als eine <span class="c-ref" data-ref-id="41" data-ref-type="ref" data-ref-desc="">wichtige Stimme</span>, besonders für die Aspekte der digitalen Ethik
 im Zeitalter der verstärkten Mensch-Maschinen Interaktion. Er beschreibt seine
-Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestos zur Jahrtausendwende folgendermaßen:
+Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestos zur Jahrtausendwende folgendermaßen:</p>
 
-            <blockquote>
-              <p>There is a real chance that evolutionary psychology, artificial intelligence, Moore's Law fetishizing, and the rest of the package, will catch
+          <blockquote>
+            <p>There is a real chance that evolutionary psychology, artificial intelligence, Moore's Law fetishizing, and the rest of the package, will catch
 on in a big way, as big as Freud or Marx did in their times. Or bigger, since these ideas might end up essentially built into the software that runs our
 society and our lives. If that happens, the ideology of cybernetic totalist intellectuals will be amplified from novelty into a force that could cause suffering
 for
 millions of people.</p>
-              <cite><span class="c-ref" data-ref-id="41" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
-            </blockquote>
+            <cite><span class="c-ref" data-ref-id="41" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
+          </blockquote>
 
-          </p>
         </div>
       </div>
 
@@ -577,8 +576,7 @@ data-ref-desc="" data-ref-parameter="&t=39m15s" data-ref-type="ref">behaupten.</
       <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen wie beispielsweise “Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
 Z4, ENIAC” eingeführt. Jede dieser Maschinen erfüllen verschiedene Kombinationen an Kriterien für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
 Grund kann die Frage nach dem ersten wirklichen Computer nur nach jeweiligen Präferenzen beantwortet werden. Der “ENIAC” ist der fünfte Digitalrechner der
-Geschichte
-und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmächtig, gleichzeitig erfüllt. Programmänderungen sind bis dato nur durch
+Geschichte und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmächtig, gleichzeitig erfüllt. Programmänderungen sind bis dato nur durch
 Veränderungen der Hardware herbeizuführen. Eine vergleichbare Verbesserung wie jene der Turingmaschine zur Universellen Turingmaschine. Die evolutionäre
 Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato unverändert fort.</p>
 
@@ -772,7 +770,7 @@ Zugriff, I / O-Ports und einem Bus oder System von miteinander verbundenen Dräh
 Ein Motherboard.">Mikrocomputern.</abbr></p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/USyoT_Ha_bA?start=212&autoplay=0&showinfo=0&vq=hd720" frameborder="0"
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/USyoT_Ha_bA?start=212&autoplay=0&showinfo=0&vq=hd720"
 allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/USyoT_Ha_bA/hqdefault.jpg" alt=""/>
       </div>
@@ -856,8 +854,7 @@ computer will gain information superiority. People are created equal, but comput
           <div class="o-grid__item">
 
             <div class="c-video">
-              <iframe class="c-video__item" src="https://www.youtube.com/embed/Oja0KbVw1QQ?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
-      allowfullscreen></iframe>
+              <iframe class="c-video__item" src="https://www.youtube.com/embed/Oja0KbVw1QQ?autoplay=0&showinfo=0&vq=hd720" allowfullscreen></iframe>
               <img class="c-video__overlay" src="https://img.youtube.com/vi/Oja0KbVw1QQ/hqdefault.jpg" alt=""/>
             </div>
 
@@ -865,8 +862,7 @@ computer will gain information superiority. People are created equal, but comput
           <div class="o-grid__item">
 
             <div class="c-video">
-              <iframe class="c-video__item" src="https://www.youtube.com/embed/FZuOFdHKtF8?autoplay=0&showinfo=0&vq=hd720" frameborder="0"
-      allowfullscreen></iframe>
+              <iframe class="c-video__item" src="https://www.youtube.com/embed/FZuOFdHKtF8?autoplay=0&showinfo=0&vq=hd720" allowfullscreen></iframe>
               <img class="c-video__overlay" src="https://img.youtube.com/vi/FZuOFdHKtF8/hqdefault.jpg" alt=""/>
             </div>
 
@@ -919,6 +915,8 @@ Zukunft denkbar positive Ansätze zur Transparenz solcher Datenströme darstelle
       </div>
 
       <p></p><!--hotfix p-->
+
+      <span class="u-pagebreak@print"></span>
 
       <h3>Medien für die Massen</h3>
 
@@ -1051,7 +1049,7 @@ Anwendungsgebieten auf das Konzept von Medien <span class="c-ref" data-ref-id="4
       <blockquote>
         <p>In my view, this ability to combine previously separate media techniques represents a fundamentally new stage in the history of human media, human
 semiosis and human communication, enabled by its “softwarization.”</p>
-        <cite><span class="c-ref" data-ref-id="4" data-ref-desc="S.46" data-ref-type="zitat" ref-hide-kneenote>Lev Manovich</span></cite>
+        <cite><span class="c-ref" data-ref-id="4" data-ref-desc="S.46" data-ref-type="zitat" data-ref-hide-kneenote>Lev Manovich</span></cite>
       </blockquote>
 
       <p>Auf der ersten Ebene der sog. hybridity, werden existierende Medien im Computer simuliert. An dieser Stelle können auch aktuellere Beispiele wie
@@ -1092,7 +1090,7 @@ software, different types of media started acting like species within a common e
 into this environment they begin interacting, mutating, and making hybrids. Both the simulated and new media types- text, hypertext, still photographs, vector
 graphics, digital video, 2D animation, 3D models and animation, navigable 3D spaces, maps, location information, messages and scripts- became building blocks
 for many new media combinations.</p>
-        <cite><span class="c-ref" data-ref-id="4" data-ref-desc="S.330" data-ref-type="zitat" ref-hide-kneenote>Lev Manovich</span></cite>
+        <cite><span class="c-ref" data-ref-id="4" data-ref-desc="S.330" data-ref-type="zitat" data-ref-hide-kneenote>Lev Manovich</span></cite>
       </blockquote>
 
       <p>Während der Software induzierten, digitalen Revolution, etablieren sich die sog. Meta Medien, dessen Konzepte und Begrifflichkeiten Manovich für seine
@@ -1151,7 +1149,7 @@ Grundlagen für personalisierte, softwaregesteuerte Devices.</p>
 achieving the real potential of information technology. Such machines cannot truly make computing an integral, invisible part of the way people live their
 lives. Therefore we are trying to conceive a new way of thinking about computers in the world, one that takes into account the natural human environment and
 allows the computers themselves to vanish into the background.</p>
-        <cite><span class="c-ref" data-ref-id="90" data-ref-desc="" data-ref-type="zitat" ref-hide-kneenote>Mark Weiser</span></cite>
+        <cite><span class="c-ref" data-ref-id="90" data-ref-desc="" data-ref-type="zitat" data-ref-hide-kneenote>Mark Weiser</span></cite>
       </blockquote>
 
       <p>Der Wissenschaftler Mark Weiser, ebenfalls bei Xerox <abbr title="Palo Alto Research Center">PARC</abbr>  in leitender Position beschäftigt, veröffentlicht 1991 ein noch <span class="c-ref" data-ref-id="89" data-ref-desc="" data-ref-type="ref">präziseres Dokument</span> mit den
@@ -1231,8 +1229,7 @@ Zukunft, aufgrund ihrer einzigartigen Eigenschaften, die Schnittstellen des digi
 in Produkten wie Spectacles von Snap Inc.</p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/XqkOFLBSJR8?autoplay=0?showinfo=0?controls=1?vq=hd1080" webkitallowfullscreen
-mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/XqkOFLBSJR8?autoplay=0?showinfo=0?controls=1?vq=hd1080" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/XqkOFLBSJR8/hqdefault.jpg" alt=""/>
       </div>
 
@@ -1253,7 +1250,7 @@ durch die kleinteilige, kollaborative Wechselwirkung diverser Experten mit unter
       <p class="o-p--tie">Größere Paradigmenwechsel werden sich dementsprechend weiterhin abzeichnen, allerdings sind diese im Direktvergleich zu den Anfängen
 der techno-kulturellen Veränderungen berechenbarer geworden und basieren nun verstärkt auf bereits geleistete Gedankengängen, oder bestehenden Konzepte, indem
 diese optimiert werden sowie der kollaborativen Gesamtleistung unterschiedlicher Unternehmen und Individuen in größerer Gesamtzahl – von der
-<strike>evolution</strike> zur hybridization. Somit ist Esslingers Kritik, abgesehen von der direkten Kritik an Apple Produkten, evtl. eine zeitgeistliche
+evolution zur hybridization. Somit ist Esslingers Kritik, abgesehen von der direkten Kritik an Apple Produkten, evtl. eine zeitgeistliche
 Beobachtung, welche weitreichender bzw. umfassender zu verstehen ist.</p>
 
       <h3>Internet</h3>
@@ -1267,7 +1264,7 @@ umfassendes Verständnis der Korrelationen für gesellschaftliche Zusammenhänge
 gesellschaftlichen Veränderung zu gewähren und valide Aussagen eruieren zu können, empfiehlt sich die Eingrenzung auf selektive Kommunikationskanäle des
 Mediums, dessen Nutzer sowie des unmittelbaren Kontextes.</p>
 
-      <p>Als eine der ersten populären, virtuellen, Online-Kommunen gilt <span class="c-ref" data-ref-id="212" data-ref-desc="" data-ref-type="ref">The <abbr title="Whole Earth 'Lectronic Link">WELL<abbr></span>. Das seit 1985 bestehende, auf <abbr title="Bulletin Board System">BBS</abbr> Basis
+      <p>Als eine der ersten populären, virtuellen, Online-Kommunen gilt <span class="c-ref" data-ref-id="212" data-ref-desc="" data-ref-type="ref">The <abbr title="Whole Earth 'Lectronic Link">WELL</abbr></span>. Das seit 1985 bestehende, auf <abbr title="Bulletin Board System">BBS</abbr> Basis
 gegründete Netzwerk etabliert sich als beliebte Kommunikations- und Austauschplattform für universelle Konversationen mit ernsten sowie trivialen <span class="c-ref" data-ref-id="101" data-ref-parameter="&t=10m39s" data-ref-type="ref">Themen.</span> Es
 ist retrospektiv betrachtet einer der Geburtsorte des, für heutige Verhältnisse primitiven, “Cyberspaces”*. <abbr title="Bulletin Board System">BBS</abbr> sind im Gegenteil zu den Standards des
 World Wide Webs autonome, meist private Mailboxen bzw. elektronische schwarze Bretter in ihrer Visualisierung, ähnlich dem TV Teletext. Sie fungieren als die
@@ -1578,7 +1575,7 @@ selling of tens of millions that facilitated a spontaneous hacker community of t
 
       <p></p><!-- hotfix -->
 
-      <img src="./assets/img/comic-end.png" alt=""/></a>
+      <img src="./assets/img/comic-end.png" alt=""/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
           <span class="c-ref" data-ref-id="6" data-ref-type="ref" data-ref-desc="Time Frames - Scott McCloud, 1993 - S.719 " data-ref-hide></span>
@@ -1597,8 +1594,7 @@ selling of tens of millions that facilitated a spontaneous hacker community of t
       <p></p><!-- hotfix -->
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://player.vimeo.com/video/169075463?portrait=0" webkitallowfullscreen mozallowfullscreen
-allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://player.vimeo.com/video/169075463?portrait=0" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/USyoT_Ha_bA/hqdefault.jpg" alt=""/>
       </div>
 
@@ -1640,7 +1636,7 @@ Visualisierung, überzeugen die zeitgeistlichen Produkte durch die Nutzung ausre
 existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren.</p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/jKj9uXKzofk" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/jKj9uXKzofk" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/jKj9uXKzofk/hqdefault.jpg" alt=""/>
       </div>
 
@@ -1684,7 +1680,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
       </p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/q4zr5Eq_F5g?start=212&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/q4zr5Eq_F5g?start=212&autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
         <img class="c-video__overlay" src="./assets/img/valveaperturescience.jpg" alt=""/>
       </div>
 
@@ -1697,7 +1693,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
       <p></p><!-- hotfix -->
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/Qryf2F_QfXg?start=50&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/Qryf2F_QfXg?start=50&autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/Qryf2F_QfXg/hqdefault.jpg" alt=""/>
       </div>
 
@@ -1710,7 +1706,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
       <p></p><!-- hotfix -->
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/embed/yvgPrZNp4So?start=930&autoplay=0&showinfo=0&controls=1&vq=hd720" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/yvgPrZNp4So?start=930&autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/yvgPrZNp4So/hqdefault.jpg" alt=""/>
       </div>
 
@@ -1868,7 +1864,7 @@ primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen no
 
       </p>
 
-      <img src="./assets/img/roomscalevr.jpg" alt="Room Scale VR"/></a>
+      <img src="./assets/img/roomscalevr.jpg" alt="Room Scale VR"/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
           <span class="c-ref" data-ref-id="142" data-ref-type="ref" data-ref-desc="Room Scale VR und seine Grenzen, " data-ref-hide></span>
@@ -2052,8 +2048,8 @@ Web sind vorstellbar und verändern die Darstellung des Internets und des Cybers
       <h2>Resumé</h2>
 
       <blockquote>
-        <p>Nur wer die Vergangenheit kennt, kann die Gegenwart verstehen und die Zukunft gestalten</p>
-        <cite>August Bebel</cite>
+        <p>Wer die Vergangenheit nicht kennt, kann die Gegenwart nicht verstehen und die Zukunft nicht gestalten.</p>
+        <cite><span class="c-ref" data-ref-id="167" data-ref-type="zitat" data-ref-desc="Plenarprotokoll 13/41 S.03183, ">Helmut Kohl bzw. August Bebel</span></cite>
       </blockquote>
 
       <p>Die gesamten Beobachtungen der Analyse sind sehr umfangreich und eröffnen den Fokus auf eine Vielzahl von Auslegungen, Möglichkeiten und Aspekten. Von
@@ -2149,6 +2145,139 @@ transparent gewordene Thematisierung und Wahrung dieser Eigenschaften, sollte be
       <p>Die neuen Medien sind ein Erster von vielen folgenden Schritten, welche die Interaktion mit Maschinen und dem Cyberspace optimieren. Die
 Erwartungshaltung ist seit dem Release der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Endgeräte tendenziell ansteigend. Designer und Entwickler haben die einmalige Chance, den potentiellen Aufstieg
 dieser Medien mitzuerleben und zu -gestalten.</p>
+
+    </div>
+    <div class="c-sources">
+
+      <h2>Quellen</h2>
+      <p>Alle Web Adressen wurden am 18. März 2017 final überprüft und abgerufen.</p>
+
+      <h3>Web</h3>
+      <h4>Wissenschaftliche Abhandlungen, empirische Dokumente und Webartikel</h4>
+      <p>
+        Nachname, Vorname, Jahr, ID<br/>
+        Titel<br/>
+        Publisher<br/>
+        Link</br>
+        <span class="c-icon  c-icon-long-arrow-up"></span>
+        <sup><a href="#">002</a>,</sup>
+        <sup><a href="#">003</a>,</sup>
+        <sup><a href="#">004</a></sup>
+      </p>
+
+      <h4>Artikel</h4>
+      <p>
+        Nachname, Vorname, Jahr, ID<br/>
+        Titel<br/>
+        Publisher<br/>
+        Link</br>
+      </p>
+
+      <h3>Literatur</h3>
+      <p>
+        Nachname, Vorname, Jahr, ID<br/>
+        Titel<br/>
+        Publisher<br/>
+        Link</br>
+      </p>
+
+
+      <h2>Video- und Filmografie</h2>
+      <p>Eine Übersicht aller im Text vorkommenden Videos und Film Bezüge</p>
+      <ul>
+        <li>2001: Sinnlos im Weltraum</li>
+        <li>Matrix</li>
+        <li>Dark City</li>
+      </ul>
+
+      <h2>Ressourcen</h2>
+      <h3>Bilder</h3>
+      <p>
+        Image ID, Beschreibung,<br/>
+        Ursprung (Url oder Literaturnachweis[Publisher])
+      </p>
+      <p>
+        <span>IMG</span> <sup>1</sup> Kapitel 2<br/>
+        Buchcover Jerry A. Fodor, 1983, Modularity Of Mind<br/>
+        Cambridge, MA: MIT Press
+      </p>
+      <p>
+        Kapitel 3: Oculus Rift<br/>
+        <a href="http://www.virtual-reality-systems.de/wp-content/uploads/Oculus-Rift-2.jpg"></a>
+      </p>
+
+      <h3>Programme &amp; Anwendungen</h3>
+      <p>
+        Name<br/>
+        Anbieter</br>
+        Beschreibung</br>
+        Webseite
+      </p>
+      <p>
+        Atom<br/>
+        GitHub</br>
+        In diesem Node.js basierenden Editor wurden sowohl Code als auch die textliche Leistung der Arbeiten verfasst.</br>
+        <a href="https://atom.io/">https://atom.io/</a>
+      </p>
+      <p>
+        Chrome Experimental Build<br/>
+        Google</br>
+        Dieser Build von Chrome ist nötig, um die teilweise experimentellen Drafts der Web VR Technologie darstellen zu können.</br>
+        <a href="https://www.google.de/chrome/browser/desktop/">https://www.google.de/chrome/browser/desktop/</a>
+      </p>
+
+      <h3>Schriften</h3>
+      <ul>
+        <li>Serif: Medium</li>
+        <li>SansSerif: Graphik</li>
+        <li>MonoSpace: Ocra</li>
+        <li>Icons: FontAwesome</li>
+      </ul>
+
+      <h3>Print</h3>
+      <p>Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
+Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Klebebindung erfolgen. Das optimale Endformat beträgt XY * YZ. Gedruckt und gebunden
+2017 bei Mediadruck Köln.</p>
+
+      <h2>Legende</h2>
+      <p>Diese Arbeit ist primär die den digitalen Gebrauch ausgelegt. In dieser Legende werden die Elemente der Arbeit erläutert.</p>
+
+      <h4>Verweise</h4>
+      <ul>
+        <li>Link: Hyperlinks sind in der Regel Verweise bzw. Informationen zu angrenzenden Themengebieten.</li>
+        <li>Vgl: Vergleiche sind die Quellenverweise zu den jeweiligen Textpassagen.</li>
+        <li>Bild: Stellt den Quellenverweis zu dem jeweiligen Bildmaterial dar.</li>
+        <li>Bsp: Beispiele erweitern das Verständnis zum jeweiligen Kontext.</li>
+      </ul>
+    </div>
+
+    <br/><br/>
+
+
+
+    <!--
+          <br/>
+          <br/>
+          <hr/>
+          <br/>
+          <br/>
+
+
+          <p data-height="502" data-theme-id="light" data-slug-hash="QGxpaB" data-default-tab="result" data-user="intenser" data-embed-version="2"
+    data-pen-title="Hello World — A-Frame" class="codepen">See the Pen <a href="http://codepen.io/intenser/pen/QGxpaB/">Hello World — A-Frame</a> by David Hoffmann
+    (<a href="http://codepen.io/intenser">@intenser</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+          <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+                <blockquote class="u-hide">
+                  <p>“Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the
+    future, I
+          ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.”</p> —
+                  <cite><a href="https://www.eff.org/cyberspace-independence">John Perry Barlow: A Declaration of the Independence of Cyberspace, Davos 1996. Also:
+          Electronic Frontier Foundation, 8. Februar 1996, abgerufen am 12. Februar 2016 (HTML, englisch).</a>
+                  </cite>
+                </blockquote> -->
 
     </div>
   </div>

@@ -1,5 +1,11 @@
 <?php
 
+// Set header
+if (isset($_SERVER['HTTP_USER_AGENT']) &&
+  (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== false))
+    header('X-UA-Compatible: IE=edge,chrome=1');
+
+// Set basic vars
 $url = $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
 $slug = trim(basename($url, '.php'));
 

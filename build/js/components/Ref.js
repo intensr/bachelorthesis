@@ -89,49 +89,85 @@ function leadingZeroes(i) {
 
     }
 
-    if(refHideKneenote === undefined) {
 
-      var $currentPosition = $this.closest('p');
+    if(refType !== 'zitat') {
 
-      if (!$currentPosition.length > 0) {
-        // Means that there is no p ancestor, so the ref might be for e.g. a video
+      // Log ID
+      //console.log(i);
+
+      // Search next p element
+      var $currentPosition = $this.closest('p'),
+          $nextPosition,
+          $finalPosition,
+          inserted = false,
+          $marginalContainer = $('<div class="c-notes-marginal"></div>'),
+          $kneenote = $('<div class="c-notes-marginal__item"><div class="c-kneenote"></div></div>');
+
+      // Found p element?
+      if ($currentPosition.length > 0) {
+
+        // Found!
+        //console.log('found p');
+        $nextPosition = $currentPosition.next();
+
+        // Disconnect following p
+        if ($nextPosition.hasClass('o-p--tie')) {
+          //console.log('remove p tie');
+          $nextPosition.removeClass('o-p--tie');
+        }
+
+        // Add container if nessessary
+        if (!$nextPosition.hasClass('c-notes-marginal')) {
+          //console.log('add container');
+          $currentPosition.after($marginalContainer);
+          inserted = true;
+        } else {
+          // If not nessessary then apply the kneenote as far as its not a quote
+          if(refType !== 'zitat') {
+            //console.log('insert kneenote 1');
+            $nextPosition.append($kneenote);
+          }
+        }
+
+        //console.log($currentPosition.next(), $nextPosition);
+
+        if (inserted === true) {
+          //console.log('insert kneenote 2');
+          $marginalContainer.append($kneenote);
+        }
+
+      } else {
+
+        //console.log('not found p');
         $this.append('<p class="js-temp-marker"></p>');
         var $allP = $('p');
         var pIndex = $allP.index($('.js-temp-marker'));
         var $nextPosition = $allP.eq(pIndex+1);
         $('.js-temp-marker').remove();
-        $currentPosition = $betweenPosition = $nextPosition.prev();
-      } else {
-        $nextPosition = $currentPosition.next();
-        var $betweenPosition = $('<div class="c-notes-marginal"></div>');
+
+        //console.log($nextPosition);
+
+        if($nextPosition.hasClass('o-p--tie')) {
+          ////console.log('p is tied');
+          $nextPosition.removeClass('o-p--tie');
+        }
+
+        $finalPosition = $nextPosition.prev();
+
+        if (!$finalPosition.hasClass('c-notes-marginal')) {
+          ////console.log('next is container, adding kneenote hook');
+          //console.log('test');
+          $nextPosition.before($marginalContainer);
+        }
+
+        if ($nextPosition.prev().hasClass('c-notes-marginal')) {
+          //console.log('next is container, adding kneenote hook');
+          $nextPosition.prev().append($kneenote);
+        }
+
       }
 
-      var $kneenote = $('<div class="c-notes-marginal__item"><div class="c-kneenote"></div></div>');
-
-      //$currentPosition.css('background-color','red');
-      //$nextPosition.css('background-color','yellow');
-      //  var $nextPosition = $('p').eq($('p').index(this) + 2).css('background-color', 'red');
-
-      // Cut off next paragraph
-      if ($nextPosition.hasClass('o-p--tie') || refHide === undefined) {
-        $nextPosition.removeClass('o-p--tie');
-        // console.log('chopped paragraph off!');
-      }
-
-      // Insert Container between if there is no one
-      if (!$betweenPosition) {
-        $($betweenPosition).insertAfter($currentPosition);
-        // console.log('kneenote container inserted!');
-      }
-
-      // Insert Item
-      if ($betweenPosition.hasClass('c-notes-marginal')) {
-        $betweenPosition.append($kneenote);
         $kneenote = $kneenote.children('.c-kneenote');
-        //  <a class="c-ref__href" href="#">
-        //    <span class="c-ref__type">Ref</span>
-        //    <sup class="c-ref__id">001</sup>
-        //  </a>
 
         // Create ref title text
         var refTypeName = '';
@@ -156,7 +192,7 @@ function leadingZeroes(i) {
         //    <span>1968<span>a</span></span>
         //  </a>
 
-        // Insert description with or without link
+        //Insert description with or without link
         if(sources[refId].href) {
           $kneenote.append('<span class="c-ref__desc-container"><a class="c-ref__desc" href="'+sources[refId].href+refParameter+'" target="tab"></a></span>');
         } else {
@@ -225,11 +261,13 @@ function leadingZeroes(i) {
         }
 
       }
-    }
 
-    if(!(refHide === undefined)) {
-      $this.parent().remove();
-    }
+      // }
+    // }
+
+    // if(!(refHide === undefined)) {
+    //   $this.parent().remove();
+    // }
 
   });
 //});

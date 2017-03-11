@@ -7,74 +7,51 @@
   }
 }
 
+.u-red {
+  color: red;
+}
+
+.u-pagebreak\@print {
+  @media print {
+    page-break-after: always!important;
+  }
+}
+
+
 // document sizing
 
 @page {
   size: 180mm 235mm;//7.08661in 9.25197in; // 180mm 235mmm || 72dpi -> 510px, 666px
   marks: crop;
-  margin: 20mm 25mm -($base-spacing * 1px) 15mm 25mm -($base-spacing * 1px);
+  margin: 15mm 25mm -($base-spacing * 1px) 20mm 25mm -($base-spacing * 1px);
   //border: 1px solid black;
 
   counter-reset: footnote 0;
   counter-reset: page 0;
-
-  @footnote {
-    border-top: solid 1px lighten($base-color-dark, 40%);
-    float: bottom;
-    font-size: 11px;
-    margin: 0 24px;
-  }
 }
 
 // pagination
 
 @page:right {
   @bottom-right {
+    margin-top: to-rem(-$base-spacing);
     margin-right: to-rem($base-spacing);
     content: counter(page);
-    font-size: 11px;
+    font-family: "Graphik";
+    font-weight: 700;
+    @include font-size(11);
   }
 }
 
 @page:left {
   @bottom-left {
+    margin-top: to-rem(-$base-spacing);
     margin-left: to-rem($base-spacing);
     content: counter(page);
-    font-size: 11px;
+    font-family: "Graphik";
+    font-weight: 700;
+    @include font-size(11);
   }
-}
-
-// footnotes
-
-.c-ref-desc {
-    float: footnote;
-    counter-increment: footnote;
-    font-size: 10px;
-}
-
-.c-ref-desc::footnote-call {
-  //  content: counter(footnote, decimal) " ";
-  color: red;
-  display: none!important;
-  font-size: 0!important;
-}
-
-.c-ref-desc::footnote-marker {
-    content: counter(footnote, decimal-leading-zero);
-    font-size: 8pt!important;
-    margin: 0;
-    font-weight: bold;
-    font-style: normal;
-    color: yellow;
-    //@include to-rem(margin, 0 $base-spacing * 3);
-}
-
-
-body {
-  // counter-reset: ref;
-  // @media print {
-  //   font-size: 12px;
-  // }
 }
 
 .o-p--tie {
@@ -88,13 +65,19 @@ body {
 
 .o-h5--note {
   @include to-rem(margin-bottom, $base-spacing-eight);
+  @media print {
+    @include font-size(14);
+  }
 }
-
 
 .o-p--note {
   font-family: 'Graphik'!important;
   font-size: 14px!important;
   line-height: 2!important;
+  @media print {
+    font-size: 11px!important;
+    line-height: 1.5!important;
+  }
   //@include font-size(14, 2);
 }
 
@@ -119,12 +102,20 @@ body {
   }
 }
 
-.u-red {
-  color: red;
-}
-
-
 .c-notes-marginal {
+  @include to-rem(margin, $base-spacing 0);
+  @media print {
+    @include to-rem(margin, -$base-spacing-half 0 $base-spacing-half 0);
+  }
+  &__item {
+    @include to-rem(padding-bottom, $base-spacing-quarter);
+    @media print {
+      @include to-rem(padding-bottom, $base-spacing-eight);
+    }
+    &:last-child {
+      padding-bottom: 0;
+    }
+  }
   .c-ref__href {
     position: absolute;
     left: 0;
@@ -132,7 +123,10 @@ body {
   }
   .c-ref__desc {
     &-container {
-      @include to-rem(margin-left, $base-spacing * 2.5);
+      @include to-rem(margin-left, $base-spacing * 2.25);
+      @media print {
+        @include to-rem(margin-left, $base-spacing * 1.75);
+      }
       display: inline-block;
     }
   }
@@ -153,7 +147,7 @@ a.c-ref__desc {
   @include font-size(16);
 
   @media print {
-    @include font-size(11,1);
+    @include font-size(11,1.1);
   }
   display: inline;
   background-repeat: no-repeat;
@@ -168,43 +162,23 @@ a.c-ref__desc {
   -webkit-box-decoration-break: clone;
   -moz-background-inline-policy: each-box;
   transition: 0.4s all ease-in-out;
-
-  // &:hover {
-  //   &:after {
-  //     visibility: visible;
-  //     width: 100%;
-  //   }
-  // }
-  // &:after {
-  //   content: "";
-  //   position: absolute;
-  //   width: 0;
-  //   height: 1px;
-  //   bottom: 0;
-  //   left: 0;
-  //   background: lighten($base-color-dark, 60%);
-  //   visibility: hidden;
-  //   transition: all 0.3s ease-in-out 0s;
-  // }
 }
 
 .c-kneenote,
 .c-ref {
   position: relative;
   display: inline-block;
-  &__href {}
 
   &__short {
     color: $base-color-dark;
-    @include font-size(12, 1);
+    @include font-size(14, 1);
+    @media print {
+      @include font-size(10,1);
+    }
     font-weight: 400;
     &-link {
       @include to-rem(margin-left, $base-spacing-eight);
     }
-  }
-
-  &__excerpt {
-    display: none;
   }
 
   &__type {
@@ -214,7 +188,7 @@ a.c-ref__desc {
     font-family: "Ocra", monospace;
     @include font-size(12,1);
     @media print {
-      @include font-size(11,1);
+      @include font-size(10,1);
     }
     //width: 29px;
     text-align: left;
@@ -223,12 +197,10 @@ a.c-ref__desc {
   &__id {
     color: $base-color-dark;
     @include font-size(10, 1);
+    @media print {
+      @include font-size(8, 1);
+    }
     font-weight: 400;
-    //  @include to-rem(margin-right, $base-spacing-quarter);
-    // &:before {
-    //   counter-increment: ref;
-    //   content: counter(ref, decimal-leading-zero);
-    // }
   }
   &__desc,
   &-desc {
@@ -349,10 +321,16 @@ a.c-ref__desc {
     tr {}
     th {
       @include font-size(12, 1.5);
+      @media print {
+        @include font-size(10, 1.25);
+      }
     }
     td {
       text-align: center;
       @include font-size(11, 1.5);
+      @media print {
+        @include font-size(10, 1.25);
+      }
       @include to-rem(padding, $base-spacing-quarter);
       border: 1px solid #fff;
     }
@@ -370,16 +348,6 @@ a.c-ref__desc {
         }
       tr:nth-of-type(2n) {background-color: inherit;}
       tr td:first-child {background: #f0f0f0!important; font-weight:bold;font-size:1.3em;}
-    }
-  }
-
-  .c-notes-marginal {
-    @include to-rem(margin, $base-spacing 0);
-    &__item {
-      @include to-rem(padding-bottom, $base-spacing-quarter);
-      &:last-child {
-        padding-bottom: 0;
-      }
     }
   }
 
@@ -473,6 +441,7 @@ a.c-ref__desc {
   }
 
   blockquote {
+    page-break-inside: avoid;
     @include to-rem(margin, 0 $base-spacing $base-spacing $base-spacing);
     p {
       @include to-rem(margin, $base-spacing 0 $base-spacing-half 0);
@@ -487,6 +456,7 @@ a.c-ref__desc {
     }
     ol,
     ul {
+      page-break-inside: auto;
       @include to-rem(margin-bottom, $base-spacing-half);
     }
   }
@@ -531,8 +501,15 @@ a.c-ref__desc {
     }
     li {
       @include to-rem(padding-bottom, $base-spacing-quarter);
+
+      @media print {
+        @include font-size(12, 1.5);
+      }
       &:empty {
         display: none;
+      }
+      &:last-child {
+        padding-bottom: 0;
       }
     }
   }
@@ -544,8 +521,14 @@ a.c-ref__desc {
       position: relative;
       @include to-rem(padding-left, $base-spacing-quarter * 3);
       @include to-rem(padding-bottom, $base-spacing-quarter);
+      @media print {
+        @include to-rem(padding-bottom, $base-spacing-eight);
+      }
       &:empty {
         display: none;
+      }
+      &:last-child {
+        padding-bottom: 0;
       }
       &:before {
         @include to-rem(width, $base-spacing);
@@ -556,6 +539,9 @@ a.c-ref__desc {
         @include to-rem(top, $base-spacing-eight);
         font-family: "Ocra", monospace;
         @include font-size(12, 1.5);
+        @media print {
+          @include font-size(11, 1.25);
+        }
         counter-increment: ol;
         content: counters(ol,".");
       }
@@ -574,6 +560,9 @@ a.c-ref__desc {
     li {
       @include to-rem(padding-left, $base-spacing-quarter * 3);
       @include to-rem(padding-bottom, $base-spacing-quarter);
+      @media print {
+        @include to-rem(padding-bottom, $base-spacing-eight);
+      }
       position: relative;
       &:empty {
         display: none;
@@ -588,6 +577,9 @@ a.c-ref__desc {
           @include to-rem(top, $base-spacing-eight);
           font-family: "Ocra", monospace;
           @include font-size(12, 1.5);
+          @media print {
+            @include font-size(11, 1.25);
+          }
           counter-increment: section;
           content: counters(section,".");
         }
@@ -619,11 +611,17 @@ a.c-ref__desc {
       @include to-rem(top, $base-spacing-eight);
       font-family: "Ocra", monospace;
       @include font-size(12, 1.5);
+      @media print {
+        @include font-size(11, 1.25);
+      }
       counter-increment: section;
       content: counters(section,".");
     }
     &__content {
       @include to-rem(padding-bottom, $base-spacing-quarter);
+      @media print {
+        @include to-rem(padding-bottom, $base-spacing-eight);
+      }
     }
   }
 
