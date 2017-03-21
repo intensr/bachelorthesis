@@ -35,14 +35,15 @@ function leadingZeroes(i) {
 
 //$.getJSON('sources.json', function(data) {
 
-  // Get source data
-  var sources = json;
+// Get source data
+var sources = json;
 
-  // Generate refs
+// Generate refs
+if ($('.c-ref').length > 0) {
   $('.c-ref').each(function(i) {
     var $this = $(this),
         text = $this[0].innerHTML,
-        refId = $this.attr('data-ref-id'),
+        refSourceId = $this.attr('data-ref-source-id'),
         refType = $this.attr('data-ref-type'),
         refDesc = $this.attr('data-ref-desc'),
         refHide = $this.attr('data-ref-hide'),
@@ -69,14 +70,14 @@ function leadingZeroes(i) {
     // Empty ref hook
     $this.empty();
 
-    if(refHide === undefined) {
+    //if(refHide === undefined) {
 
       // <span class="c-ref" data-ref-id="1" data-ref-type="ref" data-ref-desc="" data-ref-hide>
       //  <a href="https://vimeo.com/4176485" / <span class="c-ref__name"></a> / </span>
 
       // Add ref name as link or regular text depending on existing href
-      if(sources[refId].href) {
-        $this.append('<a class="c-ref__name" href="'+sources[refId].href+refParameter+'" target="tab"></a>');
+      if(sources[refSourceId].href) {
+        $this.append('<a class="c-ref__name" href="'+sources[refSourceId].href+refParameter+'" target="tab"></a>');
       } else {
         $this.append('<span class="c-ref__name"></span>');
       }
@@ -84,88 +85,92 @@ function leadingZeroes(i) {
       // Readd ref hook name
       $('.c-ref__name',$this).append(text);
 
-      $this.append('<a class="c-ref__short-link" href="#source-'+sources[refId].id+'"></a>');
+      $this.append('<a class="c-ref__short-link" href="#source-'+sources[refSourceId].id+'"></a>');
       $('.c-ref__short-link',$this).append('<sup class="c-ref__short">['+i+']</sup> ');
 
-    }
+      // Add ref id
+      $this.attr('data-ref-id', i);
+      $this.attr('id', 'ref-'+i)
+
+      //}
 
 
-    if(refType !== 'zitat') {
+      if(refType !== 'zitat') {
 
-      // Log ID
-      //console.log(i);
+        // Log ID
+        //console.log(i);
 
-      // Search next p element
-      var $currentPosition = $this.closest('p'),
-          $nextPosition,
-          $finalPosition,
-          inserted = false,
-          $marginalContainer = $('<div class="c-notes-marginal"></div>'),
-          $kneenote = $('<div class="c-notes-marginal__item"><div class="c-kneenote"></div></div>');
+        // Search next p element
+        var $currentPosition = $this.closest('p'),
+            $nextPosition,
+            $finalPosition,
+            inserted = false,
+            $marginalContainer = $('<div class="c-notes-marginal"></div>'),
+            $kneenote = $('<div class="c-notes-marginal__item"><div class="c-kneenote"></div></div>');
 
-      // Found p element?
-      if ($currentPosition.length > 0) {
+        // Found p element?
+        if ($currentPosition.length > 0) {
 
-        // Found!
-        //console.log('found p');
-        $nextPosition = $currentPosition.next();
+          // Found!
+          //console.log('found p');
+          $nextPosition = $currentPosition.next();
 
-        // Disconnect following p
-        if ($nextPosition.hasClass('o-p--tie')) {
-          //console.log('remove p tie');
-          $nextPosition.removeClass('o-p--tie');
-        }
-
-        // Add container if nessessary
-        if (!$nextPosition.hasClass('c-notes-marginal')) {
-          //console.log('add container');
-          $currentPosition.after($marginalContainer);
-          inserted = true;
-        } else {
-          // If not nessessary then apply the kneenote as far as its not a quote
-          if(refType !== 'zitat') {
-            //console.log('insert kneenote 1');
-            $nextPosition.append($kneenote);
+          // Disconnect following p
+          if ($nextPosition.hasClass('o-p--tie')) {
+            //console.log('remove p tie');
+            $nextPosition.removeClass('o-p--tie');
           }
+
+          // Add container if nessessary
+          if (!$nextPosition.hasClass('c-notes-marginal')) {
+            //console.log('add container');
+            $currentPosition.after($marginalContainer);
+            inserted = true;
+          } else {
+            // If not nessessary then apply the kneenote as far as its not a quote
+            if(refType !== 'zitat') {
+              //console.log('insert kneenote 1');
+              $nextPosition.append($kneenote);
+            }
+          }
+
+          //console.log($currentPosition.next(), $nextPosition);
+
+          if (inserted === true) {
+            //console.log('insert kneenote 2');
+            $marginalContainer.append($kneenote);
+          }
+
+        } else {
+
+          //console.log('not found p');
+          $this.append('<p class="js-temp-marker"></p>');
+          var $allP = $('p');
+          var pIndex = $allP.index($('.js-temp-marker'));
+          var $nextPosition = $allP.eq(pIndex+1);
+          $('.js-temp-marker').remove();
+
+          //console.log($nextPosition);
+
+          if($nextPosition.hasClass('o-p--tie')) {
+            ////console.log('p is tied');
+            $nextPosition.removeClass('o-p--tie');
+          }
+
+          $finalPosition = $nextPosition.prev();
+
+          if (!$finalPosition.hasClass('c-notes-marginal')) {
+            ////console.log('next is container, adding kneenote hook');
+            //console.log('test');
+            $nextPosition.before($marginalContainer);
+          }
+
+          if ($nextPosition.prev().hasClass('c-notes-marginal')) {
+            //console.log('next is container, adding kneenote hook');
+            $nextPosition.prev().append($kneenote);
+          }
+
         }
-
-        //console.log($currentPosition.next(), $nextPosition);
-
-        if (inserted === true) {
-          //console.log('insert kneenote 2');
-          $marginalContainer.append($kneenote);
-        }
-
-      } else {
-
-        //console.log('not found p');
-        $this.append('<p class="js-temp-marker"></p>');
-        var $allP = $('p');
-        var pIndex = $allP.index($('.js-temp-marker'));
-        var $nextPosition = $allP.eq(pIndex+1);
-        $('.js-temp-marker').remove();
-
-        //console.log($nextPosition);
-
-        if($nextPosition.hasClass('o-p--tie')) {
-          ////console.log('p is tied');
-          $nextPosition.removeClass('o-p--tie');
-        }
-
-        $finalPosition = $nextPosition.prev();
-
-        if (!$finalPosition.hasClass('c-notes-marginal')) {
-          ////console.log('next is container, adding kneenote hook');
-          //console.log('test');
-          $nextPosition.before($marginalContainer);
-        }
-
-        if ($nextPosition.prev().hasClass('c-notes-marginal')) {
-          //console.log('next is container, adding kneenote hook');
-          $nextPosition.prev().append($kneenote);
-        }
-
-      }
 
         $kneenote = $kneenote.children('.c-kneenote');
 
@@ -180,7 +185,7 @@ function leadingZeroes(i) {
         }
 
         // Add xref
-        $kneenote.append('<a class="c-ref__href" href="#source-'+sources[refId].id+'" title="'+refTypeName+'"></a>');
+        $kneenote.append('<a id="kneenote-'+i+'" class="c-ref__href" href="#source-'+sources[refSourceId].id+'" title="'+refTypeName+'"></a>');
         $('.c-ref__href',$kneenote).append('<span class="c-ref__type">'+refType+'</span> ');
         $('.c-ref__href',$kneenote).append('<sup class="c-ref__id">'+i+'</sup> ');
 
@@ -193,8 +198,8 @@ function leadingZeroes(i) {
         //  </a>
 
         //Insert description with or without link
-        if(sources[refId].href) {
-          $kneenote.append('<span class="c-ref__desc-container"><a class="c-ref__desc" href="'+sources[refId].href+refParameter+'" target="tab"></a></span>');
+        if(sources[refSourceId].href) {
+          $kneenote.append('<span class="c-ref__desc-container"><a class="c-ref__desc" href="'+sources[refSourceId].href+refParameter+'" target="tab"></a></span>');
         } else {
           $kneenote.append('<span class="c-ref__desc-container"><span class="c-ref__desc"></span></span>');
         }
@@ -206,68 +211,69 @@ function leadingZeroes(i) {
 
         // Vgl auto kneenote sources
         if(!refHideSources && refType === 'zitat') {
-          if(sources[refId].year) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].year+'</span>');
+          if(sources[refSourceId].year) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].year+'</span>');
           }
-          if(sources[refId].yearId) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].yearId+'</span>');
+          if(sources[refSourceId].yearId) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].yearId+'</span>');
           }
-          if(sources[refId].authorSurname) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].authorSurname+'</span>');
-          } else if (sources[refId].author) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].author+'</span>');
+          if(sources[refSourceId].authorSurname) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].authorSurname+'</span>');
+          } else if (sources[refSourceId].author) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].author+'</span>');
           }
         }
 
         // Vgl auto kneenote sources
         if(!refHideSources && refType === 'vgl') {
-          if(sources[refId].year) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].year+'</span>');
+          if(sources[refSourceId].year) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].year+'</span>');
           }
-          if(sources[refId].yearId) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].yearId+'</span>');
+          if(sources[refSourceId].yearId) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].yearId+'</span>');
           }
-          if(sources[refId].authorSurname) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].authorSurname+'</span>');
-          } else if (sources[refId].author) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refId].author+'</span>');
+          if(sources[refSourceId].authorSurname) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].authorSurname+'</span>');
+          } else if (sources[refSourceId].author) {
+            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].author+'</span>');
           }
         }
 
         // Default auto kneenote sources
         if(!refHideSources && refType !== 'vgl' && refType !== 'zitat') {
-          if(sources[refId].entity) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].entity+'</span> ');
+          if(sources[refSourceId].entity) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].entity+'</span> ');
           }
-          if(sources[refId].org) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].org+'</span> ');
+          if(sources[refSourceId].org) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].org+'</span> ');
           }
-          if(sources[refId].year) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].year+'</span> ');
+          if(sources[refSourceId].year) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].year+'</span> ');
           }
-          if(sources[refId].yearId) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].yearId+'</span> ');
+          if(sources[refSourceId].yearId) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].yearId+'</span> ');
           }
-          if(sources[refId].author) {
-            $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].author+'</span> ');
+          if(sources[refSourceId].author) {
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].author+'</span> ');
           } else {
-            if(sources[refId].authorPrename) {
-              $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].authorPrename+'</span> ');
+            if(sources[refSourceId].authorPrename) {
+              $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].authorPrename+'</span> ');
             }
-            if(sources[refId].authorSurname) {
-              $('.c-ref__desc',$kneenote).append('<span>'+sources[refId].authorSurname+'</span> ');
+            if(sources[refSourceId].authorSurname) {
+              $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].authorSurname+'</span> ');
             }
           }
         }
 
       }
 
+        // }
       // }
-    // }
 
-    // if(!(refHide === undefined)) {
-    //   $this.parent().remove();
-    // }
+      // if(!(refHide === undefined)) {
+      //   $this.parent().remove();
+      // }
 
   });
+}
 //});

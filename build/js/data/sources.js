@@ -49,7 +49,7 @@ const sources = [{
 {
   "id": 4,
   "href"   : "http://manovich.net/index.php/projects/software-takes-command",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Software takes command: extending the language of new media",
   "org"    : "Bloomsbury",
   "year"   : 2013,
@@ -61,7 +61,7 @@ const sources = [{
 {
   "id": 5,
   "href"   : false,
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Mock-up of a future Dynabook, S.394",
   "org"    : "The New Media Reader",
   "year"   : 2003,
@@ -73,7 +73,7 @@ const sources = [{
 {
   "id": 6,
   "href"   : "https://www.amazon.de/New-Media-Reader-Noah-Wardrip-Fruin/dp/0262232278/",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The New Media Reader",
   "org"    : "The MIT Press",
   "year"   : 2003,
@@ -85,7 +85,7 @@ const sources = [{
 {
   "id": 7,
   "href"   : false,
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Anthropologische Forschung",
   "org"    : "Reinbek",
   "year"   : 1961,
@@ -121,7 +121,7 @@ const sources = [{
 {
   "id": 10,
   "href"   : "https://commons.wikimedia.org/wiki/File:Transistor_Count_and_Moore's_Law_-_2011.svg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth.",
   "org"    : "Wikipedia",
   "year"   : 2011,
@@ -133,7 +133,7 @@ const sources = [{
 {
   "id": 11,
   "href"   : "https://de.wikipedia.org/wiki/Datei:PPTMooresLawai.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Moore's Law, The Fifth Paradigm.",
   "org"    : "Wikipedia",
   "year"   : 2005,
@@ -157,7 +157,7 @@ const sources = [{
 {
   "id": 13,
   "href"   : "https://www.amazon.de/Singularity-Near-Humans-Transcend-Biology/dp/0143037889",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The Singularity is Near",
   "org"    : "Penguin Books",
   "year"   : 2006,
@@ -193,7 +193,7 @@ const sources = [{
 {
   "id": 16,
   "href"   : "http://mindstalk.net/vinge/vinge-sing.html",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Mindstalk",
   "org"    : "VISION-21 Symposium",
   "year"   : 1993,
@@ -217,7 +217,7 @@ const sources = [{
 {
   "id": 18,
   "href"   : "http://www.kushima.org/is/wp-content/uploads/2015/07/Good65ultraintelligent.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Speculations Concerning the First Ultraintelligent Machine",
   "org"    : "Advances in Computers, vol. 6",
   "year"   : 1964,
@@ -240,7 +240,7 @@ const sources = [{
 },
 {
   "id": 20,
-  "href"   : "http://www.imdb.com/title/tt2209764/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt2209764/",
   "medium" : "video",
   "entity" : "Transcendence",
   "org"    : false,
@@ -252,7 +252,7 @@ const sources = [{
 },
 {
   "id": 21,
-  "href"   : "http://www.imdb.com/title/tt2209764/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt2209764/",
   "medium" : "video",
   "entity" : "Her",
   "org"    : false,
@@ -264,7 +264,7 @@ const sources = [{
 },
 {
   "id": 22,
-  "href"   : "http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt0133093/",
   "medium" : "video",
   "entity" : "Matrix",
   "org"    : false,
@@ -276,7 +276,7 @@ const sources = [{
 },
 {
   "id": 23,
-  "href"   : "http://www.imdb.com/title/tt0088247/?ref_=nv_sr_2",
+  "href"   : "http://www.imdb.com/title/tt0088247/",
   "medium" : "video",
   "entity" : "Terminator",
   "org"    : false,
@@ -288,7 +288,7 @@ const sources = [{
 },
 {
   "id": 24,
-  "href"   : "http://www.imdb.com/title/tt0475784/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt0475784/",
   "medium" : "video",
   "entity" : "Westworld",
   "org"    : false,
@@ -300,7 +300,7 @@ const sources = [{
 },
 {
   "id": 25,
-  "href"   : "http://www.imdb.com/title/tt0470752/?ref_=nv_sr_2",
+  "href"   : "http://www.imdb.com/title/tt0470752/",
   "medium" : "video",
   "entity" : "Ex Machina",
   "org"    : false,
@@ -337,7 +337,7 @@ const sources = [{
 {
   "id": 28,
   "href"   : "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.5726&rep=rep1&type=pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Hitting the Memory Wall: Implications of the Obvious",
   "org"    : "Computer Architecture News, Vol. 23, Issue 1",
   "year"   : 1995,
@@ -349,7 +349,7 @@ const sources = [{
 {
   "id": 29,
   "href"   : "https://www.technologyreview.com/s/425733/paul-allen-the-singularity-isnt-near/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The Singularity Isn't Near",
   "org"    : "MIT Technology Review",
   "year"   : 2011,
@@ -361,7 +361,7 @@ const sources = [{
 {
   "id": 30,
   "href"   : "http://www.economist.com/node/5624861",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The cutting edge",
   "org"    : "MIT Technology Review",
   "year"   : 2011,
@@ -397,7 +397,7 @@ const sources = [{
 {
   "id": 33,
   "href"   : "http://www.skeptic.com/reading_room/artificial-intelligence-gone-awry/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "A.I. Gone Awry: The Futile Quest for Artificial Intelligence",
   "org"    : "Skeptic Magazine",
   "year"   : 2011,
@@ -409,7 +409,7 @@ const sources = [{
 {
   "id": 34,
   "href"   : "http://www.nickbostrom.com/2050/outsmart.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "When Machines Outsmart Humans",
   "org"    : "Futures. Vol. 35:7",
   "year"   : 2000,
@@ -421,7 +421,7 @@ const sources = [{
 {
   "id": 35,
   "href"   : "https://www.amazon.com/Next-Fifty-Years-Science-Twenty-first/dp/0375713425",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The Complexity Ceiling",
   "org"    : "chapter in The Next Fifty Years by John Brockman",
   "year"   : 2002,
@@ -481,7 +481,7 @@ const sources = [{
 {
   "id": 40,
   "href"   : "http://www.latimes.com/world/asia/la-fg-korea-alphago-20160312-story.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "AlphaGo beats human Go champ in milestone for artificial intelligence",
   "org"    : "Los Angeles Times",
   "year"   : 2016,
@@ -493,7 +493,7 @@ const sources = [{
 {
   "id": 41,
   "href"   : "https://www.edge.org/conversation/jaron_lanier-one-half-a-manifesto",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "One Half a Manifesto",
   "org"    : "Edge",
   "year"   : 2000,
@@ -529,7 +529,7 @@ const sources = [{
 {
   "id": 44,
   "href"   : "http://futureoflife.org/ai-open-letter/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Research priorities for robust and beneficial artificial intelligence",
   "org"    : "Future of Life Institute",
   "year"   : 2016,
@@ -541,7 +541,7 @@ const sources = [{
 {
   "id": 45,
   "href"   : false,
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Understanding Comics: The Invisible Art, S.94-117 und in The New Media Reader, S.712",
   "org"    : "Kitchen Sink Press",
   "year"   : 1993,
@@ -553,7 +553,7 @@ const sources = [{
 {
   "id": 46,
   "href"   : false,
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Inventing the medium",
   "org"    : "The New Media Reader, S.3",
   "year"   : 2003,
@@ -588,7 +588,7 @@ const sources = [{
 },
 {
   "id": 49,
-  "href"   : "http://www.imdb.com/title/tt2084970/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt2084970/",
   "medium" : "video",
   "entity" : "The Imitation Game",
   "org"    : false,
@@ -601,7 +601,7 @@ const sources = [{
 {
   "id": 50,
   "href"   : false,
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Babbage's calculating engine",
   "org"    : "The Edinburgh Review 59",
   "year"   : 1834,
@@ -625,7 +625,7 @@ const sources = [{
 {
   "id": 52,
   "href"   : "http://www.di.ens.fr/~pouzet/cours/systeme/bib/edvac.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "First Draft of a Report on the EDVAC",
   "org"    : "IEEE Annals of the Histroy of Computing, Vol 15, No. 4, (1993)",
   "year"   : 1945,
@@ -637,7 +637,7 @@ const sources = [{
 {
   "id": 53,
   "href"   : "https://www.amazon.com/Memoirs-Twentieth-Century-Journey-Science-Politics/dp/0738207780",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Memoirs. A Twentieth-Century Journey in Science and Politics",
   "org"    : "Perseus Publishing",
   "year"   : 2002,
@@ -649,7 +649,7 @@ const sources = [{
 {
   "id": 54,
   "href"   : "https://www.amazon.com/Historische-Notizen-zur-Informatik-German/dp/3540857893/",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Historische Notizen zur Informatik",
   "org"    : "Springer Verlag",
   "year"   : 2009,
@@ -661,7 +661,7 @@ const sources = [{
 {
   "id": 55,
   "href"   : "http://jvn.46halbe.org/",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Studienarbeit: Why not bomb them today?",
   "org"    : false,
   "year"   : 2004,
@@ -673,7 +673,7 @@ const sources = [{
 {
   "id": 56,
   "href"   : "http://amturing.acm.org/award_winners/sutherland_3467412.cfm",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Portrait Ivan Sutherland",
   "org"    : "A.M. Turing Award",
   "year"   : 1988,
@@ -685,7 +685,7 @@ const sources = [{
 {
   "id": 57,
   "href"   : "https://www.amazon.de/Art-Human-Computer-Interface-Design/dp/0201517973",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Conversation as Direct Manipulation: An Iconoclastic View. in The Art of Human-Computer Interface Design, S.393-404",
   "org"    : "Addison Wesley",
   "year"   : 1990,
@@ -697,7 +697,7 @@ const sources = [{
 {
   "id": 58,
   "href"   : false,
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Sketchpad A Man-Machine Graphical Communication System",
   "org"    : "Spring Joint Computer Conference",
   "year"   : 1963,
@@ -709,7 +709,7 @@ const sources = [{
 {
   "id": 59,
   "href"   : "http://callmenick.com/post/maintainable-responsive-web-design-with-sass",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Maintainable Responsive Web Design with Sass",
   "org"    : "Call Me Nick",
   "year"   : 2016,
@@ -721,7 +721,7 @@ const sources = [{
 {
   "id": 60,
   "href"   : "http://aspg.com/mainframes-vs-supercomputers",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Mainframes vs. Supercomputers",
   "org"    : "Advanced Software Products Group",
   "year"   : 2013,
@@ -733,7 +733,7 @@ const sources = [{
 {
   "id": 61,
   "href"   : "https://www.ft.com/content/300145d2-0841-11e4-acd8-00144feab7de",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "BlackRock’s Aladdin: genie not included",
   "org"    : "Financial Times",
   "year"   : 2014,
@@ -745,7 +745,7 @@ const sources = [{
 {
   "id": 62,
   "href"   : "http://www.vanityfair.com/news/2010/04/fink-201004",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Larry Fink's $12 Trillion Shadow",
   "org"    : "Vanity Fair",
   "year"   : 2010,
@@ -757,7 +757,7 @@ const sources = [{
 {
   "id": 63,
   "href"   : "https://arxiv.org/PS_cache/arxiv/pdf/1107/1107.5728v1.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "The network of global corporate control",
   "org"    : "ETH Zurich",
   "year"   : 2011,
@@ -769,7 +769,7 @@ const sources = [{
 {
   "id": 64,
   "href"   : "http://www.nasdaq.com/de/symbol/blk/ownership-summary",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "BlackRock, Inc. Übersicht über die Aktionärsstruktur",
   "org"    : "Nasdaq",
   "year"   : 2017,
@@ -781,7 +781,7 @@ const sources = [{
 {
   "id": 65,
   "href"   : "http://www.wissen.de/video/wieviel-geld-gibt-es-auf-der-welt",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Wieviel Geld gibt es auf der Welt?",
   "org"    : "Wissen.de",
   "year"   : 2017,
@@ -792,7 +792,7 @@ const sources = [{
 },
 {
   "id": 66,
-  "href"   : "http://www.imdb.com/title/tt4158110/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt4158110/",
   "medium" : "video",
   "entity" : "Mr. Robot",
   "org"    : false,
@@ -804,7 +804,7 @@ const sources = [{
 },
 {
   "id": 67,
-  "href"   : "http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt0137523/",
   "medium" : "video",
   "entity" : "Fight Club",
   "org"    : false,
@@ -841,7 +841,7 @@ const sources = [{
 {
   "id": 70,
   "href"   : "http://www.bbc.co.uk/programmes/p04b183c",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "HyperNormalisation",
   "org"    : "BBC - British Broadcasting Corporation",
   "year"   : 2016,
@@ -865,7 +865,7 @@ const sources = [{
 {
   "id": 72,
   "href"   : "https://www.amazon.com/Future-Jaron-Lanier-4-Mar-2014-Paperback/dp/B011T6YIM4/ref=pd_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=HZ8MZCJ7CHTHSRTYBKWF",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Who Owns The Future?",
   "org"    : "Penguin Books",
   "year"   : 2014,
@@ -877,7 +877,7 @@ const sources = [{
 {
   "id": 73,
   "href"   : "http://uk.businessinsider.com/blackrocks-charlie-hallac-died-he-built-the-groups-central-nervous-system-2015-9",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The man who built BlackRock's 'central nervous system' and turned it into a $4.7 trillion colossus has died",
   "org"    : "Business Insider UK",
   "year"   : 2015,
@@ -889,7 +889,7 @@ const sources = [{
 {
   "id": 74,
   "href"   : "https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Ich habe nur gezeigt, dass es die Bombe gibt",
   "org"    : "Das Magazin",
   "year"   : 2016,
@@ -901,7 +901,7 @@ const sources = [{
 {
   "id": 75,
   "href"   : "https://www.nzz.ch/cern-lhc-grid-1.1013126",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Offizielle Einweihung des Computing Grids am Cern",
   "org"    : "Neue Züricher Zeitung",
   "year"   : 2008,
@@ -925,7 +925,7 @@ const sources = [{
 {
   "id": 77,
   "href"   : "http://www.wired.co.uk/article/watch-dogs-wearedata",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Watch Dogs website maps your unprotected social data",
   "org"    : "Wired",
   "year"   : 2013,
@@ -949,7 +949,7 @@ const sources = [{
 {
   "id": 79,
   "href"   : "http://www.nytimes.com/2011/02/08/technology/business-computing/08olsen.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Ken Olsen, Who Built DEC Into a Power, Dies at 84",
   "org"    : "The New York Times",
   "year"   : 2011,
@@ -961,7 +961,7 @@ const sources = [{
 {
   "id": 80,
   "href"   : "https://www.amazon.de/DEC-Dead-Long-Live-Corporation/dp/1576753050",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Dec Is Dead, Long Live Dec: The Lasting Legacy of Digital Equiment Corporation",
   "org"    : "",
   "year"   : 2009,
@@ -985,7 +985,7 @@ const sources = [{
 {
   "id": 82,
   "href"   : "http://manovich.net/index.php/about",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Lev Manovich Biographie",
   "org"    : "Manovich.net",
   "year"   : 2017,
@@ -997,7 +997,7 @@ const sources = [{
 {
   "id": 83,
   "href"   : "https://www.amazon.de/Cultural-Software-Ideology-J-Balkin/dp/0300084501",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Cultural Software: A Theory of Ideology",
   "org"    : "Yale University Press",
   "year"   : 2002,
@@ -1009,7 +1009,7 @@ const sources = [{
 {
   "id": 84,
   "href"   : "http://pctimeline.info/apple/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Chronology of (Apple Computers) Personal Computers",
   "org"    : "pctimeline.info",
   "year"   : 1995,
@@ -1033,7 +1033,7 @@ const sources = [{
 {
   "id": 86,
   "href"   : "http://www.adobe.com/de/products/experience-design.html?sdid=CRH52B7M&mv",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Experience Design CC (Beta)",
   "org"    : "Adobe",
   "year"   : 2016,
@@ -1045,7 +1045,7 @@ const sources = [{
 {
   "id": 87,
   "href"   : "https://spaces.kisd.de/identitaet/recommendations/zeichentheorie-semiotik-semiologie/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Zur Zeichentheorie, Semiotik, Semiologie",
   "org"    : "Köln International School of Design - Spaces - Identität und Design (ID)",
   "year"   : 2016,
@@ -1057,7 +1057,7 @@ const sources = [{
 {
   "id": 88,
   "href"   : "https://i-lab.harvard.edu/news/the-desk-seen-around-the-world/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The Viral Desk Seen ‘Round the World",
   "org"    : "Harvard innovation lab",
   "year"   : 2015,
@@ -1069,7 +1069,7 @@ const sources = [{
 {
   "id": 89,
   "href"   : "http://www.theverge.com/2016/2/24/11094374/facebook-reactions-like-button",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Facebook rolls out expanded Like button reactions around the world",
   "org"    : "The Verge",
   "year"   : 2016,
@@ -1081,7 +1081,7 @@ const sources = [{
 {
   "id": 90,
   "href"   : "https://www.ics.uci.edu/~corps/phaseii/Weiser-Computer21stCentury-SciAm.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "The Computer for the 21st Century",
   "org"    : "UCI - University of California",
   "year"   : 1991,
@@ -1093,7 +1093,7 @@ const sources = [{
 {
   "id": 91,
   "href"   : "https://www.instagram.com/p/W2BuMLQLRB/",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "How the world has changed: St. Peter's Square in 2005 and 2013",
   "org"    : "NBC - Today Show",
   "year"   : 2013,
@@ -1105,7 +1105,7 @@ const sources = [{
 {
   "id": 92,
   "href"   : "https://www.amazon.de/Design-Everyday-Things-Revised-Expanded/dp/0465050654",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The Design of Everyday Things",
   "org"    : "Basic Books",
   "year"   : 2013,
@@ -1141,7 +1141,7 @@ const sources = [{
 {
   "id": 95,
   "href"   : "https://de.statista.com/statistik/daten/studie/500483/umfrage/prognose-zum-weltweiten-absatz-von-smartwatches/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Prognose zum Absatz von Smartwatches weltweit in den Jahren 2016 und 2020 (in Millionen Stück)",
   "org"    : "Statista",
   "year"   : 2016,
@@ -1177,7 +1177,7 @@ const sources = [{
 {
   "id": 98,
   "href"   : "https://developer.apple.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Developers",
   "org"    : "Apple",
   "year"   : 2017,
@@ -1189,7 +1189,7 @@ const sources = [{
 {
   "id": 99,
   "href"   : "https://developers.google.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Developers",
   "org"    : "Google",
   "year"   : 2017,
@@ -1201,7 +1201,7 @@ const sources = [{
 {
   "id": 100,
   "href"   : "https://www.amazon.com/Websters-New-World-Hacker-Dictionary/dp/0470047526",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Webster's New World Hacker Dictionary",
   "org"    : "Wiley Publishing",
   "year"   : 2006,
@@ -1237,7 +1237,7 @@ const sources = [{
 {
   "id": 103,
   "href"   : "http://www.nytimes.com/1992/07/23/nyregion/computer-savvy-with-attitude-young-working-class-hackers-accused-high-tech-crime.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Computer Savvy, With an Attitude; Young Working-Class Hackers Accused of High-Tech Crime",
   "org"    : "The New York Times",
   "year"   : 1992,
@@ -1249,7 +1249,7 @@ const sources = [{
 {
   "id": 104,
   "href"   : "https://w2.eff.org/Misc/Publications/John_Perry_Barlow/HTML/crime_and_puzzlement_1.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Crime and Puzzlement",
   "org"    : "Electronic Frontier Foundation",
   "year"   : 1990,
@@ -1261,7 +1261,7 @@ const sources = [{
 {
   "id": 105,
   "href"   : "https://www.eff.org/de/cyberspace-independence",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "A Declaration of the Independence of Cyberspace",
   "org"    : "Electronic Frontier Foundation",
   "year"   : 1996,
@@ -1273,7 +1273,7 @@ const sources = [{
 {
   "id": 106,
   "href"   : "https://www.eff.org/about",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "About EFF",
   "org"    : "Electronic Frontier Foundation",
   "year"   : 2017,
@@ -1297,7 +1297,7 @@ const sources = [{
 {
   "id": 108,
   "href"   : "http://reason.com/archives/2004/08/01/john-perry-barlow-20",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "John Perry Barlow 2.0",
   "org"    : "reason Magazin",
   "year"   : 2004,
@@ -1309,7 +1309,7 @@ const sources = [{
 {
   "id": 109,
   "href"   : "https://www.torproject.org/projects/torbrowser.html.en",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Browser",
   "org"    : "Tor Project",
   "year"   : 2017,
@@ -1321,7 +1321,7 @@ const sources = [{
 {
   "id": 110,
   "href"   : "https://www.eff.org/wikileaks",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Wikileaks",
   "org"    : "Electronic Frontier Foundation",
   "year"   : 2017,
@@ -1357,7 +1357,7 @@ const sources = [{
 {
   "id": 113,
   "href"   : "https://www.oculus.com",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Oculus",
   "year"   : 2017,
@@ -1369,7 +1369,7 @@ const sources = [{
 {
   "id": 114,
   "href"   : "https://www.instagram.com",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Instagram",
   "year"   : 2017,
@@ -1381,7 +1381,7 @@ const sources = [{
 {
   "id": 115,
   "href"   : "http://www.bostondynamics.com",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Boston Dynamics",
   "year"   : 2017,
@@ -1393,7 +1393,7 @@ const sources = [{
 {
   "id": 116,
   "href"   : "https://bufferblog-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Facebook-10-Year-Plan.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Facebook 10 Year Roadmap",
   "org"    : "Facebook",
   "year"   : 2016,
@@ -1405,7 +1405,7 @@ const sources = [{
 {
   "id": 117,
   "href"   : "https://de.wikipedia.org/wiki/Alphabet_Inc.#/media/File:Alphabet_Chart-vector.svg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Alphabet Chart",
   "org"    : "Wikipedia",
   "year"   : 2017,
@@ -1417,7 +1417,7 @@ const sources = [{
 {
   "id": 118,
   "href"   : "http://t3n.de/news/selbstdarstellung-soziale-netzwerke-554103/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Selbstdarstellung in Sozialen Netzwerken: Macht das Netz uns zu Lügnern?",
   "org"    : "t3n Magazin",
   "year"   : 2014,
@@ -1441,7 +1441,7 @@ const sources = [{
 {
   "id": 120,
   "href"   : "https://www.theatlantic.com/technology/archive/2015/09/facebooks-new-patent-and-digital-redlining/407287/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Could a Bank Deny Your Loan Based on Your Facebook Friends?",
   "org"    : "The Atlantic Magazin",
   "year"   : 2015,
@@ -1453,7 +1453,7 @@ const sources = [{
 {
   "id": 121,
   "href"   : "https://www.etonshirts.com/de/",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Screenshot",
   "org"    : "Eton Shirts",
   "year"   : 2017,
@@ -1465,7 +1465,7 @@ const sources = [{
 {
   "id": 122,
   "href"   : "https://www.facebook.com/",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Screenshot",
   "org"    : "Facebook Profil",
   "year"   : 2017,
@@ -1477,7 +1477,7 @@ const sources = [{
 {
   "id": 123,
   "href"   : "http://www.theregister.co.uk/2014/10/14/assange_bollocks_google_eff/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Julian Assange discovers Google's given MONEY to EFF",
   "org"    : "The Register",
   "year"   : 2014,
@@ -1489,7 +1489,7 @@ const sources = [{
 {
   "id": 124,
   "href"   : "http://www.folklore.org/StoryView.py?project=Macintosh&story=Creative_Think.txt",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Creative Think",
   "org"    : "Folklore.org",
   "year"   : 1982,
@@ -1501,7 +1501,7 @@ const sources = [{
 {
   "id": 125,
   "href"   : "http://t3n.de/magazin/die-virtuellen-stars-241881/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Die virtuellen Stars: Diese deutschen VR-Startups solltest du kennen",
   "org"    : "t3n Magazin",
   "year"   : 2017,
@@ -1512,20 +1512,20 @@ const sources = [{
 },
 {
   "id": 126,
-  "href"   : "https://en.wikipedia.org/wiki/Virtual_Boy",
-  "medium" : "wiki",
-  "entity" : "Virtual Boy",
-  "org"    : "Wikipedia",
-  "year"   : 1995,
+  "href"   : "https://www.fastcompany.com/3050016/unraveling-the-enigma-of-nintendos-virtual-boy-20-years-later",
+  "medium" : "article",
+  "entity" : "Unraveling The Enigma Of Nintendo’s Virtual Boy, 20 Years Later",
+  "org"    : "Fast Company",
+  "year"   : 2015,
   "yearId" : false,
   "author" : false,
-  "authorSurname" : false,
-  "authorPrename" : false
+  "authorSurname" : "Edwards",
+  "authorPrename" : "Benj"
 },
 {
   "id": 127,
   "href"   : "http://www.recode.net/2015/7/27/11615046/whats-the-difference-between-virtual-augmented-and-mixed-reality",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "What are the differences among virtual, augmented and mixed reality?",
   "org"    : "Recode Magazin",
   "year"   : 2016,
@@ -1549,7 +1549,7 @@ const sources = [{
 {
   "id": 129,
   "href"   : "https://get.google.com/tango/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Tango",
   "org"    : "Google",
   "year"   : 2016,
@@ -1573,7 +1573,7 @@ const sources = [{
 {
   "id": 131,
   "href"   : "http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00070.x/full",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "The Cyborg’s Dilemma: Embodiment in Virtual Environments",
   "org"    : "Michigan State University",
   "year"   : 1997,
@@ -1585,7 +1585,7 @@ const sources = [{
 {
   "id": 132,
   "href"   : "http://spaces.kisd.de/ark-upload/files/Virtuelle_realitaet_archiv.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Virtuelle Realität – Präsenz, Embodiment, Immersion",
   "org"    : "Köln International School of Design",
   "year"   : 2016,
@@ -1621,7 +1621,7 @@ const sources = [{
 {
   "id": 135,
   "href"   : "https://techcrunch.com/2016/11/11/facebook-messenger-launches-its-public-group-chat-feature-rooms-in-select-markets/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Facebook Messenger launches its public group chat feature “Rooms” in select markets",
   "org"    : "Techcrunch",
   "year"   : 2016,
@@ -1633,7 +1633,7 @@ const sources = [{
 {
   "id": 136,
   "href"   : "http://www.goldmansachs.com/our-thinking/pages/technology-driving-innovation-folder/virtual-and-augmented-reality/report.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Profiles in Innovation: Virtual & Augmented Reality",
   "org"    : "Goldman Sachs",
   "year"   : 2016,
@@ -1645,8 +1645,8 @@ const sources = [{
 {
   "id": 137,
   "href"   : "https://unity3d.com/de/unity",
-  "medium" : "artikel",
-  "entity" : false,
+  "medium" : "article",
+  "entity" : "Webseite",
   "org"    : "Unity",
   "year"   : 2017,
   "yearId" : false,
@@ -1657,7 +1657,7 @@ const sources = [{
 {
   "id": 138,
   "href"   : "http://www.osvr.org/what-is-osvr.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "What is OSVR",
   "org"    : "Open Source Virtual Reality",
   "year"   : 2017,
@@ -1669,7 +1669,7 @@ const sources = [{
 {
   "id": 139,
   "href"   : "https://www.khronos.org/blog/the-openxr-working-group-is-here",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The OpenXR Working Group is Here!",
   "org"    : "Khronos Group",
   "year"   : 2017,
@@ -1681,7 +1681,7 @@ const sources = [{
 {
   "id": 140,
   "href"   : "http://www.vrnerds.de/openxr-der-neue-virtual-reality-standard/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "OpenXR: Der neue Virtual Reality Standard",
   "org"    : "VR Nerds",
   "year"   : 2017,
@@ -1693,7 +1693,7 @@ const sources = [{
 {
   "id": 141,
   "href"   : false,
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Email Austausch in: web-vr-discuss mailing list",
   "org"    : "Mozilla",
   "year"   : 2017,
@@ -1705,7 +1705,7 @@ const sources = [{
 {
   "id": 142,
   "href"   : "http://etk.by/sites/default/files/untitled-1.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : false,
   "org"    : "etk.by",
   "year"   : 2017,
@@ -1717,7 +1717,7 @@ const sources = [{
 {
   "id": 143,
   "href"   : "http://www.vrnerds.de/kein-room-scale-vr-mit-rift-oder-playstation-vr/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Kein Room Scale VR mit Rift oder Playstation VR",
   "org"    : "VR Nerds",
   "year"   : 2016,
@@ -1729,7 +1729,7 @@ const sources = [{
 {
   "id": 144,
   "href"   : "http://www.organicmotion.com/motion-capture/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "What is Motion Capture?",
   "org"    : "Organic Motion",
   "year"   : 2017,
@@ -1765,7 +1765,7 @@ const sources = [{
 {
   "id": 147,
   "href"   : "https://www.wired.com/2017/02/the-void-vr-game/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Step Into ‘The Void,’ a Physical Playground for VR",
   "org"    : "Wired",
   "year"   : 2017,
@@ -1777,7 +1777,7 @@ const sources = [{
 {
   "id": 148,
   "href"   : "https://thevoid.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : false,
   "org"    : "The VOID",
   "year"   : 2017,
@@ -1788,7 +1788,7 @@ const sources = [{
 },
 {
   "id": 149,
-  "href"   : "http://www.imdb.com/title/tt0094012/?ref_=nv_sr_1",
+  "href"   : "http://www.imdb.com/title/tt0094012/",
   "medium" : "video",
   "entity" : "Spaceballs",
   "org"    : false,
@@ -1801,7 +1801,7 @@ const sources = [{
 {
   "id": 150,
   "href"   : "https://www.engadget.com/2017/01/05/windows-vr-headsets-dell-hp-acer/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Check out the first Windows VR headsets from Dell, HP and Acer",
   "org"    : "Engadget",
   "year"   : 2017,
@@ -1813,7 +1813,7 @@ const sources = [{
 {
   "id": 151,
   "href"   : "https://www.technologyreview.com/s/603615/oculus-closes-many-in-store-demo-stations-as-vr-headsets-prove-a-hard-sell/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Oculus Closes Many In-Store Demo Stations as VR Headsets Prove a Hard Sell",
   "org"    : "MIT Technology Review",
   "year"   : 2017,
@@ -1825,7 +1825,7 @@ const sources = [{
 {
   "id": 152,
   "href"   : "http://www.roadtovr.com/facebook-mark-zuckerberg-10-year-vr-trajectory-oculus-earnings-call/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Facebook CEO Asks for Investor Patience on VR, ‘it’s not going to be really profitable for us for quite a while’",
   "org"    : "Road to VR",
   "year"   : 2017,
@@ -1837,7 +1837,7 @@ const sources = [{
 {
   "id": 153,
   "href"   : "https://vr.google.com/cardboard/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Cardboard",
   "org"    : "Google",
   "year"   : 2016,
@@ -1849,7 +1849,7 @@ const sources = [{
 {
   "id": 154,
   "href"   : "https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=cardboard",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Produktsuche: Cardboard",
   "org"    : "Amazon",
   "year"   : 2017,
@@ -1861,7 +1861,7 @@ const sources = [{
 {
   "id": 155,
   "href"   : "http://pinchvr.ca/brands-1/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "VR",
   "org"    : "Pinch",
   "year"   : 2017,
@@ -1873,7 +1873,7 @@ const sources = [{
 {
   "id": 156,
   "href"   : "https://www.indiegogo.com/projects/pinch-vr",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Pinch VR Kampagne",
   "org"    : "Indiegogo",
   "year"   : 2015,
@@ -1897,7 +1897,7 @@ const sources = [{
 {
   "id": 158,
   "href"   : "http://worrydream.com/refs/Smith%20-%20Croquet%20-%20A%20Collaboration%20System%20Architecture.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Croquet – A Collaboration System Architecture",
   "org"    : "IEEE Computer Society",
   "year"   : 2003,
@@ -1921,7 +1921,7 @@ const sources = [{
 {
   "id": 160,
   "href"   : "https://liliputing.com/2017/02/now-can-experience-vr-using-web-browser-daydream-compatible-hardware.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Now you can experience VR using a web browser (and Daydream-compatible hardware)",
   "org"    : "liliputing.com",
   "year"   : 2017,
@@ -1981,7 +1981,7 @@ const sources = [{
 {
   "id": 165,
   "href"   : "https://techcrunch.com/2014/03/19/webcl-will-soon-let-web-developers-harness-the-power-of-multi-core-gpus-and-cpus-from-the-browser/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "WebCL Will Soon Let Web Developers Harness The Power Of Multi-Core GPUs And CPUs From The Browser",
   "org"    : "Tech Crunch",
   "year"   : 2014,
@@ -2005,7 +2005,7 @@ const sources = [{
 {
   "id": 167,
   "href"   : "http://resn.co.nz/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Resn",
   "year"   : 2017,
@@ -2017,7 +2017,7 @@ const sources = [{
 {
   "id": 168,
   "href"   : "https://threejs.org/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "ThreeJS",
   "year"   : 2017,
@@ -2041,7 +2041,7 @@ const sources = [{
 {
   "id": 170,
   "href"   : "https://guides.github.com/activities/forking/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Forking Projects",
   "org"    : "GitHub",
   "year"   : 2014,
@@ -2053,7 +2053,7 @@ const sources = [{
 {
   "id": 171,
   "href"   : "https://jquery.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "What is jQuery?",
   "org"    : "jQuery",
   "year"   : 2017,
@@ -2065,7 +2065,7 @@ const sources = [{
 {
   "id": 172,
   "href"   : "http://getbootstrap.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Bootstrap",
   "org"    : "Twitter",
   "year"   : 2011,
@@ -2077,7 +2077,7 @@ const sources = [{
 {
   "id": 173,
   "href"   : "http://sass-lang.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Sass",
   "year"   : 2006,
@@ -2089,7 +2089,7 @@ const sources = [{
 {
   "id": 174,
   "href"   : "https://aframe.io/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Aframe",
   "org"    : "Mozilla",
   "year"   : 2016,
@@ -2101,7 +2101,7 @@ const sources = [{
 {
   "id": 175,
   "href"   : "https://playcanvas.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Website",
   "org"    : "PlayCanvas",
   "year"   : 2014,
@@ -2149,7 +2149,7 @@ const sources = [{
 {
   "id": 179,
   "href"   : "http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Natural selection and veridical perceptions",
   "org"    : "University of California",
   "year"   : 2010,
@@ -2209,7 +2209,7 @@ const sources = [{
 {
   "id": 184,
   "href"   : false,
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "The Future of Integrated Electronics.",
   "org"    : "Electronics International Magazin",
   "year"   : 1964,
@@ -2221,7 +2221,7 @@ const sources = [{
 {
   "id": 185,
   "href"   : "https://www.amazon.de/Geschichte-deutschen-Volkes-Anf%C3%A4ngen-Gegenwart/dp/3925825649",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Geschichte des deutschen Volkes: Von den Anfängen bis zur Gegenwart, Bd. 1.",
   "org"    : "Katz",
   "year"   : 1996,
@@ -2233,7 +2233,7 @@ const sources = [{
 {
   "id": 186,
   "href"   : "http://www.intel.com/content/dam/www/public/us/en/documents/roadmaps/public-roadmap-article.pdf",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Public Roadmap",
   "org"    : "Intel",
   "year"   : 2016,
@@ -2245,7 +2245,7 @@ const sources = [{
 {
   "id": 187,
   "href"   : "https://docs.google.com/file/d/0B-5-JeCa2Z7hbWcxTGsyU09HSTg",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Tribute to John von Neumann",
   "org"    : "Bulletin of the American Mathematical Society Vol.64 No.3",
   "year"   : 1958,
@@ -2257,7 +2257,7 @@ const sources = [{
 {
   "id": 188,
   "href"   : "https://www.amazon.com/Universal-Mind-Evolution-Intelligence-Psychology-ebook/dp/B00BQ47APM",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The Universal Mind: The Evolution of Machine Intelligence and Human Psychology",
   "org"    : "Xiphias Press",
   "year"   : 2013,
@@ -2281,7 +2281,7 @@ const sources = [{
 {
   "id": 190,
   "href"   : "http://media.economist.com/sites/default/files/cf_images/20060318/CST393.gif",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Number of blades per razor system",
   "org"    : "The Economist",
   "year"   : 2006,
@@ -2293,7 +2293,7 @@ const sources = [{
 {
   "id": 191,
   "href"   : "https://www.amazon.de/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Understanding the Comics: The Invisible Art.",
   "org"    : "Northhampton, MA: Kitchen Sink Press",
   "year"   : 1993,
@@ -2341,7 +2341,7 @@ const sources = [{
 {
   "id": 195,
   "href"   : "https://academic.oup.com/mind/article-abstract/LIX/236/433/986238/I-COMPUTING-MACHINERY-AND-INTELLIGENCE?redirectedFrom=PDF",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Computing Machinery and Intelligence",
   "org"    : "Mind No. 236",
   "year"   : 1950,
@@ -2365,7 +2365,7 @@ const sources = [{
 {
   "id": 197,
   "href"   : "https://www.amazon.de/Making-Atomic-Bomb-25th-Anniversary/dp/1451677618",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "The Making of the Atomic Bomb: 25th Anniversary Edition",
   "org"    : " Simon & Schuster",
   "year"   : 2012,
@@ -2377,7 +2377,7 @@ const sources = [{
 {
   "id": 198,
   "href"   : "https://www.theatlantic.com/magazine/archive/1995/07/was-it-right/376364/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Was It Right?",
   "org"    : "The Atlantic",
   "year"   : 1995,
@@ -2389,7 +2389,7 @@ const sources = [{
 {
   "id": 199,
   "href"   : "http://www.springer.com/de/book/9783034860659",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Die Atombombe",
   "org"    : "Nördlingen",
   "year"   : 1988,
@@ -2401,7 +2401,7 @@ const sources = [{
 {
   "id": 200,
   "href"   : "http://www.ucpress.edu/book.php?isbn=9780520071544",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Adventures of a mathematician",
   "org"    : "Charles Scribner's Sons",
   "year"   : 1976,
@@ -2425,7 +2425,7 @@ const sources = [{
 {
   "id": 202,
   "href"   : "https://www.mightygamesmag.de/wp-content/uploads/2016/11/Watch-Dogs-2-Predictive-World.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Watch Dogs 2 Predictive World",
   "org"    : "Mighty Games Magazine",
   "year"   : 2016,
@@ -2449,7 +2449,7 @@ const sources = [{
 {
   "id": 204,
   "href"   : "https://i-lab.harvard.edu/wp-content/uploads/BestReviews-vi.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Screenshot of The Viral Desk Seen ‘Round the World",
   "org"    : "Harvard innovation lab",
   "year"   : 2015,
@@ -2461,7 +2461,7 @@ const sources = [{
 {
   "id": 205,
   "href"   : "http://afflictor.com/wp-content/uploads/2011/02/Alan_Kay_and_the_prototype_of_Dynabook_pt._5_3010032738.jpg.jpeg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "In 2008, Alan Kay presents the original 1960s Dynabook prototype, which was made of carboard.",
   "org"    : "Afflictor.com",
   "year"   : 2011,
@@ -2473,7 +2473,7 @@ const sources = [{
 {
   "id": 206,
   "href"   : "https://www.technobezz.com/files/uploads/2015/10/stevejobs1.jpg",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Watch The Animated Biography of Steve Jobs And Technology Events",
   "org"    : "TechnoBezz",
   "year"   : 2016,
@@ -2497,7 +2497,7 @@ const sources = [{
 {
   "id": 208,
   "href"   : "https://www.amazon.com/Fumbling-Future-Invented-Personal-Computer/dp/1583482660",
-  "medium" : "literatur",
+  "medium" : "literature",
   "entity" : "Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer",
   "org"    : "William Morrow and Company",
   "year"   : "1988",
@@ -2509,7 +2509,7 @@ const sources = [{
 {
   "id": 209,
   "href"   : "http://www.biography.com/people/steve-jobs-9354805",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Steve Jobs Biography",
   "org"    : "biography.com",
   "year"   : 2017,
@@ -2521,7 +2521,7 @@ const sources = [{
 {
   "id": 210,
   "href"   : "https://www.wired.com/insights/2014/08/will-smartwatches-kill-smartphones/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Will Smartwatches Kill Smartphones?",
   "org"    : "Wired",
   "year"   : "2014",
@@ -2533,7 +2533,7 @@ const sources = [{
 {
   "id": 211,
   "href"   : "http://www.digitalwelt.org/hackerland/inhalt/was-ist-ein-bulletin-board-system",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Was ist ein Bulletin Board System?",
   "org"    : "Digitalwelt Magazin",
   "year"   : 2016,
@@ -2545,7 +2545,7 @@ const sources = [{
 {
   "id": 212,
   "href"   : "http://www.well.com/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "What is The WELL?",
   "org"    : "The Well Group, Inc.",
   "year"   : 2017,
@@ -2557,7 +2557,7 @@ const sources = [{
 {
   "id": 213,
   "href"   : "https://de.wikipedia.org/wiki/Datei:Monochrome-bbs.png",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Monochrome BBS www.mono.org",
   "org"    : "Gnome Terminal on Ubuntu Hardy",
   "year"   : 2009,
@@ -2617,7 +2617,7 @@ const sources = [{
 {
   "id": 218,
   "href"   : "https://www.magicleap.com/#/home",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Webseite",
   "org"    : "Magic Leap",
   "year"   : 2017,
@@ -2629,7 +2629,7 @@ const sources = [{
 {
   "id": 219,
   "href"   : "http://www.goldmansachs.com/our-thinking/pages/technology-driving-innovation-folder/virtual-and-augmented-reality/report.pdf",
-  "medium" : "abhandlung",
+  "medium" : "essay",
   "entity" : "Profiles in Innovation: Virtual & Augmented Reality",
   "org"    : "Goldman Sachs",
   "year"   : 2016,
@@ -2641,7 +2641,7 @@ const sources = [{
 {
   "id": 220,
   "href"   : "http://www.chip.de/news/VR-ist-tot-Sony-begraebt-die-Spielezukunft_104478360.html",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "VR ist tot: Sony begräbt die Spielezukunft - Kommentar",
   "org"    : "Chip",
   "year"   : 2017,
@@ -2677,7 +2677,7 @@ const sources = [{
 {
   "id": 223,
   "href"   : "http://www.samsung.com/de/promotions/galaxynote4/feature/gearvr/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Gear VR",
   "org"    : "Samsung",
   "year"   : 2016,
@@ -2689,7 +2689,7 @@ const sources = [{
 {
   "id": 224,
   "href"   : "http://www.mi.com/en/mivr/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Mi VR",
   "org"    : "Xiaomi",
   "year"   : 2016,
@@ -2701,7 +2701,7 @@ const sources = [{
 {
   "id": 225,
   "href"   : "http://www.vrnerds.de/vr-brillen-vergleich/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "VR Brillen Vergleich",
   "org"    : "VR Nerds",
   "year"   : 2017,
@@ -2713,7 +2713,7 @@ const sources = [{
 {
   "id": 226,
   "href"   : "https://curved.de/news/zte-axon-7-erhaelt-android-nougat-und-damit-auch-daydream-vr-457356",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "ZTE Axon 7 erhält Android Nougat und damit auch Daydream VR",
   "org"    : "Curved Magazin",
   "year"   : 2017,
@@ -2725,7 +2725,7 @@ const sources = [{
 {
   "id": 227,
   "href"   : "http://worrydream.com/refs/Smith%20-%20Croquet%20-%20A%20Collaboration%20System%20Architecture.pdf",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Croquet – A Collaboration System Architecture",
   "org"    : "IEEE Computer Society",
   "year"   : 2003,
@@ -2749,7 +2749,7 @@ const sources = [{
 {
   "id": 229,
   "href"   : "https://www.youtube.com/watch?v=SxPLneIz4uM",
-  "medium" : "bild",
+  "medium" : "image",
   "entity" : "Google Daydream - Live-Demo (Google IO 2016)",
   "org"    : "Golem",
   "year"   : 2016,
@@ -2761,7 +2761,7 @@ const sources = [{
 {
   "id": 230,
   "href"   : "https://blog.kulturbanause.de/2013/08/mobile-first-progressive-enhancement/",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Mobile First + Progressive Enhancement",
   "org"    : "Kulturbanause Agentur",
   "year"   : 2014,
@@ -2785,7 +2785,7 @@ const sources = [{
 {
   "id": 232,
   "href"   : "http://www.helmut-kohl-kas.de/index.php?menu_sel=15&menu_sel2=213&menu_sel3=122",
-  "medium" : "artikel",
+  "medium" : "article",
   "entity" : "Zur Geschichte der Vertreibung",
   "org"    : "Bundestagsrede",
   "year"   : 1995,
@@ -2793,6 +2793,270 @@ const sources = [{
   "author" : false,
   "authorSurname" : "Kohl",
   "authorPrename" : "Helmut"
+},
+{
+  "id": 233,
+  "href"   : "",
+  "medium" : "",
+  "entity" : "",
+  "org"    : "",
+  "year"   : "",
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 234,
+  "href"   : "http://benchmarkreviews.com/index.php?option=com_content&task=view&id=276&Itemid=58",
+  "medium" : "article",
+  "entity" : "NVIDIA GeForce 3D Vision",
+  "org"    : "Benchmark Reviews",
+  "year"   : 2009,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : "Coles",
+  "authorPrename" : "Olin"
+},
+{
+  "id": 235,
+  "href"   : "https://www.w3.org/2011/webtv/3dweb/3dweb_proposal_121130.html",
+  "medium" : "article",
+  "entity" : "Extensions for Stereoscopic 3D support",
+  "org"    : "W3C",
+  "year"   : 2012,
+  "yearId" : false,
+  "author" : "Soonbo Han, Dong-Young Lee",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 236,
+  "href"   : "https://youtu.be/IwbGumZ-FYg?t=8m32s",
+  "medium" : "video",
+  "entity" : "You Are Not a Gadget",
+  "org"    : "TEDxSF - Technology, Entertainment, Design Community San Francisco",
+  "year"   : 2010,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : "Lanier",
+  "authorPrename" : "Jaron"
+},
+{
+  "id": 237,
+  "href"   : "https://versus.com/de",
+  "medium" : "article",
+  "entity" : "Vergleich Webseite",
+  "org"    : "versus",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 238,
+  "href"   : "https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/",
+  "medium" : "article",
+  "entity" : "Field of View for Virtual Reality Headsets Explained",
+  "org"    : "VR lens lab",
+  "year"   : 2016,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 239,
+  "href"   : "http://archive.benchmarkreviews.com/index.php?option=com_content&task=view&id=276&Itemid=58",
+  "medium" : "article",
+  "entity" : "NVIDIA GeForce 3D Vision Gaming Kit",
+  "org"    : "Benchmark Reviews",
+  "year"   : 2009,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : "Coles",
+  "authorPrename" : "Olin"
+},
+{
+  "id": 240,
+  "href"   : "https://www.forbes.com/sites/ryanwhitwam/2016/11/12/the-3-best-and-worst-things-about-googles-daydream-vr/#5530307e6b5a",
+  "medium" : "article",
+  "entity" : "The 3 Best And Worst Things About Google's Daydream VR",
+  "org"    : "Forbes",
+  "year"   : 2016,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : "Whitwam",
+  "authorPrename" : "Ryan"
+},
+{
+  "id": 241,
+  "href"   : "http://www.virtual-reality-tools.de/produkte.html",
+  "medium" : "article",
+  "entity" : "VR Headset Comparison",
+  "org"    : "Virtual Reality Tools",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 242,
+  "href"   : "http://virtual-reality-headsets.specout.com/",
+  "medium" : "article",
+  "entity" : "Compare Virtual Reality Headsets",
+  "org"    : "Cpecout by Graphiq",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 243,
+  "href"   : "http://source.android.com/compatibility/android-cdd.html#7_9_virtual_reality",
+  "medium" : "article",
+  "entity" : "Android 7.1 Compatibility Definition Document #7_9_virtual_reality",
+  "org"    : "Android",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 244,
+  "href"   : "https://madewith.unity.com/",
+  "medium" : "article",
+  "entity" : "Made with",
+  "org"    : "Unity",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 245,
+  "href"   : "https://cables.gl/",
+  "medium" : "article",
+  "entity" : "Webseite",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "undev",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 246,
+  "href"   : "https://cables.gl/landing/screen_designer.jpg",
+  "medium" : "image",
+  "entity" : "Screen Designer",
+  "org"    : "",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "undev",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 247,
+  "href"   : "https://cables.gl/landing/code.jpg",
+  "medium" : "image",
+  "entity" : "Screen Designer",
+  "org"    : "",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "undev",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "https://docs.cables.gl/ui_walkthrough/ui_walkthrough.html",
+  "medium" : "article",
+  "entity" : "Dokumentation",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "undev",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "https://cables.gl/landing/ui.mp4",
+  "medium" : "video",
+  "entity" : "Node Funktionalität",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "undev",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "https://undev.studio/",
+  "medium" : "article",
+  "entity" : "Webseite",
+  "org"    : "undev",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "https://vr.google.com/intl/de_de/daydream/phones/",
+  "medium" : "article",
+  "entity" : "Smartphones für die Virtual Reality",
+  "org"    : "Google VR",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : false,
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "",
+  "medium" : "article",
+  "entity" : "Dokumentation",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "Cables.gl",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "",
+  "medium" : "article",
+  "entity" : "Dokumentation",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "Cables.gl",
+  "authorSurname" : false,
+  "authorPrename" : false
+},
+{
+  "id": 248,
+  "href"   : "",
+  "medium" : "article",
+  "entity" : "Dokumentation",
+  "org"    : "Cables",
+  "year"   : 2017,
+  "yearId" : false,
+  "author" : "Cables.gl",
+  "authorSurname" : false,
+  "authorPrename" : false
 }];
 
 export default sources;
