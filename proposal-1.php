@@ -2209,6 +2209,12 @@ dieser Medien mitzuerleben und zu -gestalten.</p>
           </div>
         </div>
 
+        <h3>Spiele</h3>
+        <div class="c-sources__game  c-columns  c-columns--game">
+          <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
+          </div>
+        </div>
+
         <h3>Wikipedia und Lexikon</h3>
         <div class="c-sources__wiki  c-columns  c-columns--wiki">
           <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">

@@ -10,6 +10,7 @@ $('.c-ref').each(function(i) {
       refId = $this.attr('data-ref-id'),
       refSourceId = $this.attr('data-ref-source-id'),
       $videoContainer = $('.c-columns--video .o-grid'),
+      $gameContainer = $('.c-columns--game .o-grid'),
       $articleContainer = $('.c-columns--article .o-grid'),
       $essayContainer = $('.c-columns--essay .o-grid'),
       $imageContainer = $('.c-columns--image .o-grid'),
@@ -55,6 +56,46 @@ $('.c-ref').each(function(i) {
         $videoContainer.append('<div class="c-columns-item__xref"><span class="c-icon  c-icon-long-arrow-up"></span> <a href="#kneenote-'+refId+'">'+refId+'</a></div>');
       } else if (refId) {
         $videoContainer.append('<div class="c-columns-item__xref"><span class="c-icon  c-icon-long-arrow-up"></span> <a href="#ref-'+refId+'">'+refId+'</a></div>');
+      }
+
+      processedSources.push(refSourceId);
+
+    } else {
+      $('.c-columns-item__xref', '.c-columns-item-'+refSourceId).append(', <a href="#ref-'+refId+'">'+refId+'</a>');
+    }
+  }
+
+  if (json[refSourceId].medium === 'game') {
+
+    if(!duplicateSource) {
+
+      $gameContainer.append('<div class="o-grid__item"><div id="source-'+refSourceId+'" class="c-columns-item  c-columns-item-'+refSourceId+'"></div></div>');
+      $gameContainer = $('.c-columns--game .c-columns-item-'+refSourceId);
+
+      if (json[refSourceId].entity && json[refSourceId].year && json[refSourceId].yearId) {
+        $gameContainer.append('<div id="source-'+json[refSourceId].id+'" class="c-columns-item__name">'+json[refSourceId].entity+', <span class="c-columns-item__year">'+json[refSourceId].year+'<span class="c-columns-item__yearid">'+json[refSourceId].yearId+'</span></span></div>');
+      } else if (json[refSourceId].entity && json[refSourceId].year) {
+        $gameContainer.append('<div id="source-'+json[refSourceId].id+'" class="c-columns-item__name">'+json[refSourceId].entity+', <span class="c-columns-item__year">'+json[refSourceId].year+'</span></div>');
+      } else {
+        $gameContainer.append('<div id="source-'+json[refSourceId].id+'" class="c-columns-item__name">'+json[refSourceId].entity+'</div>');
+      }
+
+      if (json[refSourceId].href) {
+        $gameContainer.append('<a class="c-columns-item__href" href="'+json[refSourceId].href+'" target="tab">'+json[refSourceId].href+'</a>');
+      }
+
+      if (json[refSourceId].author && json[refSourceId].org) {
+        $gameContainer.append('<div class="c-columns-item__author">'+json[refSourceId].author+', <span class="c-columns-item__org">'+json[refSourceId].org+'</span></div>');
+      } else if (json[refSourceId].author) {
+        $gameContainer.append('<div class="c-columns-item__author">'+json[refSourceId].author+'</div>');
+      } else if (json[refSourceId].org) {
+        $gameContainer.append('<div class="c-columns-item__author"><span class="c-columns-item__org">'+json[refSourceId].org+'</span></div>');
+      }
+
+      if (refId && refHide) {
+        $gameContainer.append('<div class="c-columns-item__xref"><span class="c-icon  c-icon-long-arrow-up"></span> <a href="#kneenote-'+refId+'">'+refId+'</a></div>');
+      } else if (refId) {
+        $gameContainer.append('<div class="c-columns-item__xref"><span class="c-icon  c-icon-long-arrow-up"></span> <a href="#ref-'+refId+'">'+refId+'</a></div>');
       }
 
       processedSources.push(refSourceId);

@@ -67,7 +67,7 @@ angestrebt, um diese für zukünftige Kreationen von artifiziellen Realitäten n
       <blockquote>
         <p>Die Erfahrungen der KISD Studenten/innen in der Ausarbeitung ihrer Bachelorarbeiten ist gleichzeitig deren letzte Entscheidung und Möglichkeit einer
 intensiven Auseinandersetzung mit einer eigenständig, gewählten Thematik, vor dem Berufseinstieg.</p>
-        <cite>Übertragenes Zitat von Prof. Wolfgang Laubersheimer beim Kölner Design Preis, 2016</cite>
+        <cite>Autorisiertes, übertragenes Zitat von Prof. Wolfgang Laubersheimer beim Kölner Design Preis, 2016</cite>
       </blockquote>
 
       <p>Die ersten persönlichen Berührungspunkte mit der stereoskopischen Darstellung von virtuellen Objekten habe ich mit dem Kauf eines BenQ 120<abbr
@@ -79,14 +79,20 @@ Objekte künstlich in das Sichtfeld des Anwenders zu projizieren.</p>
 war dies ein weiterer Versuch der Entertainment Industrie, 3D Projektionen in den Massenmarkt zu etablieren. Der Trend dieser Brillen hielt allerdings nicht
 lange an und konnte sich lediglich in 3D Kinofilmen behaupten. Durch mein primäres Interesse und den Fokus auf die Gestaltung des Nutzerlebenisses (UX, User
 Experience) und der Ausarbeitung von interaktiven (IxD, User Interaction) Interface Konzepten (UI, User Interface), primär im digitalen Medium, dachte ich
-zwischenzeitlich an die mögliche Verknüpfung von stereoskopischen 3D und Web -Technologien. In <span class="c-ref" data-ref-source-id="235" data-ref-desc="" data-ref-type="ref">einem <abbr title="z.d. Entwurf">Draft</abbr></span> des <abbr title="World Wide Web Consortium">W3C Konsortiums</abbr> von zwei LG Electronics Mitarbeitern erfuhr
-ich, dass bereits Unternehmungen bezüglich der Web Implementierung vorgeschlagen wurden. Bis dato sind diese Entwürfe jedoch von keinem Webbrowser implementiert
+zwischenzeitlich an die mögliche Verknüpfung von stereoskopischen 3D und Web -Technologien. In <span class="c-ref" data-ref-source-id="235" data-ref-desc=""
+data-ref-type="ref">einem <abbr title="z.d. Entwurf">Draft</abbr></span> des <abbr title="World Wide Web Consortium">W3C Konsortiums</abbr> von zwei LG
+Electronics Mitarbeitern erfuhr
+ich, dass bereits Unternehmungen bezüglich der Web Implementierung vorgeschlagen wurden. Bis dato sind diese Entwürfe jedoch von keinem Webbrowser
+implementiert
 worden und die Bemühungen gelten somit als eingestellt.</p>
-      <p class="o-p--tie">Erst im Frühjahr 2016 wurde ich wieder auf das Thema aufmerksam als die Agentur Dunckelfeld, in der ich als Freelancer tätig bin, sich
+      <p class="o-p--tie">Erst im Frühjahr 2016 wurde ich wieder auf das Thema aufmerksam als die Agentur Dunckelfeld, in der ich als Freelancer tätig bin,
+sich
 die HTC Vive zulegte. Nach der ersten Nutzung war ich sehr beeindruckt von der Immersion in die virtuelle Realität der jeweiligen Anwendungen. Die Demo von
-Aperture Science (Valve) mit einem <span class="c-ref" data-ref-source-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="" data-ref-hide>der Protagonisten</span> von Portal 2 faszinierte mich. Speziell die neu eröffneten Interaktionsmöglichkeiten mithilfe der Vive
+Aperture Science (Valve) mit einem <span class="c-ref" data-ref-source-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="">der
+Protagonisten</span> von Portal 2 faszinierte mich. Speziell die neu eröffneten Interaktionsmöglichkeiten mithilfe der Vive
 Controller. Es gestaltet sich schwierig diese subjektive Wahrnehmung zu beschreiben. Selbst in der Betrachtung in Form von Videomaterial wird die Art der
-Erfahrung, welche man bei der Nutzung von zeitgeistig, hochwertigen Head Mounted Displays (<abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>, z.d. Datenhelm) erfährt, nicht transportiert. <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>s sind einige
+Erfahrung, welche man bei der Nutzung von zeitgeistig, hochwertigen Head Mounted Displays (<abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>, z.d.
+Datenhelm) erfährt, nicht transportiert. <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>s sind einige
 der wenigen Medien, welche man selbst erfahren muss um das Potential und die Qualität zu erkennen. Dies ist einer der Gründe weshalb diese Arbeit empirisch
 ausgelegt ist.</p>
       <p class="o-p--tie">Noch vor meiner Wahrnehmung von Google Cardboard und den bereits stattfindenden Entwicklungen von Virtual-, Augmented- und Mixed
@@ -95,12 +101,16 @@ komplexen Aufbau und zum anderen sind sie inklusive der erforderlichen Rechenlei
 Realitäten keine weitere Funktion. Dementsprechend besitzt nur eine vergleichsweise kleine Anzahl an Personen solche Geräte, oder haben Erfahrungen damit
 gesammelt. Der Anwendungszweck ist noch sehr begrenzt, obwohl die Geräte in der Theorie bereits seit den 90er Jahren (ggf. früher) verschiedene, nützliche
 Ansätze und Konzepte beinhalten.</p>
-      <p class="o-p--tie">Nach einer intensiveren Auseinandersetzung mit der Materie probierte ich Google Cardboard aus, entdeckte WebVR und verfolgte neuere VR
-Trends wie z.B. die Entwicklung von Google Daydream. WebVR beschreibt dabei die Erzeugung von virtuellen Realitäten in einem Webbrowser und wurde 2016 primär in
-Zusammenarbeit von Google und Mozilla entwickelt. WebVR war bis Anfang 2017 sehr rudimentär - das Nischenprodukt einer Nischenbranche - und ist bis dato in
+      <p class="o-p--tie">Nach einer intensiveren Auseinandersetzung mit der Materie probierte ich Google Cardboard aus, entdeckte WebVR und verfolgte neuere
+VR
+Trends wie z.B. die Entwicklung von Google Daydream. WebVR beschreibt dabei die Erzeugung von virtuellen Realitäten in einem Webbrowser und wurde 2016 primär
+in
+Zusammenarbeit von Google und Mozilla <span class="c-ref" data-ref-source-id="252" data-ref-desc="" data-ref-type="ref">entwickelt</span>. WebVR war bis Anfang
+2017 sehr rudimentär - das Nischenprodukt einer Nischenbranche - und ist bis dato in
 einem experimentellen Stadium. Die Darstellung auf meinem Motorola G4 (Low Budget Smartphone) war überzogen gesagt eine Katastrophe. Fehlende Sensorik, eine
 unzureichende Auflösung und mangelnde Interaktionsmöglichkeiten sowie Anzeigefehler reduzierten meine persönliche User Experience auf ein Minimum. Dennoch war
-ich abermals fasziniert von dem Enthusiasmus der Unternehmen Google, Mozilla und dem WebVR Initiator Brandon Jones. Zu diesem Zeitpunkt war Google Daydream
+ich abermals fasziniert von dem Enthusiasmus der Unternehmen Google, Mozilla und dem WebVR Initiator <span class="c-ref" data-ref-source-id="161"
+data-ref-desc="" data-ref-type="ref">Brandon Jones.</span> Zu diesem Zeitpunkt war Google Daydream
 bereits auf dem Markt, jedoch nur verfügbar mit dem Google Pixel Smartphone welches bei dem Modell mit hoher Auflösung einen Kostenfaktor von ca. ~1000€
 veranschlagt. Dafür erfährt der Nutzer ein potentiell schlechteres VR Erlebnis als mit einer Oculus Rift, HTC Vive oder ähnlichen stationären Geräten. Anders
 als jedoch z.B. Gear VR von Samsung gibt Google seit Anfang 2017 Zertifikate für Drittanbieter frei mit denen Daydream betrieben werden kann. Zudem ist Google
@@ -111,19 +121,26 @@ Reality und letztendlich WebVR steigt oder stagniert. Die Freigabe für weitere 
 positiv, zu bewertender Ausgangspunkt.</p>
       <p class="o-p--tie">Die Nutzung von Daydream eröffnet neue Aspekte für die Gestaltung durch das Hinzufügen der dritten Dimension und die Präsenz des
 Anwenders in der virtuellen Umgebung. Die Nutzung der neuen Schnittstellen (Controller und Head Tracking) bringen neue Interaktionsmöglichkeiten und
-gleichzeitig neue Herausforderungen für Designer und Entwickler, wie z.B. die Suche nach dem optimalen Eingabemedium, die Erstellung adäquater Anwendungen, oder
-die Reduktion der sog. VR Motion Sickness, welche Übelkeit verursachen kann. Sofern sich VR fest etablieren kann wird der Rahmen für Designer konkret erweitert,
+gleichzeitig neue Herausforderungen für Designer und Entwickler, wie z.B. die Suche nach dem optimalen Eingabemedium, die Erstellung adäquater Anwendungen,
+oder
+die Reduktion der sog. <span class="c-ref" data-ref-source-id="253" data-ref-desc="" data-ref-type="ref">VR Motion Sickness</span>, welche Übelkeit verursachen
+kann. Sofern sich VR fest etablieren kann wird der Rahmen für Designer konkret erweitert,
 indem nicht nur mit und in den Medien gearbeitet wird sondern die Medien selbst modifiziert und abgewandelt werden können, welches teilweise und vereinzelt
 schon aktuell der Fall ist.</p>
       <p class="o-p--tie">Viele Unternehmen und Hersteller versuchen die physische Realität möglichst präzise in die virtuelle Realität zu übertragen, welches
-zu fragwürdigen Applikationen wie dem Job Simulator (in diesem Fall gewollt), oder Koch Simulationen (in diesem Fall ernst gemeint) führt. Persönlich bin ich
+zu fragwürdigen Applikationen wie dem <span class="c-ref" data-ref-source-id="254" data-ref-desc="" data-ref-type="ref">Job Simulator</span> (in diesem Fall
+gewollt), oder <span class="c-ref" data-ref-source-id="255" data-ref-desc="" data-ref-type="ref">Koch Simulationen</span> (in diesem Fall ernst gemeint) führt.
+Persönlich bin ich
 speziell an der Manipulation des Körpers, der Sinne und dem Surrealismus innerhalb virtueller Realitäten interessiert. Mich fasziniert der Gedanke Dinge zu
-ermöglichen, welche in der physischen Welt nicht, oder schwierig umzusetzen sind, ebenso die Beschäftigung mit der Körperlosigkeit, dem Annehmen neuer
-Identitäten und der Selbstdarstellung im virtuellen Raum. Für mich verbergen sich in diesen Komponenten der tiefere Sinn von Virtual Reality (VR), Augmented
+ermöglichen, welche in der physischen Welt nicht, oder schwierig umzusetzen <span class="c-ref" data-ref-source-id="236" data-ref-desc=""
+data-ref-type="bsp">sind,</span> ebenso die Beschäftigung mit der Körperlosigkeit, dem Annehmen neuer
+Identitäten und der <span class="c-ref" data-ref-source-id="256" data-ref-desc="" data-ref-type="ref">Selbstdarstellung</span> im virtuellen Raum. Für mich
+verbergen sich in diesen Komponenten der tiefere Sinn von Virtual Reality (VR), Augmented
 Reality (AR) und Mixed Reality (MR) sowie die Möglichkeit diese fest in den gesellschaftlichen Alltag zu integrieren.</p>
 
       <p>Durch den experimentellen Charakter von WebVR ist das Anliegen für dieses Proposal die Erforschung und Ausreizung der Möglichkeiten jener Technologie.
-Es geht dabei nicht darum ein konkretes, ultimatives Konzept zu definieren, oder VR als das ultimative Medium zu preisen, sondern Rahmenbedingungen zu erzeugen.
+Es geht dabei nicht darum ein konkretes, ultimatives Konzept zu definieren, oder VR als das ultimative Medium zu preisen, sondern Rahmenbedingungen zu
+erzeugen.
 Verschiedene Ansätze werden in kleineren Experimenten getestet. Jedes dieser Experimente enthält Ansätze, welche sich in ihrer Komplexität steigern und
 teilweise umsetzen lassen. Wenn der Komplexitätsgrad für die Umsetzung den zeitlichen Rahmen des Proposals überschreitet, wird zumindestens versucht einen
 schriftlichen Ausblick zu beschreiben. So startet jede Exploration mit einfachen Versuchen und schildert den Prozess von rudimentären Gehversuchen bis hin zu
@@ -132,8 +149,7 @@ komplexeren Strukturen und Aufbauten.</p>
       <ul>
         <li>Was wird benötigt, um ein adäquates WebVR Erlebnis zu erzeugen?
           <ul>
-            <li>Wo ergeben sich etwaig Komplikationen?</li>
-            <li>Warum hat WebVR und MobileVR den Massenmarkt noch nicht erreicht, obwohl es bereits verfügbar ist?</li>
+            <li>Wobei ergeben sich etwaig Komplikationen?</li>
           </ul>
         </li>
         <li>Worin manifestiert sich das Potential von WebVR?</li>
@@ -152,67 +168,72 @@ komplexeren Strukturen und Aufbauten.</p>
       </ul>
 
       <h2>Setup</h2>
-      <p>Für die Erstellung von WebVR Applikationen müssen zunächst die zwei verschiedene Ebenen von Hardware und Software berücksichtigt werden. Ähnlich wie
-im
+      <p>Für die Erstellung von WebVR Applikationen müssen zunächst die zwei verschiedene Ebenen von Hardware und Software berücksichtigt werden. Ähnlich wie im
 Smartphone/Tablet Sektor gibt es bis dato keinen einheitlich anerkannten Software oder Hardware Standard. Jeder Anbieter entwickelt unabhängige Anwendungen,
-welche auf spezifischer Hardware basiert, da sich die Hersteller auf keinen einheitlichen Standard für Hardware Komponenten geeinigt haben. Das heisst es gibt
-unterschiedliche Controller, Sensoren und Anwendungen.</p>
+welche auf ebenso unterschiedlicher Hardware basiert. Hersteller einigen sich primär auf gleiche Komponenten, wie grundlegende Betriebssysteme (OS, Operating
+System) wie beispielsweise Android, oder die Art der bestimmter Schnittstellen wie der USB (Universal Serial Bus) Standard, oder Klinkenstecker. Auch in diesem
+Fall existieren Ausnahmen wie beispielsweise Apple, welche jeden Teil ihrer Hard- und Software personalisieren, oder bestimmte Funktionalitäten durch komplett
+andere Konzepte ersetzen, wie zuletzt das Entfernen des Klinkensteckers. Daraus resultieren unterschiedliche Controller, Sensoren und Anwendungen. In den
+folgenden Abschnitten wird eruiert, welche Komponenten zur Entwicklung genutzt werden.</p>
       <h3>Hardware</h3>
-      <p>Im ersten Schritt die Hardware Ebene in jener eruiert wird für welche Art von Gerät die jeweilige Applikation primär optimiert wird.</p>
-      <p class="o-p--tie">Dies ist vergleichbar mit den Entwicklungen im regulären Webdesign in denen die Art der Webseite das jeweilige Medium definiert. Die
-Herangehensweise des Mobile First Gedankens hat sich dort etabliert, indem Webseiten in der Regel zuerst für das Smartphone angelegt und anschließend auf
-weitere Geräte skaliert werden. Das Smartphone gilt aus Entwicklersicht im Vergleich zu beispielsweise Desktop Rechnern als das Medium mit den niedrigsten
-Spezifikationen in Leistung und Visualisierung. Die Bildschirme sind kleiner, die Rechenleistung ist begrenzter und die Netzwerkverbindung häufig
-schlechter.</p>
-      <p class="o-p--tie">Ebenso gestalten sich WebVR Applikationen im Bezug auf die jeweilige Hardware. Was im Responsive Webdesign durch die
-unterschiedlichen
-Geräte wie Smartphones, Tablets, Notebooks und Desktop Rechner mithilfe von sog. Media Queries unterteilt wird, kategorisiert WebVR durch sog. Input- und
-Immersion Level.</p>
+      <p>Im ersten Schritt wird ermittelt für welche Art von Gerät die jeweilige Applikation primär optimiert wird. Dies ist vergleichbar mit den Entwicklungen
+im regulären Webdesign in denen die Art der Webseite durch das jeweilige primäre Medium definiert wird. Die Herangehensweise des Mobile First Gedankens hat sich
+in diesem Fall weitläufig etabliert, indem Webseiten in der Regel zuerst für das Smartphone optimiert werden und anschließend auf weitere Geräte skaliert
+werden. Das Smartphone gilt aus Entwicklersicht im Vergleich zu beispielsweise Desktop Rechnern als das Medium mit den niedrigsten Spezifikationen in Leistung
+und Visualisierung. Die Bildschirme sind kleiner, die Rechenleistung ist begrenzter und die Netzwerkverbindung häufig schlechter als bei Desktop Computern.
+</p>
+      <p class="o-p--tie">Ebenso gestalten sich WebVR Applikationen im Bezug auf die jeweilige Hardware. Die Vorgabe welche im Responsive Webdesign durch
+unterschiedliche Geräte wie Smartphones, Tablets, Notebooks und Desktop Rechner mithilfe von sog. Media Queries unterteilt wird, kategorisiert WebVR durch sog.
+Input- und Immersion Level, welche die Intensität der Immersion widerspiegeln.</p>
 
       <p>Es existieren drei Input Level bzw. verschiedene Typen von Controllern mit sog. “degrees of freedom” (z.d. Grade der Freiheit / DOF):</p>
       <ol>
-        <li><strong>0 DOF</strong> entspricht Endgeräten welche in ihrer Eingabe nur über Klicken oder Tasten interagieren. Das Sichtfeld ist an diese
-Interaktion gebunden indem der Anwender virtuelle Objekte direkt anschauen muss, um mit ihnen zu interagieren. Dies wird häufig auch als sog. “gaze controller”
-(starrender Controller) referenziert (z.B. Desktop Computer ohne <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>, oder Google Cardboard Anwendungen).</li>
+        <li><strong>0 DOF</strong> entspricht Endgeräten welche in ihrer Eingabe nur über das Klicken oder Tasten auf der zweidimensionalen, physischen
+Eingabefläche interagieren. Das Sichtfeld ist an diese Interaktion gebunden indem der Anwender virtuelle Objekte direkt anschauen muss, um mit ihnen virtuell zu
+interagieren. Dies wird häufig auch als sog. “gaze controller” (starrender Controller) definiert (z.B. Desktop Computer ohne <abbr title="Head Mounted Display,
+z.d. Datenhelm">HMD</abbr>, oder Google Cardboard Anwendungen).</li>
         <li><strong>3 DOF</strong> (nur Orientierung) inkludiert die Nutzung eines Laserpointer ähnlichen Controllers zur Spezifizierung einer bestimmten
 Richtung oder eines Ortes. Die Position des Controllers ist dabei von des Blickrichtung des Nutzers abhängig. Dazu zählt der Google Daydream- sowie der Gear VR
-Controller (z.B. Google Daydream, oder Samsung Gear VR).</li>
+Controller (z.B. Google Daydream, oder Samsung Gear VR). Dies ist vergleichsweise die Maus in virtuellen Umgebungen.</li>
         <li><strong>6 DOF</strong> (Position und Orientierung) ist derzeit der beste Standard bei VR Controllern. Deren Position und Orientierung werden
-unabhängig vom <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> (Head Mounted Display / z.d. Datenhelm) getrackt und empfinden die natürliche Nutzung der Hand, in Form eines Controllers, am effektivsten
-nach (z.B. Oculus Rift, oder HTC Vive).</li>
+unabhängig vom <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> getrackt und empfinden die natürliche Nutzung der Hand, in Form eines Controllers,
+am effektivsten nach (z.B. Oculus Rift, oder HTC Vive).</li>
       </ol>
 
-      <p>Diese stehen in direkter Korrelation mit den Immersion Levels:</p>
+      <p>Die DOF stehen in direkter Korrelation mit den Immersion Levels:</p>
       <ol>
         <li><strong>No VR</strong> stellt die rudimentäre Betrachtung auf einem mobilen oder stationären Bildschirm, ohne Splitscreen dar.</li>
-        <li><strong>Stationary VR</strong> entspricht Geräten mit 3 bzw. 6 DOF.</li>
-        <li><strong>Seated VR</strong> entspricht mit 3 bzw. 6 DOF, bei dem durch das Sitzen eingeschränkte Radien und Winkeln für die Interaktionen
+        <li><strong>Stationary VR</strong> entspricht Geräten mit mindestens 3 DOF.</li>
+        <li><strong>Seated VR</strong> entspricht 3 bzw. 6 DOF, bei dem durch das Sitzen eingeschränkte Radien und Winkel für die jeweilige Interaktion
 entstehen.</li>
-        <li><strong>Room Scale VR</strong> ist ebenfalls 6 DOF allerdings mit der Bewegung ausgeweitet auf den jeweiligen Raum indem sich der Anwender
-befindet.</li>
+        <li><strong>Room Scale VR</strong> entspricht 6 DOF, allerdings mit der Bewegung ausgeweitet auf den jeweiligen Raum bzw. Szenerie indem sich der
+Anwender befindet.</li>
       </ol>
 
-      <p>Die Kategorisierungen sind als Anhaltspunkte zu verstehen die jeweiligen Geräte einzuordnen und ein besseres Verständnis für deren jeweiligen
-Möglichkeiten zu erlangen. Durch den experimentellen Status sind dies jedoch nur ungefähre Einordnungen, welche sich stetig abwandeln können. </p>
-      <p class="o-p--tie">Die Bestrebungen solche Standards zu entwickeln sind allerdings wichtig, um die Entwicklungen voranzutreiben. Nach der Vorstellung
-des
-iPhones und der Popularisierung von Smartphones, wurde im Webdesign erst mit der Einführung von Media Queries eine ausreichende Effektivität erreicht Webseiten
-für mobile Endgeräte zu optimieren. Obwohl stetig neue Smartphones mit verschiedenen Displaygrößen, Auflösungen und weiteren unterschiedlichen Spezifikationen
-erscheinen, existieren bis dato nur eine relativ geringe Anzahl an etablierten Media Queries (z.B. gängig für Tablet Devices -> device-width 768px). Nur diese
-Simplifizierung ermöglicht die zeitnahe Optimierung von Webseiten. Ebenso verhält sich das Themenfeld WebVR indem Einigungen auf bestimmte Standards die Arbeit
-für die jeweiligen Entwickler enorm reduzieren. Die o.g. beispielhaften Standards des DOF zeigen sich z.B. bei der Nachrüstung von Samsungs Gear VR Controller,
-dessen Eingabegerät in seiner Funktionsweise dieselben Spezifikationen besitzt wie der Controller der Google Daydream. Durch solche Normen können WebVR
-Entwickler für beispielsweise 3 DOF Geräte unbedenklich Erlebnisse kreieren in denen die Eingabe und Interaktion sowohl mit GearVR als auch Daydream
-funktionieren. Fehlen jedoch bestimmte Controller Elemente (z.B. Startknopf), führt dies für die Entwickler ggf. zu Problemen und der Suche nach Alternativen,
-worunter ebenfalls die Usability für den Endkonsumenten leidet. Ein adäquater Vergleich sind die Controller der Spielkonsolen Sony Playstation und der
-Microsoft
-XBox. Obwohl beide Controller verschieden sind bedienen sie sich den selben Grundfunktionalitäten und ermöglichen den Nutzern damit einen einfachen Wechsel
-zwischen den unterschiedlichen Medien. Ebenso die Nachrüstung von Touch Controllern bei der Oculus Rift. Diese Controller unterscheiden sich zwar von denen der
-HTC Vive, doch die Grundeigenschaften wie beispielsweise Zustände wie greifen, halten, loslassen, etc. sind dieselben. Aus diesen Gründen sind Standards im
-Hardwarebereich für die positive Entwicklung von VR- und anderen Technologien unerlässlich bzw. überwiegend förderlich.</p>
+      <p>Die Kategorisierungen sind als Anhaltspunkte zu verstehen, um die jeweiligen Geräte einzuordnen und ein besseres Verständnis für deren jeweiligen
+Möglichkeiten zu erlangen. Durch den experimentellen Status sind dies jedoch nur ungefähre Einordnungen, welche sich noch abwandeln können.</p>
+      <p class="o-p--tie">Die Bestrebungen solche Standards zu entwickeln sind allerdings wichtig, um die Entwicklungen voranzutreiben. Nach der Vorstellung des
+iPhones und der Popularisierung von Smartphones, wurde im Webdesign erst mit der Einführung von sog. Media Queries eine ausreichende Effektivität erreicht,
+Webseiten für mobile Endgeräte zu optimieren. Media Queries ermöglichen es dem Entwickler die Webseiten Inhalte (Content) mit bestimmten Parametern an das
+jeweilige Endgerät anzupassen, z.B. durch das Setzen einer bestimmten Bildschirmgröße. Alle visuellen Styles (CSS, Cascading Style Sheet) wirken infolgedessen
+nur auf diesen gewählten Media Query Bereich. </p>
+      <p class="o-p--tie">Obwohl stetig neue Smartphones mit verschiedenen Displaygrößen, Auflösungen und weiteren unterschiedlichen Spezifikationen erscheinen,
+existieren bis dato nur eine relativ geringe Anzahl an etablierten Media Queries (z.B. ist der übliche Media Query für horizontale Ansichten auf Tablet Devices
+eine Bildgröße bis zu 768 Pixeln). Nur diese Simplifizierung ermöglicht die zeitnahe Optimierung von Webseiten. Ebenso verhält sich das Themenfeld WebVR indem
+Einigungen auf bestimmte Standards die Arbeit für die jeweiligen Entwickler enorm simplifizieren. Die o.g. beispielhaften Standards des DOF zeigen sich z.B. bei
+der Nachrüstung von Samsungs Gear VR Controller, dessen Eingabegerät in seiner Funktionsweise dieselben Spezifikationen besitzt wie der Controller von Google
+Daydream. Durch solche Normen können WebVR Entwickler für beispielsweise 3 DOF Geräte unbedenklich Erlebnisse kreieren in denen die Eingabe und Interaktion
+sowohl mit GearVR als auch Daydream potentiell möglich sind. Fehlen jedoch bestimmte Controller Elemente (z.B. Startknopf), führt dies für die Entwickler ggf.
+zu Problemen und der Suche nach Alternativen, worunter ebenfalls die intuitive und einheitliche Bedienbarkeit (Usability) des Endkonsumenten leidet. Ein
+adäquater Vergleich sind die Controller der Spielkonsolen Sony Playstation und Microsoft XBox. Obwohl beide Controller verschieden sind bedienen sie sich den
+selben Grundfunktionalitäten und ermöglichen den Nutzern damit einen einfachen Wechsel zwischen den unterschiedlichen Medien. Ähnlich ist die Nachrüstung von
+Touch Controllern bei der Oculus Rift zu betrachten. Diese Controller unterscheiden sich zwar von denen der HTC Vive, sind in ihren Grundeigenschaften, wie
+beispielsweise greifen, halten, loslassen, etc vergleichbar. Aus diesen Gründen sind Standards im Hardwarebereich für die positive Entwicklung von VR- und
+weiteren Technologien unerlässlich bzw. überwiegend förderlich.</p>
 
-      <p>Zunächst wird dementsprechend der Funktionsumfang entsprechender Hardware analysiert. Zu Testzwecken wurden diverse <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> Brillen aus moderaten
-Preissegmenten erworben und bewertet, mit dem Fokus auf das Potential für den Massenmarkt:</p>
+      <p>Zunächst wird dementsprechend der Funktionsumfang potentieller Hardware analysiert. Zu Testzwecken werden diverse HMD Brillen aus moderaten
+Preissegmenten erworben und bewertet, mit dem Fokus auf die Usability für den <span class="c-ref" data-ref-source-id="258" data-ref-desc=""
+data-ref-type="ref">Massenmarkt:</span></p>
       <table style="width: 100%;">
         <caption class="o-h5">
           <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> Brillen Vergleich
@@ -301,34 +322,31 @@ Brillen von primärem Interesse. Alle weiteren Kriterien haben einen sekundären
 physischen Welt reduziert werden und die Identifikation in und mit der virtuellen Welt gesteigert werden. Immersion stammt aus dem Lateinischen und beschreibt
 das geistige „Eintauchen“ oder Verschmelzen. Desto realistischer die Bewegungsübertragung, geringer die Reaktionszeit (Latenz) sowie die Sicht mittels der
 VR-Headsets dargestellt und vom Nutzer verspürt wird, je höher ist die Immersion. Nahezu alle Faktoren beeinflussen den Grad der Immersion, wobei speziell die
-visuellen Komponenten wie die Bildqualität und das Sichtfeld erheblich sind.</p>
+visuellen Komponenten wie die Bildqualität und das mögliche Sichtfeld, erheblich sind.</p>
       <p class="o-p--tie">Die Qualität des Bildes setzt sich aus der Smartphone Hardware (Auflösung, Pixeldichte, Matrix Art, Displaygröße), den Eigenschaften
 der Brille (Qualität der Linsen, Formfaktor und Positionierung innerhalb der Brille) sowie der Nutzung unterschiedlicher Software und deren Features (native
-Applikation, WebVR, “Low Persistence Technologie”) zusammen. Die Hardware ist in diesem Bezug, sogar auf dem Smartphone Niveau, relativ weit fortgeschritten.
-Die Pixel können zwar selbst bei den besten Geräten noch erkannt werden, doch es erweist sich im Anbetracht auf die bisherige Entwicklung als wahrscheinlich,
-dass sich dies in der näheren Zukunft noch merklich verbessern wird.</p>
+Applikation, WebVR, “Low Persistence Technologie”) zusammen. Die Hardware ist in diesem Bezug, sogar auf Smartphone Niveau, relativ weit fortgeschritten. Die
+Pixel können zwar selbst bei den besten Geräten noch erkannt werden, doch es erweist sich in Anbetracht auf die bisherige Entwicklung als wahrscheinlich, dass
+sich dies in der näheren Zukunft noch merklich verbessern wird.</p>
 
       <p>Das natürliche Blickfeld des Menschen mit Augenbewegungen beträgt ca. 270°. Simple Videobrillen mit einem gewöhnlichen Sichtfeld von ca. 45° sind
 lediglich in der Lage eine große Leinwand in einigen Metern Entfernung vor einem zu simulieren. Die ersten Generationen von VR Brillen starteten mit einem
-diagonalem Sichtfeld von etwa 100°. Diese Sichtfeld, was vergleichbar mit dem Sichtfeld durch eine Taucher- oder Skibrille ist, reicht jedoch völlig aus, um
-die
-Illusion hervorzurufen, man befindet sich in der virtuellen Welt. Wenn man für Computerspiele oder andere VR-Erfahrungen die größtmögliche Immersion haben
-möchte, sollte die VR Brille ein möglichst großes Sichtfeld haben. Hierzu sollten dann jedoch auch die anderen Faktoren nicht vernachlässigt sein.</p>
+diagonalem Sichtfeld von etwa 100°. Dies ist vergleichbar mit dem Blick durch eine Taucher- oder Skibrille, reicht jedoch völlig aus um die Illusion
+hervorzurufen, man befände sich an einem anderen Ort. Um die größtmögliche Immersion zu erzeugen, sollte die VR Brille ein möglichst großes Sichtfeld haben.
+Hierzu sollten dann jedoch auch die anderen Faktoren nicht vernachlässigt werden.</p>
+      <p class="o-p-tie">Wird die Entwicklung von Brillen (speziell den Linsen), Displays und Software weiter vorangetrieben, werden in Zukunft visuelle VR
+Erlebnisse möglich, in denen der Betrachter zwischen physischer und virtueller Realität nicht mehr unterscheiden kann.</p>
 
-      <div class="u-red">hier fehlt inhalt</div>
-
-      <p>Neben den Aspekten des tabellarischen Vergleichs können weitere Eigenschaften untersucht werden, wie beispielsweise die Art der Smartphone
-Befestigung,
+      <p>Neben den Aspekten des tabellarischen Vergleichs können weitere Eigenschaften untersucht werden, wie beispielsweise die Art der Smartphone Befestigung,
 oder die Abschirmung gegen Lichteinflüsse. Diese sind zwar nicht unerheblich, aber nicht ausschlaggebend. In der Gesamtheit fällt auf, dass jedes Gerät
-verschiedene Vorzüge erfüllt, jedoch häufig mindestens einen merkbaren Nachteil beinhaltet. Gear VR, welches in dem Vergleich nicht aufgeführt wird, bietet
+verschiedene Vorzüge bietet, jedoch häufig mindestens einen merkbaren Nachteil aufweist. Gear VR, welches in dem Vergleich nicht aufgeführt wird, bietet
 beispielsweise einen umfassenden Funktionsumfang, speziell nach dem Upgrade durch einen eigenen Controller. Allerdings funktioniert es nur mit Smartphones der
-Marke Samsung und fällt somit aus dem Raster.</p>
-      <p class="o-p--tie">Daydream muss letztendlich nur wegen dem Controller erworben werden, da es neben Gear VR keine Alternativen für den DOF3 Bereich
-gibt,
+Marke Samsung und fällt somit aus dem Raster. VR Brillen müssen tendenziell universal nutzbar sein, ansonsten büßen sie den Vorteil über stationäre VR Geräte
+ein.</p>
+      <p class="o-p--tie">Daydream muss letztendlich nur wegen dem Controller erworben werden, da es neben Gear VR keine Alternativen für den DOF3 Bereich gibt,
 außer eine Controller Emulation auf einem weiteren Smartphone zu erzeugen. Es ist allerdings möglich andere Brillen mit dem Daydream Controller zu nutzen. So
 eindrucksvoll die visuelle Darstellung von Virtual Reality Projekten bei der ersten Nutzung sind, so erfordert ein anhaltendes, positives Nutzererlebnis eine
-Interaktionsmöglichkeit mit der jeweiligen Applikation. Somit gilt Daydream als das Produkt der Wahl, kann jedoch durch eine Brille mit persönlichen
-Präferenzen
+Interaktionsmöglichkeit mit der jeweiligen Applikation. Somit gilt Daydream als das Produkt der Wahl, kann jedoch durch eine Brille mit persönlichen Präferenzen
 gekoppelt werden.</p>
 
       <p>Die nächste Komponente für Mobile VR ist das jeweilige Smartphone. Da die Nutzung von Daydream nach der Brillen Auswertung als obligatorisch gesetzt
@@ -427,17 +445,17 @@ wird, muss das ausgewählte Smartphone den Daydream- und Android 7.1 Nougat Spez
         </tbody>
       </table>
 
-      <p>Es zeigt sich, dass das Axon 7 von ZTE erstaunliche Werte hervorbringt und sich deutlich von seinen Konkurrenten abhebt, vor allem preislich. Mobile
-VR
-erreicht damit einen größeren potentiellen Nutzerkreis, welcher sich sofern die Technologie relevant bleibt, in den nächsten Monaten durch die Eigenschaften
-des
-Mooreschen Gesetzes erweitern wird. </p>
+      <p>Es zeigt sich, dass das Axon 7 von ZTE erstaunliche Werte hervorbringt und sich deutlich von seinen Konkurrenten abhebt, vor allem preislich. Mobile VR
+erreicht damit einen größeren potentiellen Nutzerkreis, welcher sich sofern die Technologie relevant bleibt, in den nächsten Monaten durch die Eigenschaften des
+Mooreschen Gesetzes erweitern wird.</p>
 
       <p>Für einen empirischen Gesamtpreis von 430€ wird Mobile VR auf dem zeitgeistlich besten Standard möglich (Reduktion um über 50% im Vergleich zu den
 verfügbaren Google Pixel Geräten). Dabei hat der Nutzer den Mehrwert eines leistungsstarken Smartphones für die Anwendung in anderen Bereichen. Beim Kauf eines
-stationären Gerätes riskiert der Anwender ggf. den Verlust von Interesse nach kurzer Zeit ohne weitere Anwendungsmöglichkeit. Bei dem Kauf einer HTC Vive oder
-Oculus Rift liegt der Preis für diese Geräte zuzüglich der entsprechenden Hardware zwischen 1200-1500€. Damit ist der Gesamtpreis gegenüber einem Vergleich von
-2016 bereits deutlich gesunken, welches sich voraussichtlich auch weiterhin abzeichnen wird. Auch Oculus hat seine Preise für die Rift bereits gesenkt.
+stationären VR Gerätes riskiert der Käufer ggf. den Verlust von Interesse nach kurzer Zeit, ohne eine weitere Möglichkeit der Nutzung. Bei dem Kauf einer HTC
+Vive oder Oculus Rift liegt der Preis für diese Geräte zuzüglich der entsprechenden Hardware zwischen 1200-1500€. Damit ist der Gesamtpreis gegenüber einem
+Vergleich von 2016 in seiner Gesamtheit bereits deutlich gesunken und speziell im Mobile VR Bereich, welches sich voraussichtlich auch weiterhin abzeichnen
+wird. Auch Oculus hat seine Preise für die Rift zwischenzeitlich gesenkt. Apple ist bis jetzt der einzige größere Tech-Konzern ohne öffentliche Teilnahme am VR
+Geschehen.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -446,12 +464,11 @@ Oculus Rift liegt der Preis für diese Geräte zuzüglich der entsprechenden Har
             </span>
             <span class="c-note-side">
               <span class="c-note-side__content">
-                <strong class="c-note-side__headline">ZTE´s Daydream Pleite</strong>
+                <strong class="c-note-side__headline">ZTE´s leere Versprechen</strong>
                 <span class="c-note-side__text">Der Kauf des ZTE Axon 7 stellte sich zeitweilig als verfrüht heraus, da das Axon 7 zwar von Google als Daydream
 fähiges Smartphone verifiziert ist, jedoch noch kein lauffähiges Nougat 7.1 Update vom Hersteller freigegeben wurde (Stand 17.03.2017). Um das Smartphone
 dennoch zu nutzen, wurde es mit LineageOS (Drittanbieter Software) und funktionierendem Android 7.1.1 Nougat geflasht, welches ein unkonventioneller Weg ist,
-bei dem Garantie erlischt. Der einzige Vorteil liegt darin Daydream vor dem Großteil der anderen Axon 7 Anwendern zu nutzen und bereits Erfahrungen zu
-sammeln.</span>
+bei dem die Garantie des Gerätes erlischt. Der einzige Vorteil ist die Nutzung von Daydream vor dem Großteil der anderen Axon 7 Anwender.</span>
               </span>
             </span>
           </span>
@@ -459,38 +476,49 @@ sammeln.</span>
 
       </p>
       <p class="o-p--tie">Aus der Hardware Analyse ergeben sich zusammengefasst mehrere wichtige Erkenntnisse. In Anbetracht der aktuellen Entwicklungen sollte
-spätestens gegen Ende des Jahres 2017 Mobile VR Hardware den Massenmarkt erreicht haben. Des Weiteren ist der Preis für stationäre VR Erlebnisse zwar
-reduziert,
-bleibt dennoch vergleichsweise teuer. Die Mobile VR Alternativen bieten dabei in Anbetracht der visuellen Immersion bereits annähernd ähnliche Erlebnisse.
-Zusätzlich fördert die Modularität von Mobile VR (Brille, Controller, Smartphone) die Flexibilität und unabhängige Weiterentwicklung der Mobile VR Komponenten
-gegenüber den stationären Geräten. Jeder Teil kann individuell ersetzt werden, sofern dieser den essentiellen Spezifikationen der jeweiligen Kategorie
-entspricht. Der Nachteil von Mobile VR manifestiert sich in der geringeren Rechenleistung gegenüber stationären Geräten sowie der aktuell mangelhaften
+spätestens gegen Ende des Jahres 2017 Mobile VR Hardware den Massenmarkt erreicht haben. Des Weiteren ist der Preis für stationäre VR Erlebnisse zwar reduziert,
+bleibt dennoch vergleichsweise teuer. Die Mobile VR Alternativen bieten dabei, bezogen auf die visuelle Immersion, bereits annähernd ähnliche Erlebnisse.
+Zusätzlich fördert die Modularität von Mobile VR (Brille, Controller, Smartphone) die Flexibilität und unabhängige Weiterentwicklung der einzelnen Mobile VR
+Komponenten gegenüber den stationären Geräten. Jeder Teil kann individuell ersetzt werden, sofern dieser den essentiellen Spezifikationen der jeweiligen
+Kategorie entspricht. Der Nachteil von Mobile VR manifestiert sich in der geringeren Rechenleistung gegenüber stationären Geräten sowie der aktuell mangelhaften
 Beteiligung des Massenmarktes. Zum einen begründet sich dies in der einstweilig teuren Hardware, welches sich in der näheren Zukunft ändern könnte. Inwiefern
-dies ebenfalls an dem Mangel konkreter Anwendungsgebiete bzw. der zugehörigen Software liegen könnte wird im nächsten Abschnitt unter anderem eruiert.</p>
+dies ebenfalls an dem Mangel konkreter Anwendungsgebiete bzw. zugehöriger Software liegen könnte wird unter anderem im nächsten Abschnitt eruiert.</p>
 
       <h3>Software</h3>
 
       <p>Die Software Ebene beschäftigt sich zum einen mit den Besonderheiten und Anwendungen kreativer Prozesse und zum anderen mit den jeweiligen Plattformen
-auf denen Virtual Reality Erlebnisse zur Verfügung gestellt werden können. Diese Themenfelder verschwimmen etwaig untereinander (siehe Einleitung Setup). Der
-reguläre Weg die Systeme Daydream, Cardboard, Rift, Vive, Playstation VR, usw. zu nutzen, besteht in der Nutzung spezifischer Applikationen oder Programme wie
-Steam, Daydream VR, Cardboard VR, Gear VR App, uvm.</p>
+auf deren Basis Virtual Reality Erlebnisse entwickelt und zur Verfügung gestellt werden können. Diese Themenfelder verschwimmen etwaig untereinander (siehe
+Setup). Der reguläre Weg die Systeme Daydream, Cardboard, Rift, Vive, Playstation VR, usw. zu nutzen, besteht in der Nutzung spezifischer Applikationen oder
+Programme wie Steam, Daydream App, Cardboard App, Gear VR App, uvm.</p>
 
-      <div class="u-red">Hier fehlt Inhalt (native apps vs webVR / unterschiede / warum webvr nochmal kurz)</div>
+      <p class="o-p--tie">Die reguläre Methode Programme auf dem Smartphone zu nutzen besteht in der Nutzung durch Apps (Applikationen). Diese werden aus
+bestimmten vorinstallierten Plattformen und je nach Gerät beispielsweise aus dem Google Play Store, oder dem Apple App Store bezogen. Es gibt eine große Anzahl
+von verfügbaren Apps von verschiedenen Anbietern. Der Vorteil von nativen Apps liegt darin, dass sie unmittelbar auf die Hardware des  jeweiligen Gerätes
+zugreifen können, wohingegen sog. Web Applikationen häufig, keinen Zugriff auf die nativen Ressourcen der Geräte haben. Dieser Trend ist allerdings im Wandel,
+indem Web Apps immer häufiger Teile der Hardware nutzen können, wie beispielsweise Kamera, Mikrofon, usw. Der Nachteil an nativen Apps ist, dass wie o.g. jedes
+Gerät bzw. Unternehmen seine eigene App anbietet. Somit teilt sich der ohnehin kleine Markt auf verschiedene Anbieter auf, welches die Integration von VR
+erschwert. Durch diesen Umstand sind Unternehmen wie Samsung in der Lage Kunden an ihre Geräte zu binden, da es keine alternativen Geräte oder Anwendungen für
+Gear VR gibt.</p>
+      <p class="o-p--tie">An dieser Stelle tritt WebVR auf den Plan, welches alle positiven Eigenschaften des Internets in sich vereint. Durch WebVR können
+Funktionalitäten frei erstellt werden und sind nicht an das Ecosystem eines einzelnen Unternehmens gebunden. Der Standard wird wie alle weiteren Web Standards
+von mehreren Mitgliedern gemeinsam definiert. Dadurch wird es zu einer selbstorganisierten, unabhängigen Technologie, über die jeder verfügen kann. Der einzige
+Nachteil in Web Apps liegt darin, dass sie bis jetzt noch nicht das volle Potential der Hardware ausschöpfen können. Speziell bei Hardware lastigen Funktionen
+wie die stereoskopische Darstellung von 3D Objekten, kann dieser Umstand limitierende Auswirkungen haben, zudem ist der WebVR Stand aktuell noch in der
+Betaphase und könnte noch viele Fehler enthalten.</p>
+      <p class="o-p--tie">Um dem Angebot an vielen verschiedenen Devices und deren Softwares mächtig zu werden, wurde 2017 der Open XR Standard geschaffen, um
+eine Einigung auf bestimmte Best Practices herbeiführen und die Arbeit für die End-Entwickler zu vereinfachen.</p>
 
-      <p>Aufgrund der vielen verschiedenen Devices und deren Softwares wurde 2017 der Open XR Standard geschaffen, um eine Einigung auf bestimmte Best
-Practices
-herbeiführen und die Arbeit für die End-Entwickler zu vereinfachen. </p>
-
-      <img src="./assets/img/rasierklingen.gif" alt=""/>
+      <img src="./assets/img/openxr-1.jpg" alt=""/>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Aktueller Interaktion zwischen Soft- und Hardware "
-data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Aktuelle Schnittstellen Interaktion " data-ref-hide></span>
         </div>
       </div>
 
-      <img src="./assets/img/rasierklingen.gif" alt=""/>
+      <p></p><!--hotfix -->
+
+      <img src="./assets/img/openxr-2.jpg" alt=""/>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
@@ -499,22 +527,23 @@ data-ref-hide></span>
       </div>
 
       <p>Bis zur Etablierung dieses Standards ist WebVR in diesem Kontext ebenfalls förderlich, weil es zumindestens auf der Software Ebene eine einheitliche
-Entwicklung ermöglicht, welche sich wiederum auf verschiedene Plattformen und digitale Werkzeuge verteilt. Einige dieser Tools werden im folgenden Abschnitt
-vorgestellt, um einen Einblick in die verschiedenen Herangehensweisen zur Entwicklung von VR Erlebnissen zu erläutern.</p>
+Entwicklung ermöglicht, welche sich je nach persönlichen Präferenzen wiederum auf verschiedene Plattformen und digitale Werkzeuge verteilt. Einige dieser Tools
+werden im folgenden Abschnitt vorgestellt, um einen Einblick in die verschiedenen Herangehensweisen zur Entwicklung von VR Erlebnissen zu erläutern. </p>
 
       <h4>Unity</h4>
-      <p>Die erste Möglichkeit besteht darin etablierte Desktop Tools aus der Gaming Industrie wie beispielsweise Unity (gleichzeitig Programm und Engine),
-oder
+      <p>Die erste Möglichkeit besteht darin etablierte Desktop Tools aus der Gaming Industrie wie beispielsweise Unity (gleichzeitig Programm und Engine), oder
 die Hilfsmittel der Unreal Engine zu nutzen. Unity ist in seiner Grundversion für Einsteiger kostenlos und bereits seit 2005 auf dem Markt. Kommerziell
-erfolgreiche Spiele wie Hearthstone von Blizzard Entertainment, Endless Space von Amplitude Studios, oder Rust von Facepunch Studios basieren auf der beliebten
-Engine. Der Vorteil von Unity ist neben der größe der Community, der Flexibilität in den Anwendungsbereichen und der jahrelangen Optimierung der Kernsoftware
-vor allem die graphische Benutzeroberfläche. Unity verbindet damit Programmierer und Designer wie kaum ein anderes Tool. Auch bei sog. Hackathons wie dem
-Global Game Jam ist Unity häufig das primäre Werkzeug. Bildungseinrichtungen und deren Studenten wie z.B. die Köln International School of Design, oder das
-Cologne Game Lab realisieren ihre Projekte ebenfalls häufig mit eben diesen Engine Editoren wie Unity oder denen der Unreal Engine. Diese sind in der Regel
-dafür konzipiert, ein bündiges Gesamtpaket auszuliefern d.h. ein Spiel, eine Applikation, welche zwar an APIs angebunden werden kann, jedoch in seiner
-Gesamtheit über statische Inhalte und Assets verfügt. Für Mobile VR (z.B. Cardboard) Applikationen eignet sich Unity optimal, da diese als App auf den
-jeweiligen Smartphones als fertige Pakete genutzt werden können und sich einfach über beispielsweise die Plattformen Google Play und den Apple Store
-distribuieren lassen.</p>
+erfolgreiche Spiele wie Hearthstone von Blizzard, Endless Space von Amplitude Studios, oder Rust von Facepunch Studios basieren auf der beliebten Engine. Der
+Vorteil von Unity ist neben der Größe der Community, der Flexibilität in den Anwendungsbereichen und der jahrelangen Optimierung der Kernsoftware, vor allem die
+grafische Benutzeroberfläche. Unity verbindet damit Programmierer und Designer wie kaum ein anderes Tool. Auch bei sog. Hackathons wie dem Global Game Jam ist
+Unity häufig das primäre Werkzeug. Bildungseinrichtungen und deren Studenten wie z.B. die Köln International School of Design, oder das Cologne Game Lab
+realisieren ihre Projekte ebenfalls häufig mit eben diesen Engine Editoren wie Unity oder denen der Unreal Engine. Diese sind in der Regel dafür konzipiert, ein
+bündiges Gesamtpaket auszuliefern d.h. ein Spiel, eine Applikation, welche zwar an APIs angebunden werden kann, jedoch in seiner Gesamtheit über statische
+Inhalte und Assets verfügt. Für Mobile VR Applikationen (z.B. Cardboard) eignet sich Unity optimal, da diese als App auf den jeweiligen Smartphones als fertige
+Pakete genutzt werden können und sich einfach über beispielsweise die Plattformen Google Play und den Apple Store distribuieren lassen. Aufgrund der o.g.
+Eigenschaften von WebVR ist es zwar möglich WebVR Applikationen in Unity zu entwickeln, jedoch nicht empfehlenswert, sofern Hintergrundwissen primär aus der
+Webentwicklung, anstatt dem Game Development vorhanden ist.
+</p>
 
       <ul>
         <li>Webseite</li>
@@ -538,10 +567,10 @@ distribuieren lassen.</p>
 
             <h5>Hindernisse</h5>
             <ul>
-              <li>JavaScript ist nicht die Primärsprache</li>
+              <li>Kein klassisches JavaScript</li>
               <li>Kein natives WebVR (Export möglich)</li>
               <li>Keine native Anbindung von Web APIs</li>
-              <li>Unity verpackt seine Anwendungen in geschlossenen Bundles und <i>erschwert</i> damit die Anbindung an weitere Web Elemente</li>
+              <li>Unity verpackt seine Anwendungen in geschlossenen Bundles und erschwert damit die Anbindung an weitere Web Elemente</li>
             </ul>
 
           </div>
@@ -551,13 +580,12 @@ distribuieren lassen.</p>
       <h4>Native Websprachen</h4>
       <p>Ein gegensätzlicher, puristischer Ansatz besteht in der Nutzung von nativem JavaScript, HTML, CSS, WebGL und der bekannten JavaScript 3D Library
 Three.js. Anders als bei Unity muss in nativen Websprachen jegliche Funktionalität weitgehend eigenständig erstellt werden. Ein Problem beim Erstellen von 3D
-Anwendungen besteht in dem ständigen Testen dieser Umgebungen. Bei Unity oder ähnlichen Anwendungen existieren Preview Ansichten für die Render Prozesse,
-welche
+Anwendungen besteht in dem ständigen Testen dieser Umgebungen. Bei Unity oder ähnlichen Anwendungen existieren Preview Ansichten für die Render Prozesse, welche
 in nativen Programmierumgebungen ebenfalls eigenständig angelegt werden müssen. Die Dokumentation des Arbeitsprozesses gestaltet sich zusätzlich schwierig,
 speziell wenn mehrere Entwickler am selben Projekt arbeiten. Zu fertigen Code Fragmenten prominenter Libraries existieren in der Regel bereits ausführliche
 Dokumentationen und werden durch die größere Nutzerschaft häufig im Peer Review Verfahren auf ihre Funktionalität gegengeprüft. Zusammengefasst kann dieser
 Ansatz die persönlichen Erfahrungen enorm schärfen, sind aber zeitlich meistens so aufwändig, dass anfänglich enthusiastische Projekte mit der Zeit nicht mehr
-weiter gepflegt werden, weil größere Unternehmungen mit größerer Reichweite den angestrebten Funktionsumfang schneller erfüllen können und häufig
+weiter gepflegt werden, weil größere Unternehmungen mit entsprechender Reichweite den angestrebten Funktionsumfang schneller erfüllen können und häufig sogar
 übertreffen.</p>
 
       <ul>
@@ -592,11 +620,11 @@ weiter gepflegt werden, weil größere Unternehmungen mit größerer Reichweite 
 
       <h4>Aframe</h4>
       <p>Eine Weiterentwicklung von der nativen Herangehensweise ist die Entwicklung von WebVR Applikationen mithilfe des leistungsstarken Virtual Reality
-Frameworks Aframe von Mozilla. Es wird von der WebVR Community gepflegt. Aframe stellt ähnlich wie jQuery für die vereinfachte Manipulation von JavaScript,
-Funktionalitäten zur Erzeugung von artifiziellen Realitäten zur Verfügung. Dabei basiert es auf Three.js, verfügt aber im Gegensatz dazu bereits über fertige
-Komponenten und beschleunigt, damit den Arbeitsprozess. Die einzelnen Komponenten können direkt über HTML eingefügt werden und durch Daten Attribute
-manipuliert
-werden. Erweiterungen oder die Kreation eigener Komponenten ist mithilfe von JavaScript möglich.</p>
+Frameworks Aframe von Mozilla. Es wird von der WebVR Community und einem eigenständigen Team von Mozilla gepflegt. Aframe stellt ähnlich wie jQuery für die
+vereinfachte Manipulation von JavaScript, Funktionalitäten zur Erzeugung von artifiziellen Realitäten zur Verfügung. Dabei basiert es auf Three.js, verfügt aber
+im Gegensatz dazu bereits über fertige Komponenten und beschleunigt, damit den Arbeitsprozess. Die einzelnen Komponenten können direkt über HTML eingefügt
+werden und durch Daten Attribute manipuliert werden. Erweiterungen oder die Kreation eigener Komponenten ist mithilfe von JavaScript möglich. Zusätzlich
+existieren bereits einige Beispiele, welche den Funktionsumfang von WebVR simplifiziert, dennoch eindrucksvoll darstellen.</p>
 
       <ul>
         <li>Webseite</li>
@@ -633,21 +661,17 @@ werden. Erweiterungen oder die Kreation eigener Komponenten ist mithilfe von Jav
 
       <h4>Cables</h4>
       <p>Durch die Arbeit bei der Agentur Dunckelfeld konnten persönliche Kontakte zu den Entwicklern von undev hergestellt werden. In einem internen,
-minimalistischen Workshop präsentiert Thomas Kombüchen Ende 2016 den aktuellen Stand ihrer entwickelten Cables Plattform und dessen Möglichkeiten. Cables
-greift
+minimalistischen Workshop präsentiert Thomas Kombüchen Ende 2016 den aktuellen Stand ihrer entwickelten Cables Plattform und dessen Möglichkeiten. Cables greift
 ähnlich wie Aframe auf die Technologien WebGL und Three.js zurück. Anders als Aframe bietet Cables jedoch eine grafische Oberfläche und nutzt den Browser als
-direkte Schnittstelle für kreative Prozesse. Der Vorteil für Designer liegt dabei in der grafischen Benutzeroberfläche bei der verschiedene Knotenpunkte
-(Nodes)
+direkte Schnittstelle für kreative Prozesse. Der Vorteil für Designer liegt dabei in der grafischen Benutzeroberfläche bei der verschiedene Knotenpunkte (Nodes)
 interaktiv verbunden werden können, um Ergebnisse zu kreieren. Jeglicher mögliche Eingabewert kann manipuliert werden und Projekte werden frei skalierbar. Dies
-beschleunigt die Arbeit gegenüber nativer Three.js manipulation erheblich und erfordert weniger Programmierkenntnisse. Programmierer können vorhandene Nodes
-editieren oder eigene erstellen, um sie den Anforderungen ihrer Applikation zu optimieren, ähnlich wie in Unity. Cables ist ein universelles Werkzeug, welches
-für audiovisuelle Projekte genutzt werden kann. So wird beispielsweise neben der Kreation von Webprojekten ebenfalls die Ansteuerung von physischen
-Programmierschnittstellen wie Arduino, Lichtquellen, Beamern usw. möglich. Zur Zeit wird Cables hauptsächlich genutzt, um Web Erlebnisse mit WebGL zu erzeugen
-und repetitive Arbeitsprozesse zu beschleunigen. Zur Zeit sind die WebVR Komponenten noch in der frühen Entwicklungsphase (jedoch bereits implementiert), es
-ist
-ggf. trotzdem sinnvoll dieses Projekt an dieser Stelle zu erwähnen, da es sehr viel Potential beinhaltet und sich in den nächsten Jahren zu einem wichtigen
-Tool
-entwickeln könnte.</p>
+beschleunigt die Arbeit gegenüber nativer Three.js Kreationen erheblich und erfordert weniger Programmierkenntnisse. Developer können vorhandene Nodes
+(Knotenpunkte) editieren oder eigene erstellen, um sie für die Anforderungen ihrer Applikation zu optimieren, ähnlich wie bei Unity. Cables ist ein universelles
+Werkzeug, welches für audiovisuelle Projekte genutzt werden kann. So wird beispielsweise neben der Kreation von Webprojekten ebenfalls die Ansteuerung von
+physischen Programmierschnittstellen wie Arduino, Lichtquellen, Beamern usw. möglich. Zur Zeit wird Cables hauptsächlich genutzt, um Web Erlebnisse mit WebGL zu
+erzeugen und repetitive Arbeitsprozesse zu beschleunigen. Aktuell sind die Cables WebVR Komponenten noch in der frühen Entwicklungsphase (jedoch bereits
+implementiert). Es ist ggf. trotzdem sinnvoll dieses Projekt an dieser Stelle zu erwähnen, da es sehr viel Potential beinhaltet und sich in den nächsten Jahren
+zu einem populären Tool entwickeln könnte. </p>
 
       <ul>
         <li>Webseite</li>
@@ -661,7 +685,7 @@ entwickeln könnte.</p>
 
             <h5>Chancen</h5>
             <ul>
-              <li>Universelles Werkzeug dessen Beherrschung weitere Themenfelder speziell für Designer eröffnet</li>
+              <li>Universelles Werkzeug dessen Beherrschung weitere Einsatzgebiete, speziell für Designer, eröffnet</li>
               <li>JavaScript und Web basierend und somit universell erweiterbar</li>
               <li>Keine Installation von Software nötig und somit Device unabhängig</li>
             </ul>
@@ -684,13 +708,13 @@ entwickeln könnte.</p>
 
       <h4>PlayCanvas</h4>
       <p>Als letztes wird das Werkzeug PlayCanvas vorgestellt, welches die besten Eigenschaften aller bisher vorgestellten Anwendungen in sich vereint. Die
-Webapplikation vereint die Vorzüge der grafischen Oberfläche von Unity, nutzt jedoch objektorientiertes JavaScript und weitere Websprachen anstatt eine eigene
-Programmierung, wodurch die Anbindung weiterer Web Funktionalitäten vereinfacht wird. Die Größe der Community sowie die verfügbaren Instruktionen sind noch
-nicht so populär wie jene von Unity, befinden sich jedoch in der positiven Entwicklung. Die Benutzeroberfläche vereint Elemente von Unity, Photoshop und Cinema
-4D in sich und ermöglicht dem Entwickler durch direkte WYSIWYG Manipulationen das jeweilige Projekt zu editieren. Ein weiterer Vorteil für die Entwicklung von
-WebVR und die Kollaboration mit weiteren Teammitgliedern manifestiert sich in der direkten Freigabe des Projektes im Webbrowser sowie der Möglichkeit
-Teammitglieder in Projekte einzuladen. Weitere Technologien und Scripte zur Optimierung der jeweiligen Szenerie, ähnlich wie bei Unity, sind bereits in der
-Software enthalten.</p>
+Webapplikation beinhaltet die Vorzüge der grafischen Oberfläche von Unity, nutzt jedoch objektorientiertes JavaScript und weitere Websprachen anstatt eine
+eigene Programmierung, wodurch die Anbindung weiterer Web Funktionalitäten vereinfacht wird. Die Größe der Community sowie die verfügbaren Instruktionen sind
+noch nicht so populär wie jene von Unity, befinden sich jedoch in einer exponentiellen Wachstumsphase. Die Benutzeroberfläche vereint Elemente von Unity,
+Photoshop und Cinema 4D in sich und ermöglicht dem Entwickler durch direkte WYSIWYG Manipulationen das jeweilige Projekt zu editieren. Ein weiterer Vorteil für
+die Entwicklung von WebVR und die Kollaboration mit weiteren Teammitgliedern manifestiert sich in der direkten Freigabe des jeweiligen Projektes im Webbrowser
+sowie der Möglichkeit Teammitglieder in Projekte einzuladen. Weitere Technologien und Scripte zur Optimierung der jeweiligen Szenerie, ähnlich wie bei Unity,
+sind bereits in der Software enthalten.</p>
 
       <ul>
         <li>Webseite</li>
@@ -712,27 +736,42 @@ Software enthalten.</p>
 
             <h5>Hindernisse</h5>
             <ul>
-              <li>PlayCanvas hostet seine Projekte intern und erfordert eine kostenpflichtige Mitgliedschaft für die externe Nutzung, die Entfernung des
-firmeneigenen Brandings und fortgeschrittene Funktionalitäten</li>
+              <li>PlayCanvas hostet seine Projekte intern und erfordert eine kostenpflichtige Mitgliedschaft für die externe Nutzung, die Entfernung des firmeneigenen Brandings und fortgeschrittene Funktionalitäten</li>
               <li>Durch die primäre Nutzung des Web Mediums sind ggf. nicht alle nativen Funktionen der jeweiligen Endgeräte unmittelbar nutzbar</li>
+              <li>200 Mb Speicher Limitierung für kostenlose Accounts</li>
+              <li>Keine privaten Projekte für kostenlose Accounts</li>
             </ul>
 
           </div>
         </div>
       </div>
 
+      <h3>Das Designer != Programmierer Dilemma</h3>
+      <p>Wie nahezu jeder fortgeschrittene KISD Student aus empirischen Erfahrungen weiss, wird ab einem bestimmten Niveau, in der Umsetzung von Interface- und
+audiovisuellen Konzepten eine Schwierigkeitsstufe erreicht, welche nur durch die Nutzung von ausreichenden Programmierkenntnissen überwunden werden kann. Das
+D!=P Dilemma bezeichnet dabei die Vorstellungen des Designers und die Möglichkeiten bzw. (zeitlichen) Rahmenbedingungen diese zu realisieren, welche häufig
+durch Programmierer relativ präzise abgesteckt werden können. Im Themenbereich Webdesign, App Entwicklung, oder Produktdesign kann dies durch die Nutzung von
+MockUp Tools (z.B. Marvel App), Animationen, oder Renderings überbrückt werden. Bei der Entwicklung von Virtual Reality Erlebnissen ist dies nicht mehr möglich,
+weil das Gefühl der Immersion auf die bewertende Person (z.B. Anwender, Kunde) übertragen werden muss. Um nachhaltige VR Erlebnisse zu kreieren, welche
+eindrucksvolle Erlebnisse erzeugen wird dementsprechend entweder ein Team, oder tendenziell mehr Zeit benötigt, um erste effektive Prototypen zu erzeugen.
+Obwohl Tools wie PlayCanvas vorteilhaft für einen ersten guten Einblick in das Themengebiet sind, so erfordern in fortgeschrittenen Applikationen selbst einfach
+wirkende Prozesse und Abläufe unter Umständen die Expertise eines fortgeschrittenen Entwicklers. Das Dilemma beschreibt dabei die subjektive Erfahrung beide
+Rollen gleichzeitig ausreichend erfüllen zu wollen und gleichzeitig das höchste Level der jeweiligen Disziplin zu erreichen. Dies ist eventuell in Sonderfällen
+möglich, jedoch in der Regel unwahrscheinlich. Aus diesem Grund sind speziell Werkzeuge wie Unity und PlayCanvas eine gute Möglichkeit für Designer ihre
+Vorstellungen, zumindestens als vereinfachte Prototypen, adäquat umzusetzen. In letzter Instanz jedoch führt kein Weg an dem Erlernen von Scriptsprachen bis zu
+einem bestimmten Niveau wie beispielsweise JavaScript, oder die Arbeit in einem Team mit geteilten Arbeitsprozessen, vorbei.</p>
+
       <p>Für die zukünftige WebVR Entwicklung werden zusammengefasst folgende, elementare Parameter gesetzt:</p>
       <ol>
-        <li>Applikationen werden primär für 3 DOF kreiert und erhalten nach Möglichkeit einen Fallback für 0 DOF User Experiences nach dem Vorbild von
-Responsive Webdesign.</li>
-        <li>Die Eingabeschnittstelle muss entweder über eine Interaktionstaste (Minimalanforderung), oder einen zugehörigen Controller mit Google Daydream
-Spezifikationen verfügen (optimal).</li>
-        <li>Das zugehörige Smartphone muss im Optimalfall den Daydream Spezifikationen entsprechen und die Anwendung in ausreichender Qualität darstellen
-können.</li>
-        <li>Als Entwicklungssoftware wird primär PlayCanvas genutzt, es können jedoch im weiteren Verlauf weitere Tools wie Aframe oder Cables verwendet
-werden.
+        <li>Applikationen werden primär für 3 DOF kreiert und erhalten nach Möglichkeit einen Fallback für 0 DOF und 6 DOF User Experiences nach dem Vorbild von
+Responsive Webdesign.
+</li>
+        <li>Die Eingabeschnittstelle sollte dementsprechend über einen zugehörigen Controller mit Google Daydream Spezifikationen verfügen.</li>
+        <li>Das zugehörige Smartphone sollte den Daydream Spezifikationen entsprechen, um die Anwendung in ausreichender Qualität darstellen können.
+</li>
+        <li>Als Entwicklungssoftware wird primär PlayCanvas genutzt, es können jedoch im weiteren Verlauf weitere Tools wie Aframe oder Cables verwendet werden.
 Von einer Entwicklung in nativer Umsetzung wird abgesehen.</li>
-        <li>Die Programmiersprache der Wahl ist JavaScript.</li>
+        <li>Die Programmiersprache ist objektorientiertes JavaScript.</li>
       </ol>
 
       <h2>Experimente</h2>
@@ -740,25 +779,34 @@ Von einer Entwicklung in nativer Umsetzung wird abgesehen.</li>
 ersten Antesten von PlayCanvas zeigen sich zwei Möglichkeiten zur Präsentation des WebVR Mediums auf. Entweder eine strukturierte Planung und Konzeption welche
 nach und nach abgearbeitet wird, oder ein agiler Prozess indem auf etwaige Veränderungen sofort reagiert wird und die Entwicklung prototypisch verfolgt wird.
 Die Probleme bei der strukturierten Planung ist die Variable der etwaigen, technischen Komplexität des angestrebten Konzepts. Anfangs wurde versucht bestimmte
-Vorstellungen umzusetzen, welches den Entwicklungsprozess entscheidend verlangsamte. Bestimmte Prinzipien der agilen Entwicklung, welche sich auch in der
+Vorstellungen umzusetzen, welche den Entwicklungsprozess entscheidend verlangsamten. Bestimmte Prinzipien der agilen Entwicklung, welche sich auch in der
 Softwarebranche als immer beliebter abzeichnet (z.B. durch die Nutzung von Scrum), werden daher zur Entwicklung genutzt. Anders als im ersten Anlauf wird nun
-versucht eine virtuelle Welt zu erzeugen welche sich in einzelnen Schritten, in einem organischen Prozess durch Funktionalitäten erweitert wird. Diese
-Fortschritte werden in einem sog. Development Log dokumentiert und mit den jeweiligen Ressourcen zu den jeweiligen Entscheidungen ergänzt. Im Vordergrund der
-agilen Entwicklung stehen vier Grundregeln wovon speziell drei entscheidend sind:</p>
+versucht eine virtuelle Welt zu erzeugen, welche sich in einzelnen Schritten, in einem organischen Prozess durch Funktionalitäten erweitert. Diese Fortschritte
+werden in einem sog. Development Log dokumentiert und mit den jeweiligen Ressourcen zu den jeweiligen Entscheidungen ergänzt. Im Vordergrund der agilen
+Entwicklung stehen vier Grundregeln wovon speziell drei entscheidend sind:</p>
 
-      <ol>
-        <li><strong>Individuals and interactions over processes and tools</strong></li>
-        <li><strong>Working software over comprehensive documentation</strong></li>
-        <li>Customer collaboration over contract negotiation</li>
-        <li><strong>Responding to change over following a plan </strong></li>
-      </ol>
-
-      <p>That is, while there is value in the items on the right, we value the items on the left more.</p>
+      <blockquote>
+        <ul>
+          <li><strong>Individuals and interactions over processes and tools</strong></li>
+          <li><strong>Working software over comprehensive documentation</strong></li>
+          <li>Customer collaboration over contract negotiation</li>
+          <li><strong>Responding to change over following a plan </strong></li>
+        </ul>
+        <p>That is, while there is value in the items on the right, we value the items on the left more.</p>
+        <cite>Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith Andrew, Hunt Ron,
+Jeffries Jon, Kern Brian, Marick Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas</cite>
+      </blockquote>
 
 
       <h3>Log Tag 1 - 19.03.2017</h3>
 
-      <div class="u-red">Hier weitermachen</div>
+      <p>Das Tagesziel besteht darin eine virtuelle Welt zu erstellen, welche über einen Mechanismus zur Fortbewegung verfügt. Nach einem Research wird sich
+dazu entschieden die Teleportation als Fortbewegungsmethode zu wählen. Als Grundlage dient das Web VR Lab vom PlayCanvas Entwicklungsteam. Um das Development
+Tool PlayCanvas in seiner Funktionsweise zu erlernen und die Programmierung besser zu verstehen wird zunächst der Quellcode des Web VR Labs analysiert und
+stückweise reproduziert. Wichtige Aspekte bei der Erstellung der Umgebung ist die gleichzeitige Nutzung für 0 DOF, 3 DOF, damit die Szenerie auch am Desktop
+Rechner bearbeitet werden kann. Zur Interaktion für den 3 DOF Controller wird ein PlayCanvas Modell verwendet, welches den physischen Controller ebenfalls in
+der virtuellen Welt, in abstrahierter Form darstellt. Zur Aktivierung der Stereoskopie werden ebenfalls Funktionalitäten bereitgestellt. Diese befinden sich in
+der unteren rechten Ecke des Browserfensters und aktivieren den Virtual Reality Modus.</p>
 
       <h2>Resumé</h2>
 
@@ -819,6 +867,12 @@ entlastet werden und sich fokussiert auf das immersive Erlebnis des jeweiligen N
         <h3>Video- und Filmografie</h3>
         <p>Eine Übersicht aller im Text vorkommenden Videos und Film Bezüge</p>
         <div class="c-sources__video  c-columns  c-columns--video">
+          <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
+          </div>
+        </div>
+
+        <h3>Spiele</h3>
+        <div class="c-sources__game  c-columns  c-columns--game">
           <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
           </div>
         </div>
