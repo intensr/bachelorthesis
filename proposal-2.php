@@ -89,7 +89,7 @@ worden und die Bemühungen gelten somit als eingestellt.</p>
 sich
 die HTC Vive zulegte. Nach der ersten Nutzung war ich sehr beeindruckt von der Immersion in die virtuelle Realität der jeweiligen Anwendungen. Die Demo von
 Aperture Science (Valve) mit einem <span class="c-ref" data-ref-source-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="">der
-Protagonisten</span> von Portal 2 faszinierte mich. Speziell die neu eröffneten Interaktionsmöglichkeiten mithilfe der Vive
+Protagonisten</span> von <span class="c-ref" data-ref-source-id="27" data-ref-type="ref" data-ref-desc="">Portal 2</span> faszinierte mich. Speziell die neu eröffneten Interaktionsmöglichkeiten mithilfe der Vive
 Controller. Es gestaltet sich schwierig diese subjektive Wahrnehmung zu beschreiben. Selbst in der Betrachtung in Form von Videomaterial wird die Art der
 Erfahrung, welche man bei der Nutzung von zeitgeistig, hochwertigen Head Mounted Displays (<abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>, z.d.
 Datenhelm) erfährt, nicht transportiert. <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr>s sind einige
@@ -173,20 +173,27 @@ Smartphone/Tablet Sektor gibt es bis dato keinen einheitlich anerkannten Softwar
 welche auf ebenso unterschiedlicher Hardware basiert. Hersteller einigen sich primär auf gleiche Komponenten, wie grundlegende Betriebssysteme (OS, Operating
 System) wie beispielsweise Android, oder die Art der bestimmter Schnittstellen wie der USB (Universal Serial Bus) Standard, oder Klinkenstecker. Auch in diesem
 Fall existieren Ausnahmen wie beispielsweise Apple, welche jeden Teil ihrer Hard- und Software personalisieren, oder bestimmte Funktionalitäten durch komplett
-andere Konzepte ersetzen, wie zuletzt das Entfernen des Klinkensteckers. Daraus resultieren unterschiedliche Controller, Sensoren und Anwendungen. In den
+andere Konzepte ersetzen, wie zuletzt das Entfernen des <span class="c-ref" data-ref-source-id="257" data-ref-desc="" data-ref-type="ref">Klinkensteckers.</span> Daraus resultieren unterschiedliche Controller, Sensoren und Anwendungen. In den
 folgenden Abschnitten wird eruiert, welche Komponenten zur Entwicklung genutzt werden.</p>
+
       <h3>Hardware</h3>
+
+      <blockquote>
+        <p>Why mobile first? Here's the elevator pitch: designing for mobile first not only prepares you for the explosive growth and new opportunities on the mobile internet, it forces you to focus and enables you to innovate in ways you previously couldn't. Of course there's a lot of detail behind that statement, which is what this part is all about.</p>
+        <cite><span class="c-ref" data-ref-source-id="260" data-ref-desc="S.5" data-ref-type="zitat">Luke Wroblewski</span></cite>
+      </blockquote>
+
       <p>Im ersten Schritt wird ermittelt für welche Art von Gerät die jeweilige Applikation primär optimiert wird. Dies ist vergleichbar mit den Entwicklungen
-im regulären Webdesign in denen die Art der Webseite durch das jeweilige primäre Medium definiert wird. Die Herangehensweise des Mobile First Gedankens hat sich
+im regulären Webdesign in denen die Art der Webseite durch das jeweilige primäre Medium definiert wird. Die Herangehensweise des <span class="c-ref" data-ref-source-id="260" data-ref-desc="S.1" data-ref-type="vgl"><i>mobile first</i></span> Gedankens hat sich
 in diesem Fall weitläufig etabliert, indem Webseiten in der Regel zuerst für das Smartphone optimiert werden und anschließend auf weitere Geräte skaliert
 werden. Das Smartphone gilt aus Entwicklersicht im Vergleich zu beispielsweise Desktop Rechnern als das Medium mit den niedrigsten Spezifikationen in Leistung
 und Visualisierung. Die Bildschirme sind kleiner, die Rechenleistung ist begrenzter und die Netzwerkverbindung häufig schlechter als bei Desktop Computern.
 </p>
       <p class="o-p--tie">Ebenso gestalten sich WebVR Applikationen im Bezug auf die jeweilige Hardware. Die Vorgabe welche im Responsive Webdesign durch
-unterschiedliche Geräte wie Smartphones, Tablets, Notebooks und Desktop Rechner mithilfe von sog. Media Queries unterteilt wird, kategorisiert WebVR durch sog.
+unterschiedliche Geräte wie Smartphones, Tablets, Notebooks und Desktop Rechner mithilfe von sog. <span class="c-ref" data-ref-source-id="262" data-ref-desc="" data-ref-type="ref">Media Queries</span> unterteilt wird, kategorisiert WebVR durch sog.
 Input- und Immersion Level, welche die Intensität der Immersion widerspiegeln.</p>
 
-      <p>Es existieren drei Input Level bzw. verschiedene Typen von Controllern mit sog. “degrees of freedom” (z.d. Grade der Freiheit / DOF):</p>
+      <p>Es existieren drei Input Level bzw. verschiedene Typen von Controllern mit sog. <span class="c-ref" data-ref-source-id="261" data-ref-desc="" data-ref-type="ref">“degrees of freedom” (z.d. Grade der Freiheit / DOF):</span></p>
       <ol>
         <li><strong>0 DOF</strong> entspricht Endgeräten welche in ihrer Eingabe nur über das Klicken oder Tasten auf der zweidimensionalen, physischen
 Eingabefläche interagieren. Das Sichtfeld ist an diese Interaktion gebunden indem der Anwender virtuelle Objekte direkt anschauen muss, um mit ihnen virtuell zu
@@ -231,31 +238,39 @@ Touch Controllern bei der Oculus Rift zu betrachten. Diese Controller unterschei
 beispielsweise greifen, halten, loslassen, etc vergleichbar. Aus diesen Gründen sind Standards im Hardwarebereich für die positive Entwicklung von VR- und
 weiteren Technologien unerlässlich bzw. überwiegend förderlich.</p>
 
+<img src="./assets/img/hmds.jpg" alt=""/>
+
+<div class="c-notes-marginal">
+  <div class="c-notes-marginal__item">
+    <span class="c-ref" data-ref-source-id="259" data-ref-type="ref" data-ref-desc="v.l.n.r Google Daydream, AUKEY Vision, Magic Cardboard V1, Maxfield Cardboard V2 " data-ref-hide></span>
+  </div>
+</div>
+
       <p>Zunächst wird dementsprechend der Funktionsumfang potentieller Hardware analysiert. Zu Testzwecken werden diverse HMD Brillen aus moderaten
 Preissegmenten erworben und bewertet, mit dem Fokus auf die Usability für den <span class="c-ref" data-ref-source-id="258" data-ref-desc=""
 data-ref-type="ref">Massenmarkt:</span></p>
       <table style="width: 100%;">
         <caption class="o-h5">
-          <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> Brillen Vergleich
+          Empirischer <abbr title="Head Mounted Display, z.d. Datenhelm">HMD</abbr> Brillen Vergleich
         </caption>
         <thead>
           <tr>
             <th><abbr title="Name der Entität inklusive Versionierung. Bei Cardboard unterscheidet sich dies in V1 (Magnet basierender Interaktionsbutton) und
-      V2 (Touch basierender Interaktionsbutton)">Device</abbr></th>
-            <th><abbr title="Zum Zeitpunkt des Erwerbs">Preis</abbr></th>
-            <th><abbr title="Ohne Smartphone">Gewicht</abbr></th>
+V2 (Touch basierender Interaktionsbutton)">Device</abbr></th>
+            <th><abbr title="Zum Zeitpunkt des Erwerbs in Euro">Preis</abbr></th>
+            <th><abbr title="Ohne Smartphone in Gramm">Gewicht</abbr></th>
             <th><abbr title="Kompakt ist die kleinstmögliche Form wohingegen große Brillen einen weiteren Abstand zum Device bieten. Daraus resultiert häufig
-      auch eine bessere Schärfe, jedoch auch ein Rand um das jeweilige Smartphone Display.">Formfaktor</abbr></th>
+auch eine bessere Schärfe, jedoch auch ein Rand um das jeweilige Smartphone Display.">Formfaktor</abbr></th>
             <th><abbr title="Field of View, z.d. Sichtfeld. Wieviel Grad vom Smartphone Display durch die Brille in das starre Sichtfeld übertragen
-      werden">FOV</abbr></th>
+werden">FOV</abbr></th>
             <th><abbr title="Hat die Brille einen größeren Abstand zwischen Linsen und Smartphone Display entsteht ein sichtbarer Rand, welcher die Immersion
-      beeinflusst.">Rand</abbr></th>
+beeinflusst.">Rand</abbr></th>
             <th><abbr title="Die Schärfe ist wichtig für die Immserion in die jeweilige Anwendung, desto schärfer die UI Elemente sind umso
-      besser.">Schärfe</abbr></th>
+besser.">Schärfe</abbr></th>
             <th><abbr title="Speziell für die längere Anwendung ist dies ein wichtiger Faktor. Die Bewertung wird bestimmt durch Befestigung am Kopf und das
-      verarbeitete Material.">Komfort</abbr></th>
+verarbeitete Material.">Komfort</abbr></th>
             <th><abbr title="Interaktionsmöglichkeit am jeweiligen Device, welches vorallem für rudimentärere Anwendung von Relevanz ist. Liegt kein Controller
-      vor, so hat der Anwender keine Möglichkeit Einfluss auf die virtuelle Realität zu nehmen.">Button?</abbr></th>
+vor, so hat der Anwender keine Möglichkeit Einfluss auf die virtuelle Realität zu nehmen.">Button?</abbr></th>
             <th><abbr title="degrees of freedom">DOF</abbr></th>
             <th><abbr title="Besondere oder einzigartige Features">Extras</abbr></th>
           </tr>
@@ -263,10 +278,10 @@ data-ref-type="ref">Massenmarkt:</span></p>
         <tbody>
           <tr>
             <td>Google Daydream</td>
-            <td>70€</td>
-            <td>219g</td>
+            <td>69,90</td>
+            <td>219</td>
             <td>Kompakt</td>
-            <td>90° <!-- gear vr 100° --></td>
+            <td>90 <!-- gear vr 100° --></td>
             <td>Ja</td>
             <td>+</td>
             <td>+</td>
@@ -275,11 +290,24 @@ data-ref-type="ref">Massenmarkt:</span></p>
             <td>Controller,<br/> App,<br/> Nativer Support</td>
           </tr>
           <tr>
+            <td>AUKEY VISION</td>
+            <td>20,99</td>
+            <td>384</td>
+            <td>Groß</td>
+            <td>90</td>
+            <td>Nein</td>
+            <td>++</td>
+            <td>+</td>
+            <td>-</td>
+            <td>0,(3)</td>
+            <td>Freie Kamera,<br/> justierbare<br/> Linsen (Tiefe)</td>
+          </tr>
+          <tr>
             <td>Magic Cardboard</td>
-            <td>24€</td>
-            <td>313g</td>
+            <td>24</td>
+            <td>313</td>
             <td>Kompakt</td>
-            <td>102°</td>
+            <td>102</td>
             <td>Nein</td>
             <td>++</td>
             <td>+</td>
@@ -289,29 +317,16 @@ data-ref-type="ref">Massenmarkt:</span></p>
           </tr>
           <tr>
             <td>Maxfield Cardboard V2</td>
-            <td>6,90€</td>
-            <td>109g</td>
+            <td>6,90</td>
+            <td>109</td>
             <td>Kompakt</td>
-            <td>80°</td>
+            <td>80</td>
             <td>Nein</td>
             <td>o</td>
             <td>-</td>
             <td>Touch</td>
             <td>0,(3)</td>
             <td>-</td>
-          </tr>
-          <tr>
-            <td>AUKEY VISION</td>
-            <td>20,99€</td>
-            <td>384g</td>
-            <td>Groß</td>
-            <td>90°</td>
-            <td>Nein</td>
-            <td>++</td>
-            <td>+</td>
-            <td>-</td>
-            <td>0,(3)</td>
-            <td>Freie Kamera,<br/> Justierbare<br/> Linsen (Tiefe)</td>
           </tr>
         </tbody>
       </table>
@@ -325,17 +340,17 @@ VR-Headsets dargestellt und vom Nutzer verspürt wird, je höher ist die Immersi
 visuellen Komponenten wie die Bildqualität und das mögliche Sichtfeld, erheblich sind.</p>
       <p class="o-p--tie">Die Qualität des Bildes setzt sich aus der Smartphone Hardware (Auflösung, Pixeldichte, Matrix Art, Displaygröße), den Eigenschaften
 der Brille (Qualität der Linsen, Formfaktor und Positionierung innerhalb der Brille) sowie der Nutzung unterschiedlicher Software und deren Features (native
-Applikation, WebVR, “Low Persistence Technologie”) zusammen. Die Hardware ist in diesem Bezug, sogar auf Smartphone Niveau, relativ weit fortgeschritten. Die
+Applikation, WebVR, <span class="c-ref" data-ref-source-id="263" data-ref-desc="" data-ref-type="ref">“Low Persistence Technologie”</span>) zusammen. Die Hardware ist in diesem Bezug, sogar auf Smartphone Niveau, relativ weit fortgeschritten. Die
 Pixel können zwar selbst bei den besten Geräten noch erkannt werden, doch es erweist sich in Anbetracht auf die bisherige Entwicklung als wahrscheinlich, dass
-sich dies in der näheren Zukunft noch merklich verbessern wird.</p>
+sich dies in der näheren Zukunft noch merklich <span class="c-ref" data-ref-source-id="264" data-ref-desc="" data-ref-type="ref">verbessern wird.</span></p>
 
       <p>Das natürliche Blickfeld des Menschen mit Augenbewegungen beträgt ca. 270°. Simple Videobrillen mit einem gewöhnlichen Sichtfeld von ca. 45° sind
 lediglich in der Lage eine große Leinwand in einigen Metern Entfernung vor einem zu simulieren. Die ersten Generationen von VR Brillen starteten mit einem
 diagonalem Sichtfeld von etwa 100°. Dies ist vergleichbar mit dem Blick durch eine Taucher- oder Skibrille, reicht jedoch völlig aus um die Illusion
 hervorzurufen, man befände sich an einem anderen Ort. Um die größtmögliche Immersion zu erzeugen, sollte die VR Brille ein möglichst großes Sichtfeld haben.
-Hierzu sollten dann jedoch auch die anderen Faktoren nicht vernachlässigt werden.</p>
-      <p class="o-p-tie">Wird die Entwicklung von Brillen (speziell den Linsen), Displays und Software weiter vorangetrieben, werden in Zukunft visuelle VR
-Erlebnisse möglich, in denen der Betrachter zwischen physischer und virtueller Realität nicht mehr unterscheiden kann.</p>
+Hierzu sollten dann jedoch auch die anderen Faktoren nicht vernachlässigt <span class="c-ref" data-ref-source-id="225" data-ref-desc="" data-ref-type="ref">werden.</span></p>
+      <p class="o-p-tie">Wird die Entwicklung von VR, AR und MR Brillen (speziell den Linsen), Displays und Software weiter vorangetrieben, werden in Zukunft visuelle
+Erlebnisse möglich, in denen der Betrachter zwischen physischer und virtueller Realität nicht mehr <span class="c-ref" data-ref-source-id="265" data-ref-desc="" data-ref-type="ref">unterscheiden kann.</span></p>
 
       <p>Neben den Aspekten des tabellarischen Vergleichs können weitere Eigenschaften untersucht werden, wie beispielsweise die Art der Smartphone Befestigung,
 oder die Abschirmung gegen Lichteinflüsse. Diese sind zwar nicht unerheblich, aber nicht ausschlaggebend. In der Gesamtheit fällt auf, dass jedes Gerät
@@ -344,16 +359,16 @@ beispielsweise einen umfassenden Funktionsumfang, speziell nach dem Upgrade durc
 Marke Samsung und fällt somit aus dem Raster. VR Brillen müssen tendenziell universal nutzbar sein, ansonsten büßen sie den Vorteil über stationäre VR Geräte
 ein.</p>
       <p class="o-p--tie">Daydream muss letztendlich nur wegen dem Controller erworben werden, da es neben Gear VR keine Alternativen für den DOF3 Bereich gibt,
-außer eine Controller Emulation auf einem weiteren Smartphone zu erzeugen. Es ist allerdings möglich andere Brillen mit dem Daydream Controller zu nutzen. So
+außer eine <span class="c-ref" data-ref-source-id="271" data-ref-desc="" data-ref-type="ref">Controller Emulation</span> auf einem weiteren Smartphone zu erzeugen. Es ist allerdings möglich andere Brillen mit dem Daydream Controller zu nutzen. So
 eindrucksvoll die visuelle Darstellung von Virtual Reality Projekten bei der ersten Nutzung sind, so erfordert ein anhaltendes, positives Nutzererlebnis eine
 Interaktionsmöglichkeit mit der jeweiligen Applikation. Somit gilt Daydream als das Produkt der Wahl, kann jedoch durch eine Brille mit persönlichen Präferenzen
 gekoppelt werden.</p>
 
       <p>Die nächste Komponente für Mobile VR ist das jeweilige Smartphone. Da die Nutzung von Daydream nach der Brillen Auswertung als obligatorisch gesetzt
-wird, muss das ausgewählte Smartphone den Daydream- und Android 7.1 Nougat Spezifikationen entsprechen.</p>
+wird, muss das ausgewählte Smartphone den <span class="c-ref" data-ref-source-id="243" data-ref-desc="" data-ref-type="ref">Daydream-</span> und <span class="c-ref" data-ref-source-id="272" data-ref-desc="" data-ref-type="ref">Android 7.1 Nougat</span> Spezifikationen entsprechen.</p>
       <table style="width: 100%;">
         <caption class="o-h5">
-          Offizielle Google Daydream Smartphones (17.03.2017)
+          <span class="c-ref" data-ref-source-id="237" data-ref-desc="" data-ref-type="ref">Offizielle Google Daydream Smartphones (17.03.2017)</span>
         </caption>
         <thead>
           <tr>
@@ -370,7 +385,7 @@ wird, muss das ausgewählte Smartphone den Daydream- und Android 7.1 Nougat Spez
         <tbody>
           <tr>
             <td>ZTE Axon 7</td>
-            <td>~415<br/>(360)</td>
+            <td>~415<br/>(<abbr title="Ich habe es für diesen Preis in einem Warehousedeal erworben, welche immernoch bis dato existieren">360</abbr>)</td>
             <td>5.5</td>
             <td>1440 x 2560</td>
             <td>6</td>
@@ -452,10 +467,10 @@ Mooreschen Gesetzes erweitern wird.</p>
       <p>Für einen empirischen Gesamtpreis von 430€ wird Mobile VR auf dem zeitgeistlich besten Standard möglich (Reduktion um über 50% im Vergleich zu den
 verfügbaren Google Pixel Geräten). Dabei hat der Nutzer den Mehrwert eines leistungsstarken Smartphones für die Anwendung in anderen Bereichen. Beim Kauf eines
 stationären VR Gerätes riskiert der Käufer ggf. den Verlust von Interesse nach kurzer Zeit, ohne eine weitere Möglichkeit der Nutzung. Bei dem Kauf einer HTC
-Vive oder Oculus Rift liegt der Preis für diese Geräte zuzüglich der entsprechenden Hardware zwischen 1200-1500€. Damit ist der Gesamtpreis gegenüber einem
-Vergleich von 2016 in seiner Gesamtheit bereits deutlich gesunken und speziell im Mobile VR Bereich, welches sich voraussichtlich auch weiterhin abzeichnen
-wird. Auch Oculus hat seine Preise für die Rift zwischenzeitlich gesenkt. Apple ist bis jetzt der einzige größere Tech-Konzern ohne öffentliche Teilnahme am VR
-Geschehen.
+Vive oder Oculus Rift liegt der Preis für diese Geräte zuzüglich der entsprechenden Hardware zwischen <span class="c-ref" data-ref-source-id="136" data-ref-desc="" data-ref-type="ref">1200-1500€.</span> Damit ist der Gesamtpreis gegenüber einem
+Vergleich von <span class="c-ref" data-ref-source-id="273" data-ref-desc="" data-ref-type="ref">2016</span> in seiner Gesamtheit bereits deutlich gesunken und speziell im Mobile VR Bereich, welches sich voraussichtlich auch weiterhin abzeichnen
+wird. Auch Oculus hat seine Preise für die Rift zwischenzeitlich <span class="c-ref" data-ref-source-id="274" data-ref-desc="" data-ref-type="ref">gesenkt.</span> Apple ist bis jetzt der einzige größere Tech-Konzern ohne öffentliche Teilnahme am VR
+<span class="c-ref" data-ref-source-id="275" data-ref-desc="" data-ref-type="ref">Geschehen.</span>
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -467,7 +482,7 @@ Geschehen.
                 <strong class="c-note-side__headline">ZTE´s leere Versprechen</strong>
                 <span class="c-note-side__text">Der Kauf des ZTE Axon 7 stellte sich zeitweilig als verfrüht heraus, da das Axon 7 zwar von Google als Daydream
 fähiges Smartphone verifiziert ist, jedoch noch kein lauffähiges Nougat 7.1 Update vom Hersteller freigegeben wurde (Stand 17.03.2017). Um das Smartphone
-dennoch zu nutzen, wurde es mit LineageOS (Drittanbieter Software) und funktionierendem Android 7.1.1 Nougat geflasht, welches ein unkonventioneller Weg ist,
+dennoch zu nutzen, wurde es mit <span class="c-ref" data-ref-source-id="276" data-ref-desc="" data-ref-type="ref">LineageOS</span> (Drittanbieter Software) und funktionierendem Android 7.1.1 Nougat geflasht, welches ein unkonventioneller Weg ist,
 bei dem die Garantie des Gerätes erlischt. Der einzige Vorteil ist die Nutzung von Daydream vor dem Großteil der anderen Axon 7 Anwender.</span>
               </span>
             </span>
@@ -505,14 +520,14 @@ von mehreren Mitgliedern gemeinsam definiert. Dadurch wird es zu einer selbstorg
 Nachteil in Web Apps liegt darin, dass sie bis jetzt noch nicht das volle Potential der Hardware ausschöpfen können. Speziell bei Hardware lastigen Funktionen
 wie die stereoskopische Darstellung von 3D Objekten, kann dieser Umstand limitierende Auswirkungen haben, zudem ist der WebVR Stand aktuell noch in der
 Betaphase und könnte noch viele Fehler enthalten.</p>
-      <p class="o-p--tie">Um dem Angebot an vielen verschiedenen Devices und deren Softwares mächtig zu werden, wurde 2017 der Open XR Standard geschaffen, um
+      <p class="o-p--tie">Um dem Angebot an vielen verschiedenen Devices und deren Softwares mächtig zu werden, wurde 2017 der <span class="c-ref" data-ref-source-id="277" data-ref-desc="" data-ref-type="ref">Open XR Standard</span> geschaffen, um
 eine Einigung auf bestimmte Best Practices herbeiführen und die Arbeit für die End-Entwickler zu vereinfachen.</p>
 
       <img src="./assets/img/openxr-1.jpg" alt=""/>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Aktuelle Schnittstellen Interaktion " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="266" data-ref-type="ref" data-ref-desc="Aktuelle Schnittstellen Interaktion " data-ref-hide></span>
         </div>
       </div>
 
@@ -522,7 +537,7 @@ eine Einigung auf bestimmte Best Practices herbeiführen und die Arbeit für die
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Zukünftige Schnittstellen Interaktion " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="267" data-ref-type="ref" data-ref-desc="Zukünftige Schnittstellen Interaktion " data-ref-hide></span>
         </div>
       </div>
 
@@ -533,16 +548,16 @@ werden im folgenden Abschnitt vorgestellt, um einen Einblick in die verschiedene
       <h4>Unity</h4>
       <p>Die erste Möglichkeit besteht darin etablierte Desktop Tools aus der Gaming Industrie wie beispielsweise Unity (gleichzeitig Programm und Engine), oder
 die Hilfsmittel der Unreal Engine zu nutzen. Unity ist in seiner Grundversion für Einsteiger kostenlos und bereits seit 2005 auf dem Markt. Kommerziell
-erfolgreiche Spiele wie Hearthstone von Blizzard, Endless Space von Amplitude Studios, oder Rust von Facepunch Studios basieren auf der beliebten Engine. Der
+erfolgreiche Spiele wie Hearthstone von Blizzard, Endless Space von Amplitude Studios, oder Rust von Facepunch Studios <span class="c-ref" data-ref-source-id="279" data-ref-desc="" data-ref-type="ref">basieren</span> auf der beliebten Engine. Der
 Vorteil von Unity ist neben der Größe der Community, der Flexibilität in den Anwendungsbereichen und der jahrelangen Optimierung der Kernsoftware, vor allem die
-grafische Benutzeroberfläche. Unity verbindet damit Programmierer und Designer wie kaum ein anderes Tool. Auch bei sog. Hackathons wie dem Global Game Jam ist
+grafische Benutzeroberfläche. Unity verbindet damit Programmierer und Designer wie kaum ein anderes Tool. Auch bei sog. Hackathons wie dem <span class="c-ref" data-ref-source-id="280" data-ref-desc="" data-ref-type="ref">Global Game Jam</span> ist
 Unity häufig das primäre Werkzeug. Bildungseinrichtungen und deren Studenten wie z.B. die Köln International School of Design, oder das Cologne Game Lab
-realisieren ihre Projekte ebenfalls häufig mit eben diesen Engine Editoren wie Unity oder denen der Unreal Engine. Diese sind in der Regel dafür konzipiert, ein
+realisieren ihre Projekte ebenfalls <span class="c-ref" data-ref-source-id="281" data-ref-desc="" data-ref-type="bsp">häufig</span> mit eben diesen Engine Editoren wie Unity oder denen der Unreal Engine. Diese sind in der Regel dafür konzipiert, ein
 bündiges Gesamtpaket auszuliefern d.h. ein Spiel, eine Applikation, welche zwar an APIs angebunden werden kann, jedoch in seiner Gesamtheit über statische
 Inhalte und Assets verfügt. Für Mobile VR Applikationen (z.B. Cardboard) eignet sich Unity optimal, da diese als App auf den jeweiligen Smartphones als fertige
 Pakete genutzt werden können und sich einfach über beispielsweise die Plattformen Google Play und den Apple Store distribuieren lassen. Aufgrund der o.g.
 Eigenschaften von WebVR ist es zwar möglich WebVR Applikationen in Unity zu entwickeln, jedoch nicht empfehlenswert, sofern Hintergrundwissen primär aus der
-Webentwicklung, anstatt dem Game Development vorhanden ist.
+Webentwicklung, anstatt dem Game Development vorhanden.
 </p>
 
       <ul>
@@ -625,6 +640,8 @@ vereinfachte Manipulation von JavaScript, Funktionalitäten zur Erzeugung von ar
 im Gegensatz dazu bereits über fertige Komponenten und beschleunigt, damit den Arbeitsprozess. Die einzelnen Komponenten können direkt über HTML eingefügt
 werden und durch Daten Attribute manipuliert werden. Erweiterungen oder die Kreation eigener Komponenten ist mithilfe von JavaScript möglich. Zusätzlich
 existieren bereits einige Beispiele, welche den Funktionsumfang von WebVR simplifiziert, dennoch eindrucksvoll darstellen.</p>
+
+  <div class="u-red">https://en.wikipedia.org/wiki/A-Frame_(virtual_reality_framework)</div>
 
       <ul>
         <li>Webseite</li>
@@ -948,7 +965,7 @@ jeweiligen Quelle.</li>
         <h2>Danksagungen</h2>
         <p>Hiermit möchte ich mich bei folgenden Personen bedanken:</p>
         <ul>
-          <li><strong>Sarah Karvouniaris</strong>, für die erste grammatikalische Softkorrektur und die mentale Unterstützung.</li>
+          <li><strong>Dominik Noel Blaschke</strong>, für die Hilfe bei der Programmierung der 3D Entitäten und als mein persönlicher Snacker in Crime.</li>
         </ul>
       </div>
 
