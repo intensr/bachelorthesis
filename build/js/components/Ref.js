@@ -212,30 +212,30 @@ if ($('.c-ref').length > 0) {
         // Vgl auto kneenote sources
         if(!refHideSources && refType === 'zitat') {
           if(sources[refSourceId].year) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].year+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].year+'</span>');
           }
           if(sources[refSourceId].yearId) {
             $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].yearId+'</span>');
           }
           if(sources[refSourceId].authorSurname) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].authorSurname+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].authorSurname+'</span>');
           } else if (sources[refSourceId].author) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].author+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].author+'</span>');
           }
         }
 
         // Vgl auto kneenote sources
         if(!refHideSources && refType === 'vgl') {
           if(sources[refSourceId].year) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].year+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].year+'</span>');
           }
           if(sources[refSourceId].yearId) {
             $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].yearId+'</span>');
           }
           if(sources[refSourceId].authorSurname) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].authorSurname+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].authorSurname+'</span>');
           } else if (sources[refSourceId].author) {
-            $('.c-ref__desc',$kneenote).append(', <span>'+sources[refSourceId].author+'</span>');
+            $('.c-ref__desc',$kneenote).append('<span>'+sources[refSourceId].author+'</span>');
           }
         }
 

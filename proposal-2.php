@@ -545,7 +545,21 @@ eine Einigung auf bestimmte Best Practices herbeiführen und die Arbeit für die
 Entwicklung ermöglicht, welche sich je nach persönlichen Präferenzen wiederum auf verschiedene Plattformen und digitale Werkzeuge verteilt. Einige dieser Tools
 werden im folgenden Abschnitt vorgestellt, um einen Einblick in die verschiedenen Herangehensweisen zur Entwicklung von VR Erlebnissen zu erläutern. </p>
 
-      <h4>Unity</h4>
+      <h4><span class="c-ref" data-ref-source-id="284" data-ref-type="ref" data-ref-desc="">Unity</span></h4>
+
+      <p></p><!--hotfix-->
+
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/5cPYpI6_yLs?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/5cPYpI6_yLs/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="288" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
       <p>Die erste Möglichkeit besteht darin etablierte Desktop Tools aus der Gaming Industrie wie beispielsweise Unity (gleichzeitig Programm und Engine), oder
 die Hilfsmittel der Unreal Engine zu nutzen. Unity ist in seiner Grundversion für Einsteiger kostenlos und bereits seit 2005 auf dem Markt. Kommerziell
 erfolgreiche Spiele wie Hearthstone von Blizzard, Endless Space von Amplitude Studios, oder Rust von Facepunch Studios <span class="c-ref" data-ref-source-id="279" data-ref-desc="" data-ref-type="ref">basieren</span> auf der beliebten Engine. Der
@@ -554,17 +568,27 @@ grafische Benutzeroberfläche. Unity verbindet damit Programmierer und Designer 
 Unity häufig das primäre Werkzeug. Bildungseinrichtungen und deren Studenten wie z.B. die Köln International School of Design, oder das Cologne Game Lab
 realisieren ihre Projekte ebenfalls <span class="c-ref" data-ref-source-id="281" data-ref-desc="" data-ref-type="bsp">häufig</span> mit eben diesen Engine Editoren wie Unity oder denen der Unreal Engine. Diese sind in der Regel dafür konzipiert, ein
 bündiges Gesamtpaket auszuliefern d.h. ein Spiel, eine Applikation, welche zwar an APIs angebunden werden kann, jedoch in seiner Gesamtheit über statische
-Inhalte und Assets verfügt. Für Mobile VR Applikationen (z.B. Cardboard) eignet sich Unity optimal, da diese als App auf den jeweiligen Smartphones als fertige
+Inhalte und <abbr title="Materialien">Assets</abbr> verfügt. Für Mobile VR Applikationen (z.B. Cardboard) eignet sich Unity optimal, da diese als App auf den jeweiligen Geräten als fertige
 Pakete genutzt werden können und sich einfach über beispielsweise die Plattformen Google Play und den Apple Store distribuieren lassen. Aufgrund der o.g.
 Eigenschaften von WebVR ist es zwar möglich WebVR Applikationen in Unity zu entwickeln, jedoch nicht empfehlenswert, sofern Hintergrundwissen primär aus der
-Webentwicklung, anstatt dem Game Development vorhanden.
+Webentwicklung, anstatt dem Game Development vorhanden. Auch in zukünftigen Applikationen wie beispielsweise der Mixed Reality, wird Unity vorraussichtlich eines der wichtigsten Werkzeuge bleiben.
 </p>
 
-      <ul>
-        <li>Webseite</li>
-        <li>Community</li>
-        <li>Doku- und/oder API</li>
-      </ul>
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/7_cPxk7R2MY?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/7_cPxk7R2MY/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="282" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="278" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!-- hotfix -->
 
       <div class="c-columns">
         <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
@@ -582,7 +606,7 @@ Webentwicklung, anstatt dem Game Development vorhanden.
 
             <h5>Hindernisse</h5>
             <ul>
-              <li>Kein klassisches JavaScript</li>
+              <li>CSharp oder objektorientiertes JavaScript</li>
               <li>Kein natives WebVR (Export möglich)</li>
               <li>Keine native Anbindung von Web APIs</li>
               <li>Unity verpackt seine Anwendungen in geschlossenen Bundles und erschwert damit die Anbindung an weitere Web Elemente</li>
@@ -593,8 +617,9 @@ Webentwicklung, anstatt dem Game Development vorhanden.
       </div>
 
       <h4>Native Websprachen</h4>
+
       <p>Ein gegensätzlicher, puristischer Ansatz besteht in der Nutzung von nativem JavaScript, HTML, CSS, WebGL und der bekannten JavaScript 3D Library
-Three.js. Anders als bei Unity muss in nativen Websprachen jegliche Funktionalität weitgehend eigenständig erstellt werden. Ein Problem beim Erstellen von 3D
+Three.js. Anders als bei Unity muss in nativen Websprachen jegliche Funktionalität weitgehend, eigenständig erstellt werden. Ein Problem beim Erstellen von 3D
 Anwendungen besteht in dem ständigen Testen dieser Umgebungen. Bei Unity oder ähnlichen Anwendungen existieren Preview Ansichten für die Render Prozesse, welche
 in nativen Programmierumgebungen ebenfalls eigenständig angelegt werden müssen. Die Dokumentation des Arbeitsprozesses gestaltet sich zusätzlich schwierig,
 speziell wenn mehrere Entwickler am selben Projekt arbeiten. Zu fertigen Code Fragmenten prominenter Libraries existieren in der Regel bereits ausführliche
@@ -602,12 +627,6 @@ Dokumentationen und werden durch die größere Nutzerschaft häufig im Peer Revi
 Ansatz die persönlichen Erfahrungen enorm schärfen, sind aber zeitlich meistens so aufwändig, dass anfänglich enthusiastische Projekte mit der Zeit nicht mehr
 weiter gepflegt werden, weil größere Unternehmungen mit entsprechender Reichweite den angestrebten Funktionsumfang schneller erfüllen können und häufig sogar
 übertreffen.</p>
-
-      <ul>
-        <li>Webseite</li>
-        <li>Community</li>
-        <li>Doku- und/oder API</li>
-      </ul>
 
       <div class="c-columns">
         <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
@@ -633,21 +652,31 @@ weiter gepflegt werden, weil größere Unternehmungen mit entsprechender Reichwe
         </div>
       </div>
 
-      <h4>Aframe</h4>
+      <h4><span class="c-ref" data-ref-source-id="174" data-ref-type="ref" data-ref-desc="">Aframe</span></h4>
+
+      <p></p><!--hotfix-->
+
+      <p data-height="400" data-theme-id="light" data-slug-hash="QGxpaB" data-default-tab="result" data-user="intenser" data-embed-version="2"
+      data-pen-title="Hello World — A-Frame" class="codepen">See the Pen <a href="http://codepen.io/intenser/pen/QGxpaB/">Hello World — A-Frame</a> by David Hoffmann
+      (<a href="http://codepen.io/intenser">@intenser</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+      <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+      <div class="c-video  c-video--print">
+        <img class="c-video__overlay" src="./assets/img/helloworldaframe.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="287" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
       <p>Eine Weiterentwicklung von der nativen Herangehensweise ist die Entwicklung von WebVR Applikationen mithilfe des leistungsstarken Virtual Reality
 Frameworks Aframe von Mozilla. Es wird von der WebVR Community und einem eigenständigen Team von Mozilla gepflegt. Aframe stellt ähnlich wie jQuery für die
 vereinfachte Manipulation von JavaScript, Funktionalitäten zur Erzeugung von artifiziellen Realitäten zur Verfügung. Dabei basiert es auf Three.js, verfügt aber
 im Gegensatz dazu bereits über fertige Komponenten und beschleunigt, damit den Arbeitsprozess. Die einzelnen Komponenten können direkt über HTML eingefügt
 werden und durch Daten Attribute manipuliert werden. Erweiterungen oder die Kreation eigener Komponenten ist mithilfe von JavaScript möglich. Zusätzlich
-existieren bereits einige Beispiele, welche den Funktionsumfang von WebVR simplifiziert, dennoch eindrucksvoll darstellen.</p>
-
-  <div class="u-red">https://en.wikipedia.org/wiki/A-Frame_(virtual_reality_framework)</div>
-
-      <ul>
-        <li>Webseite</li>
-        <li>Community</li>
-        <li>Doku- und/oder API</li>
-      </ul>
+existieren bereits einige Beispiele, welche den Funktionsumfang von WebVR eindrucksvoll darstellen.</p>
 
       <div class="c-columns">
         <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
@@ -676,25 +705,47 @@ existieren bereits einige Beispiele, welche den Funktionsumfang von WebVR simpli
         </div>
       </div>
 
-      <h4>Cables</h4>
-      <p>Durch die Arbeit bei der Agentur Dunckelfeld konnten persönliche Kontakte zu den Entwicklern von undev hergestellt werden. In einem internen,
-minimalistischen Workshop präsentiert Thomas Kombüchen Ende 2016 den aktuellen Stand ihrer entwickelten Cables Plattform und dessen Möglichkeiten. Cables greift
+      <h4><span class="c-ref" data-ref-source-id="245" data-ref-type="ref" data-ref-desc="">Cables</span></h4>
+      <p>Durch die Arbeit bei der Agentur <span class="c-ref" data-ref-source-id="285" data-ref-type="ref" data-ref-desc="">Dunckelfeld</span> konnten persönliche Kontakte zu den Entwicklern von der Agentur <span class="c-ref" data-ref-source-id="286" data-ref-type="ref" data-ref-desc="">undev</span> hergestellt werden. In einem internen,
+minimalistischen Workshop präsentiert Thomas Kombüchen (Co-Founder bei undev) Ende 2016 den aktuellen Stand ihrer entwickelten Cables Plattform und dessen Möglichkeiten. Cables greift
 ähnlich wie Aframe auf die Technologien WebGL und Three.js zurück. Anders als Aframe bietet Cables jedoch eine grafische Oberfläche und nutzt den Browser als
 direkte Schnittstelle für kreative Prozesse. Der Vorteil für Designer liegt dabei in der grafischen Benutzeroberfläche bei der verschiedene Knotenpunkte (Nodes)
-interaktiv verbunden werden können, um Ergebnisse zu kreieren. Jeglicher mögliche Eingabewert kann manipuliert werden und Projekte werden frei skalierbar. Dies
+interaktiv verbunden werden können, um Ergebnisse zu kreieren.</p>
+
+      <div class="c-video">
+        <video class="c-video__item" autoplay loop>
+           <source src="https://cables.gl/landing/ui.mp4" type="video/mp4">Your browser does not support the video tag.
+        </video>
+        <img class="c-video__overlay" src="./assets/img/cables2.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="299" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="297" data-ref-type="ref" data-ref-desc="Nur im Print: " data-ref-hide></span>
+        </div>
+      </div>
+
+      <p class="o-p--tie">Jeglicher mögliche Eingabewert kann manipuliert werden und Projekte werden frei skalierbar. Dies
 beschleunigt die Arbeit gegenüber nativer Three.js Kreationen erheblich und erfordert weniger Programmierkenntnisse. Developer können vorhandene Nodes
 (Knotenpunkte) editieren oder eigene erstellen, um sie für die Anforderungen ihrer Applikation zu optimieren, ähnlich wie bei Unity. Cables ist ein universelles
 Werkzeug, welches für audiovisuelle Projekte genutzt werden kann. So wird beispielsweise neben der Kreation von Webprojekten ebenfalls die Ansteuerung von
 physischen Programmierschnittstellen wie Arduino, Lichtquellen, Beamern usw. möglich. Zur Zeit wird Cables hauptsächlich genutzt, um Web Erlebnisse mit WebGL zu
-erzeugen und repetitive Arbeitsprozesse zu beschleunigen. Aktuell sind die Cables WebVR Komponenten noch in der frühen Entwicklungsphase (jedoch bereits
+<span class="c-ref" data-ref-source-id="300" data-ref-type="bsp" data-ref-desc="">erzeugen</span> und repetitive Arbeitsprozesse zu beschleunigen. Aktuell sind die Cables WebVR Komponenten noch in der frühen Entwicklungsphase (jedoch bereits
 implementiert). Es ist ggf. trotzdem sinnvoll dieses Projekt an dieser Stelle zu erwähnen, da es sehr viel Potential beinhaltet und sich in den nächsten Jahren
-zu einem populären Tool entwickeln könnte. </p>
+zu einem populären Tool entwickeln könnte.</p>
 
-      <ul>
-        <li>Webseite</li>
-        <li>Community</li>
-        <li>Doku- und/oder API</li>
-      </ul>
+      <img src="./assets/img/cables1.jpg" alt=""/>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="298" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <p></p><!--hotfix-->
 
       <div class="c-columns">
         <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
@@ -723,21 +774,31 @@ zu einem populären Tool entwickeln könnte. </p>
         </div>
       </div>
 
-      <h4>PlayCanvas</h4>
+      <h4><span class="c-ref" data-ref-source-id="175" data-ref-type="ref" data-ref-desc="">PlayCanvas</span></h4>
+
+      <p></p><!--hotfix-->
+
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/fXc-JjH2nNo?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+        <img class="c-video__overlay" src="./assets/img/playcanvasexample.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="289" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="290" data-ref-type="ref" data-ref-desc="Nur in gebundener Ausgabe: " data-ref-hide></span>
+        </div>
+      </div>
+
       <p>Als letztes wird das Werkzeug PlayCanvas vorgestellt, welches die besten Eigenschaften aller bisher vorgestellten Anwendungen in sich vereint. Die
-Webapplikation beinhaltet die Vorzüge der grafischen Oberfläche von Unity, nutzt jedoch objektorientiertes JavaScript und weitere Websprachen anstatt eine
-eigene Programmierung, wodurch die Anbindung weiterer Web Funktionalitäten vereinfacht wird. Die Größe der Community sowie die verfügbaren Instruktionen sind
+Webapplikation beinhaltet die Vorzüge der grafischen Oberfläche von Unity, nutzt jedoch ausschließlich objektorientiertes JavaScript und weitere Websprachen, wodurch die Anbindung weiterer Web Funktionalitäten vereinfacht wird. Die Größe der Community sowie die verfügbaren Instruktionen sind
 noch nicht so populär wie jene von Unity, befinden sich jedoch in einer exponentiellen Wachstumsphase. Die Benutzeroberfläche vereint Elemente von Unity,
 Photoshop und Cinema 4D in sich und ermöglicht dem Entwickler durch direkte WYSIWYG Manipulationen das jeweilige Projekt zu editieren. Ein weiterer Vorteil für
 die Entwicklung von WebVR und die Kollaboration mit weiteren Teammitgliedern manifestiert sich in der direkten Freigabe des jeweiligen Projektes im Webbrowser
 sowie der Möglichkeit Teammitglieder in Projekte einzuladen. Weitere Technologien und Scripte zur Optimierung der jeweiligen Szenerie, ähnlich wie bei Unity,
 sind bereits in der Software enthalten.</p>
-
-      <ul>
-        <li>Webseite</li>
-        <li>Community</li>
-        <li>Doku- und/oder API</li>
-      </ul>
 
       <div class="c-columns">
         <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
@@ -745,7 +806,8 @@ sind bereits in der Software enthalten.</p>
 
             <h5>Chancen</h5>
             <ul>
-              <li>Weitgehend alle positiven Faktoren der bisherigen Anwendungen</li>
+              <li>Weitgehend alle positiven Faktoren der bisher vorgestellten Anwendungen</li>
+              <li><strong>43</strong> Mal so schnell wie Unity</li>
             </ul>
 
           </div>
@@ -768,7 +830,7 @@ sind bereits in der Software enthalten.</p>
 audiovisuellen Konzepten eine Schwierigkeitsstufe erreicht, welche nur durch die Nutzung von ausreichenden Programmierkenntnissen überwunden werden kann. Das
 D!=P Dilemma bezeichnet dabei die Vorstellungen des Designers und die Möglichkeiten bzw. (zeitlichen) Rahmenbedingungen diese zu realisieren, welche häufig
 durch Programmierer relativ präzise abgesteckt werden können. Im Themenbereich Webdesign, App Entwicklung, oder Produktdesign kann dies durch die Nutzung von
-MockUp Tools (z.B. Marvel App), Animationen, oder Renderings überbrückt werden. Bei der Entwicklung von Virtual Reality Erlebnissen ist dies nicht mehr möglich,
+MockUp Tools (z.B. <span class="c-ref" data-ref-source-id="301" data-ref-type="bsp" data-ref-desc="">Marvel App</span>), Animationen, oder Renderings überbrückt werden. Bei der Entwicklung von Virtual Reality Erlebnissen ist dies nicht mehr möglich,
 weil das Gefühl der Immersion auf die bewertende Person (z.B. Anwender, Kunde) übertragen werden muss. Um nachhaltige VR Erlebnisse zu kreieren, welche
 eindrucksvolle Erlebnisse erzeugen wird dementsprechend entweder ein Team, oder tendenziell mehr Zeit benötigt, um erste effektive Prototypen zu erzeugen.
 Obwohl Tools wie PlayCanvas vorteilhaft für einen ersten guten Einblick in das Themengebiet sind, so erfordern in fortgeschrittenen Applikationen selbst einfach
@@ -799,8 +861,7 @@ Die Probleme bei der strukturierten Planung ist die Variable der etwaigen, techn
 Vorstellungen umzusetzen, welche den Entwicklungsprozess entscheidend verlangsamten. Bestimmte Prinzipien der agilen Entwicklung, welche sich auch in der
 Softwarebranche als immer beliebter abzeichnet (z.B. durch die Nutzung von Scrum), werden daher zur Entwicklung genutzt. Anders als im ersten Anlauf wird nun
 versucht eine virtuelle Welt zu erzeugen, welche sich in einzelnen Schritten, in einem organischen Prozess durch Funktionalitäten erweitert. Diese Fortschritte
-werden in einem sog. Development Log dokumentiert und mit den jeweiligen Ressourcen zu den jeweiligen Entscheidungen ergänzt. Im Vordergrund der agilen
-Entwicklung stehen vier Grundregeln wovon speziell drei entscheidend sind:</p>
+werden dokumentiert und mit den zugehörigen Ressourcen ergänzt. Im Vordergrund der agilen Entwicklung stehen vier Grundregeln wovon speziell drei entscheidend sind:</p>
 
       <blockquote>
         <ul>
@@ -811,19 +872,78 @@ Entwicklung stehen vier Grundregeln wovon speziell drei entscheidend sind:</p>
         </ul>
         <p>That is, while there is value in the items on the right, we value the items on the left more.</p>
         <cite>Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith Andrew, Hunt Ron,
-Jeffries Jon, Kern Brian, Marick Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas</cite>
+Jeffries Jon, Kern Brian, Marick Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, <span class="c-ref" data-ref-source-id="302" data-ref-type="zitat" data-ref-desc="">Dave Thomas</span></cite>
       </blockquote>
 
+      <p>An dieses Verfahren und seine Grundregeln angelehnt wird im Anschluss versucht in möglichst kleinen Untersuchungen die artifiziellen Umgebungen in Wechselwirkung zu erstellen und zu analysieren.</p>
 
-      <h3>Log Tag 1 - 19.03.2017</h3>
+
+      <h3>Tag 1</h3>
 
       <p>Das Tagesziel besteht darin eine virtuelle Welt zu erstellen, welche über einen Mechanismus zur Fortbewegung verfügt. Nach einem Research wird sich
-dazu entschieden die Teleportation als Fortbewegungsmethode zu wählen. Als Grundlage dient das Web VR Lab vom PlayCanvas Entwicklungsteam. Um das Development
+dazu entschieden die Teleportation als Fortbewegungsmethode zu wählen. Als Grundlage dient das <span class="c-ref" data-ref-source-id="303" data-ref-type="zitat" data-ref-desc="">Web VR Lab</span> vom PlayCanvas Entwicklungsteam. Um das Development
 Tool PlayCanvas in seiner Funktionsweise zu erlernen und die Programmierung besser zu verstehen wird zunächst der Quellcode des Web VR Labs analysiert und
 stückweise reproduziert. Wichtige Aspekte bei der Erstellung der Umgebung ist die gleichzeitige Nutzung für 0 DOF, 3 DOF, damit die Szenerie auch am Desktop
 Rechner bearbeitet werden kann. Zur Interaktion für den 3 DOF Controller wird ein PlayCanvas Modell verwendet, welches den physischen Controller ebenfalls in
 der virtuellen Welt, in abstrahierter Form darstellt. Zur Aktivierung der Stereoskopie werden ebenfalls Funktionalitäten bereitgestellt. Diese befinden sich in
 der unteren rechten Ecke des Browserfensters und aktivieren den Virtual Reality Modus.</p>
+
+<ol class="u-red">
+  <li>Hello World
+    <ol>
+      <li>Beispiele
+        <ol>
+          <li>Aframe</li>
+          <li>WebVR Lab</li>
+          <li>VR.with.in</li>
+        </ol>
+      </li>
+      <li>Verschiedene Devices (No-VR, 0DOF, 3DOF) -> Controller (Drag and Drop)</li>
+      <li>Bewegung</li>
+      <li>Interaktion</li>
+      <li>Coop / Avatare</li>
+    </ol>
+  </li>
+  <li>Photosphäre
+    <ol>
+      <li>Beispiel
+        <ol>
+          <li>https://www.ideaspacevr.org/themes/ </li>
+        </ol>
+      </li>
+      <li>Ein Bild (Wohnung)</li>
+      <li>Interface Switch mehrere Bilder (diverse Bilder / 1 abgefahrenes bild (strand oder so))</li>
+      <li>Interface Switch mit Anmerkungen und positionierten Interfaces (Tour durch Wohnung)</li>
+    </ol>
+  </li>
+  <li>Videosphäre (Video extern)
+    <ol>
+      <li>Beispiele
+        <ol>
+          <li>Mr Robot -> Sam Ismail</li>
+          <li>Der Flüchtlingstyp vom TED Talk mit den 3D videos</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Interface
+    <ol>
+      <li>Popup Grafiken</li>
+    </ol>
+  </li>
+  <li>Explosion on Button
+    <ol>
+      <li>Mit 3d Sound</li>
+    </ol>
+  </li>
+  <li>Change World on Button
+    <ol>
+      <li>Animation (rotierende Würfel maybe ?! :D)</li>
+    </ol>
+  </li>
+</ol>
+
+
 
       <h2>Resumé</h2>
 
@@ -844,9 +964,44 @@ einloggen
 kann. Cloud Computing wird bereits für eine Vielzahl von Anwendungen z.B. zur Kollaboration genutzt. Somit könnte die Rechenleistung der einzelnen Smartphones
 entlastet werden und sich fokussiert auf das immersive Erlebnis des jeweiligen Nutzers konzentrieren.</p>
 
+    <blockquote>
+      <p>My mom saw a piece I did for the first time. She came out of the experience and she said, “Oh my gosh. This is a brain thing.” Skeptical people come in and they say, “What you got?” They go into the experience and their jaw just drops. VR is its own medium. It’s not going to hurt any other medium. You’re going to see a lot of traditional-media folks trying to get it to work in their domain, and they may succeed in some ways, but in what ways I’m not sure. I don’t know. But something really special is happening.</p>
+      <cite><span class="c-ref" data-ref-source-id="283" data-ref-type="zitat" data-ref-desc="">Jessica Brillhart</span> auf die Frage ob VR den klassischen Film ablösen wird</cite>
+    </blockquote>
+
+    <div class="c-person">
+      <div class="c-person__object">
+        <img class="c-person__image" src="./assets/img/brillhart.jpg" alt="Jessica Brillhart"
+data-source="https://www.technologyreview.com/s/603468/imagining-the-future-of-vr-at-google/"/>
+      </div>
+      <div class="c-person__content">
+        <h4 class="c-person__name">Jessica Brillhart</h4>
+        <p class="c-person__bio">Seit 2009 ist sie Mitglied in Google's Creative Lab mit dem sie viele Auszeichnungen gewinnen konnte. Im Anschluss tritt sie 2015 dem Google VR Team als leitende Filmmacherin bei. Sie gilt als eine der Pioniere in der Kreation von VR <span class="c-ref" data-ref-source-id="291" data-ref-type="ref" data-ref-desc="" data-ref-hide-source>Inhalten.</span> Ihre Arbeitsweise konzentriert sich vor allem auf neuartige, experimentelle Techniken speziell bei dem Arrangement von Film Materialien und der <span class="c-ref" data-ref-source-id="292" data-ref-type="ref" data-ref-desc="" data-ref-hide-source>Erzählstruktur.</span></p>
+      </div>
+    </div>
+
+
+
+    <div class="c-video">
+      <iframe class="c-video__item" src="https://www.youtube.com/embed/xPhdLz2Ebfw?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+      <img class="c-video__overlay" src="https://img.youtube.com/vi/xPhdLz2Ebfw/hqdefault.jpg" alt=""/>
+    </div>
+
+    <div class="c-notes-marginal">
+      <div class="c-notes-marginal__item">
+        <span class="c-ref" data-ref-source-id="293" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
+      </div>
+    </div>
+
+    <p>In diesem Beispiel kann der aufmerksame Betrachter erkennen wie bei dem zusammenfügen der Szenen eine visuelle, subtile Verbindung zwischen den einzelnen Szenen geschaffen wird. Obwohl es sich um eine filmische Erzählung handelt ist diese Art von VR Content ebenfalls <span class="c-ref" data-ref-source-id="295" data-ref-type="bsp" data-ref-desc="">relevant</span> für das Erzeugen von artifiziellen Realitäten, indem durch subtile Manipulationen des Mediums gezielte Reize des Anwenders angesprochen werden können. Die Szenen fügen sich harmonisch aneinander, obwohl sie an völlig verschiedenen Orten aufgenommen wurden und keine offensichtliche Verbindung aufweisen.</p>
+
+    <p>Aus subjektiver Sicht wird viel darüber diskutiert, ob die neuen HMD Medien die Klassischen in Zukunft ablösen werden. Dies ist genau wie es Jessica Brillhart beschreibt, auch meiner Meinung nach ein Trugschluss. VR wird sich einfügen und Anwendungsgebiete besetzen in denen das Medium glänzen kann. Nur weil etwas in das Sichtfeld projiziert werden kann heisst es nicht automatisch, dass dies auch besser ist als bereits etablierte, klassische Medien. Der Anwendungszweck und der Inhalt müssen adäquat repräsentiert werden, dann haben die neuen Medien eine Chance bestimmte Themenfelder besser zu transportieren, als bereits etablierte Medien. In der zukünftigen Entwicklung gilt es speziell für Designer herauszufinden, in welchen Nieschen sich diese Anwendungszwecke manifestieren und wie diese am effektivsten transportiert werden können.</p>
+
     </div>
   </div>
 </div>
+
+<br/>
 
 <div class="o-container-small">
   <div class="o-grid">
@@ -855,7 +1010,7 @@ entlastet werden und sich fokussiert auf das immersive Erlebnis des jeweiligen N
       <div class="c-sources">
 
         <h2>Quellen</h2>
-        <p>Alle Web Adressen wurden am 18. März 2017 final überprüft und abgerufen.</p>
+        <p>Alle Web Adressen wurden am 29. März 2017 final überprüft und abgerufen.</p>
 
         <h3>Literatur</h3>
         <div class="c-sources__literature  c-columns  c-columns--literature">
@@ -914,7 +1069,12 @@ entlastet werden und sich fokussiert auf das immersive Erlebnis des jeweiligen N
           <div class="c-tool">
             <div class="c-tool__title">Atom</div>
             <div class="c-tool__org">GitHub</div>
-            <div class="c-tool__desc">Editor für jegliche Programmierung.</div>
+            <div class="c-tool__desc">Editor für jegliche Programmierung abgesehen von WebGL.</div>
+            <a class="c-tool__link" href="https://atom.io/" target="tab">https://atom.io/</a>
+          </div>
+          <div class="c-tool">
+            <div class="c-tool__title">PlayCanvas</div>
+            <div class="c-tool__desc">WebGL Programmierung und Gestaltung.</div>
             <a class="c-tool__link" href="https://atom.io/" target="tab">https://atom.io/</a>
           </div>
           <div class="c-tool">

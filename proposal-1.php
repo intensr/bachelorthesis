@@ -50,17 +50,17 @@
       </div>
 
       <h2>Abstract</h2>
-      <p>Das Proposal beschäftigt sich mit einem etwaigen, gesellschaftlichen Paradigmenwechsel, induziert durch das revitalisierte Themenfeld Virtual Reality
+      <p>Das Proposal beschäftigt sich mit einem etwaigen gesellschaftlichen Paradigmenwechsel, induziert durch das revitalisierte Themenfeld Virtual Reality
 (VR) in Verbindung mit Webbrowser Technologien (WebVR). Als fundamentale Grundlage der Analyse dienen bedeutende Entwicklungen der Computer- und
-Softwarebranche, mit besonderem Fokus auf die Korrelation der Aspekte von Technik und Performance (Leistungsfähigkeit), Design und Darstellung sowie Soziologie
-und Ethik. Weitergehend werden Möglichkeiten und Hürden erörtert, welche sich durch die exklusive Nutzung von WebVR Technologien erschließen und inwiefern sich
+Softwarebranche mit besonderem Fokus auf die Korrelation der Aspekte von Technik und Performance (Leistungsfähigkeit), Design und Darstellung sowie Soziologie
+und Ethik. Ferner werden Möglichkeiten und Hürden erörtert, welche sich durch die exklusive Nutzung von WebVR Technologien erschließen und inwiefern sich
 diese auf die Usability (Gebrauchstauglichkeit) und User Experience (Nutzungserlebnis) auswirken. Abschließend werden mögliche Ansätze bzw. Entwicklungen
 eruiert und in Aussicht gestellt.</p>
 
       <ul>
         <li>Welche Technologien (speziell aus dem Softwarebereich) sind für die Beeinflussung unserer Gesellschaft zeitgeistig (kürzliche Vergangenheit,
-aktuell, naher Zukunft) prominent?</li>
-        <li>Warum spielen Softwares so eine prominente Rolle in unserer Gesellschaft?</li>
+aktuell, nahe Zukunft) prominent?</li>
+        <li>Warum spielen Softwares eine so prominente Rolle in unserer Gesellschaft?</li>
         <li>Wieso sind die Entwicklungen der Softwarebranche maßgeblich für diese Arbeit?</li>
         <li>Wie sind die Einflüsse der bereits implementierten Technologien zu bewerten?</li>
         <li>Was kann aus den Entwicklungen der Vergangenheit gelernt werden?</li>
@@ -68,21 +68,21 @@ aktuell, naher Zukunft) prominent?</li>
           <div class="c-li-lead__content">Auf welche Kriterien kommt es bei zukünftigen Entwicklungen an?</div>
           <ul>
             <li>Wie wichtig ist eine reflektierte Auseinandersetzung mit gesellschaftlichen Einflüssen durch Software?</li>
-            <li>Spielt die Auseinandersetzung mit vergangenen Software Entwicklungen eine tragende Rolle bei der Erforschung neuer Software Zweige (konkret
+            <li>Spielt die Auseinandersetzung mit vergangenen Softwareentwicklungen eine tragende Rolle bei der Erforschung neuer Softwarezweige (konkret
 <abbr title="Virtual Reality">VR</abbr>)?</li>
           </ul>
         </li>
-        <li><strong>Hat Web Virtual Reality das Potenzial unsere Gesellschaft maßgeblich zu beeinflussen bzw. mitzugestalten?</strong></li>
+        <li><strong>Hat Web Virtual Reality das Potential, unsere Gesellschaft maßgeblich zu beeinflussen bzw. mitzugestalten?</strong></li>
       </ul>
 
       <h2>Inhalt</h2>
       <ol class="c-table-of-contents">
         <li>Abstract</li>
-        <li>Motivation &amp; Leitfragen</li>
-        <li>Aufbau &amp; Struktur</li>
+        <li>Motivation und Leitfragen</li>
+        <li>Aufbau und Struktur</li>
         <li class="c-li-lead">Kapitel <strong>Beschleunigung von und mit Software</strong></li>
         <li class="c-li-lead">
-          <div class="c-li-lead__content">Kapitel <strong>Der Aufstieg von Software und seine Pioniere</strong></div>
+          <div class="c-li-lead__content">Kapitel <strong>Der Aufstieg von Softwares und deren Pioniere</strong></div>
           <ol>
             <li>Digitale Rechenmaschinen</li>
             <li>Turnhallen Computer</li>
@@ -104,12 +104,12 @@ aktuell, naher Zukunft) prominent?</li>
         <li class="c-li-lead">
           <div class="c-li-lead__content">Kapitel <strong>WebVR</strong></div>
         </li>
-        <li>Resumé</li>
+        <li>Resümee</li>
         <li>Quellen</li>
         <li>Versicherung</li>
       </ol>
 
-      <h2>Motivation &amp; Kernfragen</h2>
+      <h2>Motivation und Kernfragen</h2>
       <p>In der kargen Szenerie einer Wüstenlandschaft lebt eine Gruppe von Urmenschen. Obwohl die Gruppe friedlich mit Tieren und der Umwelt zusammenlebt,
 wird
 der rudimentäre Alltag durch den Kampf um das nackte Überleben bestimmt. Die Situation wird durch Angriffe von einem wilden Leopard, welcher ein Mitglied der
@@ -119,8 +119,8 @@ Gruppe fürchtet sich zunächst vor dem unnatürlich wirkenden Objekt, begutacht
 Gruppe verdeutlichen sich, als ein Mitglied beim Experimentieren mit alten Knochen die Idee ereilt, diese als Werkzeug bzw. Waffe zu verwenden. Infolgedessen
 zertrümmert der Urmensch mit einem großen Hüftknochen den Schädel und die restlichen Teile des Skeletts, welches die bevorstehende Bewusstseinsveränderung der
 gesamten Gruppe symbolisiert.</p>
-      <p class="o-p--tie">Mit der nächsten Szene entwickelt sich der Mensch, durch die Tötung und Verspeisung eines der einst in friedlicher Gemeinschaft
-lebenden Tapire, zum Jäger.</p>
+      <p class="o-p--tie">Innerhalb der nächsten Szene entwickelt sich der Mensch durch die Tötung und Verspeisung eines der einst in friedlicher Gemeinschaft
+lebenden Tapire zum Jäger.</p>
       <p class="o-p--tie">In der Schlusssequenz begibt sich die Gruppe zur Wasserstelle, um ihre Rivalen zu vertreiben. In der daraus resultierenden
 Konfrontation erschlägt die Gruppe den feindlichen Anführer mit dem zur Waffe umfunktionierten Knochen. Triumphierend schleudert der neu entstandene Homofaber
 sein Werkzeug in den Himmel.</p>
@@ -140,7 +140,7 @@ sein Werkzeug in den Himmel.</p>
       </div>
 
       <p>Die symbolisch aufgeladene <span class="c-ref" data-ref-source-id="1" data-ref-type="ref" data-ref-hide-kneenote>Einleitung</span> von Stanley Kubricks <span
-class="c-ref" data-ref-source-id="183" data-ref-type="ref" data-ref-hide-kneenote>2001 - A Space Odyssey</span>, reflektiert auf simple Weise den repetitiven
+class="c-ref" data-ref-source-id="183" data-ref-type="ref" data-ref-hide-kneenote>2001 – A Space Odyssey</span>, reflektiert auf simple Weise den repetitiven
 Entwicklungszyklus der Menschheitsgeschichte mit Hilfe von metaphorisch konnotierten Bewegtbild-Szenen. Sie stehen als Sinnbild für die kulturelle und
 gesellschaftliche Entwicklung des Menschen durch die kontinuierliche Fluktuation und Wechselwirkung technologischer Errungenschaften.</p>
 
@@ -156,56 +156,56 @@ Gesellschaft. Vergleichbar mit Apples iPhone existieren in der Geschichte weiter
 Erfindung weitere Technologien und Entwicklungen erst ermöglicht werden. Beispielsweise eröffnet das iPhone ein völlig neues Marktsegment der sogenannten
 Smartphones, welches in dieser Weise vorher nicht vorhanden war.</p>
 
-      <p class="o-p--tie">Eine entscheidende Komponente für erfolgreiche Produkte, basiert auf der Nutzung von Software, nicht nur als Bestandteil des finalen
+      <p class="o-p--tie">Eine entscheidende Komponente für erfolgreiche Produkte basiert auf der Nutzung von Software nicht nur als Bestandteil des finalen
 Produkts sondern
-ebenfalls als Grundlage des Konzeptions- und Produktionsprozesses. Trotz ihres enormen, allgegenwärtigen Einflusses und Verankerung im Alltag erscheint
+ebenfalls als Grundlage des Konzeptions- und Produktionsprozesses. Trotz ihres enormen allgegenwärtigen Einflusses und Verankerung im Alltag erscheint
 Software dennoch oft unscheinbar bzw. <span class="c-ref" data-ref-source-id="4" data-ref-type="vgl" data-ref-desc="S.21">unsichtbar.</span></p>
-      <p class="o-p--tie">Sie ermöglicht die Berechnung von mathematischen Formeln zur Flugbahn Koordination von Satelliten in Echtzeit, steuert die
-Lichtsignalanlagen des Automobil Verkehrs weitgehend autonom und expandiert dabei kontinuierlich. So wird sie in absehbarer Zeit die Kontrolle von Fahrzeugen
-weiter optimieren bzw. in Zukunft gegebenenfalls sogar vollständig übernehmen.</p>
-      <p class="o-p--tie">Ebenfalls kaschiert sie Befehlsstrukturen durch visuelle Eingabemasken und transportiert Nachrichten, Bilder-, Audio- sowie
+      <p class="o-p--tie">Sie ermöglicht die Berechnung von mathematischen Formeln zur Flugbahnkoordination von Satelliten in Echtzeit, steuert die
+Lichtsignalanlagen des Automobilverkehrs weitgehend autonom und expandiert dabei kontinuierlich. So wird sie in absehbarer Zeit die Kontrolle von Fahrzeugen
+weiter optimieren bzw. in Zukunft sogar vollständig übernehmen.</p>
+      <p class="o-p--tie">Ebenfalls kaschiert Software Befehlsstrukturen durch visuelle Eingabemasken und transportiert Nachrichten, Bilder-, Audio- sowie
 Videodateien durch Glasfaserkabel. Sie stellt damit nicht nur die Grundlage zeitgenössischer Schöpfungsprozesse der Kreativbranche dar, sondern die Grundlage
-jeglicher, primärer Medien in einer Vielzahl an Anwendungsbereichen und gesellschaftlichen Konstrukten.</p>
+jeglicher primärer Medien in einer Vielzahl von Anwendungsbereichen und gesellschaftlichen Konstrukten.</p>
 
-      <h2>Aufbau &amp; Struktur</h2>
+      <h2>Aufbau und Struktur</h2>
 
-      <p>Zunächst beschäftigt sich der folgende Abschnitt mit der Beschleunigung durch technologische Errungenschaften anhand des Diskussion im Themenbereich
-der Technologischen Singularität (TS). Dort werden erste Bezüge zu den wichtigen Persönlichkeiten und deren Standpunkte im kulturellen und technologischen
+      <p>Zunächst beschäftigt sich der folgende Abschnitt mit der Beschleunigung durch technologische Errungenschaften anhand der Diskussion im Themenbereich
+der technologischen Singularität (TS). Dort werden erste Bezüge zu den wichtigen Persönlichkeiten und deren Standpunkte im kulturellen und technologischen
 Entwicklungsprozess dargestellt.</p>
-      <p class="o-p--tie">Darauf folgt die Erläuterung des Aufstiegs von leistungsstarker Software und die retrospektive Untersuchung nachhaltig maßgeblicher,
-gesellschaftlich wirksamer Technologien. Ein besonderer Fokus liegt auf den Autoren und Protagonisten (Alan Kay, Ivan Sutherland, Alan Turing, usw.) <span
+      <p class="o-p--tie">Darauf folgt die Erläuterung des Aufstiegs von leistungsstarker Software und die retrospektive Untersuchung nachhaltig maßgeblicher
+gesellschaftlich wirksamer Technologien. Ein besonderer Fokus liegt auf den Autoren und Protagonisten (Alan Kay, Ivan Sutherland, Alan Turing usw.) <span
 class="c-ref" data-ref-source-id="5" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>“The New Media Reader”</span>
 sowie weiteren wichtigen Schlüsselfiguren der im Werk definierten Epoche des Sammelwerkes und den darauf aufbauenden Beobachtungen von Lev
-Manovich. Durch die Betrachtung der kulturellen Entwicklungen und Ereignisse werden dessen Besonderheiten und Auffälligkeiten extrahiert, sowohl im
+Manovich. Durch die Betrachtung der kulturellen Entwicklungen und Ereignisse werden deren Besonderheiten und Auffälligkeiten extrahiert. Sowohl im
 großflächigen Bezug auf die allgemeine Gesellschaft und ebenfalls jene der sogenannten “Hacker- bzw. Designszene”.</p>
-      <p class="o-p--tie">Anschließend wird überprüft, ob sich diese auf den Themenbereich der Web Virtual Reality (WebVR) übertragen lassen, bzw. Parallelen
-zu den erfolgreichen Software Konzepten existieren. Damit soll ggf. verifiziert werden, ob vergleichbare Paradigmenwechsel durch WebVR möglich sind.
-Zugrundeliegende und an WebVR angrenzende Themenbereiche, wie beispielsweise Artifizielle Realitäten (Virtual- Augmented- sowie Mixed Reality), Internet,
-Cyberspace, etc., sind dabei von besonderem Interesse.</p>
-      <p class="o-p--tie">Im abschließenden Resumé werden die Erkenntnisse der gesamten Arbeit zusammengeführt und die Antwort auf die zugrundeliegende
+      <p class="o-p--tie">Anschließend wird überprüft, ob sich diese auf den Themenbereich der Web Virtual Reality (WebVR) übertragen lassen bzw. Parallelen
+zu den erfolgreichen Softwarekonzepten existieren. Damit soll ggf. verifiziert werden, ob vergleichbare Paradigmenwechsel durch WebVR möglich sind.
+Zugrunde liegende und an WebVR angrenzende Themenbereiche, wie beispielsweise artifizielle Realitäten (Virtual- Augmented- sowie Mixed Reality), Internet,
+Cyberspace etc., sind dabei von besonderem Interesse.</p>
+      <p class="o-p--tie">Im abschließenden Resümee werden die Erkenntnisse der gesamten Arbeit zusammengeführt und die Antwort auf die zugrunde liegende
 Fragestellung eruiert. Etwaig ethische Konsequenzen und mögliche Auswirkungen der gesellschaftlichen Paradigmenwechsel werden primär untersucht.</p>
 
       <h2>Beschleunigung von und mit Software</h2>
 
-      <p>Die Ursprünge der Software beginnen vor jener eigentlichen Entwicklung, bereits in der zweiten Hälfte des 18ten Jahrhunderts, während den Anfängen der
+      <p>Die Ursprünge der Software beginnen vor jener eigentlichen Entwicklung bereits in der zweiten Hälfte des 18. Jahrhunderts während der aufkommenden
 industriellen Revolution. Diese gilt rückblickend als <span class="c-ref" data-ref-source-id="6" data-ref-type="vgl" data-ref-desc="S.99">vergleichend
 einschneidend</span>, wie die Entwicklung des menschlichen Nomadenlebens zur Sesshaftigkeit. Die
 relevanten Eigenschaften der industriellen Revolution für die Entwicklung von Software manifestieren sich durch die <span class="c-ref" data-ref-source-id="185"
 data-ref-type="vgl" data-ref-desc="S.502–503">Beschleunigung von Technik, Produktivität
 und Wissenschaft.</span></p>
       <p class="o-p--tie">Noch deutlicher zeichnen sich diese Entwicklungen mit der steigenden Potenz der Rechenleistung in Computersystemen ab, worauf der
-Intel-Mitbegründer Gordon E. Moore erstmals 1964 hinweist. Im sog. Mooreschen Gesetz (Moore's Law) verweist er darauf, dass sich die Rechenleistung, welche für
-1.000 US-Dollar erhältlich ist, sich in immer kürzer werdenden Zeitintervallen, seit ca. 1940, <span class="c-ref" data-ref-source-id="184"
-data-ref-type="ref">verdoppelt</span>. Dies zuletzt alle 18-22 Monate und
-bisher um zwölf dezimale Größenordnungen, basierend auf empirischen Beobachtungen.</p>
+Intel-Mitbegründer Gordon E. Moore erstmals 1964 aufmerksam wird. Im sog. mooreschen Gesetz (Moore's Law) verweist er darauf, dass sich die Rechenleistung, welche für
+1.000 US-Dollar erhältlich ist in immer kürzer werdenden Zeitintervallen seit ca. 1940 verdoppelt. Dies zuletzt alle 18-22 Monate und
+bisher um zwölf dezimale Größenordnungen, basierend auf <span class="c-ref" data-ref-source-id="184"
+data-ref-type="ref">empirischen Beobachtungen.</span></p>
 
       <img src="./assets/img/mooreslaw.png" alt="Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's
-law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth."/>
+law – the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth."/>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
           <span class="c-ref" data-ref-source-id="10" data-ref-type="vgl" data-ref-desc="Transistor counts for integrated circuits plotted against their dates of
-introduction. The curve shows Moore's law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential
+introduction. The curve shows Moore's law – the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential
 growth." data-ref-hide></span>
         </div>
       </div>
@@ -229,22 +229,21 @@ exponentielle Entwicklungsbeschleunigung auf.</p>
       <p class="o-p--tie">Ray Kurzweil, Vertreter der Technologischen Singularität (TS) Theorie und Leiter der technischen Entwicklung bei Google, nutzt dies
 in seinen <span class="c-ref" data-ref-source-id="13" data-ref-type="bsp">literarischen Werken</span> und seinem <span class="c-ref" data-ref-source-id="12"
 data-ref-type="ref">TED Talk</span> als Grundlage seiner Argumentation. Er prognostiziert, dass selbst
-wenn das Mooresche Gesetz ersetzt wird, oder sich die Paradigmen den gesetzlichen Gegebenheiten der Zeit anpassen müssen, die Quintessenz dieser Entwicklungen
+wenn das Mooresche Gesetz ersetzt wird oder sich die Paradigmen den gesetzlichen Gegebenheiten der Zeit anpassen müssen die Quintessenz dieser Entwicklungen
 und Beobachtungen erhalten bleibt. Martin Strobel, Business Development Manager bei Intel, stützt diese These 2009 indirekt, im Bezug auf den Fortbestand der
-essentiellen Gültigkeit des Mooreschen Gesetzes, in <span class="c-ref" data-ref-source-id="14" data-ref-type="ref" data-ref-desc="Martin Strobel im ">absehbarer
+essentiellen Gültigkeit des mooreschen Gesetzes in <span class="c-ref" data-ref-source-id="14" data-ref-type="ref" data-ref-desc="Martin Strobel im ">absehbarer
 Zukunft.</span> Alternativen zu den Transistoren könnten in Zukunft dreidimensionale integrierte
 Schaltkreise, Spintronik, Supraleiter oder Quantencomputer darstellen.</p>
-      <p class="o-p--tie">Die exponentielle technische Beschleunigung mit Hilfe von Technologie bzw. Computersystemen, angedeutet im Mooreschen Gesetz und den
+      <p class="o-p--tie">Die exponentielle technische Beschleunigung mit Hilfe von Technologie bzw. Computersystemen, angedeutet im mooreschen Gesetz und den
 Beobachtungen der Industriellen Revolution, dienen als weitere Grundlagen für die Theorie der <span class="c-ref" data-ref-source-id="15" data-ref-type="ref"
-data-ref-desc="Wiki: ">Technologischen Singularität.</span> Der Begriff wurde erstmals
-namentlich geprägt durch <span class="c-ref" data-ref-source-id="16" data-ref-type="ref" data-ref-desc="">Vernor Vinge.</span> Dabei geht die erste bekannte Erwähnung
+data-ref-desc="Wiki: ">Technologischen Singularität.</span> Die namentl. Begriffsbestimmung wurde
+erstmals geprägt von <span class="c-ref" data-ref-source-id="16" data-ref-type="ref" data-ref-desc="">Vernor Vinge.</span> Dabei geht die erste bekannte Erwähnung
 der Theorie auf eine 1958 stattfindende Unterhaltung zwischen
-Stanislaw Ulam und John von Neumann <span class="c-ref" data-ref-source-id="187" data-ref-type="ref" data-ref-desc="S.5 ">zurück.</span> Die technologische
-Singularität beschreibt den Zeitpunkt, ab dem Maschinen mittels künstlicher Intelligenz (AI/KI)
+Stanislaw Ulam und John von Neumann <span class="c-ref" data-ref-source-id="187" data-ref-type="ref" data-ref-desc="S.5 ">zurück.</span> Die <abbr title="Technologische Singularität">TS</abbr> beschreibt den Zeitpunkt, ab dem Maschinen mittels künstlicher Intelligenz (AI/KI)
 den menschlichen Horizont überschreiten und sich dazu befähigen, sich selbst zu verbessern. Dadurch soll der technologische Fortschritt derart beschleunigt
 werden, dass der Mensch als solches nicht mehr in der Lage sein wird, diese Entwicklungsprozesse nachzuvollziehen. Auffallend bei der Analyse der Theorie ist,
 dass ein Großteil ihrer Befürworter fundamentale sowie gleichermaßen herausragende Beiträge zu den Feldern der Logik, Mathematik, Informatik, Quantenmechanik
-und weiteren technologie- affinen Feldern leisten bzw. leisteten. Irving John Good, ebenfalls renommierter Mathematiker und Kollege von Alan Turing, beschreibt
+und weiteren technologieaffinen Feldern leisten bzw. leisteten. Irving John Good, ebenfalls renommierter Mathematiker und Kollege von Alan Turing, beschreibt
 sie wie folgt:</p>
 
       <blockquote>
@@ -264,23 +263,23 @@ data-ref-hide-kneenote>Terminator</span>,
 data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Ex Machina</span>, <span class="c-ref" data-ref-source-id="26" data-ref-type="ref" data-ref-desc=""
 data-ref-hide-kneenote>DeusEx</span>,
   <span class="c-ref" data-ref-source-id="27" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Portal</span> usw. wird diese Thematik auf verschiedene
-Weisen behandelt, oft mit dystopischen Tendenzen. Die
-möglichen Konsequenzen solcher Auswirkungen und zukünftiger Entwicklungen sind die Grundlage fundamentaler Diskussionen.</p>
+Weisen behandelt, oft auch mit dystopischen Tendenzen. Die
+möglichen Konsequenzen solcher Auswirkungen und zukünftiger Entwicklungen sind bilden die Grundlage fundamentaler Diskussionen.</p>
 
-      <p class="o--p-tie werner">Wie alle unbewiesenen Theorien muss sich auch die Technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
-Mooreschen Gesetzes und dessen selbstbestimmtes Ende, entfernen sich dessen ehemals akkuraten Leistungswerte denen der heutigen Realität. Dies führt von
+      <p class="o--p-tie werner">Wie alle unbewiesenen Theorien muss sich auch die technologische Singularität diversen Kritikpunkten aussetzen. Durch die aufgelockerte Auslegung des
+mooreschen Gesetzes und dessen selbstbestimmten Endes, entfernen sich die ehemals akkuraten Leistungswerte von denen der heutigen Realität. Dies führt von
 messbaren Ergebnissen zu einer <span class="c-ref" data-ref-source-id="28" data-ref-type="ref" data-ref-desc="">generellen Tendenz</span> und schwächt somit den
 wissenschaftlichen Charakter der <abbr title="Technologische Singularität">TS</abbr>-Theorie. Auch ökonomische und entwicklungsbedingte
-Gegebenheiten sprechen teilweise gegen die <abbr title="Technologische Singularität">TS</abbr> aus, in beispielsweise sog. <span class="c-ref" data-ref-source-id="29"
-data-ref-type="ref" data-ref-desc="">Diminishing Returns</span> nach Paul Allan, oder sog. <span class="c-ref" data-ref-source-id="188" data-ref-type="vgl"
+Gegebenheiten sprechen sich teilweise gegen die technologische Singularität aus, in beispielsweise sog. <span class="c-ref" data-ref-source-id="29"
+data-ref-type="ref" data-ref-desc="">Diminishing Returns</span> nach Paul Allan oder sog. <span class="c-ref" data-ref-source-id="188" data-ref-type="vgl"
 data-ref-desc="Feedback Loops, S.24">Feedback Loops</span> nach Andrey Korotayev.
 Allgemein wird häufig die Unwissenschaftlichkeit der Theorie angeprangert, wobei angenommen werden kann, dass dies auf Ray Kurzweils Veröffentlichungen und
-Auftreten zurückzuführen ist. Dieser trifft vermehrt absolute Aussagen, wie beispielsweise zeitliche Prognosen über das Eintreten der Singularität und dessen
-Unweigerlichkeit, oder die Verbindung von übermenschlichen Fähigkeiten mittels <abbr title="Technologische Singularität">TS</abbr> Technologien, teilweise ohne
+Auftreten zurückzuführen sind. Dieser trifft vermehrt absolute Aussagen, wie beispielsweise zeitliche Prognosen über das Eintreten der Singularität und dessen
+Unweigerlichkeit oder die Verbindung von übermenschlichen Fähigkeiten mittels <abbr title="Technologische Singularität">TS</abbr> Technologien, teilweise ohne
 wissenschaftlich verifizierte Referenz. Durch
-das Verknüpfen von Fakten und wissenschaftlicher Fiktion seiner Job Position und das eigene Engagement (Co-Founder der Singularity University) wirkt er jedoch
+das Verknüpfen von Fakten und wissenschaftlicher Fiktion, seiner Job-Position und das eigene Engagement (Co-Founder der global agierenden Singularity University) wirkt er jedoch
 authentisch und überzeugend.</p>
-      <p class="o-p--tie">Steven Pinker kanadischer Kognitionswissenschaftler und Professor für Psychologie an der Harvard University beschreibt die Situation
+      <p class="o-p--tie">Steven Pinker, kanadischer Kognitionswissenschaftler und Professor für Psychologie an der Harvard University (Cambridge, Massachusetts) beschreibt die Situation
 wie folgt:</p>
 
       <blockquote>
@@ -293,7 +292,7 @@ all your problems. (...)</p>
 
       <p>Neben den inhaltlichen und formalen Faktoren sind die absoluten Ansichten, sowohl der Befürworter und der Kritiker, Hauptbestandteil der Diskussion.
 Während beispielsweise Kurzweil verstärkt optimistische und absolutistisch anmutende Aussagen trifft, z.B. das definitive Eintreten der Singularität spätestens
-2045*, Unsterblichkeit bzw. Übermenschlichkeit sowie das Auftreten eines wahrlich singulären Zeitpunkts prognostiziert, trifft die Theorie bei einigen
+2045*, Unsterblichkeit bzw. Übermenschlichkeit sowie das Auftreten eines wahrlich singulären Zeitpunkt prognostiziert, trifft die Theorie bei einigen
 Kritikern wie Pinker auf absolute Ablehnung.
 
         <span class="c-notes-side-hook">
@@ -304,10 +303,10 @@ Kritikern wie Pinker auf absolute Ablehnung.
             <span class="c-note-side">
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">2045</strong>
-                <span class="c-note-side__text">Durch dieses Datum zeichnet sich die totalen Aussagen Kurzweils mit am stärksten ab, denn vor einigen Jahren
-hieß es noch <span class="c-ref" data-ref-source-id="12" data-ref-type="ref" data-ref-hide-kneenote>2025</span>. Unweiglich lassen sich Bezüge zu vergleichbaren pseudo
-Prognosen der Vergangenheit herstellen z.B. die Prophezeiung des Ende der Welts
-durch den Mayakalender, oder ähnliche Vorkommnisse.</span>
+                <span class="c-note-side__text">Durch dieses Datum zeichnen sich die totalen Aussagen Kurzweils mit am stärksten ab, denn vor einigen Jahren
+prognostizierte Kurzweil noch, dass die Singularität 2025 eintreffen <span class="c-ref" data-ref-source-id="12" data-ref-type="ref" data-ref-hide-kneenote>würde.</span>
+Unweiglich lassen sich Bezüge zu vergleichbaren Pseudoprognosen der Vergangenheit herstellen, z.B. die Prophezeiung des Endes der Welt
+mithilfe des Mayakalenders oder ähnliche Vorkommnisse.</span>
               </span>
             </span>
           </span>
@@ -315,39 +314,39 @@ durch den Mayakalender, oder ähnliche Vorkommnisse.</span>
 
       </p>
 
-      <p>Auch Kurzweils erweiterterten Grafiken des Mooreschen Gesetzes werden kritisiert, in denen ihnen Ungenauigkeit bzw. tendenzielle Manipulation
+      <p>Auch Kurzweils adaptierte Grafiken des mooreschen Gesetzes werden kritisiert, in denen ihnen Ungenauigkeit bzw. tendenzielle Manipulation
 unterstellt wird. In einem anonymen Artikel der Zeitschrift “The Economist” werden seine Grafiken fast schon auf satirische Weise mit der steigenden
 Klingenanzahl eines Rasierers verglichen. Es wäre wahrscheinlicher, dass deren Anzahl die Unendlichkeit erreicht, als dass jene Entwicklungen der
-Technologischen Singularität eintrete. Dabei wird der Vergleich nahegelegt, dass eine vermehrte Anzahl an Klingen nicht zwangsweise zu einer verbesserten
+<abbr title="Technologische Singularität">TS</abbr> eintrete. Dabei wird der Vergleich nahegelegt, dass eine vermehrte Anzahl an Klingen nicht zwangsweise zu einer verbesserten
 Leistung des Rasierers beitrage, ebenso steigende Rechenleistung nicht zwangsweise zu einer beschleunigten, technologischen Entwicklung führe.</p>
       <p class="o-p--tie">So amüsierend die Konfrontationen der verschiedenen Kontrahenten teilweise sind, so handelt es sich bei fast allen
-Diskussionsteilnehmern um hochdekorierte Wissenschaftler und Experten, der letzten Dekaden. Das Niveau der Diskussion ist dementsprechend trotz solcher Trivia
+Diskussionsteilnehmern um hochdekorierte Wissenschaftler und Experten, der letzten Dekaden. Das Niveau der Diskussion ist dementsprechend, trotz solcher Trivia,
 vergleichsweise hoch.</p>
 
       <img src="./assets/img/rasierklingen.gif" alt=""/>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Satirische Grafik Rasierklingen " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="190" data-ref-type="ref" data-ref-desc="Satirische Grafik Rasierklingen" data-ref-hide></span>
         </div>
       </div>
 
       <p>Aus wissenschaftlicher Perspektive müssen den Kritikern überwiegend Zugeständnisse eingeräumt werden. Die Behauptungen speziell von Kurzweil verhalten
-sich vage, tendenziell und endgültig. Exzessiven Kritikern kann höchstenfalls mangelhaftes Vorstellungsvermögen unterstellt werden, da Kurzweils experimentelle
-Ansichten eine bestimmte Affinität und Imagination implizieren.</p>
-      <p class="o-p--tie">Erfindungen aus Steven Pinkers Antithese, wie beispielsweise das Reisen mit Hilfe von Jetpacks, Unterwasserstädte oder atomgetriebene
+sich entweder sehr vage oder endgültig. Exzessiven Kritikern kann höchstenfalls mangelhaftes Vorstellungsvermögen unterstellt werden, da Kurzweils experimentelle
+Ansichten eine bestimmte Affinität und Imagination bezüglich futuristischer Vorstellungen implizieren.</p>
+      <p class="o-p--tie">Erfindungen aus Steven Pinkers Antithese, wie beispielsweise das Reisen mit Hilfe von Jetpacks (Raketenrucksack), Unterwasserstädte oder atombetriebene
 Fahrzeuge, haben sich offensichtlich nicht breitflächig durchgesetzt. Dennoch entwickeln sich Technologien, welche in Pinkers Kindheit lediglich der Science
-Fiction oder dem Militär vorbehalten sind, zum Teil zu realen Produkten oder Inspirationsquellen für diverse <span class="c-ref" data-ref-source-id="31"
+Fiction oder dem Militär vorbehalten sind zum Teil zu realen Produkten oder Inspirationsquellen für diverse <span class="c-ref" data-ref-source-id="31"
 data-ref-type="bsp" data-ref-desc="Exemplarische Beispiele von Elon Musks diversen Unternehmungen" data-ref-hide-sources>Technologien.</span> Schlussfolgernd
-behält Pinker im
+behält Pinker in
 Bezug auf den gesellschaftlichen Einfluss insofern Recht, als dass sich keine dieser Technologien zum kulturellen Leitsymbol entwickelt. Allerdings wählt er
-bewusst erfolglose Technologien ohne tieferen, gesellschaftlichen Mehrwert. Erfolgreiche Entwicklungen wie beispielsweise das Internet, mobile Computer (in
-jeglicher Form), oder elektrische, autonome Mobilität bleiben somit außen vor. Die Einführungen dieser Technologien erfolgen zum Teil rapid, im Vorraus
+bewusst erfolglose Technologien ohne tieferen und gesellschaftlichen Mehrwert. Erfolgreiche Entwicklungen wie beispielsweise das Internet, mobile Computer in
+jeglicher Form oder elektrische, autonome Mobilität bleiben somit außen vor. Die Einführungen dieser Technologien erfolgen zum Teil rapid, im Voraus
 unreflektiert, auf Basis der technologischen Beschleunigung und haben umfassende Auswirkungen auf die Gesellschaft.</p>
-      <p class="o-p--tie">Die Kritik am unwissenschaftlichen Charakter des Mooreschen Gesetzes im Kontext der technologischen Singularität ist rein faktisch
+      <p class="o-p--tie">Die Kritik am unwissenschaftlichen Charakter des mooreschen Gesetzes im Kontext der technologischen Singularität ist rein faktisch
 nachvollziehbar, allerdings bezieht sie sich primär auf die Form, anstatt auf die substantielle Anwendung der Theorie. Dass das mooresche Gesetz in seiner
 Urform vor seinem Ende steht ist allgemein bekannt, doch dies bedeutet nicht zwangsweise das Ende der exponentiellen Leistungssteigerung. Neue Paradigmen wie
-beispielsweise die Nutzung von Quantencomputern haben nicht nur das Potential die Leistungssteigerung des Mooreschen Gesetzes beizubehalten, sondern sie etwaig
+beispielsweise die Nutzung von Quantencomputern haben nicht nur das Potential die Leistungssteigerung des mooreschen Gesetzes beizubehalten, sondern sie etwaig
 zu beschleunigen.</p>
 
       <div class="c-video">
@@ -382,19 +381,19 @@ systems.</p>
         <cite><span class="c-ref" data-ref-source-id="35" data-ref-type="zitat" data-ref-desc="">Jaron Lanier</span></cite>
       </blockquote>
 
-      <p>Im Gegensatz zu Lanier, welcher sich klar gegen die Technologische Singularität positioniert, wird das Zitat von Bostrom aus dem Kontext seiner Arbeit
-entfernt. Im Gegenstand seiner Arbeit positioniert sich Bostrom zwar kritisch gegenüber der <abbr title="Technologische Singularität">TS</abbr>, aber merkt
+      <p>Im Gegensatz zu Lanier, welcher sich klar gegen die technologische Singularität positioniert, wird das Zitat von Bostrom aus dem Kontext seiner Arbeit
+entfernt. Innerhalb seiner Arbeit positioniert sich Bostrom zwar kritisch gegenüber der technologischen Singularität, merkt
 jedoch dabei an, dass es ebenso falsch wäre die
 Möglichkeit einer <abbr title="Technologische Singularität">TS</abbr> komplett auszuschließen. Weitere Quellen, wie beispielsweise James P. Hogan, sind
 teilweise ebenfalls fraglich (in diesem Fall im Bezug auf seine <span class="c-ref" data-ref-source-id="36" data-ref-type="ref" data-ref-desc=""
 data-ref-hide-kneenote>Person</span>).</p>
-      <p class="o-p--tie">Die Kritik an den AI Entwicklungen relativiert sich durch die Erfolge der letzten Jahre. Mit großen Fortschritten in den Gebieten der
+      <p class="o-p--tie">Die Kritik an den AI (Artificial Intelligence, z.d. künstliche Intelligenz) Entwicklungen relativiert sich durch die Erfolge der letzten Jahre. Mit großen Fortschritten in den Gebieten der
 Spracherkennung (Apple Siri, Google Now, <span class="c-ref" data-ref-source-id="37" data-ref-type="bsp" data-ref-desc="">Adobe #VoCo</span>) und des maschinellen
 Lernens, speziell durch die Leistungen der <span class="c-ref" data-ref-source-id="38" data-ref-type="ref" data-ref-desc="">Google DeepMind</span> Unternehmung. Der
 Sieg
 ihres gleichnamigen Algorithmus <span class="c-ref" data-ref-source-id="39" data-ref-type="ref" data-ref-desc="">AlphaGo</span> im traditionell chinesischen
-Strategiespiels Go, gegen den erfahrenen Spieler Lee Sedol, markiert einen
-<span class="c-ref" data-ref-source-id="40" data-ref-type="ref" data-ref-desc="">Meilenstein</span> in der Entwicklung der AI. Das Besondere an diesem Sieg ist, dass
+Strategiespiels Go gegen den erfahrenen Spieler Lee Sedol, markiert einen
+<span class="c-ref" data-ref-source-id="40" data-ref-type="ref" data-ref-desc="">Meilenstein</span> in der Entwicklung der <abbr title="Artificial Intelligence, z.d. künstliche Intelligenz">AI</abbr>. Das Besondere an diesem Sieg ist, dass
 dieser nur durch maschinelles Lernen ermöglicht wurde. Anders als beispielsweise
 beim Schach, lassen sich die Schritte und Chancen nicht mathematisch berechnen beziehungsweise vorhersagen (Bruteforcing), sondern müssen dem menschenähnlichen
 Denken nachempfunden werden (Nutzung neuronaler Netzwerke).</p>
@@ -409,11 +408,11 @@ data-source="https://publishingperspectives.com/wp-content/uploads/2010/11/JARON
           <p class="c-person__bio">Der amerikanische Informatiker und Künstler Jaron Lanier ist neben seiner Funktion als humanistischer <abbr
 title="Technologische Singularität">TS</abbr> Kritiker im Kontext
 dieser Arbeit im späteren Verlauf ebenfalls für den Themenbereich der Virtual Reality Entwicklungen relevant. Er ist einer der ersten Pioniere von
-praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen, erfahrbaren “<abbr title="xyz">Cyberspaces</abbr>”. In
-zeitgeistigen Geschehen gilt
+praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen erfahrbaren “<abbr title="englisch cyber als Kurzform für „Kybernetik“, space „Raum, Weltall“: kybernetischer Raum, Kyberraum">Cyberspaces</abbr>”. In
+zeitgeistigem Geschehen gilt
 Lanier als eine <span class="c-ref" data-ref-source-id="41" data-ref-type="ref" data-ref-desc="">wichtige Stimme</span>, besonders für die Aspekte der digitalen Ethik
-im Zeitalter der verstärkten Mensch-Maschinen Interaktion. Er beschreibt seine
-Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestos zur Jahrtausendwende folgendermaßen:</p>
+im Zeitalter der verstärkten Mensch-Maschinen-Interaktion. Er beschreibt seine
+Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestes zur Jahrtausendwende folgendermaßen:</p>
 
           <blockquote>
             <p>There is a real chance that evolutionary psychology, artificial intelligence, Moore's Law fetishizing, and the rest of the package, will catch
@@ -427,10 +426,10 @@ millions of people.</p>
         </div>
       </div>
 
-      <p>Anders als absolute Kritiker wählen Bostrom und Lanier konstruktive Ansätze zur Beschreibung des Problems mit sog. “Cybernetics” - laut Lanier eben
-diese radikalen Vertreter der TS. Lanier beschreibt sich selbst als ebenso enthusiastisch, in Bezug auf Technologie und Fortschritt, kritisiert jedoch das
-fehlende Verständnis von wissenschaftlicher Skepsis. Bostrom kritisiert primär die unzureichende bzw. fehlende Reflektion der etwaigen Auswirkungen. Für die
-Identifikation von Cybernetics gliedert Lanier die Beobachtungen derer Ansichten in sechs Aussagen, welche ebenfalls als Indikatoren für die
+      <p>Anders als absolute Kritiker wählen Bostrom und Lanier konstruktive Ansätze zur Beschreibung des Problems mit sog. “Cybernetics” – laut Lanier eben
+diese radikalen Vertreter der <abbr title="Technologische Singularität">TS</abbr>. Lanier beschreibt sich selbst als ebenso enthusiastisch in Bezug auf Technologie und Fortschritt kritisiert jedoch das
+fehlende Verständnis von wissenschaftlicher Skepsis. Bostrom kritisiert primär die unzureichende bzw. fehlende Reflektion der etwaigen o.g. dystopischen Auswirkungen. Für die
+Identifikation von “Cybernetics” gliedert Lanier die Beobachtungen derer Ansichten in sechs Aussagen, welche ebenfalls als Indikatoren für die
 Selbstidentifikation genutzt werden können:</p>
 
       <blockquote>
@@ -453,13 +452,13 @@ impossible or something very different than we now can know.</li>
       <p>Lanier geht anschließend auf jeden dieser Punkte im Detail ein. Zwar verallgemeinert bzw. vereinheitlicht er damit die Befürworter der Theorie, aber
 es verdeutlicht die teilweise radikalen Ansichten von Personen wie Kurzweil. Neben Kurzweil sind Personen wie Lanier, vor allem für den gesellschaftlichen
 Diskurs
-wichtig, weil sie die absoluten Aussagen relativieren und damit speziell die Fragen nach Ethik mit in die Diskussion einbinden.</p>
+wichtig, weil sie die absoluten Aussagen relativieren und damit speziell Fragen nach Ethik mit in die Diskussion einbinden.</p>
 
-      <p>Zusammengefasst ist das Engagement beider Parteien rund um die Theorie der Technologischen Singularität als positiv zu bewerten. Sie regt dazu an die
+      <p>Zusammengefasst ist das Engagement beider Parteien rund um die Theorie der Technologischen Singularität als positiv zu bewerten. Sie regt dazu an, die
 Thematik genauer zu untersuchen, welches sich in Zukunft, beispielsweise neben der klassischen Politik, als elementar erweisen könnte. Lediglich die Art und
 Weise der Auslegung und Behandlung der Theorie gestaltet sich schwierig. Durch den großen Anteil auf persönlich basierender Annahmen und weniger
 wissenschaftlich betrachteten Aspekten der Argumentation beider Parteien, zeichnen sich vermehrt Eigenschaften von Philosophie und Glauben, anstelle von
-wissenschaftlichen Grundlagen in der Diskussion, ab.</p>
+wissenschaftlichen Grundlagen in der Diskussion ab.</p>
 
       <blockquote>
         <p>My general observation is that it has been seeping into our lives in all sorts of ways, and we just don’t notice; and part of the reason is because
@@ -475,13 +474,13 @@ suppress wages.</p>
         <cite><span class="c-ref" data-ref-source-id="43" data-ref-type="zitat" data-ref-desc="">Barack Hussein Obama II</span></cite>
       </blockquote>
 
-      <p>Faktisch kann keine absolute Aussage über das Eintreffen der Technischen Singularität getroffen werden, bis diese etwaig eintrifft.
+      <p>Faktisch kann der Diskurs über das Eintreffen der Technischen Singularität nicht aufgelöst werden, bis diese etwaig eintrifft.
 Aus diesem Grund ist eine wachsame und agnostische Ansichtsweise ratsam, speziell ein ethisch verantwortlicher Umgang und die allgemeine Sicherstellung dieser
-im Bezug auf technologische Errungenschaften. Ausgangspunkte sind beispielsweise die zusammenfassenden Ansichten von Nick Bostrom in seinem Artikel <span
+hinsichtlich technologischer Errungenschaften. Ausgangspunkte sind beispielsweise die zusammenfassenden Ansichten von Nick Bostrom in seinem Artikel <span
 class="c-ref" data-ref-source-id="34" data-ref-type="ref" data-ref-desc="">“When
-Machines Outsmart Humans”</span>, oder Stiftungen wie <span class="c-ref" data-ref-source-id="44" data-ref-type="ref" data-ref-hide-kneenote>“Future of Life”</span>
-und dessen <span class="c-ref" data-ref-source-id="44" data-ref-type="bsp" data-ref-desc="">offener Brief</span>, mit prominenten Befürwortern wie unter anderem
-Stephen Hawking, Elon Musk, und Steve Wozniak.</p>
+Machines Outsmart Humans”</span> oder Stiftungen wie <span class="c-ref" data-ref-source-id="44" data-ref-type="ref" data-ref-hide-kneenote>“Future of Life”</span>
+und dessen <span class="c-ref" data-ref-source-id="44" data-ref-type="bsp" data-ref-desc="">offener Brief</span>, mit prominenten Befürwortern, wie unter anderem
+Stephen Hawking, Elon Musk und Steve Wozniak.</p>
 
       <blockquote>
         <p>Two overarching conclusions can be drawn. The first is that there is currently no warrant for dismissing the possibility that machines with
@@ -491,31 +490,31 @@ commercial, technological, scientific and environmental issues that humanity wil
         <cite><span class="c-ref" data-ref-source-id="34" data-ref-type="zitat" data-ref-desc="">Nick Bostrom</span></cite>
       </blockquote>
 
-      <h2>Der Aufstieg von Software und seine Pioniere</h2>
+      <h2>Der Aufstieg von Softwares und deren Pioniere</h2>
 
       <p>Wahrscheinlicher als ein einmaliger singulärer Paradigmenwechsel, beschrieben in der Technologischen Singularität, scheint die natürliche Entwicklung
-und Verknüpfung diverser Themenbereiche mit unterschiedlicher und unregelmäßiger Geschwindigkeit. Das vereinzelte Durchbrüche jedoch zwangsweise zu einem
-bestimmten Zeitpunkt eintreten können, erweist sich als wahrscheinlich (siehe Google DeepMind). Inwiefern weitere Entwicklungen, beispielsweise der
-Transhumanismus oder Robotik, welche in direkter Korrelation zu Entwicklungen im Hard- sowie Software-Bereich stehen, eine entscheidende Rolle spielen können,
+und Verknüpfung diverser Themenbereiche mit unterschiedlicher und unregelmäßiger Geschwindigkeit zu sein. Dass vereinzelte Durchbrüche jedoch zwangsweise zu einem
+bestimmten Zeitpunkt eintreten können erweist sich als wahrscheinlicher (siehe Google DeepMind). Inwiefern weitere Entwicklungen, beispielsweise der
+Transhumanismus oder die Robotik, welche in direkter Korrelation zu Entwicklungen im Hard- sowie Softwarebereich stehen, eine entscheidende Rolle spielen können,
 bleibt abzuwarten. Die Historie zeigt jedoch unbestreitbar, dass Software zu entscheidenden gesellschaftlichen sowie technologischen Veränderungen, speziell in
-den letzten Dekaden, beigetragen hat. Damit wird die Bedeutung der Software Historie für zukünftige gesellschaftliche Entwicklungen deutlich. Eine Untersuchung
-der Umstände historischer Technologien im Softwarebereich trägt das Potential in sich, dessen Erkenntnisse für zukünftige gesellschaftliche Entwicklungen
-nutzbar zu machen. Ein besonderer Fokus liegt dabei auf essentielle Entwicklungen für Software und/oder die Gesellschaft, wobei das letzte Jahrhundert
+den letzten Dekaden, beigetragen hat. Damit wird die Bedeutung der Softwarehistorie für zukünftige gesellschaftliche Entwicklungen deutlich. Eine Untersuchung
+der Umstände historischer Technologien im Softwarebereich trägt das Potential, diese Erkenntnisse für zukünftige gesellschaftliche Entwicklungen
+nutzbar zu machen. Ein besonderer Fokus liegt dabei auf essentiellen Softwareentwicklungen der Gesellschaft, wobei das letzte Jahrhundert
 unzählige, wichtige Fortschritte zu verzeichnen hat.</p>
 
       <img src="./assets/img/comic-intro.png" alt=""/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="191" data-ref-type="ref" data-ref-desc="S.94-117 " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="191" data-ref-type="ref" data-ref-desc="S.94-117" data-ref-hide></span>
         </div>
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="6" data-ref-type="ref" data-ref-desc="Time Frames - Scott McCloud, 1993 - S.712 " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="6" data-ref-type="ref" data-ref-desc="Time Frames – Scott McCloud, 1993 – S.712" data-ref-hide></span>
         </div>
       </div>
 
-      <p><span class="c-ref" data-ref-source-id="5" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>The New Media Reader</span> zusammengetragen von Noah
-Wardrip-Fruin und Nick Montfort, gilt als eine der ersten, erfolgreichen Bemühungen die
-historischen Ereignisse von Computer- und Software Technologien <span class="c-ref" data-ref-source-id="5" data-ref-desc="Inventing the medium - Janet H. Murray, S.3 "
+      <p><span class="c-ref" data-ref-source-id="5" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>The New Media Reader</span>, zusammengetragen von Noah
+Wardrip-Fruin und Nick Montfort, gilt als eine der ersten, erfolgreichen Bemühungen, die
+historischen Ereignisse von Computer- und Software Technologien <span class="c-ref" data-ref-source-id="5" data-ref-desc="Inventing the medium – Janet H. Murray, S.3"
 data-ref-type="ref">zusammenzufassen</span>. In den folgenden Passagen wird daraus eine überwiegende Auswahl an Werken
 rezitiert, welche speziell für die Entwicklung und die Digitalisierung durch Software entscheidende Meilensteine markieren.</p>
 
@@ -536,18 +535,18 @@ data-source="https://www.welt.de/img/kultur/literarischewelt/mobile133890343/018
         <div class="c-person__content">
           <h4 class="c-person__name"><span class="c-ref" data-ref-source-id="192" data-ref-desc="" data-ref-type="ref">Alan Turing</span></h4>
           <p class="c-person__bio">Der englische Wissenschaftler Alan Mathison Turing ist neben seinen Leistungen als Logiker, Kryptoanalytiker und theoretischer
-Biologe hauptsächlich bekannt für die Erfindung der gleichnamigen “Turing Maschine” und im <span class="c-ref" data-ref-source-id="193" data-ref-desc=""
+Biologe hauptsächlich bekannt für seine Erfindung der gleichnamigen “Turing Maschine” und im <span class="c-ref" data-ref-source-id="193" data-ref-desc=""
 data-ref-type="ref">popkulturellen Kontext</span> für seinen Beitrag beim Entschlüsseln der deutschen
 Enigma Codierungsmaschine.</p>
         </div>
       </div>
 
-      <p>Zu Turings Lebzeiten gab es bereits wegweisende Entwicklungen von Charles Babbage aus dem 19ten Jahrhundert (1822-1837), wie beispielsweise die
+      <p>Zu Turings Lebzeiten gab es bereits wegweisende Entwicklungen von Charles Babbage aus dem 19. Jahrhundert (1822-1837), wie beispielsweise die
 Difference- bzw. <span class="c-ref" data-ref-source-id="50" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Analyticalengine.</span> Das Revolutionäre an
 dem Konzept der Turingmaschine ist allerdings, neben ihrer eigentlichen Funktionsweise, die
-Verkörperung des theoretischen Ansatzes die Realität durch die Kombination zwei simpler Zeichen (0 und 1) auszudrücken - retrospektiv die Geburtsstunde von
+Verkörperung des theoretischen Ansatzes, die Realität durch die Kombination zwei simpler Zeichen (0 und 1) auszudrücken. Retrospektiv die Geburtsstunde von
 Digitalisierung,
-Software und dem Cyberspace. Das 1936 erfundene Modell der Turingmaschine besteht in ihrer ursprünglichen Basisausführung weitgehend aus drei bzw. vier
+Software und Cyberspace. Das 1936 erfundene Modell der Turingmaschine besteht in seiner ursprünglichen Basisausführung weitgehend aus drei bzw. vier
 physischen
 <span class="c-ref" data-ref-source-id="51" data-ref-desc="" data-ref-type="ref">Komponenten</span>:</p>
 
@@ -556,22 +555,21 @@ physischen
 Speicherzellen besteht, die entweder leer sind oder einen Buchstaben aus einem Alphabet mit endlich vielen Zeichen enthalten.</li>
         <li>Einem Motor, der das Band um jeweils eine Position vor- oder zurückbewegt.</li>
         <li>Sowie einem Schreib-/Lesekopf, der den Inhalt einer Zelle liest und/oder überschreibt oder auch unverändert lässt.</li>
-        <li>Die Turingmaschine wird durch eine sog. Zustandsänderungstabelle (4.) gesteuert, welches für jeden Zustand der Maschine die passende Aktion
-(Schreiben, Lesen, Bewegen, Endzustand), Zeichen für Zeichen vorgibt.</li>
+        <li>Die Turingmaschine wird durch eine sog. Zustandsänderungstabelle (4.) gesteuert, welche für jeden Zustand der Maschine die passende Aktion
+(Schreiben, Lesen, Bewegen, Endzustand) Zeichen für Zeichen vorgibt.</li>
       </ol>
 
-      <p>Jede konfigurierte Turingmaschine beschreibt genau einen spezifischen Algorithmus (eine Aufgabe). Weitere Abwandlung wie z.B. die Universelle
+      <p>Jede konfigurierte Turingmaschine beschreibt genau einen spezifischen Algorithmus (eine Aufgabe). Weitere Abwandlungen, wie z.B. die universelle
 Turingmaschine, welche je nach Einstellung beliebige Aufgaben bewältigen kann, nähern sich dem Grundprinzip heutiger Computersysteme noch deutlicher an.
 Turings Arbeit zeigt zu diesem Zeitpunkt das Potential der Digitalisierung auf. Er inspiriert letztendlich viele seiner Kollegen und leitet damit das Zeitalter
-der
-Software ein.</p>
+der Software ein.</p>
 
-      <p>Nach der Konzeption der Turingmaschine veröffentlicht er bereits 1950 den Essay <span class="c-ref" data-ref-source-id="195" data-ref-desc=""
-data-ref-type="ref">“Computing Machinery and Intelligence”</span> welcher sich mit der Frage
-beschäftigt ob Maschinen in der Lage sind zu denken (“Can machines think?”). Neben der wissenschaftlichen Relevanz darauf basierender Konzepte und Forschung
-(z.B. Turing Test, ELIZA), werden die vorausschauende Weltsicht Turings - stellvertretend für viele weitere Protagonisten der Softwareentwicklung wie Norman,
-Neumann, Kay, usw. - erkennbar. Dies spiegelt sich ebenfalls durch das Eingangszitat von I. J. Good wider. Dazu zählt beispielsweise die Digitalisierung,
-maschinelles Lernen und letztendlich die Art und Weise, inwiefern sich Erfindungen, wie der Computer in den Alltag, integrieren.</p>
+      <p>Nach der Konzeption der Turingmaschine veröffentlicht er bereits 1950 das Essay <span class="c-ref" data-ref-source-id="195" data-ref-desc=""
+data-ref-type="ref">“Computing Machinery and Intelligence”</span>, welcher sich mit der Frage
+beschäftigt, ob Maschinen in der Lage sind zu denken (“Can machines think?”). Neben der wissenschaftlichen Relevanz darauf basierender Konzepte und Forschung
+(z.B. Turing Test, ELIZA), werden die vorausschauende Weltsicht Turings – stellvertretend für viele weitere Protagonisten der Softwareentwicklung wie Norman,
+Neumann, Kay, usw. – erkennbar. Dies spiegelt sich ebenfalls durch das Eingangszitat von I. J. Good wider. Dazu zählen beispielsweise die Digitalisierung,
+maschinelles Lernen und auf welche Art und Weise sich Erfindungen wie der Computer in den Alltag integrieren lassen.</p>
 
       <div class="c-person">
         <div class="c-person__object">
@@ -580,29 +578,27 @@ maschinelles Lernen und letztendlich die Art und Weise, inwiefern sich Erfindung
         <div class="c-person__content">
           <h4 class="c-person__name"><span class="c-ref" data-ref-source-id="194" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>John von
 Neumann</span></h4>
-          <p class="c-person__bio">Der aus Ungarn stammende amerikanische Mathematiker John von Neumann, mit bedeutenden Werken in mathematischer Logik,
-Funktionalanalysis, Quantenmechanik. Er ist zudem bekannt für die Spieltheorie und gilt als einer der Väter der Informatik.</p>
+          <p class="c-person__bio">Der aus Ungarn stammende amerikanische Mathematiker John von Neumann mit bedeutenden Werken in mathematischer Logik,
+Funktionalanalysis und Quantenmechanik. Er ist zudem bekannt für die Spieltheorie und gilt als einer der Väter der Informatik. Neumann publiziert 1945 die erste grobe Zusammenfassung des EDVAC (Electronic Discrete Variable Automatic Computer) <span class="c-ref"
+data-ref-source-id="52" data-ref-desc="" data-ref-type="ref">Reports</span>, welche die grundlegende
+Basis der bis heute gültigen Computerarchitektur beschreibt. Er setzte sich seinerzeit vehement für die weitere Entwicklung der Rechenmaschinen ein, um diese
+möglichst schnell für weitere Forschungen (z.B. dem Bau der Nagasaki Atombombe) <span class="c-ref" data-ref-source-id="53" data-ref-desc="S.176"
+data-ref-type="ref">nutzbar zu machen</span>. Bei der Entwicklung und Forschung an Rechenmaschinen beruhen
+Neumanns Verdienste besonders auf der Mathematisierung und Verwissenschaftlichung selbiger. Initial sollten die Ergebnisse in der <abbr title="Electronic Numerical Integrator and Computer">ENIAC</abbr> Arbeitsgruppe intern
+behandelt werden, doch Neumann entscheidet sich dazu sie zu publizieren.</p>
         </div>
       </div>
 
-      <p>Neumann publiziert 1945 die erste grobe Zusammenfassung des EDVAC (Electronic Discrete Variable Automatic Computer) <span class="c-ref"
-data-ref-source-id="52" data-ref-desc="" data-ref-type="ref">Reports</span>, welche die grundlegende
-Basis der bis heute gültigen Computerarchitektur beschreibt. Er setzt sich seinerzeit vehement für die weitere Entwicklung der Rechenmaschinen ein, um diese
-möglichst schnell für weitere Forschungen (z.B. dem Bau der Nagasaki Atombombe) <span class="c-ref" data-ref-source-id="53" data-ref-desc="S.176 "
-data-ref-type="ref">nutzbar zu machen</span>. Bei der Entwicklung und Forschung an Rechenmaschinen beruhen
-Neumanns Verdienste besonders auf der Mathematisierung und Verwissenschaftlichung jener. Initial sollten die Ergebnisse in der ENIAC Arbeitsgruppe intern
-behandelt werden, doch Neumann entscheidet sich dazu sie zu publizieren.</p>
-
-      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger <span class="c-ref" data-ref-source-id="54" data-ref-desc="S.139 "
+      <p>Obgleich Neumanns Rolle als Erfinder Gegenstand einiger <span class="c-ref" data-ref-source-id="54" data-ref-desc="S.139"
 data-ref-type="vgl">Kontroversen</span> ist, so hat er sich als Namensgeber, für die nach ihm benannte
-“Von-Neumann-Architektur” (alternativ: „speicherprogrammierbare Rechner“ bzw. stored program computer), größtenteils durchgesetzt. Sie enthält Komponenten,
-welche sich in ihrer Funktionsweise und ihrem Zusammenspiel, in zeitgeistlichen Computersystemen weitgehend <span class="c-ref" data-ref-source-id="194"
+“Von-Neumann-Architektur” (alternativ: „speicherprogrammierbare Rechner“ bzw. „stored program computer“) größtenteils durchgesetzt. Sie enthält Komponenten,
+welche sich in ihrer Funktionsweise und Zusammenspiel in zeitgeistlichen Computersystemen weitestgehend <span class="c-ref" data-ref-source-id="194"
 data-ref-desc="" data-ref-parameter="&t=39m15s" data-ref-type="ref">behaupten.</span></p>
-      <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen wie beispielsweise “Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
-Z4, ENIAC” eingeführt. Jede dieser Maschinen erfüllen verschiedene Kombinationen an Kriterien für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
-Grund kann die Frage nach dem ersten wirklichen Computer nur nach jeweiligen Präferenzen beantwortet werden. Der “ENIAC” ist der fünfte Digitalrechner der
+      <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen, wie beispielsweise Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
+Z4, <abbr title="Electronic Numerical Integrator and Computer">ENIAC</abbr> eingeführt. Jede dieser Maschinen erfüllten verschiedene Kombinationen an Kriterien für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
+Grund kann die Frage nach dem ersten wirklichen Computer nur nach individuell definierten Präferenzen beantwortet werden. Der „<abbr title="Electronic Numerical Integrator and Computer">ENIAC</abbr>” ist der fünfte Digitalrechner der
 Geschichte und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmächtig, gleichzeitig erfüllt. Programmänderungen sind bis dato nur durch
-Veränderungen der Hardware herbeizuführen. Eine vergleichbare Verbesserung wie jene der Turingmaschine zur Universellen Turingmaschine. Die evolutionäre
+Veränderungen der Hardware herbeizuführen. Eine vergleichbare Verbesserung, wie jene der Turingmaschine zur Universalität. Die evolutionäre
 Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato unverändert fort.</p>
 
 <table>
@@ -673,7 +669,7 @@ Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato
       <td class="o-background--success">Ja</td>
     </tr>
     <tr>
-      <td rowspan="2">ENIAC</td>
+      <td rowspan="2"><abbr title="Electronic Numerical Integrator and Computer">ENIAC</abbr></td>
       <td rowspan="2">USA</td>
       <td>1946</td>
       <td class="o-background--error">Nein</td>
@@ -693,14 +689,13 @@ Entwicklung von Computern wird auf diese Weise initiiert und setzt sich bis dato
   </tbody>
 </table>
 
-      <p>Sowohl Turing als auch Neumann sind mit der Verwirklichung ihrer Ideen zukunftsweisend. Nicht nur in ihren Ideen sondern auch in ihrem Handeln
-manifestieren sich Bruchstücke zeitgeistiger, gesellschaftlicher Konventionen. Beispielsweise das unkonventionelle Veröffentlichen eines unfertigen Essays von
-Neumann, mit dem Ziel, Informationen zugänglich zu machen, um die Entwicklung zu beschleunigen - einer der Grundgedanken der “Open Source Bewegung”. Ebenfalls
-die Art und Weise in denen sich die Wissenschaftler international verständigen, um ihre Forschungen und Maschinen zu optimieren ist vor dem Zeitalter der
-Globalisierung und den Vernetzungsmöglichkeiten des Internets eine auffallende Beobachtung.</p>
-      <p class="o-p--tie">Ein weiterer, wichtiger Aspekt bei der Betrachtung dieser Entwicklungen sind zudem die Motivationen unter denen diese geschaffen
+      <p>Sowohl Turing als auch Neumann sind mit der Verwirklichung ihrer Ideen zukunftsweisend. Nicht nur in ihren Ideen, sondern auch in ihrem Handeln
+manifestieren sich Bruchstücke zeitgeistiger gesellschaftlicher Konventionen. Beispielsweise das unkonventionelle Veröffentlichen eines unfertigen Essays von
+Neumann, mit dem Ziel, Informationen zugänglich zu machen, um die Entwicklung zu beschleunigen – einer der Grundgedanken der „Open Source Bewegung”. Ebenfalls
+die Art und Weise mit der sich die Wissenschaftler noch vor dem Zeitalter der Globalisierung und den Vernetzungsmöglichkeiten des Internets international verständigen, um ihre Forschungen und Maschinen zu optimieren, ist eine auffallende Beobachtung.</p>
+      <p class="o-p--tie">Ein weiterer und wichtiger Aspekt bei der Betrachtung dieser Entwicklungen sind zudem die Motivationen, unter denen diese geschaffen
 wurden. Neben dem wissenschaftlichen Ehrgeiz können in beiden Fällen Bezüge zum Militär und herrschenden Kriegssituationen hergestellt werden. Turing stellt
-sein Wissen für Spionage-Zwecke zur Verfügung und speziell Neumann nutzt die fortschrittlichen Maschinen zur automatisierten Berechnung von Ballistik-Tabellen
+sein Wissen für Spionagezwecke zur Verfügung. Speziell Neumann nutzte die fortschrittlichen Maschinen zur automatisierten Berechnung von Ballistik-Tabellen
 und letztendlich für die Entwicklung und den Einsatz der Atombombe*.
 
         <span class="c-notes-side-hook">
@@ -738,13 +733,13 @@ Bhagawadgita</span></cite>
         <cite><span class="c-ref" data-ref-source-id="200" data-ref-type="zitat" data-ref-desc="S.224 ">Ulam über Neumann</span></cite>
       </blockquote>
 
-      <p>Schlussendlich markieren die Studien von Turing, Neumann und Co. Meilensteine in der Entwicklung. Sie zeigen jedoch auch auf, dass eine reflektierte
+      <p>Schlussendlich markieren die Studien von Turing, Neumann und weitere Wissenschaftler Meilensteine in der Entwicklung. Sie zeigen jedoch auch auf, dass eine reflektierte
 Motivation für den Kreationsprozess immer als ein fundamentaler Bestandteil angesehen werden sollte.</p>
 
       <h3><abbr title="Selbstkreierter Sammelbegriff für Supercomputer, Großrechner, Ultracomputer und generell alle exorbitanten Computersysteme">Turnhallen
 Computer</abbr></h3>
 
-      <p>Parallel zum Aufstieg der Serientauglichkeit von Computern existieren bereits eindrucksvolle Applikationen, welche jedoch nur mithilfe von großen,
+      <p>Parallel zum Aufstieg der Serientauglichkeit von Computern existieren bereits eindrucksvolle Applikationen, welche jedoch nur mithilfe von großen
 digitalen Rechenmaschinen betrieben werden können.</p>
 
       <div class="c-person">
@@ -754,45 +749,42 @@ data-source="http://www.roadtovr.com/fred-brooks-ivan-sutherlands-1965-ultimate-
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name">Ivan Sutherland</h4>
-          <p class="c-person__bio">Einer ihrer Entwickler ist der amerikanische MIT Doktorand Ivan Sutherland, welcher bis heute als Spezialist und Pionier im
-Bereich Computergrafik gilt. Dieser entwickelt im Rahmen seiner Doktorarbeit, auf einem leistungsstärkeren TX-2 Computer, 1962 eine der ersten interaktiven
+          <p class="c-person__bio">Einer ihrer Entwickler ist der amerikanische <abbr title="Massachusetts Institute of Technology">MIT</abbr> Doktorand Ivan Sutherland, welcher bis heute als Spezialist und Pionier im
+Bereich Computergrafik gilt. Dieser entwickelte im Rahmen seiner Doktorarbeit, auf einem leistungsstärkeren TX-2 Computer, 1962 eine der ersten interaktiven
 Grafikanwendungen für die <span class="c-ref" data-ref-source-id="6" data-ref-desc="S.109" data-ref-type="vgl">militärische Radarentwicklung.</span> Sutherland ist
 ebenfalls der Entwickler des ersten computergestützten Virtual Reality Geräts und
-weiterer Grafik bezogener Algorithmen.</p>
+weiterer grafikbezogener Algorithmen.</p>
         </div>
       </div>
 
-      <p>Die unter dem Namen <span class="c-ref" data-ref-source-id="6" data-ref-desc="Sketchpad: A Man-Machine Graphical Communication System - Ivan Sutherland, 1963
-" data-ref-type="ref">“Sketchpad”</span> berühmt gewordene Anwendung gilt als einer der Ursprünge für die heutige Mensch-Computer-Interaktion. Sie symbolisiert
+      <p>Die unter dem Namen <span class="c-ref" data-ref-source-id="6" data-ref-desc="Sketchpad: A Man-Machine Graphical Communication System – Ivan Sutherland, 1963
+" data-ref-type="ref">“Sketchpad”</span> berühmt gewordene Anwendung gilt als eine der Ursprünge für die heutige Mensch-Computer-Interaktion. Sie symbolisiert
 nicht nur eine Alternative zur traditionellen Darstellung auf physischen Medien (z.B. Papier), sondern eröffnet eine völlig neue, erweiterte Art der
 unmittelbaren Manipulation von Objekten, basierend auf Vektoren (Punkte, Linien, Formen). Es ist somit das erste sog. <span class="c-ref" data-ref-source-id="6"
 data-ref-desc="" data-ref-type="ref"><i>conversational interface</i></span>, welches einen
-raschen Austausch von Informationen in derselben Geschwindigkeit ermöglicht, vergleichbar der Konversation zweier Personen.</p>
-      <p class="o-p--tie">Mit Sketchpad wird es möglich bereits erstellte Objekte zu editieren, auszurichten, zu positionieren, zu skalieren, zu löschen oder
+raschen Austausch von Informationen in derselben Geschwindigkeit ermöglicht, vergleichbar einer Konversation zweier Personen.</p>
+      <p class="o-p--tie">Mit Sketchpad wird es möglich, bereits erstellte Objekte zu editieren, auszurichten, zu positionieren, zu skalieren, zu löschen oder
 in Relation zueinander zu setzen. Das rekursive Reproduzieren dieser Prozesse ist ebenfalls möglich. Zudem zeigt es bereits in ersten Ansätzen den ikonischen
 Charakter der auf dem Monitor befindlichen Objekte auf. Durch das Arbeiten in einem neuartigen, digital mathematischen Rahmen beschreibt Sutherland den
 Verbindungsprozess von <span class="c-ref" data-ref-source-id="6" data-ref-desc="S.111" data-ref-type="vgl">Kalkulation und Design</span>, zu denen speziell heutige
-Designer und gleichermaßen Developer in Schnittstellen-Positionen - welche
-Technologien/Tools (Werkzeuge) wie z.B. generatives Design, oder SASS nutzen - einen besonderen <span class="c-ref" data-ref-source-id="59" data-ref-desc=""
+Designer und gleichermaßen Developer (Entwickler) in Schnittstellenpositionen – welche
+Technologien/Tools (Werkzeuge), wie z.B. generatives Design oder <abbr title="Syntactically Awesome Stylesheets">SASS</abbr> nutzen – einen besonderen <span class="c-ref" data-ref-source-id="59" data-ref-desc=""
 data-ref-type="ref">Bezug herstellen können.</span></p>
 
       <img src="./assets/img/sketchpad.png" alt="Sketchpad Collage New Media Reader"/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="58" data-ref-type="ref" data-ref-desc="Kollage von Abbildungen der Funktionsweise von " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="58" data-ref-type="ref" data-ref-desc="Kollage von Abbildungen der Funktionsweise von" data-ref-hide></span>
         </div>
       </div>
 
       <p class="o-p--tie">Sketchpad zeigt nach Turing ebenfalls auf, dass die Realität auf einer rudimentären, visuellen und mathematisch fundierten Ebene
-kodifiziert werden kann. Als Peripheriegerät fungiert primär ein sog. Lichtgriffel mit dem der Nutzer die Objekte direkt auf dem Monitor arbeiten kann.</p>
-      <p class="o-p--tie">Obwohl sich für serielle Input Schnittstellen Tastatur und Maus primär etablieren, zeigt Sutherland mit dem Lichtgriffel bereits eine
-intuitive Manipulation von Software Grafiken auf. Eine Inspiration für spätere, ähnliche Peripheriegeräte (z.B. Grafiktablet) für primär, kreative Anwendungen.
-Sutherlands Arbeit an Sketchpad beeinflusst in folgenden Jahren weitere Pioniere wie Alan Kay beim Etablieren der objektorientierten Programmierung oder der
+kodifiziert werden kann. Als Peripheriegerät fungiert primär ein sog. Lichtgriffel, mit dem der Nutzer die Objekte direkt auf dem Monitor arbeiten kann.</p>
+      <p class="o-p--tie">Obwohl sich für serielle Inputschnittstellen Tastatur und Maus primär etablieren, zeigt Sutherland mit dem Lichtgriffel bereits eine
+intuitive Manipulation von Softwaregrafiken auf. Eine Inspiration für spätere, ähnliche Peripheriegeräte (z.B. Grafiktablet) für primär kreative Anwendungen.
+Sutherlands Arbeit an Sketchpad beeinflusst in den folgenden Jahren weitere Pioniere, wie Alan Kay beim Etablieren der objektorientierten Programmierung oder der
 Einführung von grafischen Benutzeroberflächen zur Bedienung und Verwaltung von sog. <abbr title="Ein Mikrocomputer ist ein kompletter Computer in kleinerem
-Maßstab und ist in der Regel ein Synonym für den allgemeineren Begriff, Personal Computer oder PC, ein Computer für eine Person entworfen. Ein Mikrocomputer
-enthält einen Mikroprozessor (eine zentrale Verarbeitungseinheit auf einem Mikrochip), Speicher in Form von Nur-Lese-Speicher und Speicher mit wahlfreiem
-Zugriff, I / O-Ports und einem Bus oder System von miteinander verbundenen Drähten, die in einer Einheit untergebracht sind, die üblicherweise aufgerufen wird
-Ein Motherboard.">Mikrocomputern.</abbr></p>
+Maßstab und ist in der Regel ein Synonym für den allgemeineren Begriff, Personal Computer oder PC, ein Computer für eine Person entworfen.">Mikrocomputern.</abbr></p>
 
       <div class="c-video">
         <iframe class="c-video__item" src="https://www.youtube.com/embed/USyoT_Ha_bA?start=212&autoplay=0&showinfo=0&vq=hd720"
@@ -808,10 +800,9 @@ allowfullscreen></iframe>
       </div>
 
       <p>Einen völlig anderen Anwendungszweck verfolgt das 1988 von Charles Hallac initiierte Rechensystem Aladdin. Anders als Sketchpad, betrieben auf einem
-<span class="u-wrap">TX-2</span> Supercomputer, läuft die Aladdin Applikation auf sog. Mainframes (Großrechnern). Supercomputer wie der TX-2 sind darauf
-ausgelegt möglichst komplexe
-Berechnungen zu bewältigen. Großrechner dagegen sind für das stabile, gleichzeitige, kontinuierliche Bewältigen von großen Datenmengen zuständig. Unabhängig
-zu welchem Anwendungszweck Supercomputer oder Mainframes genutzt werden, beide Systeme benötigen Ressourcen welche nur von großen Unternehmen finanziert werden
+<span class="u-wrap">TX-2</span> Supercomputer, läuft die Aladdin Applikation auf sog. Mainframes (Großrechnern). Supercomputer, wie der TX-2 sind darauf
+ausgelegt, möglichst komplexe Berechnungen zu bewältigen. Großrechner dagegen sind für das stabile, gleichzeitige und kontinuierliche Bewältigen von großen Datenmengen zuständig. Unabhängig
+zu welchem Anwendungszweck Supercomputer oder Mainframes genutzt werden, benötigen beide Systeme Ressourcen, welche nur von großen Unternehmen finanziert werden
 können. Ihre Unterschiede verdeutlichen sich neben den technischen Komponenten in der Art ihrer <span class="c-ref" data-ref-source-id="60" data-ref-desc=""
 data-ref-type="ref">Nutzung.</span></p>
 
@@ -821,20 +812,20 @@ data-ref-type="ref">Nutzung.</span></p>
         </div>
         <div class="c-person__content">
           <h4 class="c-person__name"><span class="c-ref" data-ref-source-id="62" data-ref-desc="" data-ref-type="ref">Laurence Fink</span></h4>
-          <p class="c-person__bio">Laurence Douglas "Larry" Fink bis dato erfolgreicher Investmentbanker trifft 1986 eine folgenschwere Prognose bezüglich
-gehandelter Risikoanlagen, woraus für seine Abteilung ein Verlust von 100 millionen US Dollar resultiert. Diese Schlüsselerfahrung beeinflusst seine
-Entscheidung ein Unternehmen zu gründen, welches das Geld ihrer Kunden investiert und gleichzeitig ein umfassendes Risikomanagement beinhaltet, um einen
-möglichst hohen Gewinn zu erzielen. Für dieses Vorhaben nutzt Fink Hallacs Datenanalysesystem.</p>
+          <p class="c-person__bio">Laurence Douglas "Larry" Fink, bis dato erfolgreicher Investmentbanker, trifft 1986 eine folgenschwere Prognose bezüglich
+gehandelter Risikoanlagen, woraus für seine Abteilung ein Verlust von 100 mio. US Dollar resultiert. Diese Schlüsselerfahrung beeinflusst seine
+Entscheidung, ein Unternehmen zu gründen, welches das Geld ihrer Kunden investiert und gleichzeitig ein umfassendes Risikomanagement beinhaltet, um einen
+möglichst hohen Gewinn zu erzielen. Für dieses Vorhaben nutzt Fink das Datenanalysesystem von Hallac.</p>
         </div>
       </div>
 
       <p>Das aus Algorithmen bestehende System <abbr title="Asset, Liability, and Debt and Derivative Investment Network">Aladdin</abbr> bildet das Fundament seines, im selben
-Jahr gegründeten, multinational, agierenden Investment Unternehmens BlackRock. Dieses gilt seit seiner Gründung als eines der erfolgreichsten und gleichzeitig
-umstrittensten Unternehmen. BlackRock agiert und generiert ungeahnt sozialer, ökonomischer, oder politischer Umstände Profite, häufig und speziell durch die
-Ausnutzung dieser Parameter. Gleichzeitig ist es Shareholder in einer <span class="c-ref" data-ref-source-id="63" data-ref-desc="S.1 " data-ref-type="vgl">Unsumme</span> einflussreicher Aktienunternehmen weltweit. Neben dem datierten Eigenwert des
-Unternehmens, handelt es mit Liquiditäten zwischen <span class="c-ref" data-ref-source-id="64" data-ref-desc="" data-ref-type="ref">4-5 Billionen USD</span>. Im Vergleich liegt das weltweite Bruttosozialprodukt zwischen <span class="c-ref" data-ref-source-id="65" data-ref-desc="" data-ref-type="ref">50-60 Billionen USD.</span>
-Zusammengefasst handelt es sich bei BlackRock und Konsorten, um einen mächtigen und global agierenden Apparat, welcher ebenfalls in popkulturellen Werken wie
-beispielsweise dem Film <span class="c-ref" data-ref-source-id="67" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Fight Club</span>, oder der TV Sendung <span class="c-ref" data-ref-source-id="66" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Mr. Robot</span> thematisiert wird.
+Jahr gegründeten, multinational agierenden Investment Unternehmens BlackRock. Dieses gilt seit seiner Gründung als eines der erfolgreichsten und gleichzeitig
+umstrittensten Unternehmen. BlackRock agiert und generiert ungeahnt sozialer, ökonomischer oder politischer Umstände Profite, häufig und speziell durch die
+Ausnutzung dieser Parameter. Gleichzeitig ist es Auktionär in einer <span class="c-ref" data-ref-source-id="63" data-ref-desc="S.1" data-ref-type="vgl">Unsumme</span> einflussreicher Aktienunternehmen weltweit. Neben dem datierten Eigenwert des
+Unternehmens, handelt es mit Liquiditäten zwischen <span class="c-ref" data-ref-source-id="64" data-ref-desc="" data-ref-type="ref">4-5 Billionen US Dollar</span>. Im Vergleich liegt das weltweite Bruttosozialprodukt zwischen <span class="c-ref" data-ref-source-id="65" data-ref-desc="" data-ref-type="ref">50-60 Billionen US Dollar.</span>
+Zusammengefasst handelt es sich bei BlackRock und verknüpften Firmen, um einen mächtigen und global agierenden Unternehmensapperat, welcher ebenfalls in popkulturellen Werken, wie
+beispielsweise dem Film <span class="c-ref" data-ref-source-id="67" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Fight Club</span> oder der TV Sendung <span class="c-ref" data-ref-source-id="66" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Mr. Robot</span> thematisiert wird.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -865,10 +856,10 @@ ebenbürtigen Rechensystems wie Aladdin bewältigt werden.</p>
 
       <blockquote>
         <p>Why did the ideal of free information sharing fail? Because it ignored the nature of computation. If a bunch of pre-computational people are sharing
-openly, there might be problems - as the history of socialistic experiments has taught us. But on the other hand, at least in special circumstances, there's no
+openly, there might be problems – as the history of socialistic experiments has taught us. But on the other hand, at least in special circumstances, there's no
 guarantee they will fail. If those same people have a computer network, however, then there IS a guarantee that whoever among them has the most effective
 computer will gain information superiority. People are created equal, but computers are not.</p>
-        <cite><span class="c-ref" data-ref-source-id="72" data-ref-desc="Introduction: " data-ref-type="zitat" data-ref-hide-kneenote>Jaron Lanier</span></cite>
+        <cite><span class="c-ref" data-ref-source-id="72" data-ref-desc="Introduction:" data-ref-type="zitat" data-ref-hide-kneenote>Jaron Lanier</span></cite>
       </blockquote>
 
       <h5 class="o-h5--note"><span class="c-icon-asterisk"></span> Realität vs. Fiktion</h5>
@@ -917,7 +908,7 @@ entsprechender Ressourcen, konfiguriert werden kann.</p>
       <p class="o-p--tie">Die unterschiedlichen Entwicklung von Sketchpad und Aladdin zeigen zwei ähnliche Systeme völlig verschiedener Anwendungsgebiete auf.
 Sketchpad erweist sich retrospektiv als  gesellschaftliche Bereicherung und Inspirationsquelle, dessen Entwicklung die Werkzeuge für diverse kreative Prozesse,
 wie beispielsweise Design, Kunst und Ingenieurskunst, nachhaltig prägt. Software in der Wirkungsweise von Aladdin begünstigt, primär die Optimierung einzelner
-Entitäten - in diesem Kontext BlackRock und deren Teilhaber.</p>
+Entitäten – in diesem Kontext BlackRock und deren Teilhaber.</p>
       <p class="o-p--tie">Für zukünftige, maßgebliche Entwicklungen gilt es als essentiell von Beginn an eine Kräfteverteilung und Transparenz zu schaffen und
 dabei das stetige Gleichgewicht zu wahren. Maßgebliche Entwicklungen und Forschungen jeder Art, basieren seit der Verfügbarkeit von Computern neben den
 traditionellen Machtstrukturen nun ebenfalls auf außerordentliche Mengen von <span class="c-ref" data-ref-source-id="75" data-ref-desc="" data-ref-type="bsp">Daten und Rechenleistung</span>. In einer technologisch beschleunigten Gesellschaft ist es
@@ -961,7 +952,7 @@ Haushalts etabliert sondern, dass Computer alle Aspekte des Lebens regulieren w�
         <div class="c-person__content">
           <h4 class="c-person__name"><span class="c-ref" data-ref-source-id="72" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>Ken Olsen</span></h4>
           <p class="c-person__bio">Kenneth Harry „Ken“ Olsen ist ein US-amerikanischer Ingenieur, der im Jahr 1957 die Computerfirma Digital Equipment
-Corporation (DEC) gründet. Bis 1992 ist er Präsident des Unternehmens. Olsen ist ebenfalls einer der MIT Ingenieure der TX Computer Serie, welche beispielsweise
+Corporation (DEC) gründet. Bis 1992 ist er Präsident des Unternehmens. Olsen ist ebenfalls einer der <abbr title="Massachusetts Institute of Technology">MIT</abbr> Ingenieure der TX Computer Serie, welche beispielsweise
 als Hardware Grundlage für Sketchpad fungiert (TX-2).</p>
         </div>
       </div>
@@ -1008,9 +999,9 @@ ihm kategorisierten <span class="c-ref" data-ref-source-id="4" data-ref-desc="S.
 
       <ol>
         <li>Die Kreation kultureller Artefakte und interaktiver Dienste, welche Darstellungen, Ideen, Überzeugungen und ästhetische Werte enthalten,
-beispielsweise das Editieren eines Musikvideos, oder der Designprozess einer Website bzw. App.</li>
+beispielsweise das Editieren eines Musikvideos oder der Designprozess einer Website bzw. App.</li>
         <li>Den Zugriff, das Teilen und Mischen solcher Medien, z.B. das Lesen und Kommentieren von Online-Inhalten. </li>
-        <li>Das Kreieren und Teilen von Wissen auf Plattformen, wie beispielsweise Wikipedia, oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
+        <li>Das Kreieren und Teilen von Wissen auf Plattformen, wie beispielsweise Wikipedia oder dem Hinzufügen von Koordinaten bei Google Earth.</li>
         <li>Die Kommunikation mit anderen Menschen über Services wie E-Mail, Instant Messenger, Sprach- oder Video-Chat, Social Media, etc.</li>
         <li>Die Interaktion in kulturellen Erfahrungen wie Online-Gaming.</li>
         <li>Die Partizipation in Online Informationen durch das Hinzufügen von Metadaten, über beispielsweise das Betätigen der “Gefällt mir”-Funktion von
@@ -1025,8 +1016,8 @@ Adobe Illustrator. Diese tauchen vergleichsweise früh in der Computer Historie 
 Medienentwicklung omnipräsent, haben sich kontinuierlich weiterentwickelt, und werden letztendlich von Lev Manovich in seinem Werk – zum Abgleich –
 behandelt.</p>
 
-      <p>Ivan Sutherlands Sketchpad ist der Ausgangspunkt für die zukünftigen Entwicklungen der Grafikanwendungen. Nach der Einführung des Apple Macintosh - dem
-ersten in <span class="c-ref" data-ref-source-id="84" data-ref-desc="" data-ref-type="ref">größerer Serie</span> gefertigten Mikrocomputer mit grafischer Benutzeroberfläche - erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems
+      <p>Ivan Sutherlands Sketchpad ist der Ausgangspunkt für die zukünftigen Entwicklungen der Grafikanwendungen. Nach der Einführung des Apple Macintosh – dem
+ersten in <span class="c-ref" data-ref-source-id="84" data-ref-desc="" data-ref-type="ref">größerer Serie</span> gefertigten Mikrocomputer mit grafischer Benutzeroberfläche – erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems
 eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend anhält.</p>
       <p class="o-p--tie">Ebenfalls wird weitere Software auf immer kleineren Geräten möglich und die Kosten sowie die Dauer von umfangreichen Berechnungen
 sinken. Besonders an der Ära der Workstations zur Berechnung “komplexerer” Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle SGI oder
@@ -1048,18 +1039,18 @@ untereinander (z.B. Designer und Programmierer).</p>
       <p>Die Entwicklung von Grafikanwendungen am konkreten Beispiel von Adobes Produkten zeigt selbstverständlich nur eine von vielen Entwicklungen der
 Softwarebranche auf. Sie repräsentiert allerdings einige der wichtigsten Erfolgsfaktoren von Software im Allgemeinen und gilt damit als einer der exemplarischen
 Stellvertreter für die Auswirkungen auf gesellschaftliche Paradigmen, speziell zu Zeiten der ersten Mikrocomputer.</p>
-      <p class="o-p--tie">Einer dieser Erfolgsfaktoren besteht in der, an die <span class="c-ref" data-ref-source-id="87" data-ref-desc="" data-ref-type="ref">Semiotik</span> angelehnte, Nutzung von grafischen Benutzeroberflächen (GUI - graphical
+      <p class="o-p--tie">Einer dieser Erfolgsfaktoren besteht in der, an die <span class="c-ref" data-ref-source-id="87" data-ref-desc="" data-ref-type="ref">Semiotik</span> angelehnte, Nutzung von grafischen Benutzeroberflächen (GUI – graphical
 user interfaces) als Repräsentation (Signifikant) der kodifizierten, digitalen Welt (Signifikat). Sie öffnen das digitale Medium einem breiteren Publikum und
-ermöglichen die simplifizierte Interaktion, sowohl zwischen dem Medium und kreativer Individuen, als auch untereinander - z.B. Software Developer und Designer
-(Anwender zu Anwender), oder das Posten eines YouTube Videos auf Facebook (Medium zu Medium). GUIs ermöglichen den Zugriff auf meist intuitive, an die physische
+ermöglichen die simplifizierte Interaktion, sowohl zwischen dem Medium und kreativer Individuen, als auch untereinander – z.B. Software <abbr title="Entwickler">Developer</abbr> und Designer
+(Anwender zu Anwender) oder das Posten eines YouTube Videos auf Facebook (Medium zu Medium). GUIs ermöglichen den Zugriff auf meist intuitive, an die physische
 Welt angelehnte Weise durch die Vereinfachung komplexerer Maschinenbefehle und erweisen sich somit als erfolgreiche Schnittstelle zwischen Mensch und Maschine.
 Sie sind einer der Hauptgründe dafür, dass viele Aspekte und Abläufe von Software sich zunehmend im menschlichen Alltag verankern, sodass sie als
 selbstverständlich wahrgenommen <span class="c-ref" data-ref-source-id="4" data-ref-desc="S.330" data-ref-type="vgl">werden.</span></p>
-      <p class="o-p--tie">Weiterführend sind die Eigenschaften des Mooreschen Gesetzes maßgeblich für die Implementierung in den gesellschaftlichen Alltag. Bei
+      <p class="o-p--tie">Weiterführend sind die Eigenschaften des mooreschen Gesetzes maßgeblich für die Implementierung in den gesellschaftlichen Alltag. Bei
 zunehmender Rechenleistung sinkt der Preis für Hard- und Software generell, speziell in den letzten Dekaden. Dadurch werden Computer für diverse
 Gesellschaftsschichten zugänglich, vor allem für die Anwendung im Privatbereich.</p>
       <p class="o-p--tie">Im Detail können weitere Komponenten und Phänomene für den Durchbruch in der gesellschaftlichen Nutzung aufgeführt werden, z.B. die
-erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw., oder der generelle Hype um neue kulturelle Errungenschaften. Software umgibt
+erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw. oder der generelle Hype um neue kulturelle Errungenschaften. Software umgibt
 den Menschen, welche sich innerhalb kürzester Zeit von der kulturell unscheinbaren Technologie zu dem Getriebe des 21ten Jahrhunderts <span class="c-ref" data-ref-source-id="4" data-ref-desc="S.21" data-ref-type="vgl">entwickelt.</span> Der
 Durchbruch von Software basiert dabei primär auf der Erweiterung beziehungsweise Augmentation und Partizipation der unterschiedlichen Teilnehmer der
 Gesellschaft und der Verankerung in deren privaten sowie beruflichen Alltagssituationen. Trotz seines wachsenden Einflusses bleibt Software durch seine
@@ -1080,7 +1071,7 @@ semiosis and human communication, enabled by its “softwarization.”</p>
       <p>Auf der ersten Ebene der sog. hybridity, werden existierende Medien im Computer simuliert. An dieser Stelle können auch aktuellere Beispiele wie
 YouTube oder Netflix angeführt werden, welche in diesem Fall den klassischen Fernseher in seiner Funktion imitieren. Die sog. evolution dieser Medienformate
 beschreibt die Erweiterung von Funktionalitäten, welche im vorherigen Medium nicht mehr möglich wären. Beispielsweise stellen Netflix und YouTube ihre Inhalte
-on demand (auf Nachfrage) an, welches in klassischen TV Formaten nicht möglich wäre - Inzwischen wurde diese Funktionalität wieder zurückgeführt, siehe z.B.
+on demand (auf Nachfrage) an, welches in klassischen TV Formaten nicht möglich wäre – Inzwischen wurde diese Funktionalität wieder zurückgeführt, siehe z.B.
 Sky. Schließlich folgt die sog. deep remixability, welche sich hauptsächlich durch ihre Eigenschaft der Vernetzung auszeichnet. In einem regulären Remix,
 bekannt vor allem aus der Musikbranche, werden zwei Medien kombiniert, um ein neues Resultat zu kreieren. Beispielsweise die Kombination von zwei Songs, zwei
 Videos, Video und Song oder zwei Adobe Illustrator Dateien. Beim Konzept des deep remix, welches auf Softwareebene agiert, können sich, wie im Beispiel von
@@ -1097,21 +1088,21 @@ nachfolgenden Entwicklungen, wie der Einführung des Smartphones oder in der Ent
           <span class="c-ref" data-ref-source-id="88" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
         </div>
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="203" data-ref-type="ref" data-ref-desc="Video: " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="203" data-ref-type="ref" data-ref-desc="Video:" data-ref-hide></span>
         </div>
       </div>
 
       <p></p><!-- hotfix -->
 
       <blockquote>
-        <p>I think that the scale, diversity and radicalism of these “additions” - those already invented and many more yet to be invented in the future - is of
+        <p>I think that the scale, diversity and radicalism of these “additions” – those already invented and many more yet to be invented in the future – is of
 such magnitude that exploring what can be created with them will occupy us for a long time. And this is one of the reasons why the “digital revolution” is
-different from all previous techno-cultural revolutions. The ability to simulate not simply one or two, but most media in a computer - combined with computer
-abilities to control processes in real-time, calculate, transform inputs, test what/if scenarios, and send information over networks - opens a practically
+different from all previous techno-cultural revolutions. The ability to simulate not simply one or two, but most media in a computer – combined with computer
+abilities to control processes in real-time, calculate, transform inputs, test what/if scenarios, and send information over networks – opens a practically
 unbounded space of creative possibilities.</p>
         <p>As we followed the evolution of the computer medium from the first stage of invention and experimentation (1960s-1970s) to the second stage of
-commercialization and wide adoption (1980s-1990s), we discovered the third direction of the computer metamedium evolution - hybridization. Translated into
-software, different types of media started acting like species within a common ecology - in this case, a shared software environment. Once they were “released”
+commercialization and wide adoption (1980s-1990s), we discovered the third direction of the computer metamedium evolution – hybridization. Translated into
+software, different types of media started acting like species within a common ecology – in this case, a shared software environment. Once they were “released”
 into this environment they begin interacting, mutating, and making hybrids. Both the simulated and new media types- text, hypertext, still photographs, vector
 graphics, digital video, 2D animation, 3D models and animation, navigable 3D spaces, maps, location information, messages and scripts- became building blocks
 for many new media combinations.</p>
@@ -1186,14 +1177,14 @@ Postversand verdeutlichen die Präsenz dieser Ansätze im gegenwärtigen Gescheh
       <p class="o-p--tie">Weitere, der Xerox <abbr title="Palo Alto Research Center">PARC</abbr> Projekte leisten Pionierarbeit für zukünftige Entwicklungen und den daraus
 resultierenden Produkten. Eines dieser Xerox Projekte ist beispielsweise der Xerox Alto, welcher als erster in Serie gefertigte Computer eine grafische
 Benutzeroberfläche besitzt. Xerox profitiert, mit Ausnahme des Laserdruckverfahrens, kommerziell, von kaum einer dieser Entwicklungen. Als einer der möglichen
-Gründe kann angeführt werden, dass viele Konzepte nicht rechtzeitig über den Prototypenstatus hinaus entwickelt wurden (siehe Dynabook, oder NoteTaker).
+Gründe kann angeführt werden, dass viele Konzepte nicht rechtzeitig über den Prototypenstatus hinaus entwickelt wurden (siehe Dynabook oder NoteTaker).
 Unternehmen wie Apple und Microsoft bedienen sich folgend und erfolgreich des GUI Erfolgskonzepts, durch die von Xerox selbstgewährte, direkte Einsicht in deren
 Entwicklungsprozesse. Neben diesen Beobachtungen zeigen ebenfalls ehemalige Mitarbeiter, wie beispielsweise John Warnock, welcher nach seinem Ausstieg Adobe
 gründet oder Robert Metcalfe, welcher das Ethernet entwickelt und in seiner eigenen Firma 3Com kommerziell nutzt, das Potential in den <span class="c-ref" data-ref-source-id="208" data-ref-desc="" data-ref-type="ref">Entwicklungen</span> von Xerox
 auf.</p>
 
       <p>Nach der Einführung von mobilen Notebooks entwickeln sich diese zögerlich, jedoch stetig, durch kleinere Innovationen diverser Unternehmen, weiter.
-Erst 2007 mit der <span class="c-ref" data-ref-source-id="3" data-ref-desc="" data-ref-type="ref" data-ref-hide-footnote>Keynote von Apple</span>, gelingt dem mobilen Sektor der Computerbranche der revolutionäre Durchbruch mit der Präsentation des iPhones - dem ersten,
+Erst 2007 mit der <span class="c-ref" data-ref-source-id="3" data-ref-desc="" data-ref-type="ref" data-ref-hide-footnote>Keynote von Apple</span>, gelingt dem mobilen Sektor der Computerbranche der revolutionäre Durchbruch mit der Präsentation des iPhones – dem ersten,
 erfolgreichen Smartphone. Nur drei Jahre später schafft es Apple, durch die Einführung des ersten populären Tablet Computers (iPad), erneut einen neuen Markt zu
 eröffnen. Apples Produkte und die Weiterentwicklung des Internets (Web 2.0) initiieren erneut den bisweil letzten, anhaltenden, gesellschaftlichen
 Paradigmenwechsel auf Basis digitaler Medien. In diesem manifestiert sich ein Großteil jahrzehntelanger Korrelation diverser Forschungsgebiete und deren
@@ -1227,14 +1218,14 @@ data-article="https://www.technobezz.com/watch-the-animated-biography-of-steve-j
           <p class="c-person__bio">Steve Jobs gilt als das Paradebeispiel für die Initiierung dieser technologisch geprägten, popkulturellen Epoche. Als Gründer
 von Apple, agiert er als einer der ersten Prototypen im Stil von <span class="c-ref" data-ref-source-id="93" data-ref-desc="" data-ref-type="ref">neuzeitlichen Entrepreneuren</span>, indem er risikobereit und experimentell ein breites Spektrum an
 Ressourcen nutzt, um seine Visionen zu realisieren. Durch Apples erfolgreiche Produkt Historie und Marketingstrategie etabliert es sich als zeitgeistiger
-Symbolträger für Innovation. Entwürfe wie der iPod, das iPhone und iPad spiegeln die praktische Umsetzung von Konzepten wie “Internet of Things”, oder “Personal
+Symbolträger für Innovation. Entwürfe wie der iPod, das iPhone und iPad spiegeln die praktische Umsetzung von Konzepten wie “Internet of Things” oder “Personal
 Dynamic Media”, wider. Trotz des anhaltenden, kommerziellen Erfolgs unterstellen einige Experten wie <span class="c-ref" data-ref-source-id="94" data-ref-desc="" data-ref-type="ref">Hartmut Esslinger</span>, Apple habe nach dem Tod von Steve Jobs
 ihr Gespür für die Gestaltung in aktuelleren Produkten verloren.</p>
         </div>
       </div>
 
       <p>Mit der Analyse von mobilen Computersystemen und deren kulturellen Auswirkungen offenbart sich die Synergie aus kleineren Komponenten, Entwicklungen
-und Evolutionen, für den durchbrechenden Gesamterfolg von revolutionären Produkten - oder wie Jobs berühmt auf den Apples Keynotes formulierte: “The Next Big
+und Evolutionen, für den durchbrechenden Gesamterfolg von revolutionären Produkten – oder wie Jobs berühmt auf den Apples Keynotes formulierte: “The Next Big
 Thing”. Für die Kreation von Produkten wie dem iPhone kombinierte er das Expertenwissen seines Teams für jeweilige Teilgebiete (z.B. Steve Wozniak oder Jonathan
 Ive), o.g. fundamentale, innovative Konzepte (z.B. von Xerox <abbr title="Palo Alto Research Center">PARC</abbr>) sowie experimentelle (z.B. Multi-Touch-Screen) Technologien und Medien (Internet).</p>
       <p class="o-p--tie">Ein entscheidender Faktor für den Erfolg dieser Produkte besteht in deren Software, indem diese möglichst optimiert auf den Nutzer und
@@ -1248,7 +1239,7 @@ seiner universellen Funktionsweise, aktuell als prominentester, zentraler, gesel
 Geschehens.</p>
       <p class="o-p--tie">Ob durch die sog. “Wearables” in Zukunft ein ähnlicher Paradigmenwechsel eingeleitet wird, wie durch die Einführung von
 Desktop-Computern oder sich bestimmte Theorien, wie beispielsweise Internet der Dinge, vollständig bewahrheiten, bleibt zunächst <span class="c-ref" data-ref-source-id="97" data-ref-type="bsp" data-ref-desc="" data-ref-hide>spekulativ</span>. In einer möglichen
-Post Smartphone Ära müsste das jeweilige Gerät die Eigenschaften des Smartphones zunächst erfüllen bzw. übertreffen und sich kulturell etablieren - zudem nutzen
+Post Smartphone Ära müsste das jeweilige Gerät die Eigenschaften des Smartphones zunächst erfüllen bzw. übertreffen und sich kulturell etablieren – zudem nutzen
 aktuell noch viele, mobile Smart Devices das Smartphone als Basisstation. Das Smartphone, mobile- sowie Desktop Rechner bleiben tendenziell auch in näherer
 Zukunft, aufgrund ihrer einzigartigen Eigenschaften, die Schnittstellen des digitalen Zeitalters und ggf. darüber hinaus präsent. Dies zeigt sich beispielsweise
 in Produkten wie Spectacles von Snap Inc.</p>
@@ -1266,14 +1257,14 @@ in Produkten wie Spectacles von Snap Inc.</p>
 
       <p>Die Kritik von Hartmut Esslinger an Apple gilt als berechtigt, insofern Apple nachdem Tablet keine vergleichsweise bahnbrechende
 Technologien präsentieren und sich Konkurenzunternehmen inzwischen auf einem ähnlichen Niveau befinden. Allerdings ermöglichen sowie vereinfachen Apple und
-vergleichbare Unternehmen, mit der Implementierung neuer Medien Plattformen (Smartphones, Tablets, etc.), den Zugang für Developer und Designer sich aktiv an aktuellen
+vergleichbare Unternehmen, mit der Implementierung neuer Medien Plattformen (Smartphones, Tablets, etc.), den Zugang für <abbr title="Entwickler">Developer</abbr> und Designer sich aktiv an aktuellen
 Trendentwicklung zu beteiligen und diese <span class="c-ref" data-ref-source-id="98" data-ref-desc="" data-ref-type="ref">mitzugestalten.</span><span class="c-ref" data-ref-source-id="99" data-ref-desc="" data-ref-type="ref"></span></p>
       <p class="o-p--tie">Generelle Entwicklungen wie das Internet und der damit einhergehende globale Austausch, die Open Source Bewegung auf Plattformen wie
 z.B. GitHub zeigen neben der transparenten, rapiden vor allem die dezentralisierte Weiterentwicklung der Meta Medien auf. Durch die Zugänglichkeit
 unterschiedlichster Medieninhalte, erfolgen Weiterentwicklungen inzwischen nicht mehr ausschließlich durch größere, einzelne Unternehmen, sondern ebenfalls
 durch die kleinteilige, kollaborative Wechselwirkung diverser Experten mit unterschiedlichen Interessensgebieten.</p>
       <p class="o-p--tie">Größere Paradigmenwechsel werden sich dementsprechend weiterhin abzeichnen, allerdings sind diese im Direktvergleich zu den Anfängen
-der techno-kulturellen Veränderungen berechenbarer geworden und basieren nun verstärkt auf bereits geleistete Gedankengängen, oder bestehenden Konzepte, indem
+der techno-kulturellen Veränderungen berechenbarer geworden und basieren nun verstärkt auf bereits geleistete Gedankengängen oder bestehenden Konzepte, indem
 diese optimiert werden sowie der kollaborativen Gesamtleistung unterschiedlicher Unternehmen und Individuen in größerer Gesamtzahl – von der
 evolution zur hybridization. Somit ist Esslingers Kritik, abgesehen von der direkten Kritik an Apple Produkten, evtl. eine zeitgeistliche
 Beobachtung, welche weitreichender bzw. umfassender zu verstehen ist.</p>
@@ -1293,7 +1284,7 @@ Mediums, dessen Nutzer sowie des unmittelbaren Kontextes.</p>
 gegründete Netzwerk etabliert sich als beliebte Kommunikations- und Austauschplattform für universelle Konversationen mit ernsten sowie trivialen <span class="c-ref" data-ref-source-id="101" data-ref-parameter="&t=10m39s" data-ref-type="ref">Themen.</span> Es
 ist retrospektiv betrachtet einer der Geburtsorte des, für heutige Verhältnisse primitiven, “Cyberspaces”*. <abbr title="Bulletin Board System">BBS</abbr> sind im Gegenteil zu den Standards des
 World Wide Webs autonome, meist private Mailboxen bzw. elektronische schwarze Bretter in ihrer Visualisierung, ähnlich dem TV Teletext. Sie fungieren als die
-puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen wie beispielsweise IRC, Reddit, oder Facebook.
+puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen wie beispielsweise IRC, Reddit oder Facebook.
 
 
         <span class="c-notes-side-hook">
@@ -1308,7 +1299,7 @@ puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen
                 „Kybernetik“, space „Raum, Weltall“: kybernetischer Raum, Kyberraum) bezeichnet im engeren Sinne eine konkrete virtuelle Welt oder Realität („Scheinwelt“), im
                 erweiterten Sinne die Gesamtheit mittels Computern erzeugter räumlich anmutender oder ausgestalteter Bedienungs-, Arbeits-, Kommunikations- und Erlebnis
                 Umgebungen. In der verallgemeinernden Bedeutung als Datenraum umfasst der “Cyberspace” das ganze Internet. Die Sozialwissenschaften verstehen den “Cyberspace”
-                weitergehend als „computermedial erzeugten Sinnhorizont“ und als Teil der Cybergesellschaft. - Wikipedia</span>
+                weitergehend als „computermedial erzeugten Sinnhorizont“ und als Teil der Cybergesellschaft. – Wikipedia</span>
               </span>
             </span>
           </span>
@@ -1319,7 +1310,7 @@ puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen
       <a href="https://de.wikipedia.org/wiki/Datei:Monochrome-bbs.png" target="tab"><img src="./assets/img/bbs.png" alt="Monochrome BBS www.mono.org"/></a>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="213" data-ref-type="ref" data-ref-desc="Beispielhafter Terminalzugriff auf BBS System, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="213" data-ref-type="ref" data-ref-desc="Beispielhafter Terminalzugriff auf BBS System" data-ref-hide></span>
         </div>
       </div>
 
@@ -1334,7 +1325,7 @@ data-article="https://www.technobezz.com/watch-the-animated-biography-of-steve-j
         <div class="c-person__content">
           <h4 class="c-person__name">Mark Abene</h4>
           <p class="c-person__bio">Auf dem <span class="c-ref" data-ref-source-id="102" data-ref-desc="" data-ref-type="ref">Hack in the Box Event</span>, beschreibt Mark Abene alias Phiber Optik ausführlich seinen Werdegang als
-aufstrebender “Hacker”. Abene gehört der jüngeren Generation - in seinem Fall beschäftigt er bereits mit 9 Jahren mit der Thematik - der Hacker Bewegung, welche
+aufstrebender “Hacker”. Abene gehört der jüngeren Generation – in seinem Fall beschäftigt er bereits mit 9 Jahren mit der Thematik – der Hacker Bewegung, welche
 unmittelbar mit den digitalen Medien zusammen aufwächst. Als eine seiner frühen Inspirationsquellen für seine Aktivitäten nennt Abene den Film WarGames von
 1983, in dem sich ein jugendlicher Hacker Zugriff auf das computergesteuerte Atomprogramm des US Militärs beschafft. Abene war Mitglied der sog. Masters of
 Deception (MoD), einer in New York ansässigen und prestigeträchtigsten Hacker Gruppierungen ihrer Zeit. Im sog. medienwirksamen Great Hacker War konkurriert MoD
@@ -1416,7 +1407,7 @@ Raum, welches die Hacker kurze Zeit darauf <span class="c-ref" data-ref-source-i
       <p class="o-p--tie">Diese beispielhafte Situation zeigt das unterschiedliche Verständnis des Mediums von verschiedenen Arten von Nutzergruppen auf. Die
 jüngeren Hacker symbolisieren die Prototypen einer zukünftigen Generation, welche die Gesetze des digitalen Cyberspaces als ebenso gültig erachtet, wie die
 Gesetze der physischen Welt. Dies bedeutet nicht, dass jeder Mensch welcher im digitalen Zeitalter aufwächst automatisch über solche Fähigkeiten verfügt, aber
-es zeigt einen Trend, auf welcher sich beispielsweise im Online Gaming - eine weitere wichtige Komponente für den Erfolg des Internets - durch z.B. das
+es zeigt einen Trend, auf welcher sich beispielsweise im Online Gaming – eine weitere wichtige Komponente für den Erfolg des Internets – durch z.B. das
 Selbstverständnis der Anonymität, widerspiegelt. Ebenso repräsentiert Barlow eine ältere Generation, welche dem Potential der neuen Medien in erster Instanz
 skeptisch und mit den Normen der physischen Welt begegnet.</p>
       <p class="o-p--tie">Nachdem Barlow zunächst eingeschüchtert ist, entschließt er sich mit den Mitgliedern von <abbr title="Legion Of Doom">LoD</abbr>
@@ -1450,11 +1441,11 @@ Abene, <span class="c-ref" data-ref-source-id="107" data-ref-type="ref" data-ref
 
       <p>Im Jahr 1996 publiziert Barlow sein berühmtes Manifest:<span class="c-ref" data-ref-source-id="105" data-ref-type="ref" data-ref-desc="">A Declaration of the Independence of Cyberspace.</span> Trotz der möglichen Gefahren der Hackerszene,
 mit denen er selbst persönliche Erfahrungen macht, erkennt Barlow die Wichtigkeit der <span class="c-ref" data-ref-source-id="111" data-ref-type="ref" data-ref-desc="">Freiheit des Internets</span> und dessen fundamentales Potential Menschen auf der
-Welt - ungeahnt ihrer Herkunft, Ethik, oder persönlicher Ansichten - zu verbinden, ohne konventionelle Regeln oder Normen, sondern lediglich auf der Basis von
+Welt – ungeahnt ihrer Herkunft, Ethik oder persönlicher Ansichten – zu verbinden, ohne konventionelle Regeln oder Normen, sondern lediglich auf der Basis von
 gegenseitigem Respekt. Das romantisierende Manifesto of Cyberspace ist neben seiner Aufforderung zum Erhalt der Unabhängigkeit des Internets, ebenfalls ein
 direktes Fenster zu den damaligen Ansichten Barlows und seiner Weggefährten, welche sie in ihrer puristischen Form bis dato vertreten. In Anbetracht der
 Entwicklung des Internets gesteht selbst Barlow inzwischen ein, dass sein Manifesto optimistischer ausgelegt ist, als es der Realität gerecht werden könnte.
-Dennoch repräsentiert und verdeutlicht es bis heute - mehr denn je und unmissverständlich - die Wichtigkeit der Partizipation zum Schutz der fundamentalen
+Dennoch repräsentiert und verdeutlicht es bis heute – mehr denn je und unmissverständlich – die Wichtigkeit der Partizipation zum Schutz der fundamentalen
 Rechte und Eigenschaften des Cyberspaces.</p>
 
       <p>Die Protagonisten und Pioniere jener Zeit sind neben den technischen Auswirkungen einer der primären, kulturellen Faktoren für die heutige, freie Form
@@ -1516,7 +1507,7 @@ Endverbrauchers wichtige Aspekte darstellen. Der Begriff Web 2.0, welcher die ge
 Themenbereich der Social Media Netzwerke, in der sich diese Veränderung am deutlichsten abzeichnet. Digitale Netzwerke wie Facebook, Tools wie die Google
 Suchfunktion und weitere sog. Apps (Instagram, Snapchat, PokemonGo, usw.) implementieren sich ähnlich wie Smartphones in die alltäglichen Abläufe der
 Gesellschaft.</p>
-      <p class="o-p--tie">Popkulturelle Phänomene des digitalen Cyberspaces wie sog. “Selfies”, oder die <span class="c-ref" data-ref-source-id="118" data-ref-type="ref" data-ref-desc="">forcierte Selbstdarstellung</span> von trivialen Erlebnissen,
+      <p class="o-p--tie">Popkulturelle Phänomene des digitalen Cyberspaces wie sog. “Selfies” oder die <span class="c-ref" data-ref-source-id="118" data-ref-type="ref" data-ref-desc="">forcierte Selbstdarstellung</span> von trivialen Erlebnissen,
 wie beispielsweise das Fotografieren von Nahrungsmitteln vor dem Verzehr, Blogging und Vlogging, bahnen sich einzig durch die Nutzung und der Verbreitung
 innerhalb der neuen Meta Medien ihren Weg in die physische Welt.</p>
       <p class="o-p--tie">Die verstärkte Nutzung der digitalen Meta Medien sind eingehend mit positiven sowie negativen Ansätzen. Die verstärkte Partizipation
@@ -1568,7 +1559,7 @@ und Interaktion ist ebenfalls die automatisierte Verarbeitung von Bildmaterial m
       <p>Alle o.g. Entwicklungen des Internets verdeutlichen diverse Erkenntnisse des digitalen Zeitalters mit dem Computer als universelles Meta Medium.</p>
       <p class="o-p--tie">GUIs erweisen sich als Zugangsportale allgemeiner Nutzer, welches sich zu verschiedenen Zeitpunkten der digitalen Entwicklung
 wiederholt bestätigen. Sie manifestieren sich in grafischen Benutzeroberflächen als digitale Zeichen bzw. Symbole, wie beispielsweise in der Fenster Logik der
-ersten Windows/Apple Betriebssysteme, oder dem sog. burgermenu im mobilen Webdesign.</p>
+ersten Windows/Apple Betriebssysteme oder dem sog. burgermenu im mobilen Webdesign.</p>
       <p class="o-p--tie">Viele der ehemaligen Hacker und Aktivisten arbeiten inzwischen in verschiedenen Teilen der IT Branche in jener, neben den
 Protagonisten wie staatlichen Vertretern des Gesetzes, den technischen “Enthusiasten” (Hacker und Aktivisten), interagieren nun ebenfalls verstärkt
 einflussreiche Unternehmen und Organisationen (Google, Facebook, <abbr title="Electronic Frontier Foundation">EFF</abbr>, usw.) sowie reguläre Nutzer. Eine markante Eigenschaft der liberalen Aktivisten besteht
@@ -1603,7 +1594,7 @@ selling of tens of millions that facilitated a spontaneous hacker community of t
       <img src="./assets/img/comic-end.png" alt=""/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="6" data-ref-type="ref" data-ref-desc="Time Frames - Scott McCloud, 1993 - S.719 " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="6" data-ref-type="ref" data-ref-desc="Time Frames – Scott McCloud, 1993 – S.719" data-ref-hide></span>
         </div>
       </div>
 
@@ -1629,11 +1620,11 @@ selling of tens of millions that facilitated a spontaneous hacker community of t
         </div>
       </div>
 
-      <p>Bevor der Fokus auf den gegenwärtigen Trend der sog. Virtual Reality Komponenten verschoben wird, ist ein Resumé der bisherigen Beobachtungen der
+      <p>Bevor der Fokus auf den gegenwärtigen Trend der sog. Virtual Reality Komponenten verschoben wird, ist ein Resümee der bisherigen Beobachtungen der
 Vergangenheit erforderlich. Der Verlauf der Computergeschichte zeichnet sich durch repetitive Aspekte und die starke Verknüpfung der unterschiedlichen
 Entwicklungen untereinander aus. Daraus lassen sich die relevanten Faktoren für potentielle, Software induzierte Paradigmenwechsel eruieren. Aus diesem Grund
 gilt die ausführliche Analyse dieser, als einer der wichtigsten Indikatoren für den Erfolg von zukünftigen Entwicklungen.</p>
-      <p class="o-p--tie">In der Historie repräsentieren Persönlichkeiten wie Alan Kay, oder Jaron Lanier nicht nur einzelne Zweige der Softwareentwicklung,
+      <p class="o-p--tie">In der Historie repräsentieren Persönlichkeiten wie Alan Kay oder Jaron Lanier nicht nur einzelne Zweige der Softwareentwicklung,
 sondern ebenfalls das Ineinander- und Übergreifen diverser Themengebiete. Kay beschäftigt sich nicht nur ausschließlich mit der Weiterentwicklung von grafischen
 Benutzeroberflächen, sondern ebenfalls mit weiteren, diversen Aspekten z.B. mobiler Devices. Ebenso Lanier,  welcher anfangs mit Schnittstellen der physischen
 und artifiziellen Realität experimentiert und später intensiver auf die Veränderungen durch diese und verknüpfte Technologien eingeht. Das aktuelle Geschehen
@@ -1641,7 +1632,7 @@ der Computerentwicklung ist ebenso geprägt von solchen Entwicklungen, in denen 
 nach dem deep remix Prinzip von Manovich in verstärkter Wechselwirkung beeinflussen bzw. gegenseitige Eigenschaften adaptieren und reproduzieren. Der Gedanke
 der wortwörtlich greifbaren Virtual Reality ist dabei vergleichbar mit der Einführung des iPhones 2007, welches nach der ausführlichen Analyse weniger wie eine
 innovative Neuschöpfung wirkt, sondern vielmehr wie eine Beseitigung von Missständen bisheriger Produkte des (Smartphone/Mobilfunk) Segments.</p>
-      <p class="o-p--tie">Im direkten Vergleich zu den Entwicklungen der 90er Jahre - visualisiert in dem o.g. Hackathon Video - ermöglichen zeitgeistliche
+      <p class="o-p--tie">Im direkten Vergleich zu den Entwicklungen der 90er Jahre – visualisiert in dem o.g. Hackathon Video – ermöglichen zeitgeistliche
 Produkte, wie die Oculus Rift oder HTC Vive, ein immersives/intensiveres Nutzererlebnis (User Experience / UX) als <span class="c-ref" data-ref-source-id="125" data-ref-type="ref" data-ref-desc="">vorherige Unternehmungen</span>, wie beispielsweise
 der <span class="c-ref" data-ref-source-id="126" data-ref-type="ref" data-ref-desc="">Virtual Boy</span> von Nintendo in den 90er Jahren. Die Grundeigenschaften der Produkte haben sich dagegen kaum verändert. </p>
       <p class="o-p--tie">Mithilfe der Computer Historie kann analysiert werden, ob neben der Verfügbarkeit der Produkte, dessen technischen Weiterentwicklungen
@@ -1652,7 +1643,7 @@ Extraktion der positiven und negativen Aspekte der betreffenden Technologien auf
 
       <h3>Head Mounted Displays / Virtual-, Augmented &amp; Mixed Reality</h3>
 
-      <p>Mit der Veröffentlichung diverser Unterhaltungselektronik wie der Oculus Rift, Sonys Project Morpheus, Samsung Gear VR, oder Googles Daydream erlebt
+      <p>Mit der Veröffentlichung diverser Unterhaltungselektronik wie der Oculus Rift, Sonys Project Morpheus, Samsung Gear VR oder Googles Daydream erlebt
 diese Sparte nach den kommerziellen Misserfolgen der 90iger Jahre (s.o.), einen erneuten Aufschwung. Jede dieser Technologien basieren auf der Hardwareebene auf
 sog. Head Mounted Displays (z.d. Datenhelme / <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s) in unterschiedlichen Ausführungen. Diese lassen den Benutzer in eine artifiziell erzeugte Realität
 eintauchen, bzw. wird die physische Welt durch das Einfügen von digitalen Objekten und Interaktionen erweitert. Diese “Datenhelme” sind mit hochauflösenden
@@ -1681,8 +1672,8 @@ vergleichbar mit den Entwicklungen der ersten Rechenmaschinen. Der Unterschied z
 Bildschirmen besteht dabei in der erfahrbaren, räumlichen Wahrnehmung, sichtbarer Plastizität und ggf. vorhandenen Interaktionsmöglichkeiten der jeweiligen
 Objekte, im unmittelbaren Blickfeld des jeweiligen Betrachters.</p>
       <p class="o-p--tie">Ziel jeder Entität dieser Kategorien ist es, die Grenzen zwischen der physischen Welt und dem Cyberspace verschwimmen zu lassen, indem
-sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz), oder umgekehrt. Neben der Übertragung von audiovisuellen Daten und der Interaktion mittels
-spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne, oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s kombinierbar.
+sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz) oder umgekehrt. Neben der Übertragung von audiovisuellen Daten und der Interaktion mittels
+spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s kombinierbar.
 Von kleineren Geräten wie Leap-Motion bis zu komplexen <abbr title="Motion Capture">MoCap</abbr> <span class="c-ref" data-ref-source-id="222" data-ref-type="ref" data-ref-desc="">(Motion Capture)</span> Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden sich in der
 Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt, im Vordergrund stehen.
 
@@ -1711,7 +1702,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="Virtual Reality Beispiel, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="215" data-ref-type="bsp" data-ref-parameter="?t=3m22s" data-ref-desc="Virtual Reality Beispiel" data-ref-hide></span>
         </div>
       </div>
 
@@ -1724,7 +1715,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="216" data-ref-type="bsp" data-ref-parameter="?t=50s" data-ref-desc="Augmented Reality Beispiel, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="216" data-ref-type="bsp" data-ref-parameter="?t=50s" data-ref-desc="Augmented Reality Beispiel" data-ref-hide></span>
         </div>
       </div>
 
@@ -1737,7 +1728,7 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="214" data-ref-type="bsp" data-ref-parameter="?t=15m30s" data-ref-desc="Mixed Reality Beispiel, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="214" data-ref-type="bsp" data-ref-parameter="?t=15m30s" data-ref-desc="Mixed Reality Beispiel" data-ref-hide></span>
         </div>
       </div>
 
@@ -1747,18 +1738,18 @@ Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers 
 jeder erdenklichen Situation, können diese Technologien an nahezu jeden vorstellbaren Interessenbereich angeknüpft werden. Als universelles Werkzeug zum
 besseren Verständnis bzw. Erlernen von Inhalten aus Themengebieten, wie z.B. <span class="c-ref" data-ref-source-id="217" data-ref-type="bsp" data-ref-desc="">Medizin,</span> Physik, Technik, Sport, usw. Mit Hilfe realitätsnaher Darstellungen, der
 Möglichkeit beliebiger Wiederholungszyklen und der vergleichsweise einfachen Auswertung bei praktisch minimalem, physischen Ressourcenverbrauch, verdeutlichen
-sich die Vorteile der Technologien. Sie ist ebenfalls einsetzbar als Hilfsmittel in der Service- oder der Marketing Branche, oder in weiteren
-Anwendungsgebieten, wie beispielsweise dem Gaming-, oder Entertainment Sektor. Zusammenfassend sind die Möglichkeiten sehr umfassend und potentiell noch
+sich die Vorteile der Technologien. Sie ist ebenfalls einsetzbar als Hilfsmittel in der Service- oder der Marketing Branche oder in weiteren
+Anwendungsgebieten, wie beispielsweise dem Gaming- oder Entertainment Sektor. Zusammenfassend sind die Möglichkeiten sehr umfassend und potentiell noch
 weitreichender, als die Auswirkungen vorheriger Software induzierter, gesellschaftlicher Paradigmenwechsel. Das entscheidende Potential aller dieser
 Technologien (VR,AR,MR) manifestiert sich somit durch ihre gemeinsame Eigenschaft als alternative, effektive Schnittstelle zwischen der physischen Welt und dem
-digitalen Cyberspace - zwischen Mensch und Maschine.</p>
+digitalen Cyberspace – zwischen Mensch und Maschine.</p>
 
       <h3><i>The Next Big Thing</i> der Software Ära?</h3>
 
       <p>Die aktuellen <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien offenbaren sich, ähnlich wie die digitale Revolution in der Historie der Computer und der zugehörigen Software
 Entwicklung, als weiteres, “neues” Medium innerhalb des Meta Mediums Computer, indem sich neue Interaktionsmöglichkeiten abzeichnen. Damit einhergehend eröffnen
 sich weitere angrenzende Themengebiete wie die Verkörperung (Embodiment), Immersion und Perzeption (Perception) innerhalb dieser Medien wozu, wiederum
-ausführliche Studien, Meinungen und Beiträge, <span class="c-ref" data-ref-source-id="131" data-ref-type="ref" data-ref-desc="">bereits</span> <span class="c-ref" data-ref-source-id="132" data-ref-type="ref" data-ref-desc="">existieren.</span> Für das Resumé dieser Arbeit befinden sich diese Bereiche im sekundären Fokus. Der primäre
+ausführliche Studien, Meinungen und Beiträge, <span class="c-ref" data-ref-source-id="131" data-ref-type="ref" data-ref-desc="">bereits</span> <span class="c-ref" data-ref-source-id="132" data-ref-type="ref" data-ref-desc="">existieren.</span> Für das Resümee dieser Arbeit befinden sich diese Bereiche im sekundären Fokus. Der primäre
 Ansatz bezieht sich umso mehr auf die Ermittlung des Potentials und Durchsetzungsvermögens dieser Medien.</p>
       <p class="o-p--tie">Durch die bisherigen Beobachtungen der Computer- und Software Entwicklungen stellt sich die Frage, ob sich das Medium der Head Mounted
 Displays/Devices als neues, universelles Interaktionsmedium behaupten kann. Mit der aktuell, hohen Präsenz in Nachrichten- und Informationsmedien sind die
@@ -1795,7 +1786,7 @@ etablieren.</p>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Selling out</div>
           <div class="o-h1">48h</div>
-          <p class="o-p--note">The amount of time it took for Samsung´s $99 Gear VR to sell out on Amazon.com and BestBuy.com - an indication of strong demand at lower price points.<p>
+          <p class="o-p--note">The amount of time it took for Samsung´s $99 Gear VR to sell out on Amazon.com and BestBuy.com – an indication of strong demand at lower price points.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Interest in the past</div>
@@ -1845,7 +1836,7 @@ bereits Ansätze in Form von Projekten wie <span class="c-ref" data-ref-source-i
         <p>As you can judge by our OSVR leadership, we've long had the desire to "democratize VR", to allow companies small and large to integrate their
 innovations into a complete VR stack. It allows future-proofing VR investments, allows mix-and-match device selection for users and help small companies break
 into the market.</p>
-        <p>OpenXR presented the opportunity to work with other industry leaders - Valve, Oculus, Samsung, Google and others - to formulate a standard that would
+        <p>OpenXR presented the opportunity to work with other industry leaders – Valve, Oculus, Samsung, Google and others – to formulate a standard that would
 have even wider acceptance. Creating a standard takes time, of course, and I think Khronos standards efforts average 18 months to the first release. OpenXR
 formally started just a few weeks ago, so the average holds here, we'll have the first release of the standard in mid 2018, but of course we might finish before
 or after that average date.</p>
@@ -1879,7 +1870,7 @@ Immersion zu erreichen, sie scheitern oftmals an ihrer Komplexität und den verb
                 <strong class="c-note-side__headline"><span class="c-ref" data-ref-source-id="149" data-ref-type="ref" data-ref-desc="Lord Helmchen, "><abbr title="Lord Helmchen ist ein Charakter aus dem Kinofilm Spaceballs, welcher wie sein Name vermuten lässt, einen überdimensionierten Helm trägt.">Lord Helmchen?</abbr></span></strong>
                 <span class="c-note-side__text">AR/MR Geräte wie die Microsoft HoloLens sind davon nicht betroffen, denn sie bieten alle notwendigen,
 technischen Voraussetzungen in ihren Geräten an und nutzen die physische Umwelt als Interaktionsmedium. Die Kritik an diesen Geräten manifestiert sich aktuell
-primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen noch höheren Preis.
+primär durch ihr unnatürliches Erscheinungsbild, <abbr title="Entwickler">Developer</abbr> Status und einen noch höheren Preis.
 
                 </span>
               </span>
@@ -1892,7 +1883,7 @@ primär durch ihr unnatürliches Erscheinungsbild, Developer Status und einen no
       <img src="./assets/img/roomscalevr.jpg" alt="Room Scale VR"/>
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="142" data-ref-type="ref" data-ref-desc="Room Scale VR und seine Grenzen, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="142" data-ref-type="ref" data-ref-desc="Room Scale VR und seine Grenzen" data-ref-hide></span>
         </div>
       </div>
 
@@ -1970,7 +1961,7 @@ Entwicklungen der Hardwareseite ergeben sich weitere Möglichkeiten im <span cla
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="227" data-ref-type="ref" data-ref-desc="Collage mit Croquet Portals nach Alan Kay, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="227" data-ref-type="ref" data-ref-desc="Collage mit Croquet Portals nach Alan Kay" data-ref-hide></span>
         </div>
       </div>
 
@@ -1980,7 +1971,7 @@ Entwicklungen der Hardwareseite ergeben sich weitere Möglichkeiten im <span cla
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="229" data-ref-type="ref" data-ref-desc="Screenshot, " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="229" data-ref-type="ref" data-ref-desc="Screenshot" data-ref-hide></span>
         </div>
       </div>
 
@@ -1998,7 +1989,7 @@ Software hat die MobileVR Branche positive Chancen sich als weiteres Medium fest
       <p>Durch die Zusammenarbeit von Mozilla und Google Chrome Entwicklern und dem resultierenden Release der experimentellen WebVR Technologie 2016, wird es
 möglich VR Geräte direkt mit den Inhalten und Umgebungen von Webbrowsern zu verbinden. Unter dem Deckmantel von WebVR verbergen sich neben der Ansteuerung und
 Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellen Technologien wie <abbr title="Web Graphics Library">WebGL</abbr> &amp; Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
-Anbindung von Controllern, oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen wie
+Anbindung von Controllern oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen wie
 z.B. <abbr title="Asynchronous JavaScript and XML">AJAX</abbr> (Asynchronous JavaScript and <abbr title="Extensible Markup Language">XML</abbr>) in Echtzeit angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn es
 verbindet neben den bestehenden Technologien ebenfalls bereits erfahrene Entwickler aus verschiedenen Gebieten und mit unterschiedlichen Fähigkeiten nahtlos mit
 dem neuen Medium. Diese Expertise kann nun weitgehend auf die VR Technologien übertragen werden, ohne einen extraordinären Mehraufwand zu betreiben, bzw. sich
@@ -2009,12 +2000,12 @@ der Nutzung des Webs als neu etablierter Standard immer noch nachhaltig beeinflu
 <span class="c-ref" data-ref-source-id="230" data-ref-type="ref" data-ref-desc="">Progressive Enhancements</span> anzubinden, sodass sich neue Features im optimalen Anwendungsfall, angepasst an die Fähigkeiten des jeweiligen Endgeräts eröffnen.</p>
       <p class="o-p--tie">Die Anbindung an Web Technologien ist ein Trend welcher sich auch mit der Entwicklung von sog. <span class="c-ref" data-ref-source-id="164" data-ref-type="ref" data-ref-desc="">Web Apps</span> (Webanwendung) abzeichnet. Web
 Apps werden generell, ausschließlich über den Browser betrieben anstatt über das Betriebssystem des jeweiligen Endgerätes. Der Vorteil liegt dabei in der
-Verfügbarkeit und der Unabhängigkeit von der speziellen Installation zusätzlicher Software zur Wahrnehmung des jeweiligen Contents - der Anwender öffnet seinen
+Verfügbarkeit und der Unabhängigkeit von der speziellen Installation zusätzlicher Software zur Wahrnehmung des jeweiligen Contents – der Anwender öffnet seinen
 Browser und hat sofort Zugriff auf den entsprechenden Inhalt. Updates erfolgen dabei direkt nach der Erneuerung des abgerufenen Contents und müssen nicht mehr
 zusätzlich installiert werden.</p>
       <p class="o-p--tie">Weiterführend erlangen Web Apps und -Technologien tendenziell immer mehr Zugriff auf die native Leistung der jeweiligen Geräte. <abbr title="Web Graphics Library">WebGL</abbr>
 hat beispielsweise bereits die Möglichkeit die volle Rechenleistung der Grafikeinheit der entsprechenden Recheneinheit zu nutzen. Web Apps wie die
-Kommunikationstools Slack, oder Discord können unmittelbar die Kamera oder das Mikrofon der jeweiligen Hardware ansteuern. Die Ansteuerung weiterer Sensoren der
+Kommunikationstools Slack oder Discord können unmittelbar die Kamera oder das Mikrofon der jeweiligen Hardware ansteuern. Die Ansteuerung weiterer Sensoren der
 entsprechenden Endgeräte befindet sich auf dem <span class="c-ref" data-ref-source-id="165" data-ref-type="ref" data-ref-desc="">Vormarsch.</span></p>
 
       <p>Ein Großteil der verschiedenen Technologien innerhalb von <abbr title="Web Graphics Library">WebGL</abbr> basiert auf dem <span class="c-ref" data-ref-source-id="166" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Open Standard</span> (bekannt aus der OpenSource Bewegung), welche auf
@@ -2031,7 +2022,7 @@ ist eine der Grundlagen für die <span class="c-ref" data-ref-source-id="168" da
       <p class="o-p--tie">Die Entwicklung mithilfe von Open Standards basierten Technologien erhöht ebenfalls die Transparenz jener durch die stetige Kontrolle
 im “Peer-Review” Verfahren, bekannt aus Portalen wie Wikipedia. Bei den meisten Open Source- und frei verfügbaren Projekten können verschiedene Entwickler durch
 sog. <span class="c-ref" data-ref-source-id="170" data-ref-type="ref" data-ref-desc="">Forks,</span> Vorschläge zur Optimierung einreichen. Speziell bei Libraries wie z.B. <span class="c-ref" data-ref-source-id="171" data-ref-type="ref" data-ref-desc="">jQuery,</span>
-<span class="c-ref" data-ref-source-id="172" data-ref-type="ref" data-ref-desc="">Sass,</span> <span class="c-ref" data-ref-source-id="173" data-ref-type="ref" data-ref-desc="">Bootstrap</span> usw. stellt dies ein gängiges, erfolgreiches
+<span class="c-ref" data-ref-source-id="172" data-ref-type="ref" data-ref-desc=""><abbr title="Syntactically Awesome Stylesheets">SASS</abbr>,</span> <span class="c-ref" data-ref-source-id="173" data-ref-type="ref" data-ref-desc="">Bootstrap</span> usw. stellt dies ein gängiges, erfolgreiches
 Verfahren dar. Die Anwendungen profitieren damit nicht nur von der Transparenz der Projekte, sondern ebenfalls den gebündelten, einzelnen Leistungen,
 unabhängiger Spezialisten.</p>
       <p class="o-p--tie">Für <abbr title="Web Graphics Library">WebGL</abbr> bzw. WebVR existieren bereits leistungsstarke Libraries wie <span class="c-ref" data-ref-source-id="174" data-ref-type="bsp" data-ref-desc="">Aframe,</span>
@@ -2047,7 +2038,7 @@ Programmen und Tools wie Unity bleibt, durch die potentiell mögliche Exportfunk
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
-          <span class="c-ref" data-ref-source-id="176" data-ref-type="bsp" data-ref-desc="Mit bereits wenigen Zeilen an Code, kann eine simple Visualisierung und Interaktion realisiert werden. " data-ref-hide></span>
+          <span class="c-ref" data-ref-source-id="176" data-ref-type="bsp" data-ref-desc="Mit bereits wenigen Zeilen an Code, kann eine simple Visualisierung und Interaktion realisiert werden." data-ref-hide></span>
         </div>
       </div>
 
@@ -2059,7 +2050,7 @@ ab. Setzen sich diese durch, hat auch WebVR positive Chancen auf Erfolg. Im Umke
 nicht zwangsweise das Ende der WebVR Technologie, denn die benötigte Hardware ist wesentlich kostengünstiger, sofern der Konsument Smartphone Besitzer ist.</p>
       <p class="o-p--tie">Zwei Faktoren spielen für den Erfolg eine entscheidende Rolle. Zum einen müssen Smartphones in Zukunft bessere Performance
 bereitstellen, u.a. spezielle Displays und Rechenleistung, zum anderen muss ein realer Anwendungsgrund im Softwarebereich entstehen, in dem die plastische
-Ansicht und Interaktion ein elementares, freies und abrufbares Alleinstellungsmerkmal darstellt. Im Anbetracht des Mooreschen Gesetzes gilt dies von den
+Ansicht und Interaktion ein elementares, freies und abrufbares Alleinstellungsmerkmal darstellt. Im Anbetracht des mooreschen Gesetzes gilt dies von den
 technischen Aspekten als wahrscheinlich. Ob die Anwendung lohnenswert wird, hängt von dem Engagement und der Zusammenarbeit der Unternehmen, Designer,
 Programmierer und letztendlich den Endverbrauchern ab.</p>
       <p class="o-p--tie">In Zukunft könnte sich das Symbol der VR Brille zum Starten des VR Modus, als festes digitales Zeichen auf Webseiten etablieren und
@@ -2070,7 +2061,18 @@ Mehrwert für die Anwendung entstehen kann.</p>
       <p class="o-p--tie">WebVR ist dabei der erste Versuch eine <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologie direkt mit dem Web zu verbinden. Weitere direkte Verknüpfungen von z.B. MR und
 Web sind vorstellbar und verändern die Darstellung des Internets und des Cyberspaces in Zukunft etwaig maßgeblich.</p>
 
-      <h2>Resumé</h2>
+      <div class="c-video">
+        <iframe class="c-video__item" src="https://www.youtube.com/watch?v=NNFl0u0tl90?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+        <img class="c-video__overlay" src="https://img.youtube.com/vi/NNFl0u0tl90/hqdefault.jpg" alt=""/>
+      </div>
+
+      <div class="c-notes-marginal">
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="296" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
+        </div>
+      </div>
+
+      <h2>Resümee</h2>
 
       <blockquote>
         <p>Wer die Vergangenheit nicht kennt, kann die Gegenwart nicht verstehen und die Zukunft nicht gestalten.</p>
@@ -2083,7 +2085,7 @@ Virtual Reality und weiterer Konsorten. Die Entwicklungen, speziell in den letzt
 umfangreiche Erfassung aller Kriterien als nahezu utopisch erweist. Deswegen wird das gesamte Spektrum der historischen Veränderungen hauptsächlich an
 vereinzelten Schlüsselereignissen demonstriert. Jedes dieser symbolisiert bzw. repräsentiert Aspekte und Eigenschaften zeitgeistiger Technologien.</p>
 
-      <p>Der Einstieg über die Beschleunigung durch Technologien, bis hin zum Diskurs der Technologische Singularität, repräsentiert zum einen eine Vielzahl an
+      <p>Der Einstieg über die Beschleunigung durch Technologien, bis hin zum Diskurs der technologischen Singularität, repräsentiert zum einen eine Vielzahl an
 aktuellen Unstimmigkeiten zwischen führenden Experten zu den Entwicklungen von zukünftigen Technologien. Speziell die Erwähnung von Ray Kurzweil ist wichtig,
 weil er neben seiner bedenklichen, absoluten Meinung zum technologischen Fortschritt ebenfalls die technische Entwicklung bei Google leitet. Er ist damit nicht
 nur eine beliebige Person mit einer persönlichen Attitüde und Science Fiction Vision unter einer Vielzahl von Individuen, sondern eine Schlüsselfigur in einem
@@ -2176,7 +2178,7 @@ dieser Medien mitzuerleben und zu -gestalten.</p>
       <div class="c-sources">
 
         <h2>Quellen</h2>
-        <p>Alle Web Adressen wurden am 18. März 2017 final überprüft und abgerufen.</p>
+        <p>Alle Web Adressen wurden am 28. März 2017 final überprüft und abgerufen.</p>
 
         <h3>Literatur</h3>
         <div class="c-sources__literature  c-columns  c-columns--literature">
