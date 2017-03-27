@@ -1125,7 +1125,7 @@ jeweiligen Quelle.</li>
         <h2>Danksagungen</h2>
         <p>Hiermit möchte ich mich bei folgenden Personen bedanken:</p>
         <ul>
-          <li><strong>Dominik Noel Blaschke</strong>, für die Hilfe bei der Programmierung der 3D Entitäten und als mein persönlicher Snacker in Crime.</li>
+          <li><strong>Dominik Noel Blaschke</strong>, für die fundierte Expertise bei der Programmierung und als mein persönlicher Snacker in Crime.</li>
         </ul>
       </div>
 
