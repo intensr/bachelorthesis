@@ -5,6 +5,10 @@ if (isset($_SERVER['HTTP_USER_AGENT']) && strpos($_SERVER['HTTP_USER_AGENT'], 'M
   header('X-UA-Compatible: IE=edge,chrome=1');
 }
 
+// Set timezone
+setlocale(LC_TIME, 'de_DE');
+date_default_timezone_set('Europe/Berlin');
+
 // Set basic vars
 $server = $_SERVER['SERVER_NAME'];
 $url = $server.$_SERVER['REQUEST_URI'];
@@ -15,21 +19,23 @@ $slug = trim(basename($url, '.php'));
 $contentInfo = [
   [
     0,
-    'Change content info variable!',
-    'Change content info variable!',
-    'Change content info variable!',
-    'Change content info variable!',
-    'Change content info variable!',
-    'Change content info variable!'
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   [
     1,
-    'Der Aufstieg des Cyberspaces',
+    'Der Aufstieg des Cyberspace',
     'Beeinflussen Technologien wie Virtual Reality unsere Gesellschaft nachhaltig?',
     ' - Proposal 1',
     'Das Proposal beschäftigt sich mit einem etwaigen, gesellschaftlichen Paradigmenwechsel, induziert durch das revitalisierte Themenfeld Virtual Reality (VR) in Verbindung mit Webbrowser Technologien (WebVR). Als fundamentale Grundlage der Analyse dienen bedeutende Entwicklungen der Computer- und Softwarebranche, mit besonderem Fokus auf die Korrelation der Aspekte von Technik und Performance (Leistungsfähigkeit), Design und Darstellung sowie Soziologie und Ethik.',
     'David Hoffmann',
-    $folder.'/assets/img/preview-1.png'
+    $folder.'/assets/img/preview-1.png',
+    'Prof. Andreas Muxel',
+    'Prof. Nina Juric'
   ],
   [
     2,
@@ -38,7 +44,9 @@ $contentInfo = [
     ' - Proposal 2',
     'In dem Proposal werden experimentelle Explorationen innerhalb artifizieller Realitäten realisiert und analysiert. Welche Umsetzungen von WebVR Konzepten sind durch aktuelle Technologien bereits möglich?',
     'David Hoffmann',
-    $folder.'/assets/img/preview-2.png'
+    $folder.'/assets/img/preview-2.png',
+    'Prof. Nina Juric',
+    'Prof. Andreas Muxel'
   ]
 ];
 //  echo '<pre>'.print_r($contentInfo, true).'</pre>';

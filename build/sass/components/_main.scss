@@ -7,8 +7,15 @@
   }
 }
 
-.o-grid__item {
-  max-width: 100%;
+.u-pagebreak-and-avoid\@print{
+  page-break-before: always;
+  page-break-inside: avoid;
+}
+
+.u-value-large {
+  @include font-size(21,2);
+  font-style: italic;
+  font-weight: bold;
 }
 
 .u-red {
@@ -27,6 +34,9 @@
   }
 }
 
+.u-margin-bottom {
+  @include to-rem(margin-bottom, $base-spacing);
+}
 
 // document sizing
 
@@ -410,9 +420,7 @@ a.c-ref__desc {
     @include to-rem(margin-top, -$base-spacing-half);
   }
 
-  img {
-    //@include to-rem(margin-bottom, $base-spacing);
-  }
+  img {page-break-inside: avoid;}
 
   table {
     page-break-inside: avoid;
@@ -467,6 +475,7 @@ a.c-ref__desc {
   }
 
   .c-notes-side {
+    page-break-inside: avoid;
     display: block;
     @include to-rem(margin-top, $base-spacing);
     //@include to-rem(padding-bottom, $base-spacing);
@@ -575,9 +584,7 @@ a.c-ref__desc {
   }
 
   .c-sources {
-    //border-top: 1px solid lighten($base-color-dark, 65%);
-  //  @include to-rem(margin-top, $base-spacing * 6);
-  //  @include to-rem(padding-top, $base-spacing * 3);
+
     p {
       font-family: "Graphik",sans-serif;
       @include font-size(16, 1.5);
@@ -1023,18 +1030,30 @@ a.c-ref__desc {
     background-repeat: no-repeat;
   }
 
-  &__headline {
+  &__content {
     position: absolute;
-    top: 40vh;
+    top: 50vh;
     left: 10%;
     max-width: 80%;
+    transform: translateY(-50%);
     color: #fbf9f6;
     display: block;
+  }
+
+  &__headline {
     font-family: "Graphik",sans-serif;
     font-weight: 700;
     font-size: 8vw;
     line-height: 1.1;
     letter-spacing: .02rem;
+  }
+  &__subline {
+    font-family: "Graphik",sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    line-height: 1.5;
+    letter-spacing: .02rem;
+    width: 60%;
   }
 }
 

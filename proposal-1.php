@@ -8,9 +8,11 @@
   <div class="o-grid">
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
       <div class="c-cover">
-        <div class="c-cover__background" style="background-image:url('./assets/img/6.png');"></div>
-        <h1 class="c-cover__headline"><?php echo $contentInfo[$contentInfoId][1]; ?></h1>
-        <h2 class="c-cover__subline u-hide"><?php echo $contentInfo[$contentInfoId][2]; ?></h2>
+        <div class="c-cover__background" style="background-image:url('./assets/img/cover-1-web.png');"></div>
+        <div class="c-cover__content">
+          <h1 class="c-cover__headline"><?php echo $contentInfo[$contentInfoId][1]; ?></h1>
+          <h2 class="c-cover__subline"><?php echo $contentInfo[$contentInfoId][2]; ?></h2>
+        </div>
       </div>
     </div>
   </div>
@@ -20,35 +22,7 @@
   <div class="o-grid">
     <div class="o-grid__item"><?php  // o-1/1@mobile  o-1/1@tablet  o-1/2@tablet-fluid  o-1/2@laptop  o-1/2@desktop ?>
 
-      <div class="c-page-intro">
-
-          <h5><?php echo $contentInfo[$contentInfoId][1]; ?></h5>
-          <h6><?php echo $contentInfo[$contentInfoId][2]; ?></h6>
-
-          <ul>
-            <li>David Hoffmann</li>
-            <li>Mat.-Nr.: 11089088</li>
-          </ul>
-          <ul>
-            <li>Bachelor Proposal I</li>
-            <li>Interface Design</li>
-            <li>Hauptprüfer: Prof. Andreas Muxel</li>
-            <li>Nebenprüferin: Prof. Nina Juric</li>
-          </ul>
-          <ul>
-            <li>Köln International School of Design</li>
-            <li>Bachelorstudiengang Integrated Design</li>
-            <li>Fachhochschule Köln</li>
-            <li>Fakultät für Kulturwissenschaften [F02]</li>
-          </ul>
-
-          <h5>Versicherung</h5>
-          <p>Hiermit versichere ich, dass ich die Arbeit selbstständig angefertigt habe und keine anderen als die angegebenen Quellen und Hilfsmittel genutzt
-habe. Zitate und Verweise habe ich als solche kenntlich gemacht.</p>
-          <p class="c-page-intro__date">30.03.2017,</p>
-          <hr/>
-          <p>Datum, Unterschrift</p>
-      </div>
+      <?php include './php/chunks/intro.php'; ?>
 
       <h2 id="abstract">Abstract</h2>
       <p>Das Proposal beschäftigt sich mit einem etwaigen gesellschaftlichen Paradigmenwechsel, induziert durch das revitalisierte Themenfeld Virtual Reality
@@ -1846,7 +1820,7 @@ oder ob dieser Zeitpunkt der Virtual Reality Geschichte nur eine weitere unzurei
 vergleichbare
 und
 gleichermaßend Gesellschaft prägende Ereignisse der Computerbranche anknüpft, kann neben der Verbindung von historischen Entwicklungen nur eine detaillierte
-Extraktion der positiven und negativen Aspekte der betreffenden Technologien aufzeigen.</p>
+Extraktion aller Aspekte der betreffenden Technologien aufzeigen.</p>
 
       <h3 id="head-mounted-displays-virtual-augmented-und-mixed-reality">Head Mounted Displays / Virtual-, Augmented und Mixed Reality</h3>
 
@@ -1863,12 +1837,15 @@ existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren.</p>
 
       <div class="c-video">
         <iframe class="c-video__item" src="https://www.youtube.com/embed/jKj9uXKzofk" allowfullscreen></iframe>
-        <img class="c-video__overlay" src="https://img.youtube.com/vi/jKj9uXKzofk/hqdefault.jpg" alt=""/>
+        <img class="c-video__overlay" src="./assets/img/vrschaukel.jpg" alt=""/>
       </div>
 
       <div class="c-notes-marginal">
         <div class="c-notes-marginal__item">
           <span class="c-ref" data-ref-source-id="128" data-ref-type="ref" data-ref-desc="" data-ref-hide></span>
+        </div>
+        <div class="c-notes-marginal__item">
+          <span class="c-ref" data-ref-source-id="306" data-ref-type="bsp" data-ref-desc="Nur Print:" data-ref-hide></span>
         </div>
       </div>
 
@@ -1892,8 +1869,7 @@ bzw.
 Datenhelm">HMD</abbr>s kombinierbar.
 Von kleineren Geräten, wie Leap-Motion bis zu komplexen <abbr title="Motion Capture">MoCap</abbr> <span class="c-ref" data-ref-source-id="222"
 data-ref-type="ref" data-ref-desc="">(Motion Capture)</span> Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden
-sich in der
-Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt im Vordergrund
+sich in der Robotik und dem Transhumanismus wieder, in denen die artifizielle Kreation oder Augmentation des Körpers für die Nutzung in der physischen Welt im Vordergrund
 steht.
 
         <span class="c-notes-side-hook">
@@ -2007,65 +1983,63 @@ etablieren.</p>
 
       <p></p><!-- hotfix -->
 
+      <div class="">
       <div class="o-grid  o-grid--gutter-half  o-grid--1/1@mobile  o-grid--1/2@tablet  o-grid--1/2@laptop  o-grid--1/2@desktop  o-grid--1/2@print">
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Financial backing</div>
-          <div class="o-h1">$3.5bn</div>
-          <p class="o-p--note">The value of the 225 VR/AR venture capital investments made in the last two years. Facebook also paid $2bn to acquire Oculus in
+          <div class="u-value-large">$3.5bn</div>
+          <p class="o-p--note">The value of the 225 VR/AR venture capital investments made in the last two years. FB also paid $2bn to acquire Oculus in
 May 2014.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Global interest</div>
-          <div class="o-h1">121</div>
-          <p class="o-p--note">The number of countries represented in the viewership data for the first US Democratic presidential debate, which CNN streamed
-in
+          <div class="u-value-large">121</div>
+          <p class="o-p--note">The number of countries represented in the viewership data for the first US Democratic presidential debate, which CNN streamed in
 VR.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Shipping out</div>
-          <div class="o-h1">2mn</div>
+          <div class="u-value-large">2mn</div>
           <p class="o-p--note">The number of Google Cardboard head-mounted displays distributed since the product´s June 2014 launch.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Selling out</div>
-          <div class="o-h1">48h</div>
-          <p class="o-p--note">The amount of time it took for Samsung´s $99 Gear VR to sell out on Amazon.com and BestBuy.com – an indication of strong demand
-at lower price points.<p>
+          <div class="u-value-large">48h</div>
+          <p class="o-p--note">Samsung´s $99 Gear VR to sell out on Amazon.com and BestBuy.com – an indication of strong demand at lower price points.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Interest in the past</div>
-          <div class="o-h1">770k</div>
-          <p class="o-p--note">The number of Virtual Boy VR gaming consoles Nintendo sold after its 1995 release, despite the platform`s technological
-limitations.<p>
+          <div class="u-value-large">770k</div>
+          <p class="o-p--note">Virtual Boy VR consoles Nintendo sold after its 1995 release, despite the technological limitations.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Ready to build</div>
-          <div class="o-h1">200k</div>
+          <div class="u-value-large">200k</div>
           <p class="o-p--note">The number of developers Oculus has registered to create games on the VR platform (as of September 2015).<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">A wave of content on the way</div>
-          <div class="o-h1">100</div>
+          <div class="u-value-large">100</div>
           <p class="o-p--note">The number of VR games Oculus says will be available in 2016, with 20 games developed by Oculus Story Studios.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Retail value</div>
-          <div class="o-h1">$599</div>
-          <p class="o-p--note">The price of the consumer version of Oculus (launched on January 7, 2016), with Oculus-ready PC bundles expected to sell for
-~$1,500.<p>
+          <div class="u-value-large">$599</div>
+          <p class="o-p--note">Price of the consumer version of Oculus, with PC bundles expected to sell for ~$1,500.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Home redesign, reimagined</div>
-          <div class="o-h1">6</div>
+          <div class="u-value-large">6</div>
           <p class="o-p--note">The number of Lowes home improvement stores featuring "Holorooms" to help customers visualize their remodeling projects.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Easier to image yourself at home</div>
-          <div class="o-h1">$52bn</div>
+          <div class="u-value-large">$52bn</div>
           <p class="o-p--note">The size of the US real estate commissions market that VR stands to disrupt. Sotheby´s is beginning to show luxury homes in
 VR.<p>
         </div>
       </div>
+    </div>
 
       <p>Die größten Herausforderungen der Technologien bestehen neben der Erzeugung ansprechender artifizieller Umgebungen (content) und dem adäquaten
 Transfer der Sinne, zusätzlich in der Zugänglichkeit und Tauglichkeit für den Massenmarkt sowie der Verfügbarkeit und Integration in bzw. für alltägliche
@@ -2386,7 +2360,7 @@ verbinden. Weitere direkte Verknüpfungen von z.B. MR und
 Web sind vorstellbar und verändern die Darstellung des Internets und Cyberspace bei erfolgreicher Etablierung in Zukunft maßgeblich.</p>
 
       <div class="c-video">
-        <iframe class="c-video__item" src="https://www.youtube.com/watch?v=NNFl0u0tl90?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
+        <iframe class="c-video__item" src="https://www.youtube.com/embed/NNFl0u0tl90?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
         <img class="c-video__overlay" src="https://img.youtube.com/vi/NNFl0u0tl90/hqdefault.jpg" alt=""/>
       </div>
 
@@ -2395,6 +2369,8 @@ Web sind vorstellbar und verändern die Darstellung des Internets und Cyberspace
           <span class="c-ref" data-ref-source-id="296" data-ref-type="bsp" data-ref-desc="" data-ref-hide></span>
         </div>
       </div>
+
+      <p><p><!--hotfix-->
 
       <h2 id="resumee">Resümee</h2>
 
@@ -2500,17 +2476,17 @@ Weise <span class="c-ref" data-ref-source-id="231" data-ref-type="ref" data-ref-
 data-ref-source-id="42" data-ref-type="ref" data-ref-desc="">darstellen.</span></p>
       <p class="o-p--tie"><abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s können diese Schnittstellen bereitstellen, indem sie zu den neuen
 Medien
-der Visualisierung und Interaktion von digitalen
-Inhalten werden könnten. Sie übertragen jedoch durch ihre stetige Optimierung ebenfalls immer mehr sensorische Informationen aus der physischen Welt in den
-digitalen Cyberspace. Damit steigt ebenfalls die Anzahl und Präzision von persönlichen Informationen, welche potentiell im Cyberspace verwerten werden können.
-Der Anwender wird dabei in virtuellen Realitäten ebenso körperlos wie artifizielle, intelligente Programme. Somit verbessert sich durch die Peripherie die
-Interaktion und Usability, gleichzeitig eröffnet sich jedoch die potentielle Gefahr der Ausnutzung dieser Daten. Die speziell durch die Hacker-Bewegung
+der Visualisierung und Interaktion digitaler
+Inhalte werden könnten. Sie übertragen jedoch durch ihre stetige Optimierung ebenfalls immer mehr sensorische Informationen aus der physischen Welt in den
+digitalen Cyberspace. Damit steigt ebenfalls die Anzahl und Präzision persönlicher Informationen, welche potentiell im Cyberspace verwerten werden können.
+Der Anwender wird dabei in virtuellen Realitäten ebenso körperlos wie artifizielle intelligente Programme. Somit verbessert sich durch die Peripherie,
+Interaktion und Usability. Gleichzeitig eröffnet sich jedoch die potentielle Gefahr der Ausnutzung dieser Daten. Die speziell durch die Hackerbewegung
 transparent gewordene Thematisierung und Wahrung dieser Eigenschaften, sollte bei der Entwicklung neuer Technologien stetig berücksichtigt werden.</p>
 
-      <p>Die neuen Medien sind ein Erster von vielen folgenden Schritten, welche die Interaktion mit Maschinen und dem Cyberspace optimieren. Die
+      <p>Die neuen Medien sind ein erster von vielen Schritten, welcher die Interaktion mit Maschinen und dem Cyberspace optimieren. Die
 Erwartungshaltung ist seit dem Release der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Endgeräte tendenziell ansteigend. Designer und
 Entwickler haben die einmalige Chance, den potentiellen Aufstieg
-dieser Medien mitzuerleben und zu -gestalten.</p>
+dieser Medien mitzuerleben und zu mitzugestalten.</p>
 
     </div>
     <div class="o-grid__item">
@@ -2621,7 +2597,7 @@ weisen präzise Seitenzahlen sowie eine faktisch klare Wiedergabe des jeweiligen
             <li><strong>Ref</strong> Referenzen sind den Vergleichen ähnlich, jedoch weniger präzise und erfordern meistens eine Auseinandersetzung mit der
 jeweiligen Quelle.</li>
             <li><strong>Bsp</strong> Beispiele erweitern das Verständnis indem die jeweilige Botschaft bzw. Sinn des Kontextes besser transportiert wird.</li>
-          </ul>
+          </ol>
         </div>
 
         <h2>Danksagungen</h2>
@@ -2629,6 +2605,7 @@ jeweiligen Quelle.</li>
         <ul>
           <li><strong>Sarah Karvouniaris</strong>, für die erste grammatikalische Softkorrektur und die mentale Unterstützung.</li>
           <li><strong>Annette Masiá</strong>, für die vollständige grammatikalische Korrektur meiner Arbeit.</li>
+          <li><strong>Nils Friedrich</strong>, für das 3D Asset in meinem Cover.</li>
         </ul>
       </div>
 

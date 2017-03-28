@@ -147,7 +147,7 @@ summary::-webkit-details-marker { display: none; }
 
 .o-grid { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; margin: -1.5rem 0 0 -1.5rem; }
 
-.o-grid__item { -ms-flex: 1; flex: 1; padding: 1.5rem 0 0 1.5rem; }
+.o-grid__item { -ms-flex: 1 100%; flex: 1 100%; padding: 1.5rem 0 0 1.5rem; }
 
 .o-grid__item--first { -ms-flex-order: -1; order: -1; }
 
@@ -783,13 +783,17 @@ summary::-webkit-details-marker { display: none; }
 
 @media print { .u-hide\@print { display: none !important; visibility: hidden !important; } }
 
-.o-grid__item { max-width: 100%; }
+.u-pagebreak-and-avoid\@print { page-break-before: always; page-break-inside: avoid; }
+
+.u-value-large { font-size: 1.3125rem; line-height: 2; font-style: italic; font-weight: bold; }
 
 .u-red { color: red; }
 
 @media print { .u-pagebreak\@print { page-break-after: always !important; } }
 
 @media print { .u-dontbreak\@print { page-break-inside: avoid !important; } }
+
+.u-margin-bottom { margin-bottom: 1.5rem; }
 
 @page { size: 180mm 235mm;
   marks: crop;
@@ -941,6 +945,8 @@ summary::-webkit-details-marker { display: none; }
 
 .c-proposal h2 + p, .c-proposal h4 + p { margin-top: -0.75rem; }
 
+.c-proposal img { page-break-inside: avoid; }
+
 .c-proposal table { page-break-inside: avoid; margin-bottom: 1.5rem; border-collapse: collapse; }
 
 .c-proposal table caption { font-weight: bold; text-align: left; margin-bottom: 0.75rem; }
@@ -962,7 +968,7 @@ summary::-webkit-details-marker { display: none; }
 
 @media (min-width: 79.0625em) { .c-proposal .c-notes-side-hook { display: block; position: absolute; top: 0; left: 0; width: 100%; } }
 
-.c-proposal .c-notes-side { display: block; margin-top: 1.5rem; }
+.c-proposal .c-notes-side { page-break-inside: avoid; display: block; margin-top: 1.5rem; }
 
 @media (min-width: 79.0625em) { .c-proposal .c-notes-side { margin-top: 0; padding-bottom: 0; display: inline; position: absolute; left: calc(100% + 48px); width: 30%; } }
 
@@ -1176,7 +1182,11 @@ summary::-webkit-details-marker { display: none; }
 
 .c-cover__background { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-.c-cover__headline { position: absolute; top: 40vh; left: 10%; max-width: 80%; color: #fbf9f6; display: block; font-family: "Graphik",sans-serif; font-weight: 700; font-size: 8vw; line-height: 1.1; letter-spacing: .02rem; }
+.c-cover__content { position: absolute; top: 50vh; left: 10%; max-width: 80%; transform: translateY(-50%); color: #fbf9f6; display: block; }
+
+.c-cover__headline { font-family: "Graphik",sans-serif; font-weight: 700; font-size: 8vw; line-height: 1.1; letter-spacing: .02rem; }
+
+.c-cover__subline { font-family: "Graphik",sans-serif; font-weight: 700; font-size: 2vw; line-height: 1.5; letter-spacing: .02rem; width: 60%; }
 
 .c-page-intro { display: none; page-break-after: always; }
 
