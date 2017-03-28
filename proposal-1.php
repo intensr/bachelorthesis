@@ -83,7 +83,8 @@ aktuell, nahe Zukunft) prominent?</li>
         <li><a href="#aufbau-und-struktur">Aufbau und Struktu</a>r</li>
         <li class="c-li-lead"><a href="#beschleunigung-von-und-mit-software">Kapitel <strong>Beschleunigung von und mit Software</strong></a></li>
         <li class="c-li-lead">
-          <div class="c-li-lead__content"><a href="#der-aufstieg-von-softwares-und-deren-pioniere">Kapitel <strong>Der Aufstieg von Softwares und deren Pioniere</strong></a></div>
+          <div class="c-li-lead__content"><a href="#der-aufstieg-von-softwares-und-deren-pioniere">Kapitel <strong>Der Aufstieg von Softwares und deren
+Pioniere</strong></a></div>
           <ol>
             <li><a href="#digitale-rechenmaschinen">Digitale Rechenmaschinen</a></li>
             <li><a href="#turnhallen-computer">Turnhallen Computer</a></li>
@@ -139,7 +140,8 @@ sein Werkzeug in den Himmel.</p>
         </div>
       </div>
 
-      <p>Die symbolisch aufgeladene <span class="c-ref" data-ref-source-id="1" data-ref-type="ref" data-ref-hide-kneenote>Einleitung</span> von Stanley Kubricks
+      <p>Die symbolisch aufgeladene <span class="c-ref" data-ref-source-id="1" data-ref-type="ref" data-ref-hide-kneenote>Einleitung</span> von Stanley
+Kubricks
 <span
 class="c-ref" data-ref-source-id="183" data-ref-type="ref" data-ref-hide-kneenote>2001 – A Space Odyssey</span>, reflektiert auf simple Weise den repetitiven
 Entwicklungszyklus der Menschheitsgeschichte mithilfe von metaphorisch konnotierten Bewegtbild-Szenen. Sie stehen als Sinnbild für die kulturelle und
@@ -411,12 +413,14 @@ data-ref-hide-kneenote>Person</span>).</p>
 letzten Jahre. Mit großen Fortschritten in den Gebieten der
 Spracherkennung (Apple Siri, Google Now, <span class="c-ref" data-ref-source-id="37" data-ref-type="bsp" data-ref-desc="">Adobe #VoCo</span>) und des
 maschinellen
-Lernens, speziell durch die Leistungen der <span class="c-ref" data-ref-source-id="38" data-ref-type="ref" data-ref-desc="">Google DeepMind</span> Unternehmung.
+Lernens, speziell durch die Leistungen der <span class="c-ref" data-ref-source-id="38" data-ref-type="ref" data-ref-desc="">Google DeepMind</span>
+Unternehmung.
 Der
 Sieg
 ihres gleichnamigen Algorithmus <span class="c-ref" data-ref-source-id="39" data-ref-type="ref" data-ref-desc="">AlphaGo</span> im traditionell chinesischen
 Strategiespiels Go gegen den erfahrenen Spieler Lee Sedol, markiert einen
-<span class="c-ref" data-ref-source-id="40" data-ref-type="ref" data-ref-desc="">Meilenstein</span> in der Entwicklung der <abbr title="Artificial Intelligence,
+<span class="c-ref" data-ref-source-id="40" data-ref-type="ref" data-ref-desc="">Meilenstein</span> in der Entwicklung der <abbr title="Artificial
+Intelligence,
 z.d. künstliche Intelligenz">AI</abbr>. Das Besondere an diesem Sieg ist, dass
 dieser nur durch maschinelles Lernen ermöglicht wurde. Anders als beispielsweise
 beim Schach, lassen sich die Schritte und Chancen nicht mathematisch berechnen beziehungsweise vorhersagen (Bruteforcing), sondern müssen dem menschenähnlichen
@@ -435,7 +439,8 @@ dieser Arbeit im späteren Verlauf ebenfalls für den Themenbereich der Virtual 
 praxisorientierten Forschern der neuen Peripheriegeräte und der Erkundung des dreidimensionalen erfahrbaren „<abbr title="englisch cyber als Kurzform für
 „Kybernetik“, space „Raum, Weltall“: kybernetischer Raum, Kyberraum">Cyberspaces</abbr>“. In
 zeitgeistigem Geschehen gilt
-Lanier als eine <span class="c-ref" data-ref-source-id="41" data-ref-type="ref" data-ref-desc="">wichtige Stimme</span>, besonders für die Aspekte der digitalen
+Lanier als eine <span class="c-ref" data-ref-source-id="41" data-ref-type="ref" data-ref-desc="">wichtige Stimme</span>, besonders für die Aspekte der
+digitalen
 Ethik
 im Zeitalter der verstärkten Mensch-Maschinen-Interaktion. Er beschreibt seine
 Ansichten zur <abbr title="Technologische Singularität">TS</abbr> in Form eines Manifestes zur Jahrtausendwende folgendermaßen:</p>
@@ -618,7 +623,8 @@ maschinelles Lernen und auf welche Art und Weise sich Erfindungen wie der Comput
           <h4 class="c-person__name"><span class="c-ref" data-ref-source-id="194" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>John von
 Neumann</span></h4>
           <p class="c-person__bio">Der aus Ungarn stammende amerikanische Mathematiker John von Neumann mit bedeutenden Werken in mathematischer Logik,
-Funktionalanalysis und Quantenmechanik. Er ist zudem bekannt für die Spieltheorie und gilt als einer der Väter der Informatik. Neumann publiziert 1945 die erste
+Funktionalanalysis und Quantenmechanik. Er ist zudem bekannt für die Spieltheorie und gilt als einer der Väter der Informatik. Neumann publiziert 1945 die
+erste
 grobe Zusammenfassung des EDVAC (Electronic Discrete Variable Automatic Computer) <span class="c-ref"
 data-ref-source-id="52" data-ref-desc="" data-ref-type="ref">Reports</span>, welche die grundlegende
 Basis der bis heute gültigen Computerarchitektur beschreibt. Er setzte sich seinerzeit vehement für die weitere Entwicklung der Rechenmaschinen ein, um diese
@@ -638,7 +644,8 @@ data-ref-desc="" data-ref-parameter="&t=39m15s" data-ref-type="ref">behaupten.</
       <p class="o-p--tie">In den 40ern wurden diverse digitale Rechenmaschinen, wie beispielsweise Zuse Z3, Atanasoff-Berry-Computer, Colossus, Mark I, Zuse
 Z4, <abbr title="Electronic Numerical Integrator and Computer">ENIAC</abbr> eingeführt. Jede dieser Maschinen erfüllten verschiedene Kombinationen an Kriterien
 für die Anforderungen an eine moderne Rechenmaschine. Aus diesem
-Grund kann die Frage nach dem ersten wirklichen Computer nur nach individuell definierten Präferenzen beantwortet werden. Der „<abbr title="Electronic Numerical
+Grund kann die Frage nach dem ersten wirklichen Computer nur nach individuell definierten Präferenzen beantwortet werden. Der „<abbr title="Electronic
+Numerical
 Integrator and Computer">ENIAC</abbr>“ ist der fünfte Digitalrechner der
 Geschichte und der Erste, welcher die Kriterien elektronisch, programmierbar und turingmächtig, gleichzeitig erfüllt. Programmänderungen sind bis dato nur
 durch
@@ -784,7 +791,8 @@ Bhagawadgita</span></cite>
 eine reflektierte
 Motivation für den Kreationsprozess immer als ein fundamentaler Bestandteil angesehen werden sollte.</p>
 
-      <h3 id="turnhallen-computer"><abbr title="Selbstkreierter Sammelbegriff für Supercomputer, Großrechner, Ultracomputer und generell alle exorbitanten Computersysteme">Turnhallen
+      <h3 id="turnhallen-computer"><abbr title="Selbstkreierter Sammelbegriff für Supercomputer, Großrechner, Ultracomputer und generell alle exorbitanten
+Computersysteme">Turnhallen
 Computer</abbr></h3>
 
       <p>Parallel zum Aufstieg der Serientauglichkeit von Computern existieren bereits eindrucksvolle Applikationen, welche jedoch nur mithilfe von großen
@@ -901,7 +909,8 @@ Sendung <span class="c-ref" data-ref-source-id="66" data-ref-desc="" data-ref-ty
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">HyperNormalisation</strong>
                 <span class="c-note-side__text">Eine besondere Art der Verknüpfung aus Technologie, kulturellen Phänomenen, Politik und Macht wird in dem
-Dokumentationsfilm <span class="c-ref" data-ref-source-id="70" data-ref-desc="" data-ref-type="ref">HyperNormalisation</span> von Adam Curtis behandelt, welcher
+Dokumentationsfilm <span class="c-ref" data-ref-source-id="70" data-ref-desc="" data-ref-type="ref">HyperNormalisation</span> von Adam Curtis behandelt,
+welcher
 ebenfalls als große Inspiration für diese Arbeit fungiert.</span>
               </span>
             </span>
@@ -968,15 +977,20 @@ portraitieren.</p>
       <p>Überträgt man das Vorgehen von BlackRock und Aladdin auf den Internet Sektor, so lauten dort entsprechend vergleichbare Unternehmen Google Adwords
 oder
 Facebook Business, mit vergleichbaren Strategien, jedoch anderen Datensätzen.</p>
-      <p class="o-p--tie">Im Jahr 2015 stirbt der Informatiker und BlackRock Co-Präsident Hallac an den Folgen einer <span class="c-ref" data-ref-source-id="73"
+      <p class="o-p--tie">Im Jahr 2015 stirbt der Informatiker und BlackRock Co-Präsident Hallac an den Folgen einer <span class="c-ref"
+data-ref-source-id="73"
 data-ref-desc="" data-ref-type="ref">Krebserkrankung</span>. Sein Vermächtnis Aladdin,
 welches BlackRock dazu befähigt, seinen Wert auf inzwischen auf weit über 200 Mrd. US Dollar zu steigern, kalkuliert währenddessen kontinuierlich weiter.</p>
 
       <p>Monopol genutzte digitale Hilfsmittel, wie unter anderem Aladdin, befähigen Unternehmen dazu, Machtpositionen einzunehmen und diese über Dekaden zu
-halten. Im Speziellen flexible Systeme wie Aladdin, welche sich in stetiger Fluktuation befinden und nicht an <abbr title="1. z.B. denen der traditionellen physischen Güterproduktion und dessen Handel 2. physische Gesetze wie z.B. die circadiane Rhythmik (Tag & Nacht)">traditionelle Gesetze</abbr> der <abbr title="Damit wird die Realität definiert in welche man als Mensch geboren wird und bezeichnet somit das Gegenteil der digitalen Welt.">physischen Welt</abbr> gebunden
+halten. Im Speziellen flexible Systeme wie Aladdin, welche sich in stetiger Fluktuation befinden und nicht an <abbr title="1. z.B. denen der traditionellen
+physischen Güterproduktion und dessen Handel 2. physische Gesetze wie z.B. die circadiane Rhythmik (Tag & Nacht)">traditionelle Gesetze</abbr> der <abbr
+title="Damit wird die Realität definiert in welche man als Mensch geboren wird und bezeichnet somit das Gegenteil der digitalen Welt.">physischen Welt</abbr>
+gebunden
 sind. Der einzige Bezug zur physischen Welt besteht in der genutzten Hardware, welche On-Demand, On-The-Fly, in beliebiger Größe und unter dem Einsatz
 entsprechender Ressourcen, konfiguriert werden kann.</p>
-      <p class="o-p--tie">Die unterschiedlichen Entwicklungen von Sketchpad und Aladdin zeigen zwei ähnliche Systeme völlig verschiedener Anwendungsgebiete auf.
+      <p class="o-p--tie">Die unterschiedlichen Entwicklungen von Sketchpad und Aladdin zeigen zwei ähnliche Systeme völlig verschiedener Anwendungsgebiete
+auf.
 Retrospektiv erweist sich Sketchpad als gesellschaftliche Bereicherung und Inspirationsquelle, dessen Entwicklung die Werkzeuge für diverse kreative Prozesse,
 wie beispielsweise Design, Kunst und Ingenieurskunst nachhaltig prägt. Software in der Wirkungsweise von Aladdin begünstigt primär die Optimierung einzelner
 Entitäten – in diesem Kontext BlackRock und deren Teilhaber.</p>
@@ -1073,7 +1087,8 @@ Gesellschaft, speziell beim schaffenden Prozess im Umgang mit sog. <abbr title="
         </div>
       </div>
 
-      <p>Für Manovich ist insbesondere die Software ab den 90er Jahren von Interesse, mit welcher er persönliche Erfahrungen gesammelt hat. Nach dem Vorbild von
+      <p>Für Manovich ist insbesondere die Software ab den 90er Jahren von Interesse, mit welcher er persönliche Erfahrungen gesammelt hat. Nach dem Vorbild
+von
 J. M. Balkin ordnet er verschiedene Arten von Software ihren jeweiligen kulturellen Umständen zu und bezeichnet diese fortan als <span class="c-ref"
 data-ref-source-id="83" data-ref-desc="" data-ref-type="ref">„Cultural Software“.</span> Seine von
 ihm kategorisierten <span class="c-ref" data-ref-source-id="4" data-ref-desc="S.23" data-ref-type="vgl">Beispiele</span> umfassen:</p>
@@ -1104,7 +1119,8 @@ ersten in <span class="c-ref" data-ref-source-id="84" data-ref-desc="" data-ref-
 Benutzeroberfläche – erscheint nur drei Jahre später (1987) mit Illustrator von Adobe Systems
 eine der ersten vektorbasierten Grafikanwendungen. Sie markiert einen der größeren Durchbrüche für Grafik- und Heimanwendungen, dessen Trend anhält.</p>
       <p class="o-p--tie">Ebenfalls wird weitere Software auf immer kleineren Geräten möglich und die Kosten sowie die Dauer von umfangreichen Berechnungen
-reduzieren sich. Besonders an der Ära der Workstations zur Berechnung „komplexerer“ Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle SGI oder
+reduzieren sich. Besonders an der Ära der Workstations zur Berechnung „komplexerer“ Grafikanwendungen im 2D und 3D Bereich, zeichnet sich dies ab. Kommerzielle
+SGI oder
 Inferno Systeme sind zum damaligen Zeitpunkt preislich mit 450-750k US Dollar <span class="c-ref" data-ref-source-id="4" data-ref-desc="S.49"
 data-ref-type="vgl">datiert.</span> <span class="c-ref" data-ref-source-id="85" data-ref-desc="" data-ref-type="ref">Aktuelle Workstations</span> hingegen
 unterscheiden sich nur marginal von regulären
@@ -1142,7 +1158,8 @@ selbstverständlich wahrgenommen <span class="c-ref" data-ref-source-id="4" data
 zunehmender Rechenleistung sinkt der Preis für Hard- und Software generell, speziell in den letzten Dekaden. Dadurch werden Computer für unterschiedliche
 Gesellschaftsschichten zugänglich, vor allem für die Anwendung im Privatbereich.</p>
       <p class="o-p--tie">Im Detail können weitere Komponenten und Phänomene für den Durchbruch in der gesellschaftlichen Nutzung aufgeführt werden, z.B. die
-erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw. oder der generelle <i>Hype</i> um neue kulturelle Errungenschaften. Software umgibt
+erfolgreiche Vermarktung von  Schlüsselunternehmen wie Apple, Microsoft, IBM, usw. oder der generelle <i>Hype</i> um neue kulturelle Errungenschaften. Software
+umgibt
 den Menschen, welche sich innerhalb kürzester Zeit von der kulturell unscheinbaren Technologie zu dem Getriebe des 21. Jahrhunderts <span class="c-ref"
 data-ref-source-id="4" data-ref-desc="S.21" data-ref-type="vgl">entwickelt.</span> Der
 Durchbruch von Software basiert dabei primär auf der Erweiterung beziehungsweise Augmentation und Partizipation der unterschiedlichen Teilnehmer der
@@ -1165,7 +1182,8 @@ semiosis and human communication, enabled by its „softwarization.“</p>
 YouTube oder Netflix angeführt werden, welche in diesem Fall den klassischen Fernseher in seiner Funktion imitieren. Die sog. Evolution dieser Medienformate
 beschreibt die Erweiterung von Funktionalitäten, welche im vorherigen Medium nicht mehr möglich wären. Beispielsweise stellen Netflix und YouTube ihre Inhalte
 on demand (auf Nachfrage) an, welches in klassischen TV Formaten nicht möglich wäre. Inzwischen wurde diese Funktionalität wieder zurückgeführt, siehe z.B.
-<span class="c-ref" data-ref-source-id="305" data-ref-desc="" data-ref-type="ref">Sky.</span> Schließlich folgt die sog. deep remixability, welche sich hauptsächlich durch ihre Eigenschaft der Vernetzung auszeichnet. In einem regulären Remix,
+<span class="c-ref" data-ref-source-id="305" data-ref-desc="" data-ref-type="ref">Sky.</span> Schließlich folgt die sog. deep remixability, welche sich
+hauptsächlich durch ihre Eigenschaft der Vernetzung auszeichnet. In einem regulären Remix,
 bekannt vor allem aus der Musikbranche, werden zwei Medien kombiniert, um ein neues Resultat zu kreieren. Beispielsweise die Kombination von zwei Songs, zwei
 Videos, Video und Song oder zwei Adobe Illustrator Dateien. Beim Konzept des deep remix, welches auf Softwareebene agiert, können sich, wie im Beispiel von
 Illustrator, ebenfalls Programmeigenschaften, wie Interfaces, Filter, usw. untereinander vermischen. Auch die Kombination unterschiedlicher Medien ist
@@ -1238,7 +1256,8 @@ data-article="http://afflictor.com/2011/02/24/alan-kay-designed-the-computer-tab
 amerikanische Informatiker Alan Kay genannt werden. Er verbindet und verkörpert die Entwicklungsschritte von Software, indem er sowohl
 technisch als auch gestalterisch, pragmatisch, nachhaltig sowie interdisziplinär Einfluss ausübt. Kay arbeitet zusammen mit Sutherland an Projekten wie
 Sketchpad, ist ebenfalls an der Weiterentwicklung grafischer Benutzeroberflächen beteiligt und leistet Beiträge zur objektorientierten Programmierung. Mit
-Werken wie „Personal Dynamic Media“ legt er den Grundstein für den Vormarsch mobiler, personalisierter Rechner und inspiriert Unternehmen, Designer und Autoren,
+Werken wie „Personal Dynamic Media“ legt er den Grundstein für den Vormarsch mobiler, personalisierter Rechner und inspiriert Unternehmen, Designer und
+Autoren,
 wie z.B. Manovich zur Auseinandersetzung mit Software und Medien sowie deren Entwicklung und potentialerfüllten Einfluss.</p>
         </div>
       </div>
@@ -1292,9 +1311,11 @@ data-ref-source-id="208" data-ref-desc="" data-ref-type="ref">Entwicklungen</spa
 auf.</p>
 
       <p>Nach der Einführung von mobilen Notebooks entwickeln sich diese zögerlich, jedoch stetig, durch kleinere Innovationen diverser Unternehmen, weiter.
-Erst 2007 durch die <span class="c-ref" data-ref-source-id="3" data-ref-desc="" data-ref-type="ref" data-ref-hide-footnote>Keynote von Apple</span>, gelingt dem
+Erst 2007 durch die <span class="c-ref" data-ref-source-id="3" data-ref-desc="" data-ref-type="ref" data-ref-hide-footnote>Keynote von Apple</span>, gelingt
+dem
 mobilen Sektor der Computerbranche der revolutionäre Durchbruch und zwar mit der Präsentation des iPhones – dem ersten,
-kommerziell erfolgreichen Smartphone. Nur drei Jahre später schafft es Apple, durch die Einführung des ersten populären Tablet Computers (iPad), erneut einen neuen Markt
+kommerziell erfolgreichen Smartphone. Nur drei Jahre später schafft es Apple, durch die Einführung des ersten populären Tablet Computers (iPad), erneut einen
+neuen Markt
 zu
 eröffnen. Apple Produkte und die Weiterentwicklung des Internets (Web 2.0) initiieren erneut den bisweil letzten, anhaltenden, gesellschaftlichen
 Paradigmenwechsel auf Basis digitaler Medien. In diesem manifestiert sich ein Großteil jahrzehntelanger Korrelation diverser Forschungsgebiete und deren
@@ -1332,7 +1353,8 @@ Jobs</span></h4>
 Gründer
 von Apple, agiert er als einer der Archetyp für<span class="c-ref" data-ref-source-id="93" data-ref-desc="" data-ref-type="ref">neuzeitliche
 Entrepreneure</span>, indem er risikobereit und experimentell ein breites Spektrum an
-Ressourcen nutzt, um seine Visionen zu realisieren. Durch Apples erfolgreiche Produkthistorie und Marketingstrategien etabliert sich das Unternehmen als zeitgeistiger
+Ressourcen nutzt, um seine Visionen zu realisieren. Durch Apples erfolgreiche Produkthistorie und Marketingstrategien etabliert sich das Unternehmen als
+zeitgeistiger
 Symbolträger für Innovation. Entwürfe wie iPod, iPhone und iPad spiegeln die praktische Umsetzung von Konzepten wie „Internet of Things“ oder „Personal
 Dynamic Media“ wider. Trotz des anhaltenden, kommerziellen Erfolgs unterstellen einige Experten wie <span class="c-ref" data-ref-source-id="94"
 data-ref-desc="" data-ref-type="ref">Hartmut Esslinger</span>, Apple habe nach dem Tod von Steve Jobs
@@ -1344,7 +1366,8 @@ das Gespür für die Gestaltung in aktuelleren Produkten verloren.</p>
 und Evolutionen für den durchbrechenden Gesamterfolg von revolutionären Produkten – oder wie Jobs berühmt auf den Apple Keynotes formulierte: „The Next Big
 Thing“. Für die Kreation von Produkten wie dem iPhone kombinierte er das Expertenwissen seines Teams für jeweilige Teilgebiete (z.B. Steve Wozniak oder
 Jonathan
-Ive), o.g. fundamentale, innovative Konzepte (z.B. von Xerox <abbr title="Palo Alto Research Center">PARC</abbr>) sowie experimentelle (z.B. Multi-Touch-Screen)
+Ive), o.g. fundamentale, innovative Konzepte (z.B. von Xerox <abbr title="Palo Alto Research Center">PARC</abbr>) sowie experimentelle (z.B.
+Multi-Touch-Screen)
 Technologien und Medien (Internet).</p>
       <p class="o-p--tie">Ein entscheidender Faktor für den Erfolg dieser Produkte besteht in deren Software, indem diese möglichst optimiert auf den Nutzer
 und
@@ -1410,7 +1433,8 @@ Mediums, dessen Nutzer sowie des unmittelbaren Kontextes.</p>
 <abbr title="Whole Earth 'Lectronic Link">WELL</abbr></span>. Das seit 1985 bestehende, auf <abbr title="Bulletin Board System">BBS</abbr> Basis
 gegründete Netzwerk etabliert sich als beliebte Kommunikations- und Austauschplattform für universelle Konversationen mit ernsten sowie trivialen <span
 class="c-ref" data-ref-source-id="101" data-ref-parameter="&t=10m39s" data-ref-type="ref">Themen.</span> Es
-ist, retrospektiv betrachtet, einer der Geburtsorte des, für heutige Verhältnisse primitiven, „Cyberspaces“*. <abbr title="Bulletin Board System">BBS</abbr> sind
+ist, retrospektiv betrachtet, einer der Geburtsorte des, für heutige Verhältnisse primitiven, „Cyberspaces“*. <abbr title="Bulletin Board System">BBS</abbr>
+sind
 im Gegenteil zu den Standards des
 World Wide Web autonome, meist private Mailboxen bzw. elektronische schwarze Bretter in ihrer Visualisierung, ähnlich dem TV Teletext. Sie fungieren als die
 puristische Grundlage nachfolgender Kommunikations- und Social Media Plattformen wie beispielsweise IRC, Reddit oder Facebook.
@@ -1458,7 +1482,8 @@ data-article="https://www.technobezz.com/watch-the-animated-biography-of-steve-j
           <h4 class="c-person__name">Mark Abene</h4>
           <p class="c-person__bio">Auf dem <span class="c-ref" data-ref-source-id="102" data-ref-desc="" data-ref-type="ref">Hack in the Box Event</span>
 beschreibt Mark Abene, alias Phiber Optik, ausführlich seinen Werdegang als
-aufstrebender „Hacker“. Abene gehört der jüngeren Generation – in seinem Fall beschäftigt er sich bereits mit neun Jahren mit der Thematik – der Hackerbewegung,
+aufstrebender „Hacker“. Abene gehört der jüngeren Generation – in seinem Fall beschäftigt er sich bereits mit neun Jahren mit der Thematik – der
+Hackerbewegung,
 welche
 unmittelbar mit den digitalen Medien zusammen aufwächst. Als eine seiner frühen Inspirationsquellen für seine Aktivitäten nennt Abene den Film WarGames von
 1983, in dem sich ein jugendlicher Hacker Zugriff auf das computergesteuerte Atomprogramm des US Militärs beschafft. Abene war Mitglied der sog. Masters of
@@ -1468,7 +1493,8 @@ mit rivalisierenden Legion of Doom (LoD) Mitgliedern, welcher Elias Ladopoulos a
 Öffentlichkeitsarbeit des Staates und einzelner Journalisten dramatisiert und hat laut Abene in dieser Form <span class="c-ref" data-ref-source-id="102"
 data-ref-parameter="&t=40m5s" data-ref-desc="" data-ref-type="ref" data-ref-hide-kneenote>nicht stattgefunden,</span> jedoch zeigt dieses Event
 zumindestens den Kontakt zwischen den verschiedenen Hackern auf. Abene beschreibt die Ambitionen der damaligen Hacker Community als eine Zusammenkunft
-explorativer Technik-Enthusiasten ohne böswillige Absichten. Siw wären lediglich durch den Wissensdurst getrieben, die infiltrierten Systeme zu verstehen und ihr
+explorativer Technik-Enthusiasten ohne böswillige Absichten. Siw wären lediglich durch den Wissensdurst getrieben, die infiltrierten Systeme zu verstehen und
+ihr
 Wissen darüber mit vertrauenswürdigen Quellen zu teilen. Viele dieser Hacker lernen sich durch die <abbr title="Bulletin Board System">BBS</abbr>
 überregional kennen und tauschen sich aus, wie
 Abene, Ladopoulos und weitere berühmte Kultfiguren jener Zeit. Die Art des Umgangs bildet einen <span class="c-ref" data-ref-source-id="102"
@@ -1627,7 +1653,8 @@ in dieser Analogie.</span>
       <p><span class="c-ref" data-ref-source-id="4" data-ref-type="vgl" data-ref-desc="S.21">Im Jahr 1970</span> stellt Tim Berners-Lee alle bis heute gültigen
 Basiskomponenten für das World Wide Web (<abbr title="World Wide Web">WWW</abbr>) bereit (Webserver, -pages und -browser), welche
 sich ab diesem Zeitpunkt parallel und in Wechselwirkung mit den bereits benannten Technologien entwickeln. Vergleichbar mit der Einführung des Xerox Alto und
-dessen Betriebssystems, erlangt das Modell des Internets, welches zuvor vorrangig von Enthusiasten genutzt wurde, ab 1993 größere Popularität mit dem ersten <abbr title="Graphical User Interface, z.d. Grafische Benutzeroberfläche">GUI</abbr>
+dessen Betriebssystems, erlangt das Modell des Internets, welches zuvor vorrangig von Enthusiasten genutzt wurde, ab 1993 größere Popularität mit dem ersten
+<abbr title="Graphical User Interface, z.d. Grafische Benutzeroberfläche">GUI</abbr>
 basierenden Webbrowser „Mosaic“.</p>
       <p class="o-p--tie">Rapide zunehmend, verdichtet sich das softwarebasierende Meta Medium mit der Verknüpfung und Erweiterung immer neuer Teilgebiete und
 dem Aufstieg von Soft- und  Hardware Unternehmen. Aus der anfangs großen Anzahl von Unternehmen in verschiedenen Zweigen der Internetentwicklung,
@@ -1735,7 +1762,8 @@ obwohl Assange von der <abbr title="Electronic Frontier Foundation">EFF</abbr> m
 Assanges persönlicher Motivation, ein wichtiger
 exemplarischer Beitrag zum Erhalt der Grundeigenschaften des Internets.</p>
       <p class="o-p--tie">Im Wandel des Internets hat der reguläre Nutzer einen Teil seiner Anonymität in dem sog. intelligent agents stetig
-Informationen der Nutzer absorbieren und auswerten verloren. Der Nutzer hinterlässt bei der Interaktion im Cyberspace, sofern nicht willentlich unterbunden, digitale
+Informationen der Nutzer absorbieren und auswerten verloren. Der Nutzer hinterlässt bei der Interaktion im Cyberspace, sofern nicht willentlich unterbunden,
+digitale
 Fußspuren. Die Auswertung dieser Daten erfolgten bereits mit steigender Tendenz in Umfang und Auswertung. Eine wichtige Erkenntnis dabei ist, dass Abwandlungen
 und Erweiterungen des Meta Mediums irreversibel sind und die Gesellschaft dabei als Prototyp fungiert. Anders als beispielsweise bei Medikamententests
 existiert
@@ -1743,7 +1771,8 @@ für die digitale Revolution weder eine vorausgehende ausführliche Untersuchung
 Entwicklung schreitet immer weiter voran ungeahnt ihrer etwaigen Auswirkungen auf ihre Probanden. Die Auswertung erfolgt in der Regel im Nachhinein, sofern
 sie
 überhaupt stattfindet.</p>
-      <p class="o-p--tie">Insbesondere einflussreiche Technologieunternehmen nehmen eine besondere Rolle innerhalb der gesellschaftlichen Entwicklung ein, indem sie anders
+      <p class="o-p--tie">Insbesondere einflussreiche Technologieunternehmen nehmen eine besondere Rolle innerhalb der gesellschaftlichen Entwicklung ein, indem
+sie anders
 als
 die anderen Protagonisten keine klare Position vertreten bzw. verfolgen. Sie positionieren und definieren sich zwar durch ihre Dienstleistungen, Produkte,
 Führungen und Mitarbeiter, sind jedoch kein transparenter Indikator für die positive oder negative Entwicklung. Zum einen handeln sie eigennützig,
@@ -1801,17 +1830,20 @@ Benutzeroberflächen, sondern ebenfalls mit weiteren diversen Aspekten z.B. mobi
 und artifiziellen Realität experimentiert und später intensiver auf die Veränderungen durch diese und verknüpfte Technologien eingeht. Das aktuelle Geschehen
 der Computerentwicklung ist ebenso geprägt von solchen Entwicklungen, in denen sich jegliche relevante Entität (Persönlichkeiten, Medien, Technologien, etc.)
 nach dem deep remix Prinzip von Manovich in verstärkter Wechselwirkung beeinflussen bzw. gegenseitige Eigenschaften adaptieren und reproduzieren. Der Gedanke
-der wortwörtlich greifbaren Virtual Reality ist dabei vergleichbar mit der Einführung des iPhones im Jahr 2007, welches nach der ausführlichen Analyse weniger als eine
+der wortwörtlich greifbaren Virtual Reality ist dabei vergleichbar mit der Einführung des iPhones im Jahr 2007, welches nach der ausführlichen Analyse weniger
+als eine
 innovative Neuschöpfung wirkt, sondern vielmehr wie eine Beseitigung von Missständen bisheriger Produkte des Smartphone- bzw. Mobilfunksegments.</p>
       <p class="o-p--tie">Im direkten Vergleich zu den Entwicklungen der 90er Jahre – visualisiert im o.g. Hackathon Video – ermöglichen zeitgeistige
 Produkte, wie die Oculus Rift oder HTC Vive, ein immersives/intensiveres Nutzererlebnis (User Experience / UX) als <span class="c-ref" data-ref-source-id="125"
 data-ref-type="ref" data-ref-desc="">vorherige Unternehmungen</span>, wie beispielsweise
-der <span class="c-ref" data-ref-source-id="126" data-ref-type="ref" data-ref-desc="">Virtual Boy</span> von Nintendo in den 90er Jahren. Die Grundeigenschaften
+der <span class="c-ref" data-ref-source-id="126" data-ref-type="ref" data-ref-desc="">Virtual Boy</span> von Nintendo in den 90er Jahren. Die
+Grundeigenschaften
 der Produkte haben sich dagegen kaum verändert. </p>
       <p class="o-p--tie">Mithilfe der Computerhistorie kann analysiert werden, ob neben der Verfügbarkeit der Produkte, dessen technische
 Weiterentwicklungen
 und zusätzlich beeinflussenden Marktfaktoren der Virtual Reality Markt ebenfalls einen maßgeblichen gesellschaftlichen Paradigmenwechsel herbeiführen kann
-oder ob dieser Zeitpunkt der Virtual Reality Geschichte nur eine weitere unzureichende Iteration darstellt. Ob der revitalisierte Virtual Reality Markt an vergleichbare
+oder ob dieser Zeitpunkt der Virtual Reality Geschichte nur eine weitere unzureichende Iteration darstellt. Ob der revitalisierte Virtual Reality Markt an
+vergleichbare
 und
 gleichermaßend Gesellschaft prägende Ereignisse der Computerbranche anknüpft, kann neben der Verbindung von historischen Entwicklungen nur eine detaillierte
 Extraktion der positiven und negativen Aspekte der betreffenden Technologien aufzeigen.</p>
@@ -1821,7 +1853,8 @@ Extraktion der positiven und negativen Aspekte der betreffenden Technologien auf
       <p>Mit der Veröffentlichung diverser Unterhaltungselektroniken, wie der Oculus Rift, Sonys Project Morpheus, Samsung Gear VR oder Googles Daydream erlebt
 diese Sparte nach den kommerziellen Misserfolgen der 90er Jahre (s.o.), einen erneuten Aufschwung. Jede dieser Technologien basieren in der Hardwareebene
 auf
-sog. Head Mounted Displays (z.d. Datenhelme / <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s) in unterschiedlichen Ausführungen. Diese lassen den
+sog. Head Mounted Displays (z.d. Datenhelme / <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s) in unterschiedlichen Ausführungen. Diese lassen
+den
 Benutzer in eine artifiziell erzeugte Realität
 eintauchen bzw. die physische Welt wird durch das Einfügen von digitalen Objekten und Interaktionen erweitert. Diese „Datenhelme“ sind mit hochauflösenden
 Bildschirmen und weiteren Sensoren bestückt, um dem Nutzer ein Gefühl von Präsenz in der jeweiligen Umgebung zu vermitteln. Speziell in der verzögerungsfreien
@@ -1843,7 +1876,8 @@ existieren weitere Unternehmungen, um menschliche Sinne zu digitalisieren.</p>
 Betrachter wahrnimmt, künstlich erzeugt wird. Bei der sog. Augmented Reality (AR) werden digitale Inhalte in das Sichtfeld des Betrachters in der physischen
 Welt, projiziert. Sobald diese digitalen Inhalte sich in die Gesetzlichkeiten der physischen Welt in einem <i>glaubwürdigen</i> Maße einfügen wird dieser
 Zustand als
-sog. Mixed Reality (MR) beschrieben und fungiert damit als die vollendete Version der <abbr title="Augmented Reality">AR</abbr>.<span class="c-ref" data-ref-source-id="126" data-ref-type="ref"
+sog. Mixed Reality (MR) beschrieben und fungiert damit als die vollendete Version der <abbr title="Augmented Reality">AR</abbr>.<span class="c-ref"
+data-ref-source-id="126" data-ref-type="ref"
 data-ref-desc=""></span></p>
       <p class="o-p--tie">Für die klare Einordnung bestimmter Produkte in diese Kategorien sind deren Entwicklungsstand und Features (Auflösung,
 Interaktionsmöglichkeiten, usw.) entscheidend, in denen sich bisweilen verschiedene Hersteller unterschiedlich stark auf differenzierte Features fokussieren,
@@ -1853,7 +1887,8 @@ Objekte im unmittelbaren Blickfeld des jeweiligen Betrachters.</p>
       <p class="o-p--tie">Ziel jeder Entität dieser Kategorien ist es, die Grenzen zwischen der physischen Welt und dem Cyberspace verschwimmen zu lassen,
 indem
 sich der Nutzer entweder dem Cyberspace nähert (Telepräsenz) oder umgekehrt. Neben der Übertragung audiovisueller Daten und der Interaktion mithilfe
-spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display bzw.
+spezifischer Controller sind zusätzliche Geräte für die Übertragung weiterer Sinne oder Interaktionsmöglichkeiten mit dem <abbr title="Head Mounted Display
+bzw.
 Datenhelm">HMD</abbr>s kombinierbar.
 Von kleineren Geräten, wie Leap-Motion bis zu komplexen <abbr title="Motion Capture">MoCap</abbr> <span class="c-ref" data-ref-source-id="222"
 data-ref-type="ref" data-ref-desc="">(Motion Capture)</span> Systemen, eröffnen sich diverse Möglichkeiten. Ebenfalls stark korrelierende Themenbereiche finden
@@ -1869,7 +1904,8 @@ steht.
             <span class="c-note-side">
               <span class="c-note-side__content">
                 <strong class="c-note-side__headline">AR und MR</strong>
-                <span class="c-note-side__text">Unter den Augmented Reality bzw. Mixed Reality Bereich fallen ebenfalls Entwicklungen diverser Smartphone Apps, welche die integrierte
+                <span class="c-note-side__text">Unter den Augmented Reality bzw. Mixed Reality Bereich fallen ebenfalls Entwicklungen diverser Smartphone Apps,
+welche die integrierte
 Kamera als Werkzeug nutzen, um digitale Objekte auf dem Bildschirm unter realen Bedingungen einzufügen/anzuzeigen (z.B. IKEA App, PokemonGo App oder <span
 class="c-ref" data-ref-source-id="129" data-ref-type="ref" data-ref-desc="">Google
 Tango</span>) und somit nur im übertragenen Sinne in das Blickfeld des Nutzers versetzt werden.</span>
@@ -1933,15 +1969,18 @@ Möglichkeit beliebiger Wiederholungszyklen und der vergleichsweise einfachen Au
 sich die Vorteile der Technologien. Sie sind ebenfalls einsetzbar als Hilfsmittel in der Service- oder der Marketingbranche oder in anderen
 Anwendungsgebieten, wie beispielsweise dem Gaming- oder Entertainmentsektor. Zusammenfassend sind die Möglichkeiten sehr umfassend und potentiell noch
 weitreichender, als die Auswirkungen vorheriger Software induzierter gesellschaftlicher Paradigmenwechsel. Das entscheidende Potential aller dieser
-Technologien (<abbr title="Virtual Reality">VR</abbr>, <abbr title="Augmented Reality">AR</abbr>, <abbr title="Mixed Reality">MR</abbr>) manifestiert sich somit durch ihre gemeinsame Eigenschaft als alternative effektive Schnittstelle zwischen der physischen Welt und dem
+Technologien (<abbr title="Virtual Reality">VR</abbr>, <abbr title="Augmented Reality">AR</abbr>, <abbr title="Mixed Reality">MR</abbr>) manifestiert sich somit
+durch ihre gemeinsame Eigenschaft als alternative effektive Schnittstelle zwischen der physischen Welt und dem
 digitalen Cyberspace in anderen Worten zwischen Mensch und Maschine.</p>
 
       <h3 id="the-next-big-thing-der-software-aera"><i>The Next Big Thing</i> der Software Ära?</h3>
 
       <p>Die aktuellen <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologien offenbaren sich, ähnlich wie die digitale Revolution, in der
-Historie der Computer und der zugehörigen Softwareentwicklung als weiteres „neues“ Medium innerhalb des Meta Mediums Computer, indem sich neue Interaktionsmöglichkeiten abzeichnen. Damit einhergehend
+Historie der Computer und der zugehörigen Softwareentwicklung als weiteres „neues“ Medium innerhalb des Meta Mediums Computer, indem sich neue
+Interaktionsmöglichkeiten abzeichnen. Damit einhergehend
 eröffnen
-sich weitere angrenzende Themengebiete, wie die Verkörperung (Embodiment), Immersion und Perzeption (Perception) innerhalb dieser Medien. Hierüber existieren bereits
+sich weitere angrenzende Themengebiete, wie die Verkörperung (Embodiment), Immersion und Perzeption (Perception) innerhalb dieser Medien. Hierüber existieren
+bereits
 ausführliche Studien, <span class="c-ref" data-ref-source-id="131" data-ref-type="ref" data-ref-desc="">Meinungen</span> und <span
 class="c-ref" data-ref-source-id="132" data-ref-type="ref" data-ref-desc="">Beiträge.</span> Für das Resümee dieser Arbeit befinden sich diese Bereiche im
 sekundären Fokus. Der primäre
@@ -1978,7 +2017,8 @@ May 2014.<p>
         <div class="o-grid__item  u-dontbreak@print">
           <div class="o-h5">Global interest</div>
           <div class="o-h1">121</div>
-          <p class="o-p--note">The number of countries represented in the viewership data for the first US Democratic presidential debate, which CNN streamed in
+          <p class="o-p--note">The number of countries represented in the viewership data for the first US Democratic presidential debate, which CNN streamed
+in
 VR.<p>
         </div>
         <div class="o-grid__item  u-dontbreak@print">
@@ -2039,7 +2079,8 @@ data-ref-desc="">Unity,</span> spezifische Anwendungssoftware. Sie profitieren d
 nicht nur unzureichend von gegenseitigen Erfolgen, sondern schwächen das Gesamtpotential der bisweiligen <span class="c-ref" data-ref-source-id="220"
 data-ref-type="bsp" data-ref-desc="">Nischenbranche.</span> Diese kann sich nur erfolgreich
 etablieren, wenn alle beteiligten Entwickler noch intensiver zusammenarbeiten, um immersive Erlebnisse für die Endverbraucher zu kreieren. Dazu existieren
-bereits Ansätze in Form von Projekten, wie <span class="c-ref" data-ref-source-id="138" data-ref-type="ref" data-ref-desc="">OSVR</span> oder <span class="c-ref"
+bereits Ansätze in Form von Projekten, wie <span class="c-ref" data-ref-source-id="138" data-ref-type="ref" data-ref-desc="">OSVR</span> oder <span
+class="c-ref"
 data-ref-source-id="140" data-ref-type="ref" data-ref-desc="">OpenXR,</span> welche versuchen die unterschiedlichen Soft- und Hardwarekomponenten zu
 generalisieren.</p>
 
@@ -2059,14 +2100,16 @@ listen and to have an honest, respectful debate. So, we are optimistic.</p>
         <cite><span class="c-ref" data-ref-source-id="221" data-ref-type="zitat" data-ref-desc="">Yuval Boger</span></cite>
       </blockquote>
 
-      <p>Die Frage nach dem ultimativen Medium ist dabei unerheblich und unabhängig davon, in welchem Teilgebiet (<abbr title="Virtual Reality">VR</abbr>, <abbr
+      <p>Die Frage nach dem ultimativen Medium ist dabei unerheblich und unabhängig davon, in welchem Teilgebiet (<abbr title="Virtual Reality">VR</abbr>,
+<abbr
 title="Augmented Reality">AR</abbr>, <abbr title="Mixed Reality">MR</abbr>) ein marktbeeinflussender Durchbruch
 gelingt. Mit verheißungsvollen Projekten, wie beispielsweise <span class="c-ref" data-ref-source-id="218" data-ref-type="bsp" data-ref-desc=""
 data-ref-hide-kneenote>Magic Leap</span>, können diese Veröffentlichungen die anderen Bereiche ebenfalls fördern, vergleichbar mit
 Produkten, wie dem iPhone welches den gesamten Smartphone Markt 2007 revolutioniert hat.</p>
       <p class="o-p--tie">Mit dem Wunsch nach alternativen Realitäten verbinden Anwender das Gefühl, sich frei darin bewegen zu können (<span class="c-ref"
 data-ref-source-id="143" data-ref-type="ref" data-ref-desc="">Room Scale VR</span>), um
-immersive Erlebnisse hervorzurufen. Produkte, wie die HTC Vive oder die Oculus Rift, ermöglichen dies aktuell besser als jemals zuvor, aber dennoch unzureichend.
+immersive Erlebnisse hervorzurufen. Produkte, wie die HTC Vive oder die Oculus Rift, ermöglichen dies aktuell besser als jemals zuvor, aber dennoch
+unzureichend.
 Der Anwender kann sich zwar in einem bestimmten Bereich bewegen, ist jedoch stetig an den stationären Rechner und die gegebenen physischen Räumlichkeiten
 gebunden. Komplexere Systeme wie <abbr title="Motion Capture">MoCap</abbr>, welche zum einen jede Bewegung des physischen Körpers in die digitale Umgebung
 übersetzen und zum
@@ -2076,9 +2119,11 @@ bekannt und
 einsatzfähig. Allerdings erfordern diese einen größeren physischen Bewegungsraum und weitere Upgrades, wie beispielsweise die kabellose Verbindung des <abbr
 title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s
 oder die Hilfe weiterer Statisten, um die Immersion zu erhalten (z.B. für das Führen des Verbindungskabels). Es existieren ebenfalls <span class="c-ref"
-data-ref-source-id="147" data-ref-type="ref" data-ref-desc="">Vergnügungsparkkonzepte</span>, wie <span class="c-ref" data-ref-source-id="148" data-ref-type="ref" data-ref-desc="">The VOID,</span> in denen der Besucher in die jeweilige Realität
+data-ref-source-id="147" data-ref-type="ref" data-ref-desc="">Vergnügungsparkkonzepte</span>, wie <span class="c-ref" data-ref-source-id="148"
+data-ref-type="ref" data-ref-desc="">The VOID,</span> in denen der Besucher in die jeweilige Realität
 eintauchen kann und äquivalentes haptisches und physisches Feedback bekommt. Allerdings wird damit
-ebenfalls die Anwendung durch die Gegebenheiten der physischen Welt limitiert. Unabhängig davon, welche aktuellen Versuche unternommen werden, eine vollständige
+ebenfalls die Anwendung durch die Gegebenheiten der physischen Welt limitiert. Unabhängig davon, welche aktuellen Versuche unternommen werden, eine
+vollständige
 Immersion zu erreichen, sie scheitern oftmals an ihrer Komplexität und den verbundenen Kosten zusätzlich zu den ohnehin vergleichsweise teuren Endgeräten.
 
       <span class="c-notes-side-hook">
@@ -2136,7 +2181,8 @@ Android Smartphones), in denen sich der umfassende Erfolg erst ab der Preisrelat
         <li><strong>Accessibility</strong> Mit dem freien Zugang auf das jeweilige Medium können, neben den ursprünglich beteiligten Unternehmen,
 Wissenschaftlern und Forschern ebenfalls versierte Enthusiasten die Entwicklungen maßgeblich beeinflussen, welches sich speziell in der Open Source- und Hacker
 Bewegung abzeichnet.</li>
-        <li><strong>Mobility</strong> Alan Kays Konzepte des Dynabooks, das Smartphone Segment und Theorien, wie das „Internet der Dinge“, belegen die Bedeutung
+        <li><strong>Mobility</strong> Alan Kays Konzepte des Dynabooks, das Smartphone Segment und Theorien, wie das „Internet der Dinge“, belegen die
+Bedeutung
 für eine ortsungebundene Verfügbarkeit von Smart Devices als Erfolgsindikator.</li>
         <li><strong>Usability</strong> Die universelle Nutzbarkeit des jeweiligen Mediums muss gewährleistet werden, damit neben technisch versierten
 Anwendern
@@ -2148,10 +2194,12 @@ Kollaboration im digitalen Cyberspace dar.</li>
         <li><strong>Universality and Individuality</strong> Das Zusammenspiel von einerseits erfolgreichen Unternehmungen wie Xerox <abbr title="Palo Alto
 Research Center">PARC</abbr>, Apple, EFF, Google und
 anderen sowie die Leistungen vereinzelter historisch verknüpfter Schlüsselfiguren und Protagonisten wie z.B. John Perry Barlow oder Steve Jobs.
-Speziell die Interaktionen und Bewegungsfreiräume zwischen Normen und Gesetzen sowie der Handlungsspielraum des einzelnen Individuums zeichnet sich in erfolgreichen
+Speziell die Interaktionen und Bewegungsfreiräume zwischen Normen und Gesetzen sowie der Handlungsspielraum des einzelnen Individuums zeichnet sich in
+erfolgreichen
 Technologien wie dem Internet verstärkt ab.</li>
         <li><strong>Participation and Creation</strong> Indem der Computer als Meta Medium wahrgenommen wird hat der Anwender die Möglichkeit, neue Sub Medien
-und Inhalte innerhalb des Meta Mediums zu erstellen. Die Vernetzung sowie die Remix Kultur der zugrunde liegenden Software ermöglicht es, aufeinander aufbauende
+und Inhalte innerhalb des Meta Mediums zu erstellen. Die Vernetzung sowie die Remix Kultur der zugrunde liegenden Software ermöglicht es, aufeinander
+aufbauende
 und kollaborierende Strukturen zu schaffen.</li>
         <li><strong>Zeitgeist</strong> Das umfassende Verständnis und die Analyse kultureller Umstände und Entwicklungen bilden eine elementare Basis, das
 jeweilige Medium zu platzieren. Das angedachte Medium sollte sich logisch in die aktuellen Bedürfnisse der Gesellschaft einfügen und angedachte, zukünftige
@@ -2172,28 +2220,30 @@ jedoch das fundamentale Potential dieser Art von Technologie auf.</p>
 
       <h2 id="mobile-vr">MobileVR</h2>
       <p>Der mobile Zweig der VR Entwicklung (MobileVR) wird durch die Einführung von <span class="c-ref" data-ref-source-id="153" data-ref-type="bsp"
-data-ref-desc="" data-ref-hide-kneenote>Googles Cardboard</span> erstmalig popularisiert. Bei Cardboard handelt es sich,
-um eine kostengünstige Konstruktion aus Karton und speziellen Linsen in jene ein Smartphone eingelegt wird und somit als <abbr title="Head Mounted Display bzw.
+data-ref-desc="" data-ref-hide-kneenote>Googles Cardboard</span> erstmalig popularisiert. Bei Cardboard handelt es sich
+um eine kostengünstige Konstruktion aus Karton und speziellen Linsen, in jene ein Smartphone eingelegt wird und somit als <abbr title="Head Mounted Display
+bzw.
 Datenhelm">HMD</abbr> fungiert. Das Smartphone muss dabei
 bestimmte Sensoren enthalten (Gyroskop, Beschleunigungsmesser und Magnetometer), um die eigene Position im physischen Raum zu berechnen. Stellt das Smartphone
-dabei eine bestimmte Rechenleistung bereit, kann eine zugehörige App von Google dazu benutzt werden, diverse Erlebnisse wie beispielsweise die Ansicht von 360°
+dabei eine bestimmte Rechenleistung bereit, kann eine zugehörige App von Google dazu benutzt werden, diverse Erlebnisse, wie beispielsweise die Ansicht von
+360°
 Videos oder dreidimensionale Spiele zu erleben. Es ist eine vergleichsweise günstige Methode für Konsumenten, sich den Vorzügen von VR Anwendungen anzunähern,
-ohne den Kauf von kostenintensiven Geräte wie beispielsweise der HTC Vive oder der Oculus Rift zu tätigen. Smartphones sind inzwischen weit verbreitet und
+ohne den Kauf von kostenintensiven Geräte, wie beispielsweise der HTC Vive oder der Oculus Rift zu tätigen. Smartphones sind inzwischen weit verbreitet und
 begünstigen damit die Nutzung, auch wenn die Qualität vergleichsweise schlechter ist und Cardboard keine Controller bereitstellt.</p>
-      <p class="o-p--tie">Nach der Einführung von Cardboard erhöht sich das Angebot und die Ausführungen von MobileVR Geräten. Bekannte Smartphone- bzw. Tech
-Unternehmen veröffentlichen Produkte wie Samsung <span class="c-ref" data-ref-source-id="223" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Gear
+      <p class="o-p--tie">Nach der Einführung von Cardboard erhöht sich das Angebot und die Ausführungen von MobileVR Geräten. Bekannte Smartphone- bzw.
+Technologie-Unternehmen veröffentlichen Produkte, wie Samsung <span class="c-ref" data-ref-source-id="223" data-ref-type="bsp" data-ref-desc=""
+data-ref-hide-kneenote>Gear
 VR</span>,
 Xiaomi <span class="c-ref" data-ref-source-id="224" data-ref-type="bsp" data-ref-desc="">MI VR,</span> usw. Neben den renommierten Herstellern positionieren
-sich ebenfalls kleinere Anbieter
-wie beispielsweise PinchVR mit erfolgreichen Ideen. Weitere Konzepte wie Google Daydream folgen, welches neben einer höheren Qualität der einzelnen Komponenten
-zusätzlich einen zugehörigen Controller enthält. Ähnlich wie bei PinchVR verkleinert sich durch die zusätzliche Interaktionsmöglichkeit der Unterschied
-zwischen
-stationären und mobilen Endgeräten, wenngleich die leistungsstärkeren Devices dennoch eine deutlich bessere Darstellung sowie Usability in Form von Immersion
+sich ebenfalls kleinere Anbieter, wie beispielsweise PinchVR mit erfolgreichen Ideen. Weitere Konzepte wie Google Daydream folgen, welche neben einer höheren
+Qualität der einzelnen Komponenten
+zusätzlich einen zugehörigen Controller enthalten. Ähnlich wie bei PinchVR verkleinert sich durch die zusätzliche Interaktionsmöglichkeit der Unterschied
+zwischen stationären und mobilen Endgeräten, wenngleich die leistungsstärkeren Devices dennoch eine deutlich bessere Darstellung sowie Usability in Form von
+Immersion
 und Interaktion <span class="c-ref" data-ref-source-id="225" data-ref-type="ref" data-ref-desc="">ermöglichen.</span></p>
       <p class="o-p--tie">Während der Ausarbeitung dieser Arbeit ergeben sich fast wöchentlich neue Entwicklungen innerhalb der VR Szene. So erteilt Google
-immer weitere <span class="c-ref" data-ref-source-id="226" data-ref-type="bsp" data-ref-desc="">Freigaben</span> für Daydream taugliche Smartphones und neben
-den
-Entwicklungen der Hardwareseite ergeben sich weitere Möglichkeiten im <span class="c-ref" data-ref-source-id="160" data-ref-type="bsp"
+immer weitere <span class="c-ref" data-ref-source-id="226" data-ref-type="bsp" data-ref-desc="">Freigaben</span> für daydreamtaugliche Smartphones und neben
+den Entwicklungen der Hardwareseite ergeben sich weitere Möglichkeiten im <span class="c-ref" data-ref-source-id="160" data-ref-type="bsp"
 data-ref-desc="">Softwarebereich.</span></p>
 
       <img src="./assets/img/croquet.png" alt=""/>
@@ -2214,81 +2264,88 @@ data-ref-desc="">Softwarebereich.</span></p>
         </div>
       </div>
 
-      <p>Obwohl die Technologien im stetigen Wandel sind ist es abermals Alan Kay welcher wegweisende Grundsteine legt. Die Entwicklungen von <span
+      <p>Obwohl sich die Technologien im stetigen Wandel befinden ist es abermals Alan Kay, welcher wegweisende Grundsteine legt. Die Entwicklungen von <span
 class="c-ref" data-ref-source-id="158" data-ref-type="vgl" data-ref-desc="S.4">Croquet</span> erinnern stark an die gleichnamigen
       Portals innerhalb von <span class="c-ref" data-ref-source-id="160" data-ref-type="ref" data-ref-desc="">Googles Daydream Home.</span></p>
 
-      <p>Zusammengefasst sind die mobilen Geräte auf dem richtigen Weg, VR Erlebnisse dem breiteren Spektrum an Anwendern zur Verfügung zu stellen und
-ansatzweise, immersive Erlebnisse zu erzeugen. Die generellen o.g. Probleme der VR Branche bleiben trotzdem bestehen. Ein zusätzliches Problem entsteht
-dadurch,
-dass die vergleichsweise schlechtere Immersion durch die Visualisierung potentiell interessierte VR Nutzer abschrecken könne. Dennoch bieten die aktuelleren
+      <p>Zusammengefasst sind die mobilen Geräte auf dem richtigen Weg, VR Erlebnisse dem breiteren Spektrum von Anwendern zur Verfügung zu stellen und
+ansatzweise, immersive Erlebnisse zu erzeugen. Die generelle o.g. Problematik der VR Branche bleiben trotzdem bestehen. Ein zusätzliches Problem entsteht
+dadurch, dass die vergleichsweise schlechtere Immersion durch die Visualisierung potentiell interessierte VR Nutzer abschrecken könnte. Dennoch bieten die
+aktuelleren
 Geräte und ihre Anwendungen einen insgesamt guten Einblick in das re-initiierte Themenfeld. Mit zukünftig, besserer Hardware und weiteren Verbesserungen der
-Software hat die MobileVR Branche positive Chancen sich als weiteres Medium fest zu integrieren. </p>
+Software hat die MobileVR Branche positive Chancen, sich als weiteres Medium fest zu integrieren.</p>
 
       <h2 id="webvr">WebVR</h2>
 
-      <p>Durch die Zusammenarbeit von Mozilla und Google Chrome Entwicklern und dem resultierenden Release der experimentellen WebVR Technologie 2016, wird es
-möglich VR Geräte direkt mit den Inhalten und Umgebungen von Webbrowsern zu verbinden. Unter dem Deckmantel von WebVR verbergen sich neben der Ansteuerung und
-Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellen Technologien wie <abbr title="Web Graphics
-Library">WebGL</abbr> &amp; Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
-Anbindung von Controllern oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen wie
+      <p>Durch die Zusammenarbeit von Mozilla und Google Chrome Entwicklern und dem daraus resultierenden Release der experimentellen WebVR Technologie 2016,
+wird es
+möglich, VR Geräte direkt mit den Inhalten und Umgebungen von Webbrowsern zu verbinden. Unter dem Deckmantel von WebVR verbergen sich neben der Ansteuerung und
+Verarbeitung der <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s ebenfalls weitere Schnittstellentechnologien wie <abbr title="Web Graphics
+Library">WebGL</abbr> und Canvas zur Visualisierung artifizieller Objekte, die Gamepad-API für die
+Anbindung von Controllern oder die Web Audio API für die Reproduktion dreidimensionaler Klänge. Zusätzliche Daten und APIs können durch gängige Websprachen,
+wie
 z.B. <abbr title="Asynchronous JavaScript and XML">AJAX</abbr> (Asynchronous JavaScript and <abbr title="Extensible Markup Language">XML</abbr>) in Echtzeit
-angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn es
-verbindet neben den bestehenden Technologien ebenfalls bereits erfahrene Entwickler aus verschiedenen Gebieten und mit unterschiedlichen Fähigkeiten nahtlos
+angebunden werden. Darin spiegelt sich eine der größten Vorteile dieser Technologie wider, denn sie
+verbindet neben den bestehenden Technologien und erfahrene Entwickler aus verschiedenen Gebieten und mit unterschiedlichen Fähigkeiten nahtlos
 mit
 dem neuen Medium. Diese Expertise kann nun weitgehend auf die VR Technologien übertragen werden, ohne einen extraordinären Mehraufwand zu betreiben, bzw. sich
 der Thematik von Grund auf neu anzunähern. </p>
       <p class="o-p--tie">Es zeigt ebenfalls auf, dass selbst ein einzelner Entwickler, in diesem Fall <span class="c-ref" data-ref-source-id="161"
-data-ref-type="ref" data-ref-desc="">Brandon Jones</span> durch seine Arbeit an WebVR, die
-Möglichkeit hat das Web neu zu definieren. Dieser Umstand ist vergleichbar mit Ethan Marcottes <span class="c-ref" data-ref-source-id="162" data-ref-type="ref"
+data-ref-type="ref" data-ref-desc="">Brandon Jones</span>, durch seine Arbeit an WebVR, die
+Möglichkeit hat, das Web neu zu definieren. Dieser Umstand ist vergleichbar mit Ethan Marcottes <span class="c-ref" data-ref-source-id="162"
+data-ref-type="ref"
 data-ref-desc="">Arbeit</span> an der Responsive Webdesign Technologie, welche die Art
 der Nutzung des Webs als neu etablierter Standard immer noch nachhaltig beeinflusst. Zusätzlich wird es möglich, die Technologie nach dem Vorbild des
-<span class="c-ref" data-ref-source-id="230" data-ref-type="ref" data-ref-desc="">Progressive Enhancements</span> anzubinden, sodass sich neue Features im
-optimalen Anwendungsfall, angepasst an die Fähigkeiten des jeweiligen Endgeräts eröffnen.</p>
-      <p class="o-p--tie">Die Anbindung an Web Technologien ist ein Trend welcher sich auch mit der Entwicklung von sog. <span class="c-ref"
-data-ref-source-id="164" data-ref-type="ref" data-ref-desc="">Web Apps</span> (Webanwendung) abzeichnet. Web
-Apps werden generell, ausschließlich über den Browser betrieben anstatt über das Betriebssystem des jeweiligen Endgerätes. Der Vorteil liegt dabei in der
-Verfügbarkeit und der Unabhängigkeit von der speziellen Installation zusätzlicher Software zur Wahrnehmung des jeweiligen Contents – der Anwender öffnet seinen
-Browser und hat sofort Zugriff auf den entsprechenden Inhalt. Updates erfolgen dabei direkt nach der Erneuerung des abgerufenen Contents und müssen nicht mehr
+<span class="c-ref" data-ref-source-id="230" data-ref-type="ref" data-ref-desc="">Progressive Enhancements</span> anzubinden, sodass sich neue Features, im
+optimalen Anwendungsfall angepasst an die Fähigkeiten des jeweiligen Endgeräts, eröffnen.</p>
+      <p class="o-p--tie">Die Anbindung an Web Technologien ist ein Trend, welcher sich auch mit der Entwicklung von sog. <span class="c-ref"
+data-ref-source-id="164" data-ref-type="ref" data-ref-desc=""><abbr title="Webanwendung">Web App</abbr>s</span>abzeichnet. <abbr title="Webanwendung">Web
+App</abbr>s
+werden ausschließlich über den Browser betrieben anstatt über das Betriebssystem des jeweiligen Endgerätes. Der Vorteil liegt dabei in der
+Verfügbarkeit und der Unabhängigkeit der speziellen Installation zusätzlicher Software zur Wahrnehmung des jeweiligen Contents. Der Anwender öffnet einen
+Browser und hat sofort Zugriff auf entsprechenden Inhalt. Updates erfolgen dabei direkt nach der Erneuerung des abgerufenen Contents und müssen nicht mehr
 zusätzlich installiert werden.</p>
-      <p class="o-p--tie">Weiterführend erlangen Web Apps und -Technologien tendenziell immer mehr Zugriff auf die native Leistung der jeweiligen Geräte. <abbr
+      <p class="o-p--tie">Weiterführend erlangen <abbr title="Webanwendung">Web App</abbr>s und -Technologien tendenziell immer mehr Zugriff auf die native
+Leistung der jeweiligen Geräte. <abbr
 title="Web Graphics Library">WebGL</abbr>
-hat beispielsweise bereits die Möglichkeit die volle Rechenleistung der Grafikeinheit der entsprechenden Recheneinheit zu nutzen. Web Apps wie die
-Kommunikationstools Slack oder Discord können unmittelbar die Kamera oder das Mikrofon der jeweiligen Hardware ansteuern. Die Ansteuerung weiterer Sensoren der
-entsprechenden Endgeräte befindet sich auf dem <span class="c-ref" data-ref-source-id="165" data-ref-type="ref" data-ref-desc="">Vormarsch.</span></p>
+hat beispielsweise bereits die Möglichkeit, die volle Rechenleistung der Grafikeinheit der entsprechenden Recheneinheit zu nutzen. <abbr
+title="Webanwendung">Web App</abbr>s, wie die
+Kommunikationstools Slack, oder Discord können unmittelbar die Kamera oder das Mikrofon der jeweiligen Hardware ansteuern. Die Ansteuerung weiterer Sensoren
+entsprechender Endgeräte befindet sich auf dem <span class="c-ref" data-ref-source-id="165" data-ref-type="ref" data-ref-desc="">Vormarsch.</span></p>
 
       <p>Ein Großteil der verschiedenen Technologien innerhalb von <abbr title="Web Graphics Library">WebGL</abbr> basiert auf dem <span class="c-ref"
 data-ref-source-id="166" data-ref-type="ref" data-ref-desc="" data-ref-hide-kneenote>Open Standard</span> (bekannt aus der OpenSource Bewegung), welche auf
-Codesharing Plattformen wie GitHub an vielen Stellen einsichtig sind, für die entsprechenden Entwickler und Enthusiasten. Vergleichbar mit der Expansion in der
+Codesharing Plattformen wie GitHub an vielen Stellen einsichtig für die entsprechenden Entwickler und Enthusiasten sind. Vergleichbar mit der Expansion in der
 direkten Ansteuerung weiterer Sensoren und Hardware durch den Browser, zeichnet sich <abbr title="Web Graphics Library">WebGL</abbr> ebenfalls durch die
 Erweiterung der zugrunde liegende Software aus.
 </p>
-      <p class="o-p--tie">Ein exemplarisches Beispiel ist dabei eine der Weiterentwicklungen von <abbr title="Open Graphics Library">OpenGL</abbr> (Open
+      <p class="o-p--tie">Ein exemplarisches Beispiel dabei ist eine der Weiterentwicklungen von <abbr title="Open Graphics Library">OpenGL</abbr> (Open
 Graphics Library) zu <abbr title="Web Graphics Library">WebGL.</abbr> Die
-plattformübergreifende, Programmierschnittstelle OpenGL wird bereits 1992 eingeführt, zur Entwicklung und Darstellung von 2D und 3D Anwendungen. Es ist einer
-der bis heute gängigen Standards für die Gaming Industrie. Der Release der Grafikschnittstelle <abbr title="Web Graphics Library">WebGL</abbr> erfolgt 2011 und
-Bedarf im Gegensatz zu OpenGL keiner
-speziellen Anwendung, lediglich ein aktueller Browser und eine bestimmte Rechenleistung des Endgerätes sind für die Darstellung erforderlich. Dies befähigt
-<abbr title="Web Graphics Library">WebGL</abbr> potenziell dazu für eine breites Spektrum an Anwendern und Entwicklern zugänglich zu werden. <abbr title="Web
+plattformübergreifende Programmierschnittstelle OpenGL wird bereits 1992, zur Entwicklung und Darstellung von 2D und 3D Anwendungen, eingeführt. Sie ist einer
+der bis heute gängigen Standards für die Gaming Industrie. Das Release der Grafikschnittstelle <abbr title="Web Graphics Library">WebGL</abbr> erfolgte 2011
+und
+Bedarf im Gegensatz zu OpenGL, keiner
+speziellen Anwendung. Lediglich ein aktueller Browser und eine bestimmte Rechenleistung des Endgerätes sind für die Darstellung erforderlich. Dies befähigt
+<abbr title="Web Graphics Library">WebGL</abbr> potentiell dazu, für ein breites Spektrum an Anwendern und Entwicklern zugänglich zu werden. <abbr title="Web
 Graphics Library">WebGL</abbr>
 ist eine der Grundlagen für die <span class="c-ref" data-ref-source-id="168" data-ref-type="bsp" data-ref-desc="WebGL Beispiele, ">Vielzahl</span>
 <span class="c-ref" data-ref-source-id="167" data-ref-type="bsp" data-ref-desc="CSS Design Awards: Best Agency Site, ">erfolgreicher</span> Webprojekte und
-somit fest etabliert </p>
+somit fest etabliert.</p>
       <p class="o-p--tie">Die Entwicklung mithilfe von Open Standards basierten Technologien erhöht ebenfalls die Transparenz jener durch die stetige Kontrolle
-im „Peer-Review“ Verfahren, bekannt aus Portalen wie Wikipedia. Bei den meisten Open Source- und frei verfügbaren Projekten können verschiedene Entwickler
+im „Peer-Review“ Verfahren (bekannt aus Portalen wie Wikipedia). Bei den meisten Open Source- und frei verfügbaren Projekten können verschiedene Entwickler
 durch
-sog. <span class="c-ref" data-ref-source-id="170" data-ref-type="ref" data-ref-desc="">Forks,</span> Vorschläge zur Optimierung einreichen. Speziell bei
-Libraries wie z.B. <span class="c-ref" data-ref-source-id="171" data-ref-type="ref" data-ref-desc="">jQuery,</span>
+sog. <span class="c-ref" data-ref-source-id="170" data-ref-type="ref" data-ref-desc="">Forks</span> Vorschläge zur Optimierung einreichen. Speziell bei
+Libraries, wie z.B. <span class="c-ref" data-ref-source-id="171" data-ref-type="ref" data-ref-desc="">jQuery,</span>
 <span class="c-ref" data-ref-source-id="172" data-ref-type="ref" data-ref-desc=""><abbr title="Syntactically Awesome Stylesheets">SASS</abbr>,</span> <span
-class="c-ref" data-ref-source-id="173" data-ref-type="ref" data-ref-desc="">Bootstrap</span> usw. stellt dies ein gängiges, erfolgreiches
-Verfahren dar. Die Anwendungen profitieren damit nicht nur von der Transparenz der Projekte, sondern ebenfalls den gebündelten, einzelnen Leistungen,
+class="c-ref" data-ref-source-id="173" data-ref-type="ref" data-ref-desc="">Bootstrap</span> usw. stellt dies ein gängiges erfolgreiches
+Verfahren dar. Die Anwendungen profitieren damit nicht nur von der Transparenz der Projekte, sondern ebenfalls von den gebündelten einzelnen Leistungen
 unabhängiger Spezialisten.</p>
-      <p class="o-p--tie">Für <abbr title="Web Graphics Library">WebGL</abbr> bzw. WebVR existieren bereits leistungsstarke Libraries wie <span class="c-ref"
+      <p class="o-p--tie">Für <abbr title="Web Graphics Library">WebGL</abbr> bzw. WebVR existieren bereits leistungsstarke Libraries, wie <span class="c-ref"
 data-ref-source-id="174" data-ref-type="bsp" data-ref-desc="">Aframe,</span>
         <span class="c-ref" data-ref-source-id="168" data-ref-type="bsp" data-ref-desc="" data-ref-hide-kneenote>Three.js,</span> oder <span class="c-ref"
 data-ref-source-id="175" data-ref-type="bsp" data-ref-desc="">PlayCanvas,</span> welche die Erstellung von
-Inhalten vereinfachen. Dies stellt ein weiteres, wichtiges Feature für Designer mit eingeschränkten Programmierkenntnissen dar. Entwicklung von Prototypen und
-kleineren Anwendungen können einfacher und schneller erstellt werden. Bereits existierende Hilfen in der Anwendungsentwicklung wie z.B. die Nutzung von
+Inhalten vereinfachen. Dies stellt ein weiteres wichtiges Feature für Designer mit eingeschränkten Programmierkenntnissen dar. Entwicklung von Prototypen und
+kleineren Anwendungen können einfacher und schneller erstellt werden. Bereits existierende Hilfen in der Anwendungsentwicklung, wie z.B. die Nutzung von
 Programmen und Tools wie Unity bleibt, durch die potentiell mögliche Exportfunktion zu WebVR, ebenfalls erhalten.</p>
 
       <div class="c-iframe">
@@ -2306,25 +2363,27 @@ und Interaktion realisiert werden." data-ref-hide></span>
       <p>Durch den Remix der VR und Web Medien entsteht ein weiterer experimenteller Hybrid mit vielen vererbten Potentialen verschiedener Entwicklungszweige.
 Durch den Status als experimentelle Technologie ist WebVR noch ganz am Anfang seiner Entwicklung. Speziell die Performance und das Gefühl der Immersion sind
 noch weitgehend unausgereift. Es reicht jedoch, um die Stärken ausreichend klar darzustellen, womit der Weg der Entwicklung ersichtlich wird. </p>
-      <p class="o-p--tie">Ob sich WebVR als weiterer Web Standard etablieren kann hängt nicht maßgeblich von dem Erfolg der zugrunde liegenden <abbr title="Head
+      <p class="o-p--tie">Ob sich WebVR als weiterer Web Standard etablieren kann hängt nicht maßgeblich vom Erfolg der zugrunde liegenden <abbr title="Head
 Mounted Display bzw. Datenhelm">HMD</abbr> Technologien
-ab. Setzen sich diese durch, hat auch WebVR positive Chancen auf Erfolg. Im Umkehrschluss bedeutet der mögliche Misserfolg von Oculus Rift und HTC Vive jedoch
+ab. Setzen sich diese durch, hat auch WebVR gute Aussichten und Chancen auf Erfolg. Im Umkehrschluss bedeutet ein möglicher Misserfolg von Oculus Rift und HTC
+Vive jedoch
 nicht zwangsweise das Ende der WebVR Technologie, denn die benötigte Hardware ist wesentlich kostengünstiger, sofern der Konsument Smartphone Besitzer ist.</p>
-      <p class="o-p--tie">Zwei Faktoren spielen für den Erfolg eine entscheidende Rolle. Zum einen müssen Smartphones in Zukunft bessere Performance
-bereitstellen, u.a. spezielle Displays und Rechenleistung, zum anderen muss ein realer Anwendungsgrund im Softwarebereich entstehen, in dem die plastische
-Ansicht und Interaktion ein elementares, freies und abrufbares Alleinstellungsmerkmal darstellt. Im Anbetracht des mooreschen Gesetzes gilt dies von den
+      <p class="o-p--tie">Zwei Faktoren spielen für den Erfolg eine entscheidende Rolle. Zum einen müssen Smartphones in Zukunft bessere Performances
+bereitstellen, u.a. spezielle Displays und Rechenleistung. Zum anderen muss ein realer Anwendungsgrund im Softwarebereich entstehen, in dem die plastische
+Ansicht und Interaktion ein elementares freies und abrufbares Alleinstellungsmerkmal darstellt. In Anbetracht des mooreschen Gesetzes gilt dies von den
 technischen Aspekten als wahrscheinlich. Ob die Anwendung lohnenswert wird, hängt von dem Engagement und der Zusammenarbeit der Unternehmen, Designer,
 Programmierer und letztendlich den Endverbrauchern ab.</p>
       <p class="o-p--tie">In Zukunft könnte sich das Symbol der VR Brille zum Starten des VR Modus, als festes digitales Zeichen auf Webseiten etablieren und
-beispielsweise das Einkaufserlebnis für Konsumgüter deutlich aufwerten. Speziell die Möglichkeiten aus dem persönlichen, mobilen Standort und die Verknüpfung
-von digitalen Inhalten des Cyberspaces sind dabei interessante Faktoren. Dies bedeutet nicht, dass vergleichsweise jede Webseite die mobil ist und dort
-aufgrund
-dessen mit hoher Wahrscheinlichkeit ein „Burger Menu“ erscheint, ebenfalls ein VR Erlebnis bereitgestellt wird. VR Modi sollten nur dort platziert werden wo
-ein
-Mehrwert für die Anwendung entstehen kann.</p>
-      <p class="o-p--tie">WebVR ist dabei der erste Versuch eine <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologie direkt mit dem Web zu
+beispielsweise das Einkaufserlebnis für Konsumgüter deutlich aufwerten. Speziell die Möglichkeiten aus dem persönlichen mobilen Standort und die Verknüpfung
+digitaler
+Inhalte des Cyberspaces sind dabei interessante Faktoren. Dies bedeutet nicht, dass vergleichsweise jede Webseite, die mobil ist und dort
+aufgrund dessen mit hoher Wahrscheinlichkeit ein „Burger Menu“ erscheint, ebenfalls ein VR Erlebnis bereitgestellt wird. VR Modi sollten nur dort platziert
+werden, wo
+ein Mehrwert für die Anwendung entstehen kann.</p>
+      <p class="o-p--tie">WebVR ist dabei der erste Versuch, eine <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr> Technologie direkt mit dem Web
+zu
 verbinden. Weitere direkte Verknüpfungen von z.B. MR und
-Web sind vorstellbar und verändern die Darstellung des Internets und des Cyberspaces in Zukunft etwaig maßgeblich.</p>
+Web sind vorstellbar und verändern die Darstellung des Internets und Cyberspace bei erfolgreicher Etablierung in Zukunft maßgeblich.</p>
 
       <div class="c-video">
         <iframe class="c-video__item" src="https://www.youtube.com/watch?v=NNFl0u0tl90?autoplay=0&showinfo=0&controls=1&vq=hd720" allowfullscreen></iframe>
@@ -2345,65 +2404,64 @@ Web sind vorstellbar und verändern die Darstellung des Internets und des Cybers
 Bebel</span></cite>
       </blockquote>
 
-      <p>Die gesamten Beobachtungen der Analyse sind sehr umfangreich und eröffnen den Fokus auf eine Vielzahl von Auslegungen, Möglichkeiten und Aspekten. Von
-den Anfängen der Software- und Computerhistorien, bis zu den gegenwärtigen Entwicklungen der Gesellschaft sowie Technologien wie künstlicher Intelligenz,
-Virtual Reality und weiterer Konsorten. Die Entwicklungen, speziell in den letzten Dekaden, sind universal und exponentiell expandiert, sodass sich eine
-umfangreiche Erfassung aller Kriterien als nahezu utopisch erweist. Deswegen wird das gesamte Spektrum der historischen Veränderungen hauptsächlich an
-vereinzelten Schlüsselereignissen demonstriert. Jedes dieser symbolisiert bzw. repräsentiert Aspekte und Eigenschaften zeitgeistiger Technologien.</p>
+      <p>Die gesamte Analyse ist sehr umfangreich und eröffnet den Fokus auf eine Vielzahl an Auslegungen, Möglichkeiten und Aspekten. Von
+den Anfängen der Software- und Computerhistorien, bis zu den gegenwärtigen Entwicklungen der Gesellschaft sowie Technologien, wie künstlicher Intelligenz,
+Virtual Reality und anderer. Die Entwicklungen, speziell in den letzten Dekaden, sind universal und exponentiell expandiert, sodass sich eine
+umfangreiche Erfassung aller Kriterien als nahezu utopisch erweist. Aus diesem Grund wird das gesamte Spektrum der historischen Veränderungen hauptsächlich an
+vereinzelten Schlüsselereignissen demonstriert. Jedes dieser Ereignisse symbolisiert bzw. repräsentiert Aspekte und Eigenschaften zeitgeistiger
+Technologien.</p>
 
       <p>Der Einstieg über die Beschleunigung durch Technologien, bis hin zum Diskurs der technologischen Singularität, repräsentiert zum einen eine Vielzahl
-an
-aktuellen Unstimmigkeiten zwischen führenden Experten zu den Entwicklungen von zukünftigen Technologien. Speziell die Erwähnung von Ray Kurzweil ist wichtig,
-weil er neben seiner bedenklichen, absoluten Meinung zum technologischen Fortschritt ebenfalls die technische Entwicklung bei Google leitet. Er ist damit nicht
+an aktuellen Unstimmigkeiten führender Experten zu Entwicklungen zukünftiger Technologien. Speziell die Erwähnung von Ray Kurzweil ist fundamental,
+weil er neben seiner bedenklichen absoluten Meinung zum technologischen Fortschritt ebenfalls die technische Entwicklung bei Google leitet. Er ist damit nicht
 nur eine beliebige Person mit einer persönlichen Attitüde und Science Fiction Vision unter einer Vielzahl von Individuen, sondern eine Schlüsselfigur in einem
-der erfolgreichsten Unternehmen für zeitgenössische Entwicklungen.</p>
+der erfolgreichsten Unternehmen zeitgenössischer Entwicklungen.</p>
       <p class="o-p--tie">Durch die Erwähnung Kurzweils ergeben sich unwillkürlich weitere Protagonisten, welche neben der historischen Herleitung durch ihre
-einflussreichen Lebenswerke, ebenfalls konträre Positionen im Bezug auf die Ethik der jeweiligen Technologien einnehmen, wie beispielsweise Jaron Lanier. Sie
-eröffnen neben dem von Kurzweil forcierten Fokus auf rein technische Aspekte ebenfalls kulturelle und ethische Gesichtspunkte.</p>
+einflussreichen Lebenswerke ebenfalls konträre Positionen in Bezug auf die Ethik der jeweiligen Technologien einnehmen, wie beispielsweise Jaron Lanier. Sie
+eröffnen, neben dem von Kurzweil primären Fokus auf rein technische Aspekte, ebenfalls kulturelle und ethische Gesichtspunkte.</p>
 
       <p>Mit beiden Arbeiten von Turing und Neumann zeigt sich, dass die Komponenten des Diskurses bereits seit der praktischen Umsetzung der Digitalisierung
 existieren. Beide beweisen eine beeindruckende Voraussicht auf zukünftige Entwicklungen, wobei sich die ethische Einstellung beider Wissenschaftler, genau wie
 bei Kurzweil, als fraglich erweist. Großrechner und deren Anwendungen und Besitzer zeigen erstmals das Potential von Rechenmaschinen pragmatisch auf. Die
-Entwicklungen die u.a. Google neben weiteren Großunternehmen aktuell leistet und das einstweilig, verborgene Machtpotential zeichnet sich bereits durch
+Entwicklungen, die u.a. Google neben weiteren Großunternehmen aktuell leistet und das einstweilig verborgene Machtpotential zeichnet sich bereits durch
 Entwicklungen wie Aladdin deutlich ab. Zusätzlich zeigt Sketchpad bzw. Ivan Sutherland wiederholt die Weitsicht vergangener Entwicklungen auf, welches sich
 auch
 in späteren Kapiteln deutlich abzeichnet sowie die möglichen, positiven und negativen Auswirkungen dieser Technologien.</p>
 
-      <p>In der Entwicklung und dem Aufstieg von Mikrocomputern zeigt sich die Relevanz der Erweiterung von Technologien durch verständlichen Schnittstellen
+      <p>In der Entwicklung und dem Aufstieg von Mikrocomputern zeigt sich die Relevanz der Erweiterung von Technologien durch verständliche Schnittstellen
 (z.B. GUIs) für ein breiteres Spektrum an Nutzern. Ebenfalls die Effektivität von Kollaboration durch die Verknüpfung unterschiedlicher Kompetenzen jeglicher
 Entitäten (Technologien und Personen). Lev Manovichs Erkenntnisse über die Prägung der Gesellschaft durch Software und das Meta Medium Computer verdeutlichen
 dies.</p>
 
-      <p>Die Einführung von mobilen Technologien zeigen neben der kontinuierlichen Wiederholung und Verwertung bestehender Konzepte, die steigende
+      <p>Die Einführung mobiler Technologien zeigt, neben der kontinuierlichen Wiederholung und Verwertung bestehender Konzepte, die steigende
 Implementierung intelligenter Maschinen in den gesellschaftlichen Alltag auf.</p>
-      <p class="o-p--tie">Konträr zu der Einführung immer neuer Technologien sind die Anfänge der Internets, eine wichtige Erinnerung an das gesellschaftlichen
+      <p class="o-p--tie">Konträr zu der Einführung immer neuer Technologien sind die Anfänge der Internets eine wichtige Erinnerung an das gesellschaftlichen
 Streben nach Freiheit. Durch die Erfahrungen und Bemühungen von Barlow verdeutlicht sich abermals die Wichtigkeit diese Werte in der Zukunft zu wahren,
 gegenüber den natürlichen Bestrebungen von Unternehmensstrukturen und Reglementierungen durch staatliche Institutionen.</p>
 
       <p>Damit zeichnen sich für zukünftige Technologien, unter anderem <abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s, AI und virtuelle
 Realitäten, übergreifende Erkenntnisse ab.</p>
-      <p class="o-p--tie">Jede gesellschaftliche Weiterentwicklung und Einführung von neuen Medien/Technologien bedeutet zwar eine Veränderung von alltäglichen
-Gewohnheiten, jedoch nicht zwangsweise eine allumfassende Verbesserung des gesellschaftlichen Alltags. Beispielsweise Smartphones und das Internet verbinden
-den
-Mensch mit entfernten Freunden, Kollegen und digitalen Inhalten, sie reduzieren jedoch auch die Wahrnehmung auf das Unmittelbare. Gesellschaftliche
+      <p class="o-p--tie">Jede gesellschaftliche Weiterentwicklung und Einführung neuer Medien/Technologien bedeutet zwar eine Veränderung von alltäglichen
+Gewohnheiten, jedoch nicht zwangsweise eine allumfassende Verbesserung des gesellschaftlichen Alltags. Beispielsweise Smartphones und das Internet überbrücken
+Distanzen zu Freunden, Kollegen und digitalen Inhalten. Sie reduzieren jedoch auch die Wahrnehmung auf das Unmittelbare. Gesellschaftliche
 Veränderungen bedeuten in erster Instanz eine Umverteilung des gesellschaftlichen Fokus.</p>
-      <p class="o-p--tie">Damit verbundenen Veränderungen sind irreversibel. Beispielsweise können Medien, wie das Smartphone oder soziale Netzwerke, durch
-adaptive zukünftige Medien ersetzt werden. Es erscheint jedoch als unwahrscheinlich, dass diese Art der gesellschaftlichen Nutzung wieder vollkommen
-verschwindet. Damit begründet sich zusätzlich die Relevanz der Ethik Komponenten innerhalb der Arbeit, speziell weil diese bei den zeitnahen Entwicklungen von
+      <p class="o-p--tie">Damit verbundene Veränderungen sind irreversibel. Beispielsweise können Medien, wie das Smartphone oder soziale Netzwerke, durch
+adaptive zukünftige Medien ersetzt werden. Es scheint jedoch als unwahrscheinlich, dass diese Art der gesellschaftlichen Nutzung wieder vollkommen
+verschwindet. Damit begründet sich zusätzlich die Relevanz der Ethikkomponenten innerhalb der Arbeit speziell weil diese bei den zeitnahen Entwicklungen von
 Smart Devices häufig übersehen wird.</p>
       <p class="o-p--tie"><abbr title="Virtual Reality">VR,</abbr> <abbr title="Augmented Reality">AR</abbr> und <abbr title="Mixed Reality">MR</abbr> sind in
 diesem Kontext lediglich als Werkzeuge zu verstehen, vergleichbar mit der Einführung von Mikrocomputern und
-entsprechender GUIs, als Schnittstellen zwischen Mensch und Maschine. Neue Technologien helfen dabei den wachsenden, gegenwärtigen Anforderungen gerecht zu
+entsprechender GUIs als Schnittstellen zwischen Mensch und Maschine. Neue Technologien helfen dabei, den wachsenden gegenwärtigen Anforderungen gerecht zu
 werden, wobei die neuen Medien dabei ebenfalls als Schnittstelle zu noch komplexeren Abläufen in Maschinen wie beispielsweise Quantencomputern fungieren
-könnten. Speziell die Entwicklung von AI ist dabei eine der prominentesten Anstrebungen. Der Anspruch den Mars zu besiedeln, das Weltall zu erkunden, unseren
+könnten. Speziell die Entwicklung von AI ist dabei eine der prominentesten Bestrebungen. Der Anspruch den Mars zu besiedeln, das Weltall zu erkunden, unseren
 Planeten und seine Lebewesen besser zu verstehen, Krankheiten zu heilen und gesellschaftliche Konflikte beizulegen, sind nur einige der <span class="c-ref"
 data-ref-source-id="177" data-ref-type="bsp" data-ref-parameter="&t=3m16s" data-ref-desc="">komplexen Aufgaben,</span>
-welche sich komplexe AI Algorithmen zukünftig annehmen können.</p>
+welche sich komplexe AI Algorithmen zukünftig annehmen könnten.</p>
       <p class="o-p--tie">Die Arbeit zeigt dementsprechend auf, dass „The Next Big Thing“ nicht zwangsweise virtuelle Realitäten sind, sondern dass diese die
 benötigten Schnittstellen darstellen, komplexere Maschinen und den zugehörigen Cyberspace zu verstehen. Der Vorteil der <abbr title="Head Mounted Display bzw.
 Datenhelm">HMD</abbr> Anwendungen liegt dabei in der
 Reduktion von zugrunde liegenden Komplexitäten, indem der Nutzer die interne Struktur der Maschinen nicht zwangsweise versteht, jedoch durch die digitalen
-Zeichen welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten können.
+Zeichen, welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten können.
 
         <span class="c-notes-side-hook">
           <span class="c-notes-side">
@@ -2416,7 +2474,7 @@ Zeichen welche das Sinnbild der Funktionalitäten symbolisieren, diese deuten k�
                 <span class="c-note-side__text">Einen <span class="c-ref" data-ref-source-id="178" data-ref-type="ref" data-ref-desc="">interessanter
 Ansatz</span> dieser Betrachtungsweise stammt von Donald Hoffman, welcher sich in einer Studie mit
 der Wahrnehmung der Realität beschäftigt. Hoffman stellt dabei <span class="c-ref" data-ref-source-id="179" data-ref-type="ref" data-ref-desc="">die
-Theorie</span> auf, dass der Mensch nicht nur versucht die Parameter der physischen Welt zu imitieren,
+Theorie</span> auf, dass der Mensch nicht nur versucht, die Parameter der physischen Welt zu imitieren,
 sondern die Informationen unwillkürlich filtert bzw. interpretiert, um das eigene Überleben zu gewährleisten. Dies nimmt direkten Bezug zu der Wechselwirkung
 zwischen Mensch, Maschine und den jeweiligen Schnittstellen.</span>
               </span>
@@ -2427,8 +2485,8 @@ zwischen Mensch, Maschine und den jeweiligen Schnittstellen.</span>
       </p>
 
       <p class="o-p--tie">Des Weiteren benötigt der Mensch die komplexen Maschinen in Zukunft, um noch effektivere Realitäten und Simulationen zu erzeugen. Die
-gesamte Technologiebranche ist stärker denn je vernetzt, in der es nicht mehr primär darum geht, welche Technologie den nächsten gesellschaftlichen Durchbruch
-erzeugt, sondern in der verschiedene Technologien stärker voneinander abhängig werden und einzelne Erfolge gesamte Technologie-Zweige beeinflussen. Ebenso dass
+gesamte Technologiebranche ist stärker denn je vernetzt. Es geht nicht mehr primär darum, welche Technologie den nächsten gesellschaftlichen Durchbruch
+erzeugt, sondern in welcher die verschiedenen Technologien stärker voneinander abhängig werden und einzelne Erfolge gesamte Technologiezweige beeinflussen. Ebenso dass
 speziell große Unternehmen sich durch ihr Kapital diese Maschinen am ehesten leisten können und diese eine wichtige Rolle für die zukünftige gesellschaftliche
 Entwicklung spielen.</p>
       <p class="o-p--tie">Umfassend betrachtet ist ein Fortschritt mithilfe von maschineller Weiterentwicklung weitgehend unbestritten. Die Art der Ausführung
@@ -2440,7 +2498,8 @@ liegenden, ethischen Werte der Menschheit vermittelt bekommen und für den Mensc
 natürliche
 Weise <span class="c-ref" data-ref-source-id="231" data-ref-type="ref" data-ref-desc="@13:00, ">verständnisvoll</span> <span class="c-ref"
 data-ref-source-id="42" data-ref-type="ref" data-ref-desc="">darstellen.</span></p>
-      <p class="o-p--tie"><abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s können diese Schnittstellen bereitstellen, indem sie zu den neuen Medien
+      <p class="o-p--tie"><abbr title="Head Mounted Display bzw. Datenhelm">HMD</abbr>s können diese Schnittstellen bereitstellen, indem sie zu den neuen
+Medien
 der Visualisierung und Interaktion von digitalen
 Inhalten werden könnten. Sie übertragen jedoch durch ihre stetige Optimierung ebenfalls immer mehr sensorische Informationen aus der physischen Welt in den
 digitalen Cyberspace. Damit steigt ebenfalls die Anzahl und Präzision von persönlichen Informationen, welche potentiell im Cyberspace verwerten werden können.
@@ -2544,7 +2603,8 @@ dieser Medien mitzuerleben und zu -gestalten.</p>
         </div>
 
         <h3 class="u-hide">Print</h3>
-        <p class="u-hide">Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
+        <p class="u-hide">Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ
+Papier der
   Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Klebebindung erfolgen. Das optimale Endformat beträgt 180mm * 235mm. Gedruckt und
 gebunden
   bei Mediadruck Köln, 2017.</p>
