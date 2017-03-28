@@ -8,7 +8,7 @@
   <div class="o-grid">
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
       <div class="c-cover">
-        <div class="c-cover__background" style="background-image:url('./assets/img/cover-1-web.png');"></div>
+        <div class="c-cover__background" style="background-image:url('./assets/img/cover-1.png');"></div>
         <div class="c-cover__content">
           <h1 class="c-cover__headline"><?php echo $contentInfo[$contentInfoId][1]; ?></h1>
           <h2 class="c-cover__subline"><?php echo $contentInfo[$contentInfoId][2]; ?></h2>

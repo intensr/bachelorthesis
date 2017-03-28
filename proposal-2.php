@@ -8,7 +8,7 @@
   <div class="o-grid">
     <div class="o-grid__item  o-1/1@mobile  o-1/1@tablet  o-1/1@tablet-fluid  o-1/1@laptop  o-1/1@desktop">
       <div class="c-cover">
-        <div class="c-cover__background" style="background-image:url('./assets/img/12.jpg');"></div>
+        <div class="c-cover__background" style="background-image:url('./assets/img/cover-2.png');"></div>
         <div class="c-cover__content">
           <h1 class="c-cover__headline"><?php echo $contentInfo[$contentInfoId][1]; ?></h1>
           <h2 class="c-cover__subline"><?php echo $contentInfo[$contentInfoId][2]; ?></h2>
@@ -24,7 +24,7 @@
 
       <?php include './php/chunks/intro.php'; ?>
 
-      <h2>Abstract</h2>
+      <h2 id="abstract">Abstract</h2>
       <p>In dem Proposal werden experimentelle Explorationen innerhalb selbstkreierter, artifizieller Realitäten unternommen und anschließend analysiert.
 Übergreifend soll beantwortet werden, welche Möglichkeiten zur adäquaten Visualisierung von WebVR (Web Virtual Reality) Konzepten durch aktuelle Technologien
 bereits zur Verfügung stehen. Dabei werden darauf basierend Explorationen in unterschiedliche Teilgebiete unternommen, beispielsweise die Kreation von
@@ -34,39 +34,35 @@ angestrebt, um diese für zukünftige Kreationen von artifiziellen Realitäten n
 
       <h2>Inhalt</h2>
       <ol class="c-table-of-contents">
-        <li>Abstract</li>
-        <li>Subjektive Erfahrungen, Motivation und Zielsetzung</li>
-        <li>Versuchsaufbau</li>
+        <li><a href="#abstract">Abstract</a></li>
+        <li><a href="#subjektive-erfahrungen-motivation-und-zielsetzung">Subjektive Erfahrungen, Motivation und Zielsetzung</a></li>
         <li>
           <div class="c-li-lead">
-            <div class="c-li-lead__content">Setup</div>
+            <div class="c-li-lead__content"><a href="#setup">Setup</a></div>
           </div>
           <ol>
-            <li>Hardware</li>
-            <li>
-              <div class="c-li-lead__content">Software</div>
-              <ol>
-                <li>Unity</li>
-                <li>Native Websprachen</li>
-                <li>Aframe</li>
-                <li>Cables</li>
-                <li>PlayCanvas</li>
-              </ol>
-            </li>
-            <li>Das Designer != Programmierer Dilemma</li>
+            <li><a href="#hardware">Hardware</a></li>
+            <li><a href="#software">Software</a></li>
+            <li><a href="#das-designer-programmierer-dilemma">Das Designer != Programmierer Dilemma</a></li>
           </ol>
         </li>
         <li>
           <div class="c-li-lead">
-            <div class="c-li-lead__content">Experimente</div>
+            <div class="c-li-lead__content"><a href="#experimente">Experimente</a></div>
           </div>
+          <ol>
+            <li><a href="#hello-world">I - Hello World</a></li>
+            <li><a href="#interaction-button">II - Interaction Button</a></li>
+            <li><a href="#sphaerenteleporter">III - Sphärenteleporter</a></li>
+            <li><a href="#videosphaere">IV - Videosphäre</a></li>
+            <li><a href="#weitere-experimente">V - Weitere Experimente</a></li>
+          </ol>
         </li>
-        <li>Resumé</li>
-        <li>Quellen</li>
-        <li>Versicherung</li>
+        <li><a href="#resumee">Resümee</a></li>
+        <li><a href="#quellen">Quellen</a></li>
       </ol>
 
-      <h2>Subjektive Erfahrungen, Motivation und Zielsetzung</h2>
+      <h2 id="subjektive-erfahrungen-motivation-und-zielsetzung">Subjektive Erfahrungen, Motivation und Zielsetzung</h2>
 
       <blockquote>
         <p>Die Erfahrungen der KISD Studenten/innen in der Ausarbeitung ihrer Bachelorarbeiten ist gleichzeitig deren letzte Entscheidung und Möglichkeit einer
@@ -172,7 +168,7 @@ komplexeren Strukturen und Aufbauten.</p>
         </li>
       </ul>
 
-      <h2>Setup</h2>
+      <h2 id="setup">Setup</h2>
       <p>Für die Erstellung von WebVR Applikationen müssen zunächst die zwei verschiedene Ebenen von Hardware und Software berücksichtigt werden. Ähnlich wie
 im
 Smartphone/Tablet Sektor gibt es bis dato keinen einheitlich anerkannten Software oder Hardware Standard. Jeder Anbieter entwickelt unabhängige Anwendungen,
@@ -183,7 +179,7 @@ andere Konzepte ersetzen, wie zuletzt das Entfernen des <span class="c-ref" data
 data-ref-type="ref">Klinkensteckers.</span> Daraus resultieren unterschiedliche Controller, Sensoren und Anwendungen. In den
 folgenden Abschnitten wird eruiert, welche Komponenten zur Entwicklung genutzt werden.</p>
 
-      <h3>Hardware</h3>
+      <h3 id="hardware">Hardware</h3>
 
       <blockquote>
         <p>Why mobile first? Here's the elevator pitch: designing for mobile first not only prepares you for the explosive growth and new opportunities on the
@@ -534,7 +530,7 @@ mangelhaften
 Beteiligung des Massenmarktes. Zum einen begründet sich dies in der einstweilig teuren Hardware, welches sich in der näheren Zukunft ändern könnte. Inwiefern
 dies ebenfalls an dem Mangel konkreter Anwendungsgebiete bzw. zugehöriger Software liegen könnte wird unter anderem im nächsten Abschnitt eruiert.</p>
 
-      <h3>Software</h3>
+      <h3 id="software">Software</h3>
 
       <p>Die Software Ebene beschäftigt sich zum einen mit den Besonderheiten und Anwendungen kreativer Prozesse und zum anderen mit den jeweiligen Plattformen
 auf deren Basis Virtual Reality Erlebnisse entwickelt und zur Verfügung gestellt werden können. Diese Themenfelder verschwimmen etwaig untereinander (siehe
@@ -880,7 +876,7 @@ firmeneigenen Brandings und fortgeschrittene Funktionalitäten</li>
         </div>
       </div>
 
-      <h3>Das Designer != Programmierer Dilemma</h3>
+      <h3 id="das-designer-programmierer-dilemma">Das Designer != Programmierer Dilemma</h3>
       <p>Wie nahezu jeder fortgeschrittene KISD Student aus empirischen Erfahrungen weiss, wird ab einem bestimmten Niveau, in der Umsetzung von Interface- und
 audiovisuellen Konzepten eine Schwierigkeitsstufe erreicht, welche nur durch die Nutzung von ausreichenden Programmierkenntnissen überwunden werden kann. Das
 D!=P Dilemma bezeichnet dabei die Vorstellungen des Designers und die Möglichkeiten bzw. (zeitlichen) Rahmenbedingungen diese zu realisieren, welche häufig
@@ -913,7 +909,7 @@ Von einer Entwicklung in nativer Umsetzung wird abgesehen.</li>
         <li>Die Programmiersprache ist objektorientiertes JavaScript.</li>
       </ol>
 
-      <h2>Experimente</h2>
+      <h2 id="experimente">Experimente</h2>
       <p>Nach der Analyse der Entwicklungstools muss zunächst abgesteckt werden, welche Experimente im Rahmen der Zeit des Proposals möglich sind. Mit dem
 ersten Antesten von PlayCanvas zeigen sich zwei Möglichkeiten zur Präsentation des WebVR Mediums auf. Entweder eine strukturierte Planung und Konzeption welche
 nach und nach abgearbeitet wird, oder ein agiler Prozess indem auf etwaige Veränderungen sofort reagiert wird und die Entwicklung prototypisch verfolgt wird.
@@ -949,7 +945,7 @@ sondern möglichst schnell praktische Erfahrungen zu sammeln.</p>
 
       <p></p><!--hotfix-->
 
-      <h3>I - Hello World</h3>
+      <h3 id="hello-world">I - Hello World</h3>
 
       <p>Das Ziel besteht darin eine virtuelle Welt zu erstellen, welche über einen Mechanismus zur Fortbewegung verfügt und dem Anwender eine Präsenz in der
 virtuellen Umgebung vermittelt. Die Experimente finden alle im selben virtuellen Raum statt und können über den selben Hyperlink aufgerufen werden.
@@ -1043,13 +1039,29 @@ data-ref-desc="">React</span>) live eingespeist.</p>
         </div>
       </div>
 
-      <p>dasdas</p>
+      <p>Das Ausreizen der Input Möglichkeiten ist einer der interessantesten Aspekte. Die Fortbewegung könnte in Zukunft ebenfalls über das Touchpad [Daydream Controller Grafik 1.] nach dem WASD Modell, bekannt aus Computerspielen funktionieren, indem der Anwender mit seinem Daumen die Richtung bestimmt.
+      Durch die Nutzung des Web Mediums eröffnen sich weitere Möglichkeiten, wie die Implementierung einer Multiplayer Funktionalität. Dort wird sich das Potential vollkommen offenbaren, wenn verschiedene Anwender in einem virtuellen Raum aufeinandertreffen können.
+      Dazu exisiteren bereits Anwendungen wie <span class="c-ref" data-ref-source-id="314" data-ref-type="ref" data-ref-desc="">AltSpaceVR,</span> oder die aufkommenden <span class="c-ref" data-ref-source-id="134" data-ref-type="ref" data-ref-desc="">Social VR</span> Unternehmungen von Facebook.
+    Obwohl diese Anwendungen bereits sehr umfangreich sind und größere Teams daran arbeiten ist die Möglichkeit, dass auch externe Entwickler die Chance haben solche artifiziellen Cyberspaces zu erzeugen einer der wichtigsten Faktoren von WebVR.</p>
 
+      <h3 id="interaction-button">II - Interaction Button</h3>
+      <p>Nach der Bewegung im Raum und der Interaktion mit rudimentären Gegenständen, soll eine alternative Interaktion geschaffen werden. Zu diesem Zweck wird die Auslösung eines Events implementiert.</p>
 
-      <h3>II - Sphärenteleporter</h3>
+      <h4>Inspiration, Motivation und Research</h4>
+      <p>In diesem Schritt habe ich mich auf die Möglichkeiten der PlayCanvas Tutorials konzentriert und versucht ein Event zu kreieren, welches möglichst viele verschiedene Aspekte aufweist.</p>
 
-      <p>Durch die Nutzung eines HMDs ist die 360 Grad Umsicht eines der interessantesten Aspekte. Im nächsten Schritt wird dieses VR Feature in Form einer
-Fotoansicht implementiert.<p>
+      <h4>Vorgehen</h4>
+
+      <img class="u-margin-bottom" src="./assets/img/i-4.gif" alt=""/>
+      <p>Die Exploration beschäftigt sich mit der Lichtsetzung, dem <i>triggern</i> eines Events, der Perfomance innerhalb der mobilen Anwendung sowie dem Einfügen eines Soundeffekts nach der Auslösung des Events.</p>
+
+      <h4>Erkenntnisse und Weiterentwicklung</h4>
+      <p>Mein Hintergrund als Webentwickler erlaubt es mir Prozesse der Programmierung jeglicher Art zumindestens nachzuverfolgen und zu reproduzieren. Mit der Erzeugung von Spielwelten und 3D Objekten und Events habe ich leider bis jetzt wenig Erfahrung gesammelt. Es dauerte einige Zeit bis ich die Umstände der Lichtsetzung begriffen hatte, aber nachdem Einfügen einer neuen Hintergrundszenerie konnte ich dies bewältigen.</p>
+      <p class="o-p--tie">Das Event ist relativ einfach aufgebaut indem der Nutzer einen Button betätigt. Für immersive Erlebnisse sollten Events in Zukunft über die Präsenz des Anwenders ausgelöst werden, um unvorhergesehene Reaktionen und Überraschungseffekte zu erreichen. Dieses Beispiel verdeutlicht jedoch, dass die Anwendung ungeahnt des Endgerätes universal einsetzbar ist und auch flüssig abläuft. In weiteren Tests sollte zukünftig überprüft werden, welche Belastung die WebVR Anwedung im Zusammenspiel mit mobilen Geräten verarbeiten kann.</p>
+
+      <h3 id="sphaerenteleporter">III - Sphärenteleporter</h3>
+
+      <p>Durch die Nutzung eines HMDs ist die 360 Grad Sicht einer der interessantesten Aspekte. Im nächsten Schritt wird dieses VR Feature in Form einer Photosphäre implementiert.<p>
 
       <h4>Inspiration, Motivation und Research</h4>
 
@@ -1061,8 +1073,9 @@ Fotoansicht implementiert.<p>
         </div>
       </div>
 
-      <p>Populäre Beispiele dazu können bei Aframe, PlayCanvas, ThreeJS und IdeaSpaceVR gefunden werden. Speziell bei letzterem überzeugt das Interface
-innerhalb der Photosphäre. Im ersten Schritt soll jedoch lediglich die Ansicht ermöglich werden, welche dann in Zukunft ausbaufähig ist.</p>
+      <p>Populäre Beispiele dazu können bei <span class="c-ref" data-ref-source-id="174" data-ref-type="ref" data-ref-desc="">Aframe,</span> <span class="c-ref" data-ref-source-id="313" data-ref-type="ref" data-ref-desc="">ThreeJS</span> und
+         <span class="c-ref" data-ref-source-id="310" data-ref-type="ref" data-ref-desc="">IdeaSpaceVR</span> gefunden werden. Speziell bei letzterem überzeugt das Interface
+innerhalb der Photosphäre.</p>
 
       <h4>Vorgehen</h4>
 
@@ -1073,56 +1086,33 @@ zu erweitern implementiere ich eine Funktion, um die Bilder auszutauschen. Dadur
 
       <h4>Erkenntnisse und Weiterentwicklung</h4>
 
-      <p>dasdsa</p>
+      <img class="u-margin-bottom" src="./assets/img/i-3.jpg" alt=""/>
 
-      <ol class="u-red">
-        <li>Hello World
-          <ol>
-            <li>Coop / Avatare</li>
-          </ol>
-        </li>
-        <li>Photosphäre
-          <ol>
-            <li>Beispiel
-              <ol>
-                <li>https://www.ideaspacevr.org/themes/ </li>
-              </ol>
-            </li>
-            <li>Ein Bild (Wohnung)</li>
-            <li>Interface Switch mehrere Bilder (diverse Bilder / 1 abgefahrenes bild (strand oder so))</li>
-            <li>Interface Switch mit Anmerkungen und positionierten Interfaces (Tour durch Wohnung)</li>
-          </ol>
-        </li>
-        <li>Videosphäre (Video extern)
-          <ol>
-            <li>Beispiele
-              <ol>
-                <li>Mr Robot -> Sam Ismail</li>
-                <li>Der Flüchtlingstyp vom TED Talk mit den 3D videos</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-        <li>Interface
-          <ol>
-            <li>Popup Grafiken</li>
-          </ol>
-        </li>
-        <li>Explosion on Button
-          <ol>
-            <li>Mit 3d Sound</li>
-          </ol>
-        </li>
-        <li>Change World on Button
-          <ol>
-            <li>Animation (rotierende Würfel maybe ?! :D)</li>
-          </ol>
-        </li>
-      </ol>
+      <p>Durch die Plastizität der Sphere können Erlebnisse visuell sehr präzise wiedergegeben werden. So kann alleine durch die Bildsprache eine immersive Geschichte erzählt werden. Der Beobachter kann durch die eigene Interaktion den Fokus auf bestimmte Elemente der Szenerie setzen kann.</p>
+      <p class="o-p--tie">Für die Weiterentwicklung wäre eine Interaktionsmöglichkeit innerhalb der Sphäre sinnvoll, damit die Immersion des Nutzers nicht unterbrochen wird. Dadurch kann der Designer dem Betrachter mit vergleichsweise einfachen Mitteln eine interaktive Geschichte erzählen lassen.</p>
 
-      <h2>Resumé</h2>
+      <h3 id="videosphaere">IV - Videosphäre</h3>
+      <p>Videosphären sind ähnlich wie Photosphären eines der standardmäßigen Features von WebVR. Sie sind jedoch noch intensiver als die Erlebnisse der Photosphären.</p>
 
-      <p>Ich denke die Gesellschaft ist heutzutage sehr schnell gelangweilt von jeglichem Medium. In keiner Dekade der Computerentwicklung gab es solche
+      <img class="u-margin-bottom" src="./assets/img/i-5.gif" alt=""/>
+
+      <h4>Inspiration, Motivation und Research</h4>
+      <p>Die Weiterentwicklung der Immersion der Photosphäre war mein Antrieb nun auch ein Bewegtbild umzusetzen. Speziell die Arbeiten von Sam Ismail dem Regisseur von Mr. Robot war eine Inspiration für dieses Anliegen, weshalb ich seine Arbeit als Videomaterial gewählt <span class="c-ref" data-ref-source-id="315" data-ref-type="ref" data-ref-desc="">habe.</span> Ebenso der TED Talk von Chris Milk indem er über die verbesserte Übermittlung von Empathie spricht und das Potential den Zuschauer näher an ein spezifisches Themengebiet <span class="c-ref" data-ref-source-id="316" data-ref-type="ref" data-ref-desc="">heranzuführen.</span></p>
+
+      <h4>Vorgehen</h4>
+      <p>Die Implementierung ist vergleichbar mit denen der Photospäre jedoch muss jede einzelne Frame auf die dreidimensionale Sphäre gemappt werden, was das Implementieren von Videos sehr hardwarelastig auslegt.</p>
+
+      <h4>Erkenntnisse und Weiterentwicklung</h4>
+      <p>Die technische Umsetzung war sehr komplex, da das Streamen von Videomaterial, speziell in VR Anwendungen problematisch ist. Die Inhalte müssen beim abspielen bereits zur Verfügung stehen, da sonst ein zu starker Bruch der Immersion erfolgt. In Zukunft sollte das Videomaterial dementsprechend von leistungsstarken Servern bereitgestellt werden beispielsweise von YouTube. Dieses Feature ist zur Zeit leider nicht standardmäßig implementiert und muss dementsprechend erst aufgesetzt werden.</p>
+
+      <h3 id="weitere-experimente">V - Weitere Experimente</h3>
+
+      <p>Während der Generierung von Ideen für die praktische Umsetzung der Final Thesis, sollten umbedingt weitere Experimente verfolgt werden, um die Möglichkeiten der WebVR Technologie auszuschöpfen.</p>
+
+      <h2 id="resumee">Resümee</h2>
+
+      <p>Die Experimente haben mir sehr dabei geholfen ein Gefühl für die virtuelle Welt zu entwickeln. Ohne diese Erfahrungen ist es meiner Meinung nach fast unmöglich schlüssige Konzepte zu entwickeln in denen Vorstellung und Umsetzbarkeit nah genug aneinander liegen.</p>
+      <p class="o-p--tie">Weitergehend empfinde ich ebenfalls, dass die Gesellschaft heutzutage sehr schnell gelangweilt ist von jeglichem Medium. Es wird dementsprechend immer schwieriger neue, langanhaltende Reize zu setzen. In keiner Dekade der Computerentwicklung gab es solche
 modernen, diversen, preisgünstigen Entwicklungen von interessanten Produkten wie nach der Jahrtausendwende. Proportional dazu sinkt die anhaltende Begeisterung
 für jegliche neue Entwicklung. Ein simpler Vergleich wäre an dieser Stelle Pokemon GO und die Gameboy Version des Spiels aus den 90er Jahren. Damit
 beschäftigten sich Spieler häufig über mehrere Jahre, ohne Updates oder die Lieferung weiteren Contents, kommentarlos. Bereits jetzt sprechen viele Nutzer
@@ -1133,8 +1123,7 @@ benötigt dieser Technologie Zweig noch mehr Zeit und Partizipation aller beteil
       <p>Viele Teile der Arbeit mögen sehr technisch wirken, aber es ist erforderlich, um einwandfreie Erlebnisse zu entwerfen und die Arbeit dient speziell
 dazu diese anfänglichen technischen Hürden zu dokumentieren, verschiedene Software für die kreativen Prozesse zu testen und MobileVR sowie WebVR auch aus der
 Sicht eines Anwenders auszureizen, um ein persönliches Gefühl für das Medium zu bekommen und wichtige Zeit für die finale Umsetzung zu einzusparen.</p>
-
-      <p>Es ist vorstellbar, dass in Zukunft virtuelle Welten auf Großrechnern erzeugt werden in jene sich der Nutzer mit einem jeweiligen Smartdevice
+      <p class="o-p--tie">Es ist vorstellbar, dass in Zukunft virtuelle Welten auf Großrechnern erzeugt werden in jene sich der Nutzer mit einem jeweiligen Smartdevice
 einloggen kann. Cloud Computing wird bereits für eine Vielzahl von Anwendungen z.B. zur Kollaboration genutzt. Somit könnte die Rechenleistung der einzelnen Smartphones
 entlastet werden und sich fokussiert auf das immersive Erlebnis des jeweiligen Nutzers konzentrieren.</p>
 
@@ -1201,7 +1190,7 @@ manifestieren und wie diese am effektivsten transportiert werden können.</p>
 
       <div class="c-sources">
 
-        <h2>Quellen</h2>
+        <h2 id="quellen">Quellen</h2>
         <p>Alle Web Adressen wurden am 29. März 2017 final überprüft und abgerufen.</p>
 
         <h3>Literatur</h3>
@@ -1292,8 +1281,8 @@ manifestieren und wie diese am effektivsten transportiert werden können.</p>
           </ul>
         </div>
 
-        <h3>Print</h3>
-        <p>Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
+        <h3 class="u-hide">Print</h3>
+        <p class="u-hide">Um einen optimalen, ökologischen Print gewährleisten zu können empfehle ich XYZ Papier der Marke XYZ in 120 Gramm Ausführung, und YXZ Papier der
     Marke YXZ in 260 Gramm Ausführung für den Umschlag. Die Bindung sollte als Klebebindung erfolgen. Das optimale Endformat beträgt 180mm * 235mm. Gedruckt
 und
 gebunden
@@ -1318,7 +1307,7 @@ jeweiligen Quelle.</li>
         <p>Hiermit möchte ich mich bei folgenden Personen bedanken:</p>
         <ul>
           <li><strong>Dominik Noel Blaschke</strong>, für die fundierte Expertise bei der Programmierung und als mein persönlicher Snacker in Crime.</li>
-          <li><strong>Alec Korduc</strong>, für die Hilfe beim Gestalten des Covers.</li>
+          <li><strong>Nils Friedrich</strong>, für das 3D Asset in meinem Cover.</li>
         </ul>
       </div>
 
